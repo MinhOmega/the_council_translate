@@ -1,286 +1,286 @@
-Lance of Longinus
-The Holy Lance that is said to have spilled the blood of Christ. It supposedly makes it possible to kill Daemons.
-Used blotter
-The blotter that Wöllner used while writing his answer to Holm. The ink is almost erased.
-Message revealed
-The blotter that Wöllner used while writing his answer to Holm. It seems that Wöllner has left a parcel at the landing stage.
-Forged letter
-A letter written and signed by Cardinal Piaggi and intended for the Pope. It reveals important information about the true nature of Sir Holm and Lord Mortimer.
-A letter written and signed by Cardinal Piaggi and intended for the Pope. The contents will discredit Sir Holm in the eyes of the Church
-A letter written and signed by Cardinal Piaggi and intended for the Pope. The contents will discredit Lord Mortimer in the eyes of the Church
-Nail
-One of the nails used to open the Crypt door. 
-Am I disturbing you?
-Well, well!  Monsieur de Richet, back on your feet at last...
-I'm so pleased...
-Thank you for your concern...
-And of course, not a word about my wound...
-Lord Mortimer spoke most highly of you...
-Have you thought about your vote? I mean, is your choice truly final?
-Well, technically, I still haven't made a choice yet.
-They seem to think I'm on Mortimer's side...
-The fact is I haven't committed myself to anyone for the moment.
-Splendid! That will certainly please Sir Gregory!
-Ah, de Richet...
-Nice try with George Washington...
-You are still a bit raw to be trying to manipulate an old wolf like him, so what could be expected? Do not blame yourself.
-Ah, de Richet, congratulations on your efforts with Washington...
-I see that Sir Gregory was right to trust you.
-Thank you.
-Nothing about my hand! Totally blind!
-Come on, get moving, Louis.
-Monsieur de Richet! I have found this conference at times quite amusing...
-Please forgive that rather public humiliation, but I think you've learned your lesson...
-No hard feelings?
-You... if I hadn't planned to be gone within the hour, I would gladly return the favor!
-And of course, not a word about my wound...
-Those are the risks of the profession, you can't win them all.
-Goddammit, de Richet!
-Are you joking or what? You sell me pipe dreams about Mortimer's project and a few hours later, one of your allies completely breaks down.
-Is this what Mortimer's side is all about?
-Listen, I'm kind of in a rush.
-Enough is enough. Choose your side, and then everyone will be happy.
-What??
-What are you playing at, de Richet?
-It's too late! I've come too far to back out now!
-Good God, I swear there's nothing common about you, de Richet!
-So everyone tells me.
-Monsieur de Richet, it seems you are everywhere...
-Duke Manuel...
-Shit! Just my luck!
-At least he hasn't noticed my arm...
-Was Monsieur von Wöllner able to help you?
-Help me?
-Yes, for your armillary sphere...?
-Oh yes, that!
-Louis? Everything alright?
-I... Yes, yes... Excuse me, I w... I was miles away...
-Oh, while you're here, you wouldn't know who the last guest is, would you?
-What do you mean?
-I heard Sir Gregory speaking about it.
-A certain... Al Azif something or other.
-Who? Wh... I...
-Obviously not.
-It's not important, forget it...
-No, no, no, hang on...
-It doesn't matter, I'm telling you, we'll find out soon enough.
-I'm in a hurry right now, I... I'm waiting for someone.
-See you later, Louis.
-Shit, I haven't time either...
-See you later.
-Ask about Al Azif
-Is Al Azif to participate in the conference?
-That's what I was asking you...
-MIND READ
-As von Wöllner mentioned the arrival of this person just before the second conference...
-Go back
-Ask for more info
-Do you know who it is?
-No... No, I thought so for a minute, but the name means nothing to me...
-Sorry.
-It doesn't matter. Something tells me we shall find out soon enough, no?
-Certainly...
-Leave
-Well, I must be leaving you.
-Duke Manuel...
-Monsieur Bonaparte stood me up!
-Would you believe it?
-Ah, the French!...
-So tell me, what can I do for you?
-Ask about Al Azif
-Earlier, you mentioned the arrival of a certain Al Achif and...
-No, no, Al Azif!
-I spoke to you about a certain Al Azif!
-Oh sorry, I got mixed up. Al Azif, then.
-MIND READER
-Al Azif, it's not really all that difficult to remember.
-I wonder what role he is to have in all of this...
-It should not be long before we find out, according to Sir Gregory, he will be arriving just before the conference starts.
-Leave
-I'm sorry to have troubled you. I'll be leaving now.
-Perfect, I was going up to my room anyway.
-See you later.
-So, Holm has planned something to do with the Al Azif just before the next conference.
-Leave
-My mistake, excuse me, I don't want to trouble you any further.
-I'll be going.
-See you later.
-Leave
-Am I disturbing you?
-Well, well!  Monsieur de Richet, back on your feet at last...
-I'm so pleased...
-Thank you for your concern...
-And of course, not a word about my wound...
-Lord Mortimer spoke most highly of you...
-Have you thought about your vote? I mean, is your choice truly final?
-Well, technically, I still haven't made a choice yet.
-They seem to think I'm on Mortimer's side...
-The fact is I haven't committed myself to anyone for the moment.
-Splendid! That will certainly please Sir Gregory!
-Ah, de Richet...
-Nice try with George Washington...
-You are still a bit raw to be trying to manipulate an old wolf like him, so what could be expected? Do not blame yourself.
-Ah, de Richet, congratulations on your efforts with Washington...
-I see that Sir Gregory was right to trust you.
-Thank you.
-Nothing about my hand! Totally blind!
-Come on, get moving, Louis.
-Monsieur de Richet! I have found this conference at times quite amusing...
-Please forgive that rather public humiliation, but I think you've learned your lesson...
-No hard feelings?
-You... if I hadn't planned to be gone within the hour, I would gladly return the favor!
-And of course, not a word about my wound...
-Those are the risks of the profession, you can't win them all.
-Goddammit, de Richet!
-Are you joking or what? You sell me pipe dreams about Mortimer's project and a few hours later, one of your allies completely breaks down.
-Is this what Mortimer's side is all about?
-Listen, I'm kind of in a rush.
-Enough is enough. Choose your side, and then everyone will be happy.
-What??
-What are you playing at, de Richet?
-It's too late! I've come too far to back out now!
-Good God, I swear there's nothing common about you, de Richet!
-So everyone tells me.
-Monsieur de Richet, it seems you are everywhere...
-Duke Manuel...
-Shit! Just my luck!
-At least he hasn't noticed my arm...
-Was Monsieur von Wöllner able to help you?
-Help me?
-Yes, for your armillary sphere...?
-Oh yes, that!
-Louis? Everything alright?
-I... Yes, yes... Excuse me, I w... I was miles away...
-Oh, while you're here, you wouldn't know who the last guest is, would you?
-What do you mean?
-I heard Sir Gregory speaking about it.
-A certain... Al Azif something or other.
-Who? Wh... I...
-Obviously not.
-It's not important, forget it...
-No, no, no, hang on...
-It doesn't matter, I'm telling you, we'll find out soon enough.
-I'm in a hurry right now, I... I'm waiting for someone.
-See you later, Louis.
-Shit, I haven't time either...
-See you later.
-Ask about Al Azif
-Is Al Azif to participate in the conference?
-That's what I was asking you...
-MIND READ
-As von Wöllner mentioned the arrival of this person just before the second conference...
-Go back
-Ask for more info
-Do you know who it is?
-No... No, I thought so for a minute, but the name means nothing to me...
-Sorry.
-It doesn't matter. Something tells me we shall find out soon enough, no?
-Certainly...
-Leave
-Well, I must be leaving you.
-Duke Manuel...
-Monsieur Bonaparte stood me up!
-Would you believe it?
-Ah, the French!...
-So tell me, what can I do for you?
-Ask about Al Azif
-Earlier, you mentioned the arrival of a certain Al Achif and...
-No, no, Al Azif!
-I spoke to you about a certain Al Azif!
-Oh sorry, I got mixed up. Al Azif, then.
-MIND READER
-Al Azif, it's not really all that difficult to remember.
-I wonder what role he is to have in all of this...
-It should not be long before we find out, according to Sir Gregory, he will be arriving just before the conference starts.
-Leave
-I'm sorry to have troubled you. I'll be leaving now.
-Perfect, I was going up to my room anyway.
-See you later.
-So, Holm has planned something to do with the Al Azif just before the next conference.
-Leave
-My mistake, excuse me, I don't want to trouble you any further.
-I'll be going.
-See you later.
-Leave
-At your service, Monsieur de Richet...
-Pardon me Monsieur, but I have work to do...
-NEW BLOOD
-You know how to read people's shallow thoughts.
-You had a revelation about your origins
-MATRICIDE
-You gain 1 skill point in Occultism
-You killed Sarah de Richet
-UNWORTHY SON
-Conviction costs 1 more Effort point / You gain 1 skill point in Occultism
-You let Lady Hillsborrow kill Sarah de Richet
-ARROGANT
-You gain 1 skill point in Conviction
-You tested your powers against Lord Mortimer
-INDEPENDENT
-You gain 1 skill point in Politics
-You decided to take a stance against the Daemons in your letter to the pope
-FORGER
-You gain 1 skill point in Subterfuge
-You used falsification techniques developed to alter the letter to the pope
-SUPER SLEUTH
-You gain 1 skill point in Questioning
-You deciphered von Wöllner's answer to Sir Gregory Holm's letter
-CHEMIST
-You gain 1 skill point in Sciences
-You used a chemical reaction to reveal von Wöllner's faded message
-POISONED
-You are going to die, all skills cost you 2 more effort points
-You did not succeed in preventing vonWöllner from poisoning you
-CLOSE CALL
-You gain 1 skill point in Diversion
-You succeeded in preventing von Wöllner from poisoning you
-SCHOLAR OF FAITH
-You have obtained all the clues necessary to identify the Holy Lance
-You gain 1 skill point in Logic
-INFILTRATOR
-You have chosen the Holy Lance
-You gain 1 skill point in Occultism and Conviction
-CATAPHILE
-You have explored all the tombs of the crypt
-You gain 1 skill point in Erudition
-VANDAL
-You pillaged Lord Mortimer's tomb
-You gain 1 skill point in Agility
-SACRIFICIAL VICTIM
-You were outclassed by von Wöllner
-The Manipulation skill costs you 1 more effort point
-CHOIRBOY
-You failed to convince Cardinal Piaggi to help you
-The Conviction skill costs you 1 more effort point
-JOIN YOUR MOTHER AT THE WHARF
-STOP LADY HILLSBORROW FROM SHOOTING
-KEEP THE LANCE
-REASSURE JACQUES PERU
-DISCOVER YOUR MOTHER'S SECRETS
-GO AND ANSWER THE DOOR
-JOIN MORTIMER IN HIS STUDY
-GO TO PIAGGI'S ROOM
-MAKE PIAGGI TALK TO CONTROLE HIM
-WRITE A LETTER TO THE POPE
-- WRITE THE CONTENTS OF THE LETTER
-- WRITE THE CODE
-- CHOOSE THE RIGHT STAMP FOR THE LETTER
-CALM WOLLNER DOWN
-JOIN MORTIMER IN THE DINING ROOM
-QUESTION CARDINAL PIAGGI ABOUT THE HOLY LANCE
-FIND THE HOLY LANCE
-JOIN YOUR MOTHER AT THE WHARF
-IDENTIFY THE TRUE LANCE
-GET INFORMATION ABOUT THE HOLY LANCE
-SPEAK TO LORD MORTIMER
-- Specialists in esoterism
-- Artistic depictions
-- Sacred texts
-Possible information sources:
-SEARCH FOR MORE CLUES OR GO PICK ONE SPEAR
-Interact
-Interact
-Interact
-Interact
-Interact
-Small Box
+Ngọn giáo của Longinus
+Ngọn Thánh Giáo được cho là đã làm đổ máu của Chúa Kitô. Nó được cho là có thể giết chết Quỷ Dữ.
+Giấy thấm đã sử dụng
+Giấy thấm mà Wöllner đã sử dụng khi viết câu trả lời cho Holm. Mực đã gần như bị xóa.
+Thông điệp được tiết lộ
+Giấy thấm mà Wöllner đã sử dụng khi viết câu trả lời cho Holm. Có vẻ như Wöllner đã để lại một bưu kiện ở bến tàu.
+Thư giả mạo
+Một lá thư được viết và ký bởi Hồng y Piaggi và dành cho Giáo hoàng. Nó tiết lộ thông tin quan trọng về bản chất thật sự của Ngài Holm và Ngài Mortimer.
+Một lá thư được viết và ký bởi Hồng y Piaggi và dành cho Giáo hoàng. Nội dung sẽ làm mất uy tín của Ngài Holm trong mắt Giáo hội
+Một lá thư được viết và ký bởi Hồng y Piaggi và dành cho Giáo hoàng. Nội dung sẽ làm mất uy tín của Ngài Mortimer trong mắt Giáo hội
+Đinh
+Một trong những cái đinh được sử dụng để mở cửa Hầm mộ.
+Tôi có làm phiền ông không?
+Ồ, ồ! Ông de Richet, cuối cùng cũng đứng dậy được rồi...
+Tôi rất vui...
+Cảm ơn vì sự quan tâm của ông...
+Và tất nhiên, không một lời nào về vết thương của tôi...
+Ngài Mortimer đã nói rất tốt về ông...
+Ông đã nghĩ về lá phiếu của mình chưa? Ý tôi là, lựa chọn của ông thực sự là cuối cùng chứ?
+Chà, về mặt kỹ thuật, tôi vẫn chưa đưa ra lựa chọn nào.
+Họ dường như nghĩ tôi đứng về phía Mortimer...
+Thực tế là tôi chưa cam kết với ai vào lúc này.
+Tuyệt vời! Điều đó chắc chắn sẽ làm hài lòng Ngài Gregory!
+À, de Richet...
+Nỗ lực tốt với George Washington...
+Ông vẫn còn hơi non để cố gắng thao túng một con sói già như ông ấy, vậy có thể mong đợi điều gì? Đừng trách bản thân.
+À, de Richet, chúc mừng về những nỗ lực của ông với Washington...
+Tôi thấy rằng Ngài Gregory đã đúng khi tin tưởng ông.
+Cảm ơn.
+Không có gì về bàn tay của tôi! Hoàn toàn mù quáng!
+Nào, hãy di chuyển, Louis.
+Ông de Richet! Tôi thấy hội nghị này đôi khi khá thú vị...
+Xin tha thứ cho sự sỉ nhục khá công khai đó, nhưng tôi nghĩ ông đã học được bài học của mình...
+Không có ác cảm chứ?
+Ông... nếu tôi không có kế hoạch rời đi trong vòng một giờ, tôi sẽ rất vui lòng đáp lại!
+Và tất nhiên, không một lời nào về vết thương của tôi...
+Đó là những rủi ro của nghề nghiệp, ông không thể thắng tất cả.
+Chết tiệt, de Richet!
+Ông đang đùa hay sao? Ông bán cho tôi những giấc mơ hão huyền về dự án của Mortimer và vài giờ sau, một trong những đồng minh của ông hoàn toàn sụp đổ.
+Đây có phải là tất cả những gì về phía Mortimer?
+Nghe này, tôi đang hơi vội.
+Đủ rồi. Hãy chọn phe của ông, và sau đó mọi người sẽ hạnh phúc.
+Cái gì??
+Ông đang chơi trò gì vậy, de Richet?
+Quá muộn rồi! Tôi đã đi quá xa để rút lui bây giờ!
+Lạy Chúa, tôi thề không có gì chung về ông, de Richet!
+Mọi người đều nói với tôi như vậy.
+Ông de Richet, có vẻ như ông ở khắp mọi nơi...
+Công tước Manuel...
+Chết tiệt! Thật không may cho tôi!
+Ít nhất ông ta không nhận thấy cánh tay của tôi...
+Ông von Wöllner có thể giúp ông không?
+Giúp tôi?
+Vâng, cho quả cầu thiên văn của ông...?
+Ồ vâng, cái đó!
+Louis? Mọi thứ ổn chứ?
+Tôi... Vâng, vâng... Xin lỗi, tôi đ... tôi đang mơ màng...
+Ồ, khi ông ở đây, ông có biết vị khách cuối cùng là ai không?
+Ý ông là gì?
+Tôi đã nghe Ngài Gregory nói về điều đó.
+Một người nào đó... Al Azif gì đó.
+Ai? Cái gì... Tôi...
+Rõ ràng là không.
+Không quan trọng, hãy quên nó đi...
+Không, không, không, đợi đã...
+Không quan trọng, tôi nói với ông, chúng ta sẽ sớm biết thôi.
+Tôi đang vội vào lúc này, tôi... tôi đang đợi ai đó.
+Hẹn gặp lại, Louis.
+Chết tiệt, tôi cũng không có thời gian...
+Hẹn gặp lại.
+Hỏi về Al Azif
+Al Azif có tham gia hội nghị không?
+Đó là điều tôi đang hỏi ông...
+ĐỌC TÂM TRÍ
+Khi von Wöllner đề cập đến sự xuất hiện của người này ngay trước hội nghị thứ hai...
+Quay lại
+Hỏi thêm thông tin
+Ông có biết đó là ai không?
+Không... Không, tôi đã nghĩ vậy trong một phút, nhưng cái tên không có ý nghĩa gì với tôi...
+Xin lỗi.
+Không sao. Điều gì đó nói với tôi rằng chúng ta sẽ sớm biết, phải không?
+Chắc chắn rồi...
+Rời đi
+Vậy, tôi phải rời khỏi ông.
+Công tước Manuel...
+Ông Bonaparte đã bỏ tôi!
+Ông có tin không?
+Ah, người Pháp!...
+Vậy nói cho tôi biết, tôi có thể làm gì cho ông?
+Hỏi về Al Azif
+Trước đó, ông đã đề cập đến sự xuất hiện của một người nào đó tên Al Achif và...
+Không, không, Al Azif!
+Tôi đã nói với ông về một người nào đó tên Al Azif!
+Ồ xin lỗi, tôi đã nhầm lẫn. Al Azif, vậy.
+ĐỌC TÂM TRÍ
+Al Azif, thực sự không khó để nhớ lắm.
+Tôi tự hỏi ông ta sẽ có vai trò gì trong tất cả điều này...
+Sẽ không lâu trước khi chúng ta biết, theo Ngài Gregory, ông ta sẽ đến ngay trước khi hội nghị bắt đầu.
+Rời đi
+Tôi xin lỗi đã làm phiền ông. Tôi sẽ rời đi bây giờ.
+Hoàn hảo, dù sao tôi cũng đang đi lên phòng của mình.
+Hẹn gặp lại.
+Vậy, Holm đã lên kế hoạch làm gì đó với Al Azif ngay trước hội nghị tiếp theo.
+Rời đi
+Tôi nhầm lẫn, xin lỗi, tôi không muốn làm phiền ông thêm nữa.
+Tôi sẽ đi.
+Hẹn gặp lại.
+Rời đi
+Tôi có làm phiền ông không?
+Ồ, ồ! Ông de Richet, cuối cùng cũng đứng dậy được rồi...
+Tôi rất vui...
+Cảm ơn vì sự quan tâm của ông...
+Và tất nhiên, không một lời nào về vết thương của tôi...
+Ngài Mortimer đã nói rất tốt về ông...
+Ông đã nghĩ về lá phiếu của mình chưa? Ý tôi là, lựa chọn của ông thực sự là cuối cùng chứ?
+Chà, về mặt kỹ thuật, tôi vẫn chưa đưa ra lựa chọn nào.
+Họ dường như nghĩ tôi đứng về phía Mortimer...
+Thực tế là tôi chưa cam kết với ai vào lúc này.
+Tuyệt vời! Điều đó chắc chắn sẽ làm hài lòng Ngài Gregory!
+À, de Richet...
+Nỗ lực tốt với George Washington...
+Ông vẫn còn hơi non để cố gắng thao túng một con sói già như ông ấy, vậy có thể mong đợi điều gì? Đừng trách bản thân.
+À, de Richet, chúc mừng về những nỗ lực của ông với Washington...
+Tôi thấy rằng Ngài Gregory đã đúng khi tin tưởng ông.
+Cảm ơn.
+Không có gì về bàn tay của tôi! Hoàn toàn mù quáng!
+Nào, hãy di chuyển, Louis.
+Ông de Richet! Tôi thấy hội nghị này đôi khi khá thú vị...
+Xin tha thứ cho sự sỉ nhục khá công khai đó, nhưng tôi nghĩ ông đã học được bài học của mình...
+Không có ác cảm chứ?
+Ông... nếu tôi không có kế hoạch rời đi trong vòng một giờ, tôi sẽ rất vui lòng đáp lại!
+Và tất nhiên, không một lời nào về vết thương của tôi...
+Đó là những rủi ro của nghề nghiệp, ông không thể thắng tất cả.
+Chết tiệt, de Richet!
+Ông đang đùa hay sao? Ông bán cho tôi những giấc mơ hão huyền về dự án của Mortimer và vài giờ sau, một trong những đồng minh của ông hoàn toàn sụp đổ.
+Đây có phải là tất cả những gì về phía Mortimer?
+Nghe này, tôi đang hơi vội.
+Đủ rồi. Hãy chọn phe của ông, và sau đó mọi người sẽ hạnh phúc.
+Cái gì??
+Ông đang chơi trò gì vậy, de Richet?
+Quá muộn rồi! Tôi đã đi quá xa để rút lui bây giờ!
+Lạy Chúa, tôi thề không có gì chung về ông, de Richet!
+Mọi người đều nói với tôi như vậy.
+Ông de Richet, có vẻ như ông ở khắp mọi nơi...
+Công tước Manuel...
+Chết tiệt! Thật không may cho tôi!
+Ít nhất ông ta không nhận thấy cánh tay của tôi...
+Ông von Wöllner có thể giúp ông không?
+Giúp tôi?
+Vâng, cho quả cầu thiên văn của ông...?
+Ồ vâng, cái đó!
+Louis? Mọi thứ ổn chứ?
+Tôi... Vâng, vâng... Xin lỗi, tôi đ... tôi đang mơ màng...
+Ồ, khi ông ở đây, ông có biết vị khách cuối cùng là ai không?
+Ý ông là gì?
+Tôi đã nghe Ngài Gregory nói về điều đó.
+Một người nào đó... Al Azif gì đó.
+Ai? Cái gì... Tôi...
+Rõ ràng là không.
+Không quan trọng, hãy quên nó đi...
+Không, không, không, đợi đã...
+Không quan trọng, tôi nói với ông, chúng ta sẽ sớm biết thôi.
+Tôi đang vội vào lúc này, tôi... tôi đang đợi ai đó.
+Hẹn gặp lại, Louis.
+Chết tiệt, tôi cũng không có thời gian...
+Hẹn gặp lại.
+Hỏi về Al Azif
+Al Azif có tham gia hội nghị không?
+Đó là điều tôi đang hỏi ông...
+ĐỌC TÂM TRÍ
+Khi von Wöllner đề cập đến sự xuất hiện của người này ngay trước hội nghị thứ hai...
+Quay lại
+Hỏi thêm thông tin
+Ông có biết đó là ai không?
+Không... Không, tôi đã nghĩ vậy trong một phút, nhưng cái tên không có ý nghĩa gì với tôi...
+Xin lỗi.
+Không sao. Điều gì đó nói với tôi rằng chúng ta sẽ sớm biết, phải không?
+Chắc chắn rồi...
+Rời đi
+Vậy, tôi phải rời khỏi ông.
+Công tước Manuel...
+Ông Bonaparte đã bỏ tôi!
+Ông có tin không?
+Ah, người Pháp!...
+Vậy nói cho tôi biết, tôi có thể làm gì cho ông?
+Hỏi về Al Azif
+Trước đó, ông đã đề cập đến sự xuất hiện của một người nào đó tên Al Achif và...
+Không, không, Al Azif!
+Tôi đã nói với ông về một người nào đó tên Al Azif!
+Ồ xin lỗi, tôi đã nhầm lẫn. Al Azif, vậy.
+ĐỌC TÂM TRÍ
+Al Azif, thực sự không khó để nhớ lắm.
+Tôi tự hỏi ông ta sẽ có vai trò gì trong tất cả điều này...
+Sẽ không lâu trước khi chúng ta biết, theo Ngài Gregory, ông ta sẽ đến ngay trước khi hội nghị bắt đầu.
+Rời đi
+Tôi xin lỗi đã làm phiền ông. Tôi sẽ rời đi bây giờ.
+Hoàn hảo, dù sao tôi cũng đang đi lên phòng của mình.
+Hẹn gặp lại.
+Vậy, Holm đã lên kế hoạch làm gì đó với Al Azif ngay trước hội nghị tiếp theo.
+Rời đi
+Tôi nhầm lẫn, xin lỗi, tôi không muốn làm phiền ông thêm nữa.
+Tôi sẽ đi.
+Hẹn gặp lại.
+Rời đi
+Sẵn sàng phục vụ ông, Ông de Richet...
+Xin lỗi Thưa ông, nhưng tôi có việc phải làm...
+MÁU MỚI
+Bạn biết cách đọc những suy nghĩ nông cạn của người khác.
+Bạn đã có một sự tiết lộ về nguồn gốc của mình
+GIẾT MẸ
+Bạn nhận được 1 điểm kỹ năng trong Huyền bí học
+Bạn đã giết Sarah de Richet
+NGƯỜI CON KHÔNG XỨNG ĐÁNG
+Sự kiên định tốn thêm 1 điểm Nỗ lực / Bạn nhận được 1 điểm kỹ năng trong Huyền bí học
+Bạn để Phu nhân Hillsborrow giết Sarah de Richet
+KIÊU NGẠO
+Bạn nhận được 1 điểm kỹ năng trong Sự kiên định
+Bạn đã thử sức mạnh của mình chống lại Ngài Mortimer
+ĐỘC LẬP
+Bạn nhận được 1 điểm kỹ năng trong Chính trị
+Bạn đã quyết định chống lại Quỷ Dữ trong lá thư của bạn gửi cho giáo hoàng
+NGƯỜI GIẢ MẠO
+Bạn nhận được 1 điểm kỹ năng trong Sự xảo quyệt
+Bạn đã sử dụng kỹ thuật giả mạo đã phát triển để thay đổi lá thư gửi cho giáo hoàng
+THÁM TỬ SIÊU ĐẲNG
+Bạn nhận được 1 điểm kỹ năng trong Thẩm vấn
+Bạn đã giải mã câu trả lời của von Wöllner cho thư của Ngài Gregory Holm
+NHÀ HÓA HỌC
+Bạn nhận được 1 điểm kỹ năng trong Khoa học
+Bạn đã sử dụng phản ứng hóa học để tiết lộ thông điệp mờ của von Wöllner
+BỊ ĐẦU ĐỘC
+Bạn sẽ chết, tất cả các kỹ năng tốn thêm 2 điểm nỗ lực
+Bạn đã không thành công trong việc ngăn chặn vonWöllner đầu độc bạn
+THOÁT HIỂM
+Bạn nhận được 1 điểm kỹ năng trong Đánh lạc hướng
+Bạn đã thành công trong việc ngăn chặn von Wöllner đầu độc bạn
+HỌC GIẢ ĐỨC TIN
+Bạn đã có được tất cả các manh mối cần thiết để xác định Thánh Giáo
+Bạn nhận được 1 điểm kỹ năng trong Logic
+NGƯỜI XÂM NHẬP
+Bạn đã chọn Thánh Giáo
+Bạn nhận được 1 điểm kỹ năng trong Huyền bí học và Sự kiên định
+NGƯỜI YÊU THÍCH HẦM MỘ
+Bạn đã khám phá tất cả các ngôi mộ của hầm mộ
+Bạn nhận được 1 điểm kỹ năng trong Uyên bác
+NGƯỜI PHÁ HOẠI
+Bạn đã cướp phá ngôi mộ của Ngài Mortimer
+Bạn nhận được 1 điểm kỹ năng trong Sự nhanh nhẹn
+NẠN NHÂN HY SINH
+Bạn đã bị von Wöllner vượt mặt
+Kỹ năng Thao túng tốn thêm 1 điểm nỗ lực
+CA VIÊN
+Bạn đã không thuyết phục được Hồng y Piaggi giúp đỡ bạn
+Kỹ năng Sự kiên định tốn thêm 1 điểm nỗ lực
+GẶP MẸ CỦA BẠN TẠI BẾN TÀU
+NGĂN CHẶN PHU NHÂN HILLSBORROW BẮN
+GIỮ NGỌN GIÁO
+TRẤN AN JACQUES PERU
+KHÁM PHÁ BÍ MẬT CỦA MẸ BẠN
+ĐI VÀ TRẢ LỜI CỬA
+THAM GIA MORTIMER TRONG PHÒNG LÀM VIỆC CỦA ÔNG
+ĐI ĐẾN PHÒNG CỦA PIAGGI
+LÀM CHO PIAGGI NÓI CHUYỆN ĐỂ KIỂM SOÁT ÔNG TA
+VIẾT MỘT LÁ THƯ CHO GIÁO HOÀNG
+- VIẾT NỘI DUNG CỦA LÁ THƯ
+- VIẾT MÃ
+- CHỌN CON DẤU ĐÚNG CHO LÁ THƯ
+LÀM CHO WOLLNER BÌNH TĨNH
+THAM GIA MORTIMER TRONG PHÒNG ĂN
+HỎI HỒNG Y PIAGGI VỀ THÁNH GIÁO
+TÌM THÁNH GIÁO
+GẶP MẸ CỦA BẠN TẠI BẾN TÀU
+XÁC ĐỊNH NGỌN GIÁO THẬT
+LẤY THÔNG TIN VỀ THÁNH GIÁO
+NÓI CHUYỆN VỚI NGÀI MORTIMER
+- Chuyên gia về huyền bí học
+- Miêu tả nghệ thuật
+- Văn bản thiêng liêng
+Nguồn thông tin có thể:
+TÌM KIẾM THÊM MANH MỐI HOẶC ĐI CHỌN MỘT NGỌN GIÁO
+Tương tác
+Tương tác
+Tương tác
+Tương tác
+Tương tác
+Hộp nhỏ
