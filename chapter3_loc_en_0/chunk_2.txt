@@ -1,0 +1,77 @@
+You gain 1 skill point in Diversion and Logic costs 1 more Effort point
+You let Péru kill himself
+FATALLY WOUNDED
+Agility costs 1 more Effort point
+You got shot trying to save Jacques Péru
+FICKLE
+Conviction costs 1 more Effort point
+Lady Hillsborrow persuaded you to change sides
+IRON WILL
+You gain 1 skill point in Conviction
+Lady Hillsborrow did not persuade you to change sides
+SAVIOR
+You gain 1 skill point in Psychology
+You saved Péru
+INCONSISTENT
+Manipulation costs 1 more Effort point
+You talked about Péru's daughter in front of Mortimer
+You gain 3 Effort points
+HARD AS NAILS
+You wake up after being shot during your cross-examination
+BRUTE
+You gain 1 skill point in Agility
+You left traces behind in Napoleon's apartment
+FINESSE
+You gain 1 skill point in Subterfuge
+You left no traces behind in Napoleon's room
+ANALYST
+You gain 1 skill point in Psychology and in Questioning
+You tried to understand Péru's condition
+PROFILER
+The use of the Questioning skill costs 1 effort point less
+You think you identified the true Emily Hillsborrow
+LYNX
+You gain 1 skill point in Vigilance
+You found the Clement III cross that Sarah lost
+TRUSTWORTHY
+You gain 1 skill point in Etiquette
+Piaggi trusted you
+THIEF
+You gain 1 skill point in Subterfuge
+You stole Piaggi's cross and Wöllner's sphere
+BIG HEAD
+You gain 1 skill point in Logic
+You solved the puzzle
+ONE-HANDED
+Agility costs 2 more Effort points / Subterfuge costs 2 more Effort points
+You lost an arm
+PROFILER
+You think you identified the true Emily Hillsborrow
+The use of the Manipulation skill costs 1 Effort point less
+LOOK FOR CLUES ABOUT SARAH DE RICHET'S PRESENCE OR GO TO THE CONFERENCE
+ATTEND THE CONFERENCE
+GO BACK TO THE CONFERENCE
+MEET LORD MORTIMER
+REASSURE SARAH DE RICHET
+TRY TO CONVINCE GEORGE WASHINGTON
+TRY TO CONVINCE MANUEL GODOY
+GO TO BED
+GO TO BED
+GO BACK TO YOUR ROOM
+FIND EMILY HILLSBORROW
+FIND A WAY OF GETTING INTO EMILY HILLSBORROW'S ROOM
+TRY TO CONVINCE VON WOLLNER TO LET YOU PASS
+FIND ANOTHER WAY INTO EMILY HILLSBORROW'S ROOM
+IDENTIFY EMILY HILLSBORROW
+MEET YOUR MOTHER IN THE GARDEN CRYPT
+FIND:
+MEET SARAH
+OPEN THE DOOR
+- THE BIBLE
+- THE NAILS
+- A CROSS OF CLEMENT III
+- AN ARMILLARY SPHERE
+- THE EXEGESIS
+GUESS A THEME THEN INSERT NAILS IN THE DOOR
+INSERT CROSS IN THE CONTROL PANEL
+ALIGN DISKS TO MATCH THE CHOSEN THEMATIC AND PULL THE TRIGGER

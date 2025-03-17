@@ -1,0 +1,77 @@
+Bạn nhận được 1 điểm kỹ năng trong Đánh lạc hướng và Logic tốn thêm 1 điểm Nỗ lực
+Bạn để Péru tự sát
+BỊ THƯƠNG CHẾT NGƯỜI
+Sự nhanh nhẹn tốn thêm 1 điểm Nỗ lực
+Bạn bị bắn khi cố gắng cứu Jacques Péru
+THẤT THƯỜNG
+Sự kiên định tốn thêm 1 điểm Nỗ lực
+Phu nhân Hillsborrow đã thuyết phục bạn đổi phe
+Ý CHÍ SẮT ĐÁ
+Bạn nhận được 1 điểm kỹ năng trong Sự kiên định
+Phu nhân Hillsborrow không thuyết phục được bạn đổi phe
+NGƯỜI CỨU RỖI
+Bạn nhận được 1 điểm kỹ năng trong Tâm lý học
+Bạn đã cứu Péru
+KHÔNG NHẤT QUÁN
+Thao túng tốn thêm 1 điểm Nỗ lực
+Bạn đã nói về con gái của Péru trước mặt Mortimer
+Bạn nhận được 3 điểm Nỗ lực
+CỨNG RẮN NHƯ ĐINH
+Bạn tỉnh dậy sau khi bị bắn trong cuộc thẩm vấn chéo của mình
+NGƯỜI THÔ LỖ
+Bạn nhận được 1 điểm kỹ năng trong Sự nhanh nhẹn
+Bạn để lại dấu vết trong căn hộ của Napoleon
+TINH TẾ
+Bạn nhận được 1 điểm kỹ năng trong Sự xảo quyệt
+Bạn không để lại dấu vết trong phòng của Napoleon
+NHÀ PHÂN TÍCH
+Bạn nhận được 1 điểm kỹ năng trong Tâm lý học và trong Thẩm vấn
+Bạn đã cố gắng hiểu tình trạng của Péru
+NGƯỜI LẬP HỒ SƠ
+Việc sử dụng kỹ năng Thẩm vấn tốn ít hơn 1 điểm nỗ lực
+Bạn nghĩ rằng bạn đã xác định được Emily Hillsborrow thật sự
+LINH MIÊU
+Bạn nhận được 1 điểm kỹ năng trong Cảnh giác
+Bạn đã tìm thấy cây thánh giá Clement III mà Sarah đã mất
+ĐÁNG TIN CẬY
+Bạn nhận được 1 điểm kỹ năng trong Nghi thức
+Piaggi tin tưởng bạn
+KẺ TRỘM
+Bạn nhận được 1 điểm kỹ năng trong Sự xảo quyệt
+Bạn đã đánh cắp cây thánh giá của Piaggi và quả cầu của Wöllner
+ĐẦU TO
+Bạn nhận được 1 điểm kỹ năng trong Logic
+Bạn đã giải được câu đố
+MỘT TAY
+Sự nhanh nhẹn tốn thêm 2 điểm Nỗ lực / Sự xảo quyệt tốn thêm 2 điểm Nỗ lực
+Bạn đã mất một cánh tay
+NGƯỜI LẬP HỒ SƠ
+Bạn nghĩ rằng bạn đã xác định được Emily Hillsborrow thật sự
+Việc sử dụng kỹ năng Thao túng tốn ít hơn 1 điểm Nỗ lực
+TÌM KIẾM MANH MỐI VỀ SỰ HIỆN DIỆN CỦA SARAH DE RICHET HOẶC ĐI ĐẾN HỘI NGHỊ
+THAM DỰ HỘI NGHỊ
+QUAY LẠI HỘI NGHỊ
+GẶP NGÀI MORTIMER
+TRẤN AN SARAH DE RICHET
+CỐ GẮNG THUYẾT PHỤC GEORGE WASHINGTON
+CỐ GẮNG THUYẾT PHỤC MANUEL GODOY
+ĐI NGỦ
+ĐI NGỦ
+QUAY LẠI PHÒNG CỦA BẠN
+TÌM EMILY HILLSBORROW
+TÌM CÁCH VÀO PHÒNG CỦA EMILY HILLSBORROW
+CỐ GẮNG THUYẾT PHỤC VON WOLLNER ĐỂ CHO BẠN ĐI QUA
+TÌM CÁCH KHÁC VÀO PHÒNG CỦA EMILY HILLSBORROW
+XÁC ĐỊNH EMILY HILLSBORROW
+GẶP MẸ CỦA BẠN TRONG HẦM MỘ VƯỜN
+TÌM:
+GẶP SARAH
+MỞ CỬA
+- KINH THÁNH
+- ĐINH
+- MỘT CÂY THÁNH GIÁ CỦA CLEMENT III
+- MỘT QUẢ CẦU THIÊN VĂN
+- CHÚ GIẢI
+ĐOÁN MỘT CHỦ ĐỀ SAU ĐÓ CHÈN ĐINH VÀO CỬA
+CHÈN THÁNH GIÁ VÀO BẢNG ĐIỀU KHIỂN
+CĂNG CHỈNH ĐĨA ĐỂ KHỚP VỚI CHỦ ĐỀ ĐÃ CHỌN VÀ KÉO CÒ 
