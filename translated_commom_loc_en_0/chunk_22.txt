@@ -1,0 +1,100 @@
+Đang tải
+NHẬT KÝ
+BẢN ĐỒ
+Tập hợp tất cả các trang của bản thảo này để đọc nó.
+Lưu và quay lại Menu chính.
+Quay lại trò chơi.
+Ngôn ngữ mới sẽ được áp dụng vào lần tiếp theo bạn khởi động trò chơi.
+Bạn chưa đăng nhập. Nếu bạn tiếp tục mà không kết nối, tiến trình của bạn sẽ không được lưu.
+Thử lại
+Tiếp tục mà không có người dùng
+Đang tạo hồ sơ...
+Lỗi khi tải hồ sơ đã lưu. Bạn có muốn thử lại, hủy bỏ hoặc tiếp tục mà không có bản lưu?
+Tiếp tục mà không có bản lưu
+Hủy bỏ
+Lỗi khi lưu hồ sơ. Bạn có muốn thử lại, hủy bỏ hoặc tiếp tục mà không có bản lưu?
+Người dùng đã bị ngắt kết nối. Kết nối lại và nhấn {GUI.translationtable:SYSTEM_PROMPT_CONTINUE}
+Tiếp tục
+{GUI.translationtable:GAMEPAD} đã bị ngắt kết nối. Kết nối lại và nhấn {GUI.translationtable:SYSTEM_PROMPT_CONTINUE}
+tay cầm
+bộ điều khiển không dây
+bộ điều khiển
+Cài đặt
+Khi bạn thấy biểu tượng này, đừng tắt hệ thống PlayStation®4 của bạn
+Khi bạn thấy biểu tượng này, đừng tắt máy console Xbox One của bạn
+FOCUS HOME INTERACTIVE
+Thay đổi người dùng đang hoạt động
+Tăng cấp cấp cho bạn {0} Điểm Nỗ lực
+Xem Kỹ năng
+Bây giờ bạn có {0} Điểm Nỗ lực để sử dụng kỹ năng của mình
+Người dùng {0} đã bị ngắt kết nối. Kết nối lại và nhấn {GUI.translationtable:SYSTEM_PROMPT_CONTINUE}
+NỘI DUNG TẢI XUỐNG
+NỘI DUNG TẢI XUỐNG
+Người hầu
+V-Sync
+Elizabeth Adams
+Von Borchert
+Sarah De Richet
+Emma Hillsborrow
+Manuel Godoy
+Emily Hillsborrow
+Ngài Gregory Holm
+Ngài Mortimer
+Napoléon Bonaparte
+Jacques Péru
+Giuseppe Piaggi
+George Washington
+Von Wöllner
+Louis Mauras De Richet
+Tập 2 đã kết thúc đối với bạn, Hội đồng sẽ tiếp tục trong tập tiếp theo. Bạn có muốn chấp nhận lựa chọn của mình hay bạn muốn khởi động lại tập 2?
+FPS cố định 30
+Nhấn <style widget=Murder:Button:HideUI></style> để tham khảo ghi chú của bạn
+Tạm thời tiết lộ Miễn nhiễm và Điểm yếu và cung cấp 2 tinh chất quỷ dữ
+Hiển thị Miễn nhiễm - Điểm yếu - Cung cấp 2 tinh chất
+Nhấn <style widget=Murder:Button:HideUI></style> để ẩn giao diện
+LIỀU LĨNH
+Bạn muốn trả thù Peru mà không có Kỹ năng cần thiết
+Logic tốn thêm 1 Điểm Nỗ lực
+SAY RƯỢU
+Bạn đã uống với Elizabeth Adams cho đến khi say
+Bạn nhận được 1 điểm kỹ năng trong Tâm lý học
+TỈNH TÁO
+Bạn rời khỏi Elizabeth Adams mà không say
+Bạn nhận được 1 điểm kỹ năng trong Uyên bác
+PHÓNG ĐÃNG
+Bạn đã chọn dành đêm với Emily Hillsborrow
+Bạn nhận được 1 điểm kỹ năng trong Đánh lạc hướng
+NGAY THẲNG
+Bạn đã chọn không dành đêm với Emily Hillsborrow
+Bạn nhận được 1 điểm kỹ năng trong Tâm lý học
+Bạn đã chọn Lớp Huyền bí
+Kỹ năng Lớp Huyền bí tốn ít hơn để đạt được
+Bạn đã chọn Lớp Nhà ngoại giao
+Kỹ năng Lớp Nhà ngoại giao tốn ít hơn để đạt được
+Bạn đã chọn Lớp Thám tử
+Kỹ năng Lớp Thám tử tốn ít hơn để đạt được
+TRẢ THÙ
+Bạn đã trả thù cho sự xúc phạm mà Jacques Peru phải chịu đựng
+Bạn nhận được 1 điểm kỹ năng trong Nghi thức
+THÀNH VIÊN CỦA HỘI
+Bạn đã tìm thấy manh mối mà mẹ bạn để lại trong phòng của bà
+Bạn nhận được 1 điểm kỹ năng trong Huyền bí học
+CHÍNH ĐÁNG
+Bạn đã chiến thắng trong cuộc đối đầu một-đối-một với Napoleon Bonaparte
+Bạn nhận được 1 điểm kỹ năng trong Thuyết phục
+BẤT CHÍNH
+Bạn đã không chứng minh được với Napoleon rằng bạn có năng lực
+Thuyết phục tốn thêm 1 Điểm Nỗ lực
+KIÊN QUYẾT
+Bạn đã thuyết phục Elizabeth Adams nói về mẹ bạn
+Bạn nhận được 1 điểm kỹ năng trong Thẩm vấn
+NGÂY THƠ
+Bạn đã không thuyết phục được Elizabeth Adams nói về mẹ bạn
+Thẩm vấn tốn thêm 1 Điểm Nỗ lực
+ĐÁNG NGỜ
+Bạn đã không thuyết phục được Emily Hillsborrow tiết lộ bí mật của cô
+Tâm lý học tốn thêm 1 Điểm Nỗ lực
+NGƯỜI TIN CẬY
+Bạn đã thuyết phục Emily Hillsborrow tiết lộ bí mật của cô
+Bạn nhận được 1 điểm kỹ năng trong Tâm lý học
+VẾT SẸO 

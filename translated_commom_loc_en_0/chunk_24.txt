@@ -1,0 +1,100 @@
+Khám phá tất cả Miễn nhiễm và Điểm yếu của Napoleon Bonaparte
+Bạn nhận được 1 điểm kỹ năng trong Thuyết phục
+ĐIỆP VIÊN
+Khám phá tất cả Miễn nhiễm và Điểm yếu của Emily Hillsborrow
+Bạn nhận được 1 điểm kỹ năng trong Đánh lạc hướng
+ĐỌC NHIỀU
+Khám phá tất cả Miễn nhiễm và Điểm yếu của Giuseppe Piaggi
+Bạn nhận được 1 điểm kỹ năng trong Uyên bác
+NGƯỜI HỌC THỨC
+Khám phá tất cả Miễn nhiễm và Điểm yếu của Johann Von Wollner
+Bạn nhận được 1 điểm kỹ năng trong Khoa học
+NGƯỜI HÙNG BIỆN
+Khám phá tất cả Miễn nhiễm và Điểm yếu của Gregory Holm
+Bạn nhận được 1 điểm kỹ năng trong Logic
+ĐIỀU TRA VIÊN
+Khám phá tất cả Miễn nhiễm và Điểm yếu của Jacques Peru
+Bạn nhận được 1 điểm kỹ năng trong Thẩm vấn
+PHIÊN DỊCH VIÊN
+Khám phá tất cả Miễn nhiễm và Điểm yếu của Manuel Godoy
+Bạn nhận được 1 điểm kỹ năng trong Ngôn ngữ học
+NHANH NHẸN
+Thực hiện lựa chọn đối thoại 20 lần trước khi kết thúc Bộ đếm thời gian Đối thoại
+Bạn nhận được 1 điểm kỹ năng trong Cảnh giác
+NHANH CHÓNG
+Sử dụng kỹ năng Thủ đoạn 10 lần
+Bạn nhận được 1 điểm kỹ năng trong Thủ đoạn
+ĐỒNG CẢM
+Khám phá tất cả Miễn nhiễm và Điểm yếu của Elizabeth Adams
+Bạn nhận được 1 điểm kỹ năng trong Tâm lý học
+QUYẾN RŨ
+Sử dụng Kỹ năng Thao túng 10 lần
+Bạn nhận được 1 điểm kỹ năng trong Thao túng
+NGƯỜI NHẬP MÔN
+Khám phá tất cả Miễn nhiễm và Điểm yếu của Ngài Mortimer
+Bạn nhận được 1 điểm kỹ năng trong Huyền bí học
+CHÍNH TRỊ GIA
+Khám phá tất cả Miễn nhiễm và Điểm yếu của George Washington
+Bạn nhận được 1 điểm kỹ năng trong Chính trị
+NGƯỜI HỌC VIỆC
+Đọc 5 Bản thảo
+Kinh nghiệm của bạn tăng 5%
+TÍNH TOÁN
+Sử dụng đúng 1 Vật phẩm Tiêu thụ của mỗi loại trong một nhiệm vụ
+Số lượng Điểm Nỗ lực của bạn tăng lên 1
+VÔ DUYÊN
+Thất bại 2 Đối đầu
+Sử dụng Thao túng tốn thêm 1 Điểm Nỗ lực, nhưng bạn nhận được 1 Điểm Kỹ năng trong Ngôn ngữ học
+THIẾU KÍN ĐÁO
+Thất bại 5 Đối đầu
+Sử dụng Cảnh giác tốn thêm 1 Điểm Nỗ lực, nhưng bạn nhận được 1 Điểm Kỹ năng trong Thẩm vấn
+THÔ BẠOÔ
+Thất bại 10 Đối đầu
+Sử dụng Nghi thức tốn thêm 1 Điểm Nỗ lực, nhưng bạn nhận được 1 Điểm Kỹ năng trong Thuyết phục
+TINH TẾ
+Thành công 2 Đối đầu
+Bạn nhận được 2 điểm kỹ năng trong Tâm lý học
+TRỰC GIÁC
+Thành công 5 Đối đầu
+Bạn nhận được 2 điểm kỹ năng trong Thẩm vấn
+TÀI NĂNG
+Thành công 10 Đối đầu
+Bạn nhận được 2 điểm trong Nghi thức
+TINH THÔNG CẢNH SÁT
+Đạt cấp độ 3 trong Cảnh giác và cấp độ 2 trong Thẩm vấn và Tâm lý học
+Giảm một nửa các yếu tố giả hiển thị trong một Cơ hội
+TINH THÔNG NGOẠI GIAO
+Đạt cấp độ 3 trong Đánh lạc hướng và cấp độ 2 trong Nghi thức và Thuyết phục
+Thời gian dành cho Cơ hội tăng 50%
+TINH THÔNG HUYỀN BÍ
+Đạt cấp độ 3 trong Thao túng và cấp độ 2 trong Huyền bí học và Thủ đoạn
+Kết thúc một Cơ hội thành công sẽ hoàn trả cho bạn 1 Điểm Nỗ lực
+KINH NGHIỆM
+Đạt cấp độ 5
+Số lượng Điểm Nỗ lực của bạn tăng lên 1
+CỰU CHIẾN BINH
+Đạt cấp độ 10
+Số lượng Điểm Nỗ lực của bạn tăng lên 1
+NGƯỜI YÊU NGHỆ THUẬT
+§Xem 10 bức tranh (TBD!)
+§TBD !
+NGƯỜI ĐẨY GỖ
+Bạn đã thắng ván cờ
+Bạn nhận được 1 điểm kỹ năng trong Thao túng
+Bộ sưu tập hiện tại
+{GUI.translationtable:SKILL_SCIENCES}
+{GUI.translationtable:SKILL_OCCULTISME}
+{GUI.translationtable:SKILL_RHETORIQUE}
+{GUI.translationtable:SKILL_CONVICTION}
+{GUI.translationtable:SKILL_MANIPULATION}
+{GUI.translationtable:SKILL_PSYCHOLOGIE}
+{GUI.translationtable:SKILL_DIVERSION}
+{GUI.translationtable:SKILL_POLITIQUE}
+{GUI.translationtable:SKILL_SUBTERFUGES}
+{GUI.translationtable:SKILL_ERUDITION}
+{GUI.translationtable:SKILL_ATHLETISME}
+{GUI.translationtable:SKILL_VIGILANCE}
+{GUI.translationtable:SKILL_LINGUISTIQUE}
+{GUI.translationtable:SKILL_ETIQUETTE}
+{GUI.translationtable:SKILL_INTERROGATOIRE}
+Số lần sử dụng 

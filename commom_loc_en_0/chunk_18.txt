@@ -1,0 +1,100 @@
+Traits unlocked
+Narrative Items used
+New Characters met
+{0} XP to {GUI.translationtable:GUI_LEVEL_NAME} {1}
+YOU ARE
+Back
+Cancel
+Skip
+Select
+Validate
+Next
+Trait unlocked
+DISCOVERED IMMUNITY
+FACED IMMUNITY
+EXPLOITED VULNERABILITY
+DISCOVERED VULNERABILITY
+WHAT HAVE YOU BECOME?
+Item added to Inventory:
+Item not picked up: Inventory full
+Amber Fragment picked up
+AGILITY
+CONVICTION
+DIVERSION
+ERUDITION
+ETIQUETTE
+QUESTIONING
+LINGUISTICS
+MANIPULATION
+OCCULTISM
+POLITICS
+PSYCHOLOGY
+LOGIC
+SCIENCE
+VIGILANCE
+SUBTERFUGES
+STEPS REMAINING
+STEP {0}
+{0} level {1} : Cost reduced by {2}
+{0} max level : Skill free to use
+{0} locked
+{0} level 1
+LAST CHANCE
+ONLY CHANCE
+While the Manuscript is equipped
+at the end of the Quest
+Available Skill Points
++{0} Skill Points in {1}
++{0} Skill Levels in {1}
++1 Skill Point in {0}
++1 Skill Level in {0}
+MANUSCRIPTS TO EQUIP
+CANNOT BE EQUIPPED
+{0} Skill required
+{0} already at max level
+Restore 2 Effort Points
+Next skill use is free
+Cures Negative Alterations
+Temporarily reveals the Immunities and Vulnerabilities affecting a dialogue choice
+Skill Points obtained by Manuscripts
+Equip / Unequip
+Validate
+Previous
+Start Quest
+Next
+Add 1 Point
+Remove 1 Point
+Remove all Points
+Back to Manuscripts
+PRESS <style widget=Murder:Button:Start></style> TO ENTER THE MANOR
+CHECKING FOR DLC STATUS
+READING SAVE DATA
+Bản lưu 1
+Bản lưu 2
+Bản lưu 3
+CHOOSE PROFILE
+CREDITS
+CONTINUE
+SETTINGS
+Use <style widget=Murder:Button:TutoCamera></style> to control the camera
+Use the <style widget=Murder:Button:TutoMovement></style> to move
+ROYAL JELLY
+Press <style widget=Murder:Button:Remontant></style> to use it
+Royal Jelly restores 2 Effort Point. You cannot carry more than 5.
+CARMELITE WATER
+Press <style widget=Murder:Button:Tonique></style> to use it
+Carmelite Water gives you the Focused state. Your next skill use will cost no effort. You cannot carry more than 5.
+DEVIL'S THORN
+Press <style widget=Murder:Button:Stimulant></style> to use it
+Devil's Thorn grants you the Exalted state. You temporarily see the Immunities and Vulnerabilities affecting a dialogue choice in a conversation.  You cannot carry more than 5.
+GOLDEN ELIXIR
+Press <style widget=Murder:Button:Cathartique></style> to use it
+Golden Elixir cures all your Negative Alterations. You cannot carry more than 5.
+INTOXICATED
+Use a Golden Elixir to cure yourself
+You have used 4 Consumable Items during a single quest or consumed a noxious element. Dialog Timer is no longer visible.
+DISCONCERTED
+Use a Golden Elixir to cure yourself
+Someone threw you off balance. The cost of Effort Points increases when using your Skills.
+EXHAUSTED
+Use a Golden Elixir to cure yourself

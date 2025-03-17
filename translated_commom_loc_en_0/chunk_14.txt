@@ -1,0 +1,100 @@
+Kiệt sức
+1 Điểm Nỗ lực không sử dụng được (tích lũy)
+Bối rối
+Chi phí Điểm Nỗ lực: +1
+Sai lầm còn lại
+Bản thảo Mới hoàn thành:
+BỘ ĐẾM THỜI GIAN ĐỐI THOẠI
+Khi hết thời gian, một câu trả lời sẽ tự động được chọn.
+Kiểm tra Bộ đếm thời gian Đối thoại ở dưới cùng màn hình
+Phân bổ điểm
+Xu bị mất trong dinh thự của Ngài Mortimer
+Xem lại tất cả TÀI NĂNG trong tab chuyên dụng trong MENU
+CƠ HỘI
+Cơ hội không tiêu thụ Điểm Nỗ lực. Để truy cập kỹ năng cần thiết cho tình huống, bạn chỉ cần mở khóa nó.
+Kỹ năng của bạn cho phép bạn khám phá các chi tiết ẩn. Chọn đối tượng gợi ý nhất về tình huống để khám phá chúng.
+Paris
+Pháp
+Ngày 10 tháng 12 năm 1792
+Hòn đảo của Ngài Mortimer
+Ngoài khơi bờ biển nước Anh
+Ngày 20 tháng 1 năm 1793
+Đạt cấp độ 1 để sử dụng
+MENU
+Menu cho phép bạn kiểm tra trạng thái, túi đồ và duyệt qua một số thông tin về các Nhân vật.
+Nhấn <style widget=Murder:Button:OpenMenu></style> để mở MENU
+CHỌN NHIỆM VỤ
+PHỤ ĐỀ
+VIDEO
+ĐIỀU KHIỂN
+ÂM THANH & PHỤ ĐỀ
+RUNG
+ĐẢO NGƯỢC TRỤC Y
+ĐẢO NGƯỢC TRỤC X
+ĐIỀU CHỈNH ÂM LƯỢNG
+Âm lượng Tổng
+Giọng nói
+Nhạc
+Hiệu ứng âm thanh
+ĐIỀU KHIỂN
+PHỤ ĐỀ
+Chọn ngôn ngữ của bạn
+Tiếng Anh
+Tiếng Pháp
+Tiếng Tây Ban Nha
+Tiếng Đức
+Tiếng Ý
+Quay lại menu
+VIDEO
+ĐỘ PHÂN GIẢI MÀN HÌNH
+ĐỒ HỌA
+CHẤT LƯỢNG KẾT CẤU
+KHỬ RĂNG CƯA
+TOÀN MÀN HÌNH
+TOÀN MÀN HÌNH
+THẤP
+CAO
+THẤP
+TRUNG BÌNH
+TỐI ĐA
+BẬT
+TẮT
+CẢNH BÁO: Một số cài đặt bạn đã chọn sẽ chỉ được áp dụng sau khi khởi động lại trò chơi.
+DANH SÁCH CÔNG TRẠNG
+Khi bạn thấy biểu tượng này, đừng tắt máy console của bạn...
+Khi bạn thấy biểu tượng này, đừng tắt hệ thống của bạn...
+Đây có lẽ là một tác phẩm hư cấu...
+Một tháng sau...
+Tài năng đã mở khóa
+Thoát trò chơi
+Mở khóa
+Tìm kiếm
+Đạt đến
+Rời đi
+Rời khỏi phòng
+Ở lại trong phòng
+CỬA SỔ
+TOÀN MÀN HÌNH CỬA SỔ
+KỸ NĂNG
+Chính trị, Phép lịch sự, Ngôn ngữ học, Sự thuyết phục, Sự đánh lạc hướng
+Thẩm vấn, Cảnh giác, Tâm lý học, Sự nhanh nhẹn, Logic
+Thao túng, Huyền bí học, Sự uyên bác, Khoa học, Thủ đoạn
+KỸ NĂNG CỦA BẠN
+CHỌN
+LỚP CỦA BẠN
+BƯỚC 1
+BƯỚC 2
+Chọn một Lớp xác định Kỹ năng cơ bản của bạn.</n>Các Kỹ năng khác vẫn sẽ có sẵn, nhưng việc mở khóa chúng sẽ tốn kém hơn.
+YẾU TỐ ẨN
+Nhiều manh mối và vật phẩm được ẩn. Một số trong đó sẽ có tác động đến cuộc phiêu lưu của bạn, vì vậy đừng ngần ngại tìm kiếm chúng!
+TẬP
+TRÒ CHƠI MỚI
+{GUI.translationtable:TITLE_ALTERATION_CONCENTRE} Sử dụng miễn phí
+TÙY CHỌN
+THOÁT TRÒ CHƠI
+QUAY LẠI MENU
+TẠM DỪNG
+TIẾP TỤC
++{1} Điểm Kỹ năng trong {0} bằng cách đọc Bản thảo
++{0} Điểm Kỹ năng trong {1}
+{0} mở khóa các kỹ năng {1}, {2}, {3}, {4} và {5} 

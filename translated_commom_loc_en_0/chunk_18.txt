@@ -1,0 +1,100 @@
+Đặc điểm đã mở khóa
+Vật phẩm Tường thuật đã sử dụng
+Nhân vật Mới đã gặp
+{0} XP đến {GUI.translationtable:GUI_LEVEL_NAME} {1}
+BẠN LÀ
+Quay lại
+Hủy bỏ
+Bỏ qua
+Chọn
+Xác nhận
+Tiếp theo
+Đặc điểm đã mở khóa
+ĐÃ KHÁM PHÁ MIỄN NHIỄM
+ĐÃ ĐỐI MẶT VỚI MIỄN NHIỄM
+ĐÃ KHAI THÁC ĐIỂM YẾU
+ĐÃ KHÁM PHÁ ĐIỂM YẾU
+BẠN ĐÃ TRỞ THÀNH GÌ?
+Vật phẩm đã thêm vào Túi đồ:
+Vật phẩm không nhặt lên: Túi đồ đầy
+Đã nhặt Mảnh Hổ phách
+SỰ NHANH NHẸN
+SỰ THUYẾT PHỤC
+SỰ ĐÁNH LẠC HƯỚNG
+SỰ UYÊN BÁC
+PHÉP LỊCH SỰ
+THẨM VẤN
+NGÔN NGỮ HỌC
+THAO TÚNG
+HUYỀN BÍ HỌC
+CHÍNH TRỊ
+TÂM LÝ HỌC
+LOGIC
+KHOA HỌC
+CẢNH GIÁC
+THỦ ĐOẠN
+BƯỚC CÒN LẠI
+BƯỚC {0}
+{0} cấp độ {1} : Chi phí giảm {2}
+{0} cấp độ tối đa : Kỹ năng miễn phí sử dụng
+{0} đã khóa
+{0} cấp độ 1
+CƠ HỘI CUỐI CÙNG
+CƠ HỘI DUY NHẤT
+Khi Bản thảo được trang bị
+vào cuối Nhiệm vụ
+Điểm Kỹ năng Khả dụng
++{0} Điểm Kỹ năng trong {1}
++{0} Cấp độ Kỹ năng trong {1}
++1 Điểm Kỹ năng trong {0}
++1 Cấp độ Kỹ năng trong {0}
+BẢN THẢO ĐỂ TRANG BỊ
+KHÔNG THỂ TRANG BỊ
+Yêu cầu Kỹ năng {0}
+{0} đã ở cấp độ tối đa
+Phục hồi 2 Điểm Nỗ lực
+Lần sử dụng kỹ năng tiếp theo miễn phí
+Chữa trị Thay đổi Tiêu cực
+Tạm thời tiết lộ Miễn nhiễm và Điểm yếu ảnh hưởng đến lựa chọn đối thoại
+Điểm Kỹ năng nhận được từ Bản thảo
+Trang bị / Tháo trang bị
+Xác nhận
+Trước
+Bắt đầu Nhiệm vụ
+Tiếp theo
+Thêm 1 Điểm
+Xóa 1 Điểm
+Xóa tất cả Điểm
+Quay lại Bản thảo
+NHẤN <style widget=Murder:Button:Start></style> ĐỂ VÀO DINH THỰ
+ĐANG KIỂM TRA TRẠNG THÁI DLC
+ĐANG ĐỌC DỮ LIỆU LƯU
+Bản lưu 1
+Bản lưu 2
+Bản lưu 3
+CHỌN HỒ SƠ
+DANH SÁCH CÔNG TRẠNG
+TIẾP TỤC
+CÀI ĐẶT
+Sử dụng <style widget=Murder:Button:TutoCamera></style> để điều khiển camera
+Sử dụng <style widget=Murder:Button:TutoMovement></style> để di chuyển
+SỮA ONG CHÚA
+Nhấn <style widget=Murder:Button:Remontant></style> để sử dụng
+Sữa ong chúa phục hồi 2 Điểm Nỗ lực. Bạn không thể mang nhiều hơn 5.
+NƯỚC CARMELITE
+Nhấn <style widget=Murder:Button:Tonique></style> để sử dụng
+Nước Carmelite cho bạn trạng thái Tập trung. Lần sử dụng kỹ năng tiếp theo của bạn sẽ không tốn nỗ lực. Bạn không thể mang nhiều hơn 5.
+GAI QUỶ
+Nhấn <style widget=Murder:Button:Stimulant></style> để sử dụng
+Gai quỷ cho bạn trạng thái Phấn khích. Bạn tạm thời nhìn thấy Miễn nhiễm và Điểm yếu ảnh hưởng đến lựa chọn đối thoại trong cuộc trò chuyện. Bạn không thể mang nhiều hơn 5.
+THUỐC VÀNG
+Nhấn <style widget=Murder:Button:Cathartique></style> để sử dụng
+Thuốc vàng chữa trị tất cả Thay đổi Tiêu cực của bạn. Bạn không thể mang nhiều hơn 5.
+SAY XỈN
+Sử dụng Thuốc vàng để chữa trị bản thân
+Bạn đã sử dụng 4 Vật phẩm Tiêu thụ trong một nhiệm vụ hoặc tiêu thụ một yếu tố độc hại. Bộ đếm thời gian Đối thoại không còn hiển thị.
+BỐI RỐI
+Sử dụng Thuốc vàng để chữa trị bản thân
+Ai đó đã làm bạn mất thăng bằng. Chi phí Điểm Nỗ lực tăng lên khi sử dụng Kỹ năng của bạn.
+KIỆT SỨC
+Sử dụng Thuốc vàng để chữa trị bản thân 

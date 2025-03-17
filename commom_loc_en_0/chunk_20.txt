@@ -1,0 +1,100 @@
+OPPORTUNITIES
+Opportunities do not consume Effort Points. To access the skill required for the situation, you just need to have unlocked it.
+Your skills allow you to discover hidden details. Select the object that is most suggestive of the situation in order to discover them.
+Paris
+France
+December 10th, 1792
+Lord Mortimer's island
+Off the coast of England
+January 20th, 1793
+Reach level 1 to use
+MENU
+Menu allows you to check your state, inventory and to browse some information on the Characters.
+Press <style widget=Murder:Button:OpenMenu></style> to open the MENU
+CHOOSE A QUEST
+SUBTITLES
+VIDEO
+CONTROLS
+AUDIO & SUBTITLES
+VIBRATIONS
+INVERT Y AXIS
+INVERT X AXIS
+VOLUME CONTROL
+Master Volume
+Voices
+Music
+SFX
+CONTROLS
+SUBTITLES
+Chose your language
+English
+French
+Spanish
+German
+Italian
+Back to menu
+VIDEO
+SCREEN RESOLUTION
+GRAPHICS
+QUALITY OF TEXTURES
+ANTIALIASING
+FULL SCREEN
+FULL SCREEN
+LOW
+HIGH
+LOW
+MEDIUM
+MAXIMUM
+ON
+OFF
+WARNING: Some of the settings you chose will only be applied after restarting the game.
+CREDITS
+When you see this symbol, do not turn off your console...
+When you see this symbol, do not turn off your system...
+This work is probably a fiction...
+One month later...
+Talent unlocked
+Exit game
+Unlock
+Search
+Reach
+Leave
+Leave the room
+Stay in the room
+WINDOWED
+WINDOWED FULL SCREEN
+SKILLS
+Politics, Etiquette, Linguistics, Conviction, Diversion
+Questioning, Vigilance, Psychology, Agility, Logic
+Manipulation, Occultism, Erudition, Sciences, Subterfuges
+YOUR SKILLS
+CHOOSE
+YOUR CLASS
+STEP 1
+STEP 2
+Choosing a Class defines your basic Skills.</n>The other Skills will still be available, but unlocking them will be more expensive.
+HIDDEN ELEMENTS
+Many clues and items are hidden. Some of them will have an impact on your adventure, so do not hesitate to look for them!
+EPISODES
+NEW GAME
+{GUI.translationtable:TITLE_ALTERATION_CONCENTRE} Free use
+OPTIONS
+EXIT GAME
+BACK TO MENU
+PAUSE
+RESUME
++{1} Skill Point(s) in {0} by reading a Manuscript
++{0} Skill Point(s) in {1}
+{0} unlocks the {1}, {2}, {3}, {4} and {5} skills
+Recovered Effort Points : {0}
+{GUI.translationtable:TITLE_ALTERATION_EPUISE} State
+YOUR NEXT READING
+AVAILABLE POINTS
+CYANIDE
+BIG BAD WOLF STUDIO
+THE COUNCIL
+Louis
+Your past granted you {1} Skill Point(s) in {0}
+This save slot is empty. You can begin a new game!
+Leave the game
+Set parameters for the game

@@ -1,0 +1,100 @@
+GAI QUỶ
+Nhấn <style widget=Murder:Button:Stimulant></style> để sử dụng
+Gai quỷ cho bạn trạng thái Phấn khích. Bạn tạm thời nhìn thấy Miễn nhiễm và Điểm yếu ảnh hưởng đến lựa chọn đối thoại trong cuộc trò chuyện. Bạn không thể mang nhiều hơn 5.
+THUỐC VÀNG
+Nhấn <style widget=Murder:Button:Cathartique></style> để sử dụng
+Thuốc vàng chữa trị tất cả Thay đổi Tiêu cực của bạn. Bạn không thể mang nhiều hơn 5.
+SAY XỈN
+Sử dụng Thuốc vàng để chữa trị bản thân
+Bạn đã sử dụng 4 Vật phẩm Tiêu thụ trong một nhiệm vụ hoặc tiêu thụ một yếu tố độc hại. Bộ đếm thời gian Đối thoại không còn hiển thị.
+BỐI RỐI
+Sử dụng Thuốc vàng để chữa trị bản thân
+Ai đó đã làm bạn mất thăng bằng. Chi phí Điểm Nỗ lực tăng lên khi sử dụng Kỹ năng của bạn.
+KIỆT SỨC
+Sử dụng Thuốc vàng để chữa trị bản thân
+Bạn vừa gặp phải một Miễn nhiễm. 1 Điểm Nỗ lực bị khóa.
+PHẤN KHÍCH
+Bạn đang Phấn khích!
+Bạn cảm nhận được Miễn nhiễm và Điểm yếu của người bạn đang nói chuyện. Kỹ năng mà họ miễn nhiễm sẽ thất bại; kỹ năng mà họ dễ bị tổn thương sẽ tốn ít chi phí hơn.
+TẬP TRUNG
+Bạn đang Tập trung!
+Lần sử dụng kỹ năng tiếp theo của bạn sẽ miễn phí chi phí.
+CƠ HỘI CHỦ NGHĨA
+Bạn đang nắm thế thượng phong!
+Bạn đã làm cho người bạn đang nói chuyện mất thăng bằng. Bạn trả ít hơn 1 Điểm Nỗ lực cho Kỹ năng sử dụng trên người này.
+BẢN THẢO
+Tìm Bản thảo của bạn bằng cách sử dụng tab TÚI ĐỒ trong MENU
+Bản thảo cho phép bạn tự học trong cuộc phiêu lưu. Vào đầu mỗi Nhiệm vụ, bạn có thể chọn những gì để đọc và nhận Điểm Kỹ năng vĩnh viễn.
+ĐỐI ĐẦU: CÁC BƯỚC
+Các Bước Đối đầu chuyển sang màu xanh lá cây khi bạn thuyết phục được người bạn đang nói chuyện, và màu đỏ khi bạn thất bại.
+Bạn vừa vượt qua một Bước Đối đầu. Để thành công, bạn cần tránh càng nhiều Sai lầm càng tốt.
+ĐỐI ĐẦU: KẾT THÚC
+Kết quả của một cuộc Đối đầu thay đổi tùy thuộc vào thành công và thất bại của các Bước trước đó. Hãy cẩn thận, một số kết quả có thể có hậu quả lớn.
+ĐỐI ĐẦU
+Mỗi cuộc Đối đầu hiển thị một giao diện cho thấy mức độ thuyết phục của người bạn đang nói chuyện.
+Trong một cuộc Đối đầu, bạn phải trải qua một số Bước trong khi thuyết phục càng nhiều càng tốt. Đối đầu có hậu quả đối với phần còn lại của câu chuyện, vì vậy đừng ngần ngại sử dụng Kỹ năng của bạn.
+LỰA CHỌN QUAN TRỌNG
+Hãy suy nghĩ kỹ khi đối mặt với Lựa chọn Quan trọng. Chúng có hậu quả lớn đối với câu chuyện.
+KỸ NĂNG
+Duyệt qua Kỹ năng của bạn bằng cách sử dụng tab NHÂN VẬT trong MENU
+Kỹ năng của bạn cho phép bạn tiếp cận các lựa chọn và hành động độc đáo với chi phí là Điểm Nỗ lực. Cấp độ Kỹ năng càng cao, chi phí Điểm Nỗ lực càng thấp.
+ĐẶC ĐIỂM
+Xem lại tất cả ĐẶC ĐIỂM trong tab chuyên dụng trong MENU
+Bạn vừa đưa ra một lựa chọn có Hậu quả vĩnh viễn. Những Hậu quả này cải thiện khả năng của bạn.
+TÍNH CÁCH
+Xem lại Miễn nhiễm và Điểm yếu trong tab NHẬT KÝ trong MENU
+Mỗi người bạn gặp trên đảo đều có tính cách riêng, khiến họ Dễ bị tổn thương với một số Kỹ năng nhất định, và Miễn nhiễm với những kỹ năng khác.Khai thác tính cách của họ là rất quan trọng để đạt được mục tiêu cá nhân của bạn: kỹ năng sử dụng chống lại Miễn nhiễm sẽ không thành công và khiến bạn Kiệt sức, trong khi đó Điểm yếu được khai thác sẽ hoàn trả cho bạn 1 Điểm Nỗ lực.
+HỔ PHÁCH
+Chúc mừng! Bạn đã thu thập 4 Mảnh Hổ phách. Điểm Nỗ lực tối đa của bạn được tăng thêm 1!
+MẢNH HỔ PHÁCH
+Xem lại chúng trong tab TÚI ĐỒ trong MENU
+Bạn vừa tìm thấy một Mảnh Hổ phách. Mỗi khi bạn nhặt 4 mảnh, bạn tăng Điểm Nỗ lực tối đa của mình lên 1!
+TĂNG CẤP
+Bạn vừa đạt được cấp độ mới, thưởng cho bạn Điểm Kỹ năng. Sử dụng Điểm Kỹ năng để cải thiện Kỹ năng của bạn hoặc để mở khóa những kỹ năng mới.
+TRANG BỊ BẢN THẢO
+Ở đây, bạn có thể chọn những gì để đọc trong cuộc phiêu lưu. Mỗi bản thảo bạn đọc sẽ mang lại Điểm Kỹ năng vào cuối Nhiệm vụ!
+TÀI NĂNG
+Bạn nhận được Tài năng khi thực hiện một số hành động nhất định. Hãy nhớ xem lại điều kiện mở khóa và hiệu ứng của chúng vì chúng mang lại những cải tiến rất thú vị.
+PHÂN BỔ ĐIỂM KỸ NĂNG
+Nâng cấp Kỹ năng lên cấp độ 2 giảm chi phí Điểm Kỹ năng xuống 3. Cấp độ 3 cho phép bạn sử dụng Kỹ năng MIỄN PHÍ.
+Ô trống
+Miễn nhiễm
+Điểm yếu
+Không xác định
+Không xác định
+Bạn đã đọc bản thảo này
+Bản thảo đang được đọc
+Xu Sưu tập
+Xóa
+Kiểm tra NHẬT KÝ
+MIỄN NHIỄM
+ĐIỂM YẾU
+BẢN THẢO
+VẬT PHẨM TƯỜNG THUẬT
+ĐẶC ĐIỂM
+Bạn đã làm điều gì đó trước đây mở khóa lựa chọn câu trả lời này!
+BẮT ĐẦU TRÒ CHƠI MỚI
+với sự tham gia của FAJV - Centre National du Cinéma và l'Image Animée et Ministère du Redressement productif
+Sử dụng cần phải <style widget=Murder:Button:TutoCamera></style> để điều khiển camera
+Sử dụng cần phải <style widget=Murder:Button:TutoCamera></style> để điều khiển camera
+Sử dụng cần trái <style widget=Murder:Button:TutoMovement></style> để di chuyển nhân vật của bạn
+Sử dụng cần trái <style widget=Murder:Button:TutoMovement></style> để di chuyển nhân vật của bạn
+Giữ <style widget=Murder:Button:Run></style> để di chuyển nhanh hơn
+NHIỀU ĐƯỜNG ĐI
+Có nhiều đường đi để đạt được mục tiêu của bạn. Có thể là một ý tưởng tốt để suy nghĩ kỹ trước khi bắt đầu con đường đầu tiên bạn đến.
+Bước Thành công
+Bước Thất bại
+Hiển thị Miễn nhiễm - Điểm yếu
+Chữa trị Thay đổi Tiêu cực
+Phục hồi 2 Điểm Nỗ lực
+Lần sử dụng kỹ năng tiếp theo miễn phí
+Nhấn START để tiếp tục
+Lựa chọn đã thực hiện
+Say xỉn
+Bộ đếm thời gian Đối thoại bị ẩn
+Cơ hội chủ nghĩa
+Chi phí Điểm Nỗ lực: -1
+Tập trung
+Lần sử dụng kỹ năng tiếp theo miễn phí
+Phấn khích
+Tiết lộ Điểm yếu và Miễn nhiễm của Đối tác Thảo luận của bạn 

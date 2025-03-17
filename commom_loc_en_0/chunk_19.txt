@@ -1,0 +1,100 @@
+You just encountered an Immunity. 1 Effort Point is locked.
+EXALTED
+You are Exalted!
+You sense the Immunities and Vulnerabilities of the persons you are talking to. Skills they are immune to will fail; skills they are vulnerable to will cost less.
+FOCUSED
+You are Focused!
+Your next use of a skill will be free of cost.
+OPPORTUNIST
+You have the upper hand!
+You've thrown the person you are talking to off balance. You pay 1 less Effort Point for Skills used on this person.
+MANUSCRIPTS
+Find your Manuscripts by using the INVENTORY tab in the MENU
+Manuscripts allow you to educate yourself during the adventure. At the start of each Quest, you can choose what to read and gain permanent Skill Points.
+CONFRONTATION: STEPS
+Confrontation Steps turn green when you convince the person you are talking to, and red when you fail.
+You just passed through a Confrontation Step. In order to be successful, you'll need to avoid as many Blunders as you can.
+CONFRONTATION: END
+The outcome of a Confrontation varies depending on the success and failure of the previous Steps. Be careful, some outcomes can have major consequences.
+CONFRONTATIONS
+Each Confrontation displays an interface showing how much the person you are talking to is convinced.
+During a Confrontation, you have to go through several Steps while being as persuasive as possible. Confrontations have consequences on the rest of the story, so don't hesitate to use your Skills.
+CRUCIAL CHOICES
+Think twice when facing Crucial Choices. They have major consequences on the story.
+SKILLS
+Browse your Skills by using the CHARACTER tab in the MENU
+Your Skills give you access to unique choices and actions at the cost of Effort Points. The higher your Skill level, the lower the cost is in Effort Points.
+TRAITS
+Review all TRAITS in the dedicated tab in the MENU
+You just made a choice that has a permanent Consequence. These Consequences improve your abilities.
+PERSONALITY
+Review Immunities and Vulnerabilities in the JOURNAL tab in the MENU
+Each person you meet on the island has their own personality, which makes them Vulnerable to certain Skills, and Immune to others.</n>Exploiting their personality is crucial to achieve your personal goals: skills used against Immunities will not succeed and leave you Exhausted, meanwhile exploited Vulnerabilities will give you 1 Effort Point back.
+AMBER
+Congratulations! You collected 4 Amber Fragments. Your maximum Effort Points is increased by 1!
+AMBER FRAGMENTS
+Review them in the INVENTORY tab in the MENU
+You just found an Amber Fragment. Each time you pick up 4 of them, you increase your maximum Effort Points by 1!
+LEVEL UP
+You just gained a new level which awards you Skill Points. Use your Skill Points to improve your Skills or to unlock new ones.
+EQUIPPING MANUSCRIPTS
+Here, you can choose what to read during the adventure. Each manuscript you read confers Skill Points at the end of the Quest!
+TALENTS
+You obtain Talents when carrying out certain actions. Remember to review their unlock conditions and effects as they offer very interesting improvements.
+ALLOCATION OF SKILL POINTS
+Upgrading a Skill to level 2 reduces the cost in Skill Points by 3. Level 3 grants you FREE use of the Skill.
+Empty slot
+Immunity
+Vulnerability
+Unknown
+Unknown
+You already read this manuscript
+Manuscript currently being read
+Collector Coins
+Erase
+Check the JOURNAL
+IMMUNITY
+VULNERABILITY
+MANUSCRIPTS
+NARRATIVE ITEMS
+TRAITS
+You previously did something that unlocks this choice of answer!
+START A NEW GAME
+with the participation of the FAJV - Centre National du Cinéma and l'Image Animée et Ministère du Redressement productif
+Use the right stick <style widget=Murder:Button:TutoCamera></style> to control the camera
+Use the right stick <style widget=Murder:Button:TutoCamera></style> to control the camera
+Use the left stick <style widget=Murder:Button:TutoMovement></style> to move your character
+Use the left stick <style widget=Murder:Button:TutoMovement></style> to move your character
+Hold down <style widget=Murder:Button:Run></style> to move faster
+MULTIPLE PATHS
+There are multiple paths to reach your objective. It may be a good idea to think twice before embarking on the first path you come to.
+Succeeded Step
+Failed Step
+Displays Immunities - Vulnerabilities
+Cures Negative Alterations
+Restores 2 Effort Points
+Next skill use is free
+Press START to resume
+Choice already made
+Intoxicated
+Dialog Timer is hidden
+Opportunist
+Effort Point Cost: -1
+Focused
+Next skill use is free
+Exalted
+Reveals Vulnerabilities and Immunities of your Discussion Partner
+Exhausted
+1 unusable Effort Point (cumulative)
+Disconcerted
+Effort Points Cost: +1
+Blunders left
+New Manuscript completed:
+DIALOG TIMER
+When the time limit is over, an answer is automatically selected.
+Check the Dialog Timer at the bottom of the screen
+VULNERABILITY
+IMMUNITY
+Allocation of points
+Lost coins in Lord Mortimer's manor
+Review all TALENTS in the dedicated tab in the MENU
