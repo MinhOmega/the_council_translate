@@ -1,0 +1,100 @@
+|ConvertChestCode(2,4)
+Thay đổi chữ cái đầu tiên
+A
+C
+Z
+E
+Quay lại
+Thay đổi chữ cái thứ hai
+R
+B
+E
+A
+Quay lại
+Thay đổi chữ cái thứ ba
+S
+U
+E
+I
+Quay lại
+Thay đổi chữ cái thứ tư
+N
+E
+L
+S
+Quay lại
+Di chuyển đi
+Một chiếc rương với biểu tượng huyền bí đại diện cho Không Khí.
+Sử dụng chìa khóa bên trái
+Sử dụng chìa khóa bên phải
+Mở cả hai ổ khóa
+Mở khóa thứ hai
+Di chuyển đi
+Một chiếc rương với biểu tượng huyền bí đại diện cho Không Khí.
+Sử dụng chìa khóa bên trái
+Sử dụng chìa khóa bên phải
+Mở cả hai ổ khóa
+Mở khóa thứ hai
+Di chuyển đi
+Một chiếc rương với họa tiết đại diện cho biểu tượng giả kim của nước.
+Sử dụng chìa khóa bên trái
+Sử dụng chìa khóa bên phải
+Mở cả hai ổ khóa
+Mở khóa thứ hai
+Di chuyển đi
+Một chiếc rương với họa tiết đại diện cho biểu tượng giả kim của nước.
+Sử dụng chìa khóa bên trái
+Sử dụng chìa khóa bên phải
+Mở cả hai ổ khóa
+Mở khóa thứ hai
+Di chuyển đi
+Một chiếc rương với họa tiết đại diện cho biểu tượng giả kim của lửa.
+Sử dụng chìa khóa bên trái
+Sử dụng chìa khóa bên phải
+Mở cả hai ổ khóa
+Mở khóa thứ hai
+Di chuyển đi
+Một chiếc rương với họa tiết đại diện cho biểu tượng giả kim của lửa.
+Sử dụng chìa khóa bên trái
+Sử dụng chìa khóa bên phải
+Mở cả hai ổ khóa
+Mở khóa thứ hai
+Di chuyển đi
+Có biểu tượng giả kim của Đất trên nắp.
+Sử dụng chìa khóa bên trái
+Sử dụng chìa khóa bên phải
+Mở cả hai ổ khóa
+Mở khóa thứ hai
+Di chuyển đi
+Có biểu tượng giả kim của Đất trên nắp.
+Sử dụng chìa khóa bên trái
+Sử dụng chìa khóa bên phải
+Mở cả hai ổ khóa
+Mở khóa thứ hai
+Di chuyển đi
+VÔ TỘI
+Kết quả của phiên tòa đã có lợi cho bạn
+Bạn nhận được 1 điểm Niềm Tin
+ĐÁNG NGỜ
+Bạn đã không thành công trong việc thuyết phục bất kỳ ai về sự vô tội của mình liên quan đến Elizabeth Adams.
+Niềm Tin tốn thêm 1 điểm Nỗ Lực
+NGƯỜI NGHE LÉN
+Bạn nhận được 1 điểm Xảo Quyệt
+Bạn đã nghe lén cuộc trò chuyện giữa Piaggi và Wollner
+NÓNG VỘI
+Logic tốn thêm 1 điểm Nỗ Lực
+Bạn đã mắc sai lầm khi cố gắng giải câu đố trong mê cung
+PHÂN TÍCH
+Bạn nhận được 1 điểm Logic
+Bạn đã giải câu đố trong mê cung trong lần thử đầu tiên
+NGƯỜI THEO CHỦ NGHĨA HY LẠP
+Bạn nhận được 1 điểm Ngôn Ngữ Học
+Bạn đã dịch tất cả các biển trên các bức tượng trong vườn
+NGƯỜI CHĂN CỪU
+Bạn nhận được 1 điểm Thao Túng
+Bạn đã đọc cuốn sách về những điểm yếu của tâm lý con người trong phòng nghiên cứu bí mật của Ngài Mortimer
+LUẬT SƯ
+Bạn nhận được 1 điểm Niềm Tin
+Bạn đã thuyết phục các thẩm phán về sự vô tội của mình đối với Elizabeth Adams
+NGƯỜI TỐ CÁO
+Bạn nhận được 1 điểm Niềm Tin 

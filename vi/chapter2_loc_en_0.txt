@@ -1,578 +1,578 @@
-Red berries
-Small berries found in Lord Mortimer's study
-Chocolate
-Chocolate found on Lord Mortimer's desk
-Lodestone
-A round magnet 
-Stone sword
-A stone sword with moss on it
-Sarah's note
-A note from my mother, found in Lord Mortimer's secret study. It says: “Let's see if you have the courage to come and see me, alone.”
-A note from Mother, found in the Gutenberg Bible. It says: “We must leave urgently, but first I absolutely must go beyond the Nightmare.”
-Bible's note
-A chest locked with a four letter code.
-... surely a word close to the owner's heart.
+Quả mọng đỏ
+Những quả mọng nhỏ được tìm thấy trong phòng làm việc của Ngài Mortimer
+Sô-cô-la
+Sô-cô-la được tìm thấy trên bàn của Ngài Mortimer
+Đá nam châm
+Một nam châm tròn
+Kiếm đá
+Một thanh kiếm đá có rêu phủ
+Ghi chú của Sarah
+Một ghi chú từ mẹ tôi, được tìm thấy trong phòng nghiên cứu bí mật của Ngài Mortimer. Nó viết: "Hãy xem liệu bạn có đủ can đảm để đến gặp tôi, một mình."
+Một ghi chú từ Mẹ, được tìm thấy trong Kinh Thánh Gutenberg. Nó viết: "Chúng ta phải rời đi gấp, nhưng trước tiên tôi nhất định phải đi qua bên kia Cơn Ác Mộng."
+Ghi chú của Kinh Thánh
+Một chiếc rương bị khóa với mã bốn chữ cái.
+... chắc chắn là một từ gần gũi với trái tim của chủ nhân.
 |ConvertChestCode(1,4)
-Change first letter
+Thay đổi chữ cái đầu tiên
 I
 Z
 L
 O
-Return
-Change second letter
+Quay lại
+Thay đổi chữ cái thứ hai
 P
 I
 F
 E
-Return
-Change third letter
+Quay lại
+Thay đổi chữ cái thứ ba
 O
 A
 N
 M
-Return
-Change fourth letter
+Quay lại
+Thay đổi chữ cái thứ tư
 U
 X
 G
 C
-Return
-Use your knowledge.
-If I'm not mistaken, Paracelsus named the element called Zinc.
-Move away
-A chest locked with a four letter code.
-... surely a word close to the owner's heart.
+Quay lại
+Sử dụng kiến thức của bạn.
+Nếu tôi không nhầm, Paracelsus đã đặt tên cho nguyên tố được gọi là Kẽm.
+Di chuyển đi
+Một chiếc rương bị khóa với mã bốn chữ cái.
+... chắc chắn là một từ gần gũi với trái tim của chủ nhân.
 |ConvertChestCode(1,4)
-Change first letter
+Thay đổi chữ cái đầu tiên
 I
 Z
 L
 O
-Return
-Change second letter
+Quay lại
+Thay đổi chữ cái thứ hai
 P
 I
 F
 E
-Return
-Change third letter
+Quay lại
+Thay đổi chữ cái thứ ba
 O
 A
 N
 M
-Return
-Change fourth letter
+Quay lại
+Thay đổi chữ cái thứ tư
 U
 X
 G
 C
-Return
-Use your knowledge.
-If I'm not mistaken, Paracelsus named the element called Zinc.
-Move away
-Which four letter word could open this chest?
+Quay lại
+Sử dụng kiến thức của bạn.
+Nếu tôi không nhầm, Paracelsus đã đặt tên cho nguyên tố được gọi là Kẽm.
+Di chuyển đi
+Từ bốn chữ cái nào có thể mở chiếc rương này?
 |ConvertChestCode(2,4)
-Change first letter
+Thay đổi chữ cái đầu tiên
 A
 C
 Z
 E
-Return
-Change second letter
+Quay lại
+Thay đổi chữ cái thứ hai
 R
 B
 E
 A
-Return
-Change third letter
+Quay lại
+Thay đổi chữ cái thứ ba
 S
 U
 E
 I
-Return
-Change fourth letter
+Quay lại
+Thay đổi chữ cái thứ tư
 N
 E
 L
 S
-Return
-Move away
-Which four letter word could open this chest?
+Quay lại
+Di chuyển đi
+Từ bốn chữ cái nào có thể mở chiếc rương này?
 |ConvertChestCode(2,4)
-Change first letter
+Thay đổi chữ cái đầu tiên
 A
 C
 Z
 E
-Return
-Change second letter
+Quay lại
+Thay đổi chữ cái thứ hai
 R
 B
 E
 A
-Return
-Change third letter
+Quay lại
+Thay đổi chữ cái thứ ba
 S
 U
 E
 I
-Return
-Change fourth letter
+Quay lại
+Thay đổi chữ cái thứ tư
 N
 E
 L
 S
-Return
-Move away
-A chest with the occult symbol representing Air.
-Use the left key
-Use the right key
-Pick both locks
-Unlock the second lock
-Move away
-A chest with the occult symbol representing Air.
-Use the left key
-Use the right key
-Pick both locks
-Unlock the second lock
-Move away
-A chest with a motif representing the alchimic symbol of water.
-Use the left key
-Use the right key
-Pick both locks
-Unlock the second lock
-Move away
-A chest with a motif representing the alchimic symbol of water.
-Use the left key
-Use the right key
-Pick both locks
-Unlock the second lock
-Move away
-A chest with a motif representing the alchemical symbol of fire.
-Use the left key
-Use the right key
-Pick the two locks
-Unlock the second lock
-Move away
-A chest with a motif representing the alchemical symbol of fire.
-Use the left key
-Use the right key
-Pick the two locks
-Unlock the second lock
-Move away
-There's the alchemical symbol of the Earth on the lid.
-Use the left key
-Use the right key
-Pick the two locks
-Unlock the second lock
-Move away
-There's the alchemical symbol of the Earth on the lid.
-Use the left key
-Use the right key
-Pick the two locks
-Unlock the second lock
-Move away
-INNOCENT
-The outcome of the trial was in your favor
-You gain 1 point in Conviction
-SUSPICIOUS
-You have been unsuccessful of convincing anyone of your innocence regarding Elizabeth Adams.
-Conviction costs 1 more effort point
-SNOOPER
-You gain 1 point in Subterfuge
-You eavesdropped on the conversation between Piaggi and Wollner
-HOTHEADED
-Logic costs 1 more Effort point 
-You made a mistake while trying to solve the enigma in the labyrinth
-ANALYTICAL
-You gain 1 point in Logic
-You solved the enigma in the labyrinth at the first attempt
-HELLENIST
-You gain 1 point in Linguistics
-You translated all the plaques on the statues in the garden
-SHEPHERD
-You gain 1 point in Manipulation
-You read the book about the weaknesses of human psychology in Lord Mortimer's secret study
-LAWYER
-You gain 1 point in Conviction 
-You convinced the judges of your innocence over Elizabeth Adams
-ACCUSER
-You gain 1 Conviction point
-You denounced a suspect for the murder of Elizabeth Adams to Lord Mortimer
-CONDEMNED
-The use of the Vigilance skill costs 1 more effort point
-You have been condemned for the murder of Elizabeth Adams
-THEOLOGIAN
-You gain 1 point in Occultism
-You found your mother's messages hidden in the Bible
+Quay lại
+Di chuyển đi
+Một chiếc rương với biểu tượng huyền bí đại diện cho Không Khí.
+Sử dụng chìa khóa bên trái
+Sử dụng chìa khóa bên phải
+Mở cả hai ổ khóa
+Mở khóa thứ hai
+Di chuyển đi
+Một chiếc rương với biểu tượng huyền bí đại diện cho Không Khí.
+Sử dụng chìa khóa bên trái
+Sử dụng chìa khóa bên phải
+Mở cả hai ổ khóa
+Mở khóa thứ hai
+Di chuyển đi
+Một chiếc rương với họa tiết đại diện cho biểu tượng giả kim của nước.
+Sử dụng chìa khóa bên trái
+Sử dụng chìa khóa bên phải
+Mở cả hai ổ khóa
+Mở khóa thứ hai
+Di chuyển đi
+Một chiếc rương với họa tiết đại diện cho biểu tượng giả kim của nước.
+Sử dụng chìa khóa bên trái
+Sử dụng chìa khóa bên phải
+Mở cả hai ổ khóa
+Mở khóa thứ hai
+Di chuyển đi
+Một chiếc rương với họa tiết đại diện cho biểu tượng giả kim của lửa.
+Sử dụng chìa khóa bên trái
+Sử dụng chìa khóa bên phải
+Mở cả hai ổ khóa
+Mở khóa thứ hai
+Di chuyển đi
+Một chiếc rương với họa tiết đại diện cho biểu tượng giả kim của lửa.
+Sử dụng chìa khóa bên trái
+Sử dụng chìa khóa bên phải
+Mở cả hai ổ khóa
+Mở khóa thứ hai
+Di chuyển đi
+Có biểu tượng giả kim của Đất trên nắp.
+Sử dụng chìa khóa bên trái
+Sử dụng chìa khóa bên phải
+Mở cả hai ổ khóa
+Mở khóa thứ hai
+Di chuyển đi
+Có biểu tượng giả kim của Đất trên nắp.
+Sử dụng chìa khóa bên trái
+Sử dụng chìa khóa bên phải
+Mở cả hai ổ khóa
+Mở khóa thứ hai
+Di chuyển đi
+VÔ TỘI
+Kết quả của phiên tòa đã có lợi cho bạn
+Bạn nhận được 1 điểm Niềm Tin
+ĐÁNG NGỜ
+Bạn đã không thành công trong việc thuyết phục bất kỳ ai về sự vô tội của mình liên quan đến Elizabeth Adams.
+Niềm Tin tốn thêm 1 điểm Nỗ Lực
+NGƯỜI NGHE LÉN
+Bạn nhận được 1 điểm Xảo Quyệt
+Bạn đã nghe lén cuộc trò chuyện giữa Piaggi và Wollner
+NÓNG VỘI
+Logic tốn thêm 1 điểm Nỗ Lực
+Bạn đã mắc sai lầm khi cố gắng giải câu đố trong mê cung
+PHÂN TÍCH
+Bạn nhận được 1 điểm Logic
+Bạn đã giải câu đố trong mê cung trong lần thử đầu tiên
+NGƯỜI THEO CHỦ NGHĨA HY LẠP
+Bạn nhận được 1 điểm Ngôn Ngữ Học
+Bạn đã dịch tất cả các biển trên các bức tượng trong vườn
+NGƯỜI CHĂN CỪU
+Bạn nhận được 1 điểm Thao Túng
+Bạn đã đọc cuốn sách về những điểm yếu của tâm lý con người trong phòng nghiên cứu bí mật của Ngài Mortimer
+LUẬT SƯ
+Bạn nhận được 1 điểm Niềm Tin
+Bạn đã thuyết phục các thẩm phán về sự vô tội của mình đối với Elizabeth Adams
+NGƯỜI TỐ CÁO
+Bạn nhận được 1 điểm Niềm Tin
+Bạn đã tố cáo một nghi phạm về vụ giết Elizabeth Adams cho Ngài Mortimer
+BỊ KẾT TỘI
+Việc sử dụng kỹ năng Cảnh Giác tốn thêm 1 điểm nỗ lực
+Bạn đã bị kết tội giết Elizabeth Adams
+NHÀ THẦN HỌC
+Bạn nhận được 1 điểm Huyền Bí
+Bạn đã tìm thấy những thông điệp của mẹ bạn được giấu trong Kinh Thánh
 VIDOCQ
-You gain 1 point in Vigilance
-You have found all the clues and explored all the trails during the investigation into Elizabeth Adams' death
-IMPLACABLE
-Logic gains 1 skill point
-You denounced your own mother to Lord Mortimer in the course of the investigation into Elizabeth Adams' death
-MASTER OF ESCAPE
-You gain 1 point in Subterfuge
-You got out of Mortimer's secret study by yourself
-CLAUSTROPHOBIC
-Subterfuge costs 1 more Effort point
-You shut yourself inside Mortimer's secret study
-METHODICAL
-You gain 1 point in Vigilance
-You thoroughly searched Lord Mortimer's study
-CAUTIOUS
-You gain 1 point in Diversion
-You did not tell Emily about your doubts over your mother's behavior with Emma 
-HONEST
-You gain 1 point in Logic
-You told Emily about your doubts over your mother's behavior with Emma
-CITIZEN
-You gain 1 point in Psychology
-You obtained Jacques Péru's help to get out of the secret study
-INTERROGATOR
-You gain 1 point in Psychology
-You observed something odd about Peru's behavior
-My dear friend,
-I am writing because my cover appears to be blown. Our mutual friend asks you above all not to come, and to prepare our escape as a matter of urgency.
-We must be gone before the next guests arrive.
-See you soon.
-Yours, E.
-My dear friend,
-I am writing because my cover appears to be blown. Our mutual friend asks you above all not to come, and to prepare our escape as a matter of urgency.
-We must be gone before the next guests arrive.
-See you soon.
-Yours, E.
-My dear friend,
-The latest news from our Corsican friends is not very reassuring.
-Would you be so kind as to go there promptly in order to remind our friend Paoli of our respective arrangements?
-The Sardinian expedition must be a fiasco for the French army and I am anxious about young lieutenant Bonaparte's determination to shine more than necessary.
-I shall leave you to take care of it.
-Kind regards,
-Sir Gregory Holm.
-My dear friend,
-The latest news from our Corsican friends is not very reassuring.
-Would you be so kind as to go there promptly in order to remind our friend Paoli of our respective arrangements?
-The Sardinian expedition must be a fiasco for the French army and I am anxious about young lieutenant Bonaparte's determination to shine more than necessary.
-I shall leave you to take care of it.
-Kind regards,
-Sir Gregory Holm.
-Dear Lord Mortimer,
-I am writing to ask you to persuade President Washington not to sign the Fugitive Slave Act, as it stands.
-We must absolutely legislate on a national level and not allow every State to choose their policy regarding slaves.
-It was initially intended to resolve a conflict between Pennsylvania and Virginia, by signing it we risk legislating the hunting of blacks.
-More and more men of little faith are becoming slave hunters. And, unable to find any slaves on the run, they kidnap the first black they come across which they pass off as the wanted runaway.
-The situation threatens to quickly degenerate.
-Thank you in advance.
-Your friend,
+Bạn nhận được 1 điểm Cảnh Giác
+Bạn đã tìm thấy tất cả các manh mối và khám phá tất cả các dấu vết trong cuộc điều tra về cái chết của Elizabeth Adams
+KHÔNG KHOAN NHƯỢNG
+Logic nhận được 1 điểm kỹ năng
+Bạn đã tố cáo chính mẹ mình với Ngài Mortimer trong quá trình điều tra về cái chết của Elizabeth Adams
+BẬC THẦY THOÁT HIỂM
+Bạn nhận được 1 điểm Xảo Quyệt
+Bạn đã tự mình thoát khỏi phòng nghiên cứu bí mật của Mortimer
+SỢ NƠI CHẬT HẸP
+Xảo Quyệt tốn thêm 1 điểm Nỗ Lực
+Bạn đã tự nhốt mình trong phòng nghiên cứu bí mật của Mortimer
+CÓ PHƯƠNG PHÁP
+Bạn nhận được 1 điểm Cảnh Giác
+Bạn đã tìm kiếm kỹ lưỡng phòng làm việc của Ngài Mortimer
+THẬN TRỌNG
+Bạn nhận được 1 điểm Chuyển Hướng
+Bạn đã không nói với Emily về những nghi ngờ của bạn về hành vi của mẹ bạn đối với Emma
+TRUNG THỰC
+Bạn nhận được 1 điểm Logic
+Bạn đã nói với Emily về những nghi ngờ của bạn về hành vi của mẹ bạn đối với Emma
+CÔNG DÂN
+Bạn nhận được 1 điểm Tâm Lý Học
+Bạn đã nhận được sự giúp đỡ của Jacques Péru để thoát khỏi phòng nghiên cứu bí mật
+NGƯỜI THẨM VẤN
+Bạn nhận được 1 điểm Tâm Lý Học
+Bạn đã quan sát thấy điều gì đó kỳ lạ về hành vi của Peru
+Bạn thân mến,
+Tôi viết thư này vì vỏ bọc của tôi dường như đã bị lộ. Người bạn chung của chúng ta yêu cầu bạn trên hết đừng đến, và chuẩn bị cho việc chúng ta trốn thoát một cách khẩn cấp.
+Chúng ta phải đi trước khi những vị khách tiếp theo đến.
+Hẹn gặp lại sớm.
+Thân ái, E.
+Bạn thân mến,
+Tôi viết thư này vì vỏ bọc của tôi dường như đã bị lộ. Người bạn chung của chúng ta yêu cầu bạn trên hết đừng đến, và chuẩn bị cho việc chúng ta trốn thoát một cách khẩn cấp.
+Chúng ta phải đi trước khi những vị khách tiếp theo đến.
+Hẹn gặp lại sớm.
+Thân ái, E.
+Bạn thân mến,
+Tin tức mới nhất từ những người bạn Corsica của chúng ta không mấy yên tâm.
+Bạn có thể vui lòng đến đó ngay lập tức để nhắc nhở người bạn Paoli của chúng ta về những thỏa thuận tương ứng của chúng ta không?
+Cuộc viễn chinh Sardinia phải là một thất bại đối với quân đội Pháp và tôi lo lắng về quyết tâm của trung úy trẻ Bonaparte muốn tỏa sáng hơn mức cần thiết.
+Tôi sẽ để bạn lo liệu việc này.
+Trân trọng,
+Ngài Gregory Holm.
+Bạn thân mến,
+Tin tức mới nhất từ những người bạn Corsica của chúng ta không mấy yên tâm.
+Bạn có thể vui lòng đến đó ngay lập tức để nhắc nhở người bạn Paoli của chúng ta về những thỏa thuận tương ứng của chúng ta không?
+Cuộc viễn chinh Sardinia phải là một thất bại đối với quân đội Pháp và tôi lo lắng về quyết tâm của trung úy trẻ Bonaparte muốn tỏa sáng hơn mức cần thiết.
+Tôi sẽ để bạn lo liệu việc này.
+Trân trọng,
+Ngài Gregory Holm.
+Kính gửi Ngài Mortimer,
+Tôi viết thư để yêu cầu ngài thuyết phục Tổng thống Washington không ký Đạo luật Nô lệ Chạy trốn, như hiện tại.
+Chúng ta phải tuyệt đối lập pháp ở cấp quốc gia và không cho phép mỗi Bang tự chọn chính sách của họ đối với nô lệ.
+Ban đầu nó được dự định để giải quyết xung đột giữa Pennsylvania và Virginia, bằng cách ký nó, chúng ta có nguy cơ hợp pháp hóa việc săn đuổi người da đen.
+Ngày càng nhiều người thiếu đức tin trở thành thợ săn nô lệ. Và, không thể tìm thấy bất kỳ nô lệ nào đang chạy trốn, họ bắt cóc người da đen đầu tiên họ gặp và coi họ là người đang bị truy nã.
+Tình hình đe dọa sẽ nhanh chóng xấu đi.
+Cảm ơn trước.
+Bạn của ngài,
 John Adams
-P.S. Say hello to my daughter, Elizabeth, for me.
-Dear Lord Mortimer,
-I am writing to ask you to persuade President Washington not to sign the Fugitive Slave Act, as it stands.
-We must absolutely legislate on a national level and not allow every State to choose their policy regarding slaves.
-It was initially intended to resolve a conflict between Pennsylvania and Virginia, by signing it we risk legislating the hunting of blacks.
-More and more men of little faith are becoming slave hunters. And, unable to find any slaves on the run, they kidnap the first black they come across which they pass off as the wanted runaway.
-The situation threatens to quickly degenerate.
-Thank you in advance.
-Your friend,
+P.S. Hãy gửi lời chào đến con gái tôi, Elizabeth, giúp tôi.
+Kính gửi Ngài Mortimer,
+Tôi viết thư để yêu cầu ngài thuyết phục Tổng thống Washington không ký Đạo luật Nô lệ Chạy trốn, như hiện tại.
+Chúng ta phải tuyệt đối lập pháp ở cấp quốc gia và không cho phép mỗi Bang tự chọn chính sách của họ đối với nô lệ.
+Ban đầu nó được dự định để giải quyết xung đột giữa Pennsylvania và Virginia, bằng cách ký nó, chúng ta có nguy cơ hợp pháp hóa việc săn đuổi người da đen.
+Ngày càng nhiều người thiếu đức tin trở thành thợ săn nô lệ. Và, không thể tìm thấy bất kỳ nô lệ nào đang chạy trốn, họ bắt cóc người da đen đầu tiên họ gặp và coi họ là người đang bị truy nã.
+Tình hình đe dọa sẽ nhanh chóng xấu đi.
+Cảm ơn trước.
+Bạn của ngài,
 John Adams
-P.S. Say hello to my daughter, Elizabeth, for me.
-Dear Lord Mortimer,
-I regret to inform you that our plans in Poland are set to fail.
-Russia and Prussia are working in cohort to bleed our dear Poland.
-We have no power here.
-We continue to maintain pressure as best we can on the Prussian border as agreed in order to occupy Frederick William's army, but I do not know how long we can keep it up.
-Your devoted servant,
+P.S. Hãy gửi lời chào đến con gái tôi, Elizabeth, giúp tôi.
+Kính gửi Ngài Mortimer,
+Tôi rất tiếc phải thông báo rằng kế hoạch của chúng ta ở Ba Lan sắp thất bại.
+Nga và Phổ đang hợp tác để làm suy yếu Ba Lan thân yêu của chúng ta.
+Chúng ta không có quyền lực ở đây.
+Chúng tôi tiếp tục duy trì áp lực tốt nhất có thể ở biên giới Phổ như đã thỏa thuận để chiếm đóng quân đội của Frederick William, nhưng tôi không biết chúng tôi có thể duy trì được bao lâu.
+Người phục vụ trung thành của ngài,
 Elfriede Bauer
-Dear Lord Mortimer,
-I regret to inform you that our plans in Poland are set to fail.
-Russia and Prussia are working in cohort to bleed our dear Poland.
-We have no power here.
-We continue to maintain pressure as best we can on the Prussian border as agreed in order to occupy Frederick William's army, but I do not know how long we can keep it up.
-Your devoted servant,
+Kính gửi Ngài Mortimer,
+Tôi rất tiếc phải thông báo rằng kế hoạch của chúng ta ở Ba Lan sắp thất bại.
+Nga và Phổ đang hợp tác để làm suy yếu Ba Lan thân yêu của chúng ta.
+Chúng ta không có quyền lực ở đây.
+Chúng tôi tiếp tục duy trì áp lực tốt nhất có thể ở biên giới Phổ như đã thỏa thuận để chiếm đóng quân đội của Frederick William, nhưng tôi không biết chúng tôi có thể duy trì được bao lâu.
+Người phục vụ trung thành của ngài,
 Elfriede Bauer
-Dear Lord Mortimer,
-Be assured of my entire devotion.
-As agreed, the Vendée peasantry will soon rise up.
-My network is striving to increase the pressure on the masses.
-The decision of the Assembly which consists of voting the civil constitution of the clergy is inflaming the region.
-The people overwhelmingly reject the priests, and swear loyalty to the State.
-If you could ensure that the Convention will administer the final blow to the people, the issue will be resolved.
-Without wishing to direct you, a forced recruitment for a faraway conflict would be a perfect way to arouse the people definitively.
-Your devoted servant,
+Kính gửi Ngài Mortimer,
+Xin hãy tin tưởng vào sự tận tâm hoàn toàn của tôi.
+Như đã thỏa thuận, nông dân Vendée sẽ sớm nổi dậy.
+Mạng lưới của tôi đang cố gắng tăng áp lực lên quần chúng.
+Quyết định của Quốc hội bao gồm việc bỏ phiếu cho hiến pháp dân sự của giáo sĩ đang làm bùng cháy khu vực.
+Người dân áp đảo từ chối các linh mục, và thề trung thành với Nhà nước.
+Nếu ngài có thể đảm bảo rằng Công ước sẽ đưa ra đòn cuối cùng cho người dân, vấn đề sẽ được giải quyết.
+Không muốn chỉ đạo ngài, việc tuyển dụng bắt buộc cho một cuộc xung đột xa xôi sẽ là một cách hoàn hảo để khơi dậy người dân một cách dứt khoát.
+Người phục vụ tận tâm của ngài,
 François Athanase Charrette de la Contrie
-Dear Lord Mortimer,
-Be assured of my entire devotion.
-As agreed, the Vendée peasantry will soon rise up.
-My network is striving to increase the pressure on the masses.
-The decision of the Assembly which consists of voting the civil constitution of the clergy is inflaming the region.
-The people overwhelmingly reject the priests, and swear loyalty to the State.
-If you could ensure that the Convention will administer the final blow to the people, the issue will be resolved.
-Without wishing to direct you, a forced recruitment for a faraway conflict would be a perfect way to arouse the people definitively.
-Your devoted servant,
+Kính gửi Ngài Mortimer,
+Xin hãy tin tưởng vào sự tận tâm hoàn toàn của tôi.
+Như đã thỏa thuận, nông dân Vendée sẽ sớm nổi dậy.
+Mạng lưới của tôi đang cố gắng tăng áp lực lên quần chúng.
+Quyết định của Quốc hội bao gồm việc bỏ phiếu cho hiến pháp dân sự của giáo sĩ đang làm bùng cháy khu vực.
+Người dân áp đảo từ chối các linh mục, và thề trung thành với Nhà nước.
+Nếu ngài có thể đảm bảo rằng Công ước sẽ đưa ra đòn cuối cùng cho người dân, vấn đề sẽ được giải quyết.
+Không muốn chỉ đạo ngài, việc tuyển dụng bắt buộc cho một cuộc xung đột xa xôi sẽ là một cách hoàn hảo để khơi dậy người dân một cách dứt khoát.
+Người phục vụ tận tâm của ngài,
 François Athanase Charrette de la Contrie
-Sir,
-Your plans to intervene in Belgium are to go ahead as set down.
-I am to occupy the Prussian army.
-Your delivery of cannons to Valmy has ensured our victory.
-As agreed, I have notified the King of Prussia of the invasion plans of Custine and the Army of the North,
-I will keep the Austrians out of Belgium.
-I am to quickly return to Paris as I sense the fate of our King Louis is about to be decided dishonorably and it is impossible for me not to intervene.
-Should you have any missives to give to me, I invite you to go by, as per usual, our friend, Monsieur Péru.
-Sincerely yours,
-Charles-François Dumouriez, General of the Army of the North.
-Sir,
-Your plans to intervene in Belgium are to go ahead as set down.
-I am to occupy the Prussian army.
-Your delivery of cannons to Valmy has ensured our victory.
-As agreed, I have notified the King of Prussia of the invasion plans of Custine and the Army of the North,
-I will keep the Austrians out of Belgium.
-I am to quickly return to Paris as I sense the fate of our King Louis is about to be decided dishonorably and it is impossible for me not to intervene.
-Should you have any missives to give to me, I invite you to go by, as per usual, our friend, Monsieur Péru.
-Sincerely yours,
-Charles-François Dumouriez, General of the Army of the North.
-My dear friend,
-Thank you for your words and I do understand your situation.
-I regret having to confront you militarily,
-but if the situation obliges me to declare war, then do what you think fit.
-Under your advisement and with a weary heart, I am off to meet up with the coalition that opposes you.
-In the hope of serving you again.
-George, King of Hanover, King of the United Kingdom of Great Britain and Ireland.
-My dear friend,
-Thank you for your words and I do understand your situation.
-I regret having to confront you militarily,
-but if the situation obliges me to declare war, then do what you think fit.
-Under your advisement and with a weary heart, I am off to meet up with the coalition that opposes you.
-In the hope of serving you again.
-George, King of Hanover, King of the United Kingdom of Great Britain and Ireland.
-My dearest Lord Mortimer,
-I regret to inform you that it will soon be impossible to ignore pressure from the Russians.
-The Czarina Catherine has every intention of supporting the Count of Provence and will recognize him as the regent of the Kingdom of France,
-once King Louis has disappeared from the political stage.
-I am sorry to announce bad news but expect dark times ahead.
-Your friend,
+Thưa Ngài,
+Kế hoạch can thiệp của ngài ở Bỉ sẽ được tiến hành như đã định.
+Tôi sẽ chiếm đóng quân đội Phổ.
+Việc ngài giao pháo đến Valmy đã đảm bảo chiến thắng của chúng ta.
+Như đã thỏa thuận, tôi đã thông báo cho Vua Phổ về kế hoạch xâm lược của Custine và Quân đội Miền Bắc,
+Tôi sẽ giữ người Áo ra khỏi Bỉ.
+Tôi sẽ nhanh chóng trở về Paris vì tôi cảm thấy số phận của Vua Louis của chúng ta sắp được quyết định một cách không danh dự và tôi không thể không can thiệp.
+Nếu ngài có bất kỳ thư từ nào muốn gửi cho tôi, tôi mời ngài thông qua, như thường lệ, người bạn của chúng ta, Monsieur Péru.
+Trân trọng,
+Charles-François Dumouriez, Tướng Quân đội Miền Bắc.
+Thưa Ngài,
+Kế hoạch can thiệp của ngài ở Bỉ sẽ được tiến hành như đã định.
+Tôi sẽ chiếm đóng quân đội Phổ.
+Việc ngài giao pháo đến Valmy đã đảm bảo chiến thắng của chúng ta.
+Như đã thỏa thuận, tôi đã thông báo cho Vua Phổ về kế hoạch xâm lược của Custine và Quân đội Miền Bắc,
+Tôi sẽ giữ người Áo ra khỏi Bỉ.
+Tôi sẽ nhanh chóng trở về Paris vì tôi cảm thấy số phận của Vua Louis của chúng ta sắp được quyết định một cách không danh dự và tôi không thể không can thiệp.
+Nếu ngài có bất kỳ thư từ nào muốn gửi cho tôi, tôi mời ngài thông qua, như thường lệ, người bạn của chúng ta, Monsieur Péru.
+Trân trọng,
+Charles-François Dumouriez, Tướng Quân đội Miền Bắc.
+Bạn thân mến,
+Cảm ơn vì những lời của bạn và tôi hiểu tình hình của bạn.
+Tôi rất tiếc phải đối đầu với bạn về mặt quân sự,
+nhưng nếu tình hình buộc tôi phải tuyên chiến, thì hãy làm những gì bạn cho là phù hợp.
+Theo lời khuyên của bạn và với trái tim nặng trĩu, tôi sẽ đi gặp liên minh chống lại bạn.
+Với hy vọng được phục vụ bạn một lần nữa.
+George, Vua của Hanover, Vua của Vương quốc Anh và Ireland.
+Bạn thân mến,
+Cảm ơn vì những lời của bạn và tôi hiểu tình hình của bạn.
+Tôi rất tiếc phải đối đầu với bạn về mặt quân sự,
+nhưng nếu tình hình buộc tôi phải tuyên chiến, thì hãy làm những gì bạn cho là phù hợp.
+Theo lời khuyên của bạn và với trái tim nặng trĩu, tôi sẽ đi gặp liên minh chống lại bạn.
+Với hy vọng được phục vụ bạn một lần nữa.
+George, Vua của Hanover, Vua của Vương quốc Anh và Ireland.
+Ngài Mortimer thân mến nhất,
+Tôi rất tiếc phải thông báo rằng sẽ sớm không thể bỏ qua áp lực từ người Nga.
+Nữ hoàng Catherine có mọi ý định ủng hộ Bá tước xứ Provence và sẽ công nhận ông ta là nhiếp chính của Vương quốc Pháp,
+một khi Vua Louis biến mất khỏi sân khấu chính trị.
+Tôi xin lỗi phải thông báo tin xấu nhưng hãy chuẩn bị cho những thời điểm đen tối phía trước.
+Bạn của ngài,
 Elfriede Bauer
-My dearest Lord Mortimer,
-I regret to inform you that it will soon be impossible to ignore pressure from the Russians.
-The Czarina Catherine has every intention of supporting the Count of Provence and will recognize him as the regent of the Kingdom of France,
-once King Louis has disappeared from the political stage.
-I am sorry to announce bad news but expect dark times ahead.
-Your friend,
+Ngài Mortimer thân mến nhất,
+Tôi rất tiếc phải thông báo rằng sẽ sớm không thể bỏ qua áp lực từ người Nga.
+Nữ hoàng Catherine có mọi ý định ủng hộ Bá tước xứ Provence và sẽ công nhận ông ta là nhiếp chính của Vương quốc Pháp,
+một khi Vua Louis biến mất khỏi sân khấu chính trị.
+Tôi xin lỗi phải thông báo tin xấu nhưng hãy chuẩn bị cho những thời điểm đen tối phía trước.
+Bạn của ngài,
 Elfriede Bauer
 William,
-Whatever your projects, it would seem that our father is against leaving you with a grip on Europe.
-Russia will soon commit itself to the coalition against your dear France.
-Don't think you can resist for long.
-I beseech you, William, not to persist, you are tearing our family apart.
-You loving brother.
+Dù dự án của anh là gì, có vẻ như cha chúng ta phản đối việc để anh nắm quyền kiểm soát châu Âu.
+Nga sẽ sớm cam kết tham gia liên minh chống lại nước Pháp thân yêu của anh.
+Đừng nghĩ rằng anh có thể kháng cự lâu dài.
+Tôi khẩn cầu anh, William, đừng cố chấp, anh đang chia rẽ gia đình chúng ta.
+Người em trai yêu quý của anh.
 G.
-P.S. I shall come to your conference but do you think that holding it at the present moment is conductive?
+P.S. Tôi sẽ đến hội nghị của anh nhưng anh có nghĩ rằng tổ chức nó vào thời điểm hiện tại là phù hợp không?
 William,
-Whatever your projects, it would seem that our father is against leaving you with a grip on Europe.
-Russia will soon commit itself to the coalition against your dear France.
-Don't think you can resist for long.
-I beseech you, William, not to persist, you are tearing our family apart.
-You loving brother.
+Dù dự án của anh là gì, có vẻ như cha chúng ta phản đối việc để anh nắm quyền kiểm soát châu Âu.
+Nga sẽ sớm cam kết tham gia liên minh chống lại nước Pháp thân yêu của anh.
+Đừng nghĩ rằng anh có thể kháng cự lâu dài.
+Tôi khẩn cầu anh, William, đừng cố chấp, anh đang chia rẽ gia đình chúng ta.
+Người em trai yêu quý của anh.
 G.
-P.S. I shall come to your conference but do you think that holding it at the present moment is conductive?
-My dearest friend,
-Our plans are going ahead wonderfully well. The Coinage Act has been voted,
-your project of founding the very first bank of America should not be delayed and will probably be called Union Bank.
-As for the construction of the White House, it is still die to begin in October.
-I will accept no delays, you can trust me on this.
-I hope to see you soon.
-Thomas Jefferson, Secretary of State
-My dearest friend,
-Our plans are going ahead wonderfully well. The Coinage Act has been voted,
-your project of founding the very first bank of America should not be delayed and will probably be called Union Bank.
-As for the construction of the White House, it is still die to begin in October.
-I will accept no delays, you can trust me on this.
-I hope to see you soon.
-Thomas Jefferson, Secretary of State
-The gift has been delivered.
-Timur Shah Durrani, King of Afghanistan, of Punjab, of Sindh, of Mashhad and of Kashmir should not retain his title much longer.
-His son, Zaman, will succeed him as planned. We will then be able to resume negotiations
+P.S. Tôi sẽ đến hội nghị của anh nhưng anh có nghĩ rằng tổ chức nó vào thời điểm hiện tại là phù hợp không?
+Bạn thân mến nhất,
+Kế hoạch của chúng ta đang tiến triển tuyệt vời. Đạo luật Tiền tệ đã được bỏ phiếu,
+dự án của bạn về việc thành lập ngân hàng đầu tiên của Mỹ không nên bị trì hoãn và có thể sẽ được gọi là Ngân hàng Liên minh.
+Về việc xây dựng Nhà Trắng, nó vẫn dự kiến bắt đầu vào tháng Mười.
+Tôi sẽ không chấp nhận bất kỳ sự chậm trễ nào, bạn có thể tin tưởng tôi về điều này.
+Hy vọng sớm gặp lại bạn.
+Thomas Jefferson, Ngoại trưởng
+Bạn thân mến nhất,
+Kế hoạch của chúng ta đang tiến triển tuyệt vời. Đạo luật Tiền tệ đã được bỏ phiếu,
+dự án của bạn về việc thành lập ngân hàng đầu tiên của Mỹ không nên bị trì hoãn và có thể sẽ được gọi là Ngân hàng Liên minh.
+Về việc xây dựng Nhà Trắng, nó vẫn dự kiến bắt đầu vào tháng Mười.
+Tôi sẽ không chấp nhận bất kỳ sự chậm trễ nào, bạn có thể tin tưởng tôi về điều này.
+Hy vọng sớm gặp lại bạn.
+Thomas Jefferson, Ngoại trưởng
+Món quà đã được giao.
+Timur Shah Durrani, Vua của Afghanistan, của Punjab, của Sindh, của Mashhad và của Kashmir không nên giữ danh hiệu của mình lâu hơn nữa.
+Con trai ông ta, Zaman, sẽ kế vị như đã định. Sau đó chúng ta sẽ có thể tiếp tục đàm phán
 K.
-The gift has been delivered.
-Timur Shah Durrani, King of Afghanistan, of Punjab, of Sindh, of Mashhad and of Kashmir should not retain his title much longer.
-His son, Zaman, will succeed him as planned. We will then be able to resume negotiations
+Món quà đã được giao.
+Timur Shah Durrani, Vua của Afghanistan, của Punjab, của Sindh, của Mashhad và của Kashmir không nên giữ danh hiệu của mình lâu hơn nữa.
+Con trai ông ta, Zaman, sẽ kế vị như đã định. Sau đó chúng ta sẽ có thể tiếp tục đàm phán
 K.
-My dear friend,
-With thanks for your services rendered and help in the fight against the Spanish and the conquest of Oran,
-a ship bound for Marseilles, in France, has been chartered.
-Hidden aboard are a few corpses infected with the plague that is decimating our country at this moment in time.
-Be very careful when handling these boxes because if inadvertently opened,
-you risk spreading the disease all over France.
+Bạn thân mến,
+Cảm ơn vì những dịch vụ và sự giúp đỡ của bạn trong cuộc chiến chống lại người Tây Ban Nha và chinh phục Oran,
+một con tàu đi đến Marseilles, ở Pháp, đã được thuê.
+Giấu trên tàu là một vài xác chết bị nhiễm dịch hạch đang tàn phá đất nước chúng tôi vào thời điểm này.
+Hãy rất cẩn thận khi xử lý những chiếc hộp này vì nếu vô tình mở ra,
+bạn có nguy cơ lây lan dịch bệnh khắp nước Pháp.
 Mohamed El Kebir
-My dear friend,
-With thanks for your services rendered and help in the fight against the Spanish and the conquest of Oran,
-a ship bound for Marseilles, in France, has been chartered.
-Hidden aboard are a few corpses infected with the plague that is decimating our country at this moment in time.
-Be very careful when handling these boxes because if inadvertently opened,
-you risk spreading the disease all over France.
+Bạn thân mến,
+Cảm ơn vì những dịch vụ và sự giúp đỡ của bạn trong cuộc chiến chống lại người Tây Ban Nha và chinh phục Oran,
+một con tàu đi đến Marseilles, ở Pháp, đã được thuê.
+Giấu trên tàu là một vài xác chết bị nhiễm dịch hạch đang tàn phá đất nước chúng tôi vào thời điểm này.
+Hãy rất cẩn thận khi xử lý những chiếc hộp này vì nếu vô tình mở ra,
+bạn có nguy cơ lây lan dịch bệnh khắp nước Pháp.
 Mohamed El Kebir
-My Lord,
-I hope this letter will reach you. My hours are numbered.
-My printing house has been confiscated and I am imprisoned in the fortress of Shlisselburg.
-If by chance, you could intervene in my favor, I would be eternally in your debt.
-The Czarina Catherine should not be long in banning all Golden Order lodges from her territory.
-Our horizon has become considerably darker... 
-In the hope that you can help me, your friend,
+Thưa Ngài,
+Tôi hy vọng lá thư này sẽ đến được với ngài. Thời gian của tôi đã được đếm.
+Nhà in của tôi đã bị tịch thu và tôi bị giam trong pháo đài Shlisselburg.
+Nếu tình cờ, ngài có thể can thiệp giúp tôi, tôi sẽ mãi mãi mang ơn ngài.
+Nữ hoàng Catherine sẽ không lâu nữa sẽ cấm tất cả các hội Golden Order khỏi lãnh thổ của bà ấy.
+Chân trời của chúng ta đã trở nên tối tăm hơn nhiều...
+Với hy vọng rằng ngài có thể giúp tôi, bạn của ngài,
 Nikolay Novikov
-My Lord,
-I hope this letter will reach you. My hours are numbered.
-My printing house has been confiscated and I am imprisoned in the fortress of Shlisselburg.
-If by chance, you could intervene in my favor, I would be eternally in your debt.
-The Czarina Catherine should not be long in banning all Golden Order lodges from her territory.
-Our horizon has become considerably darker... 
-In the hope that you can help me, your friend,
+Thưa Ngài,
+Tôi hy vọng lá thư này sẽ đến được với ngài. Thời gian của tôi đã được đếm.
+Nhà in của tôi đã bị tịch thu và tôi bị giam trong pháo đài Shlisselburg.
+Nếu tình cờ, ngài có thể can thiệp giúp tôi, tôi sẽ mãi mãi mang ơn ngài.
+Nữ hoàng Catherine sẽ không lâu nữa sẽ cấm tất cả các hội Golden Order khỏi lãnh thổ của bà ấy.
+Chân trời của chúng ta đã trở nên tối tăm hơn nhiều...
+Với hy vọng rằng ngài có thể giúp tôi, bạn của ngài,
 Nikolay Novikov
-My dearest Lord Mortimer,
-As a friend of China, rest assured that you will be rewarded for your information.
-You need not worry about any scheming against us from Great Britain. Their representative, Mr Macartney, will leave with no hope of any arrangements involving us.
-Your friend,
-Qianlong, Emperor of the Qing dynasty.
-My dearest Lord Mortimer,
-As a friend of China, rest assured that you will be rewarded for your information.
-You need not worry about any scheming against us from Great Britain. Their representative, Mr Macartney, will leave with no hope of any arrangements involving us.
-Your friend,
-Qianlong, Emperor of the Qing dynasty.
-Lord Mortimer,
-The tiger is dying. On your demand I have attacked Travancore and personally cut the throats of as many Englishmen as possible though without help from the French,
-I cannot hold them off much longer.
-My forces are rapidly diminishing in spite of your new rockets.
-Help us.
-Tipu Sahib, sultan of Mysore
-Lord Mortimer,
-The tiger is dying. On your demand I have attacked Travancore and personally cut the throats of as many Englishmen as possible though without help from the French,
-I cannot hold them off much longer.
-My forces are rapidly diminishing in spite of your new rockets.
-Help us.
-Tipu Sahib, sultan of Mysore
-My dear friend,
-As desired, I have been able to gather together my friends to sign the agreement you proposed.
-This agreement shall be known as the "Buttonwood Agreement".
-If you recall the place where we gathered when you met us for the first time,
-you will understand why this name was given.
-Please find enclosed a list of my colleagues.
-Leonard Bleecker...  16, Wall Street
-Hugh Smith...  Tontine Coffee House
-Armstrong & Barnewall...  58, Broad Street
-Samuel March...  243, Queen Street
-Andrew D. Barclay...  136, Pearl Street
-Benjamin Seixas...  8, Hanover Square
-John Henry...  13, Duke Street
-John Bush...  195, Water Street
-David Reedy...  58, Wall Street
-Thanks to your help, we shall soon be able to meet at my place, the Tontine Coffee House.
-I look forward to seeing you as soon as possible.
+Ngài Mortimer thân mến nhất,
+Là một người bạn của Trung Quốc, hãy yên tâm rằng ngài sẽ được thưởng vì thông tin của mình.
+Ngài không cần lo lắng về bất kỳ âm mưu nào chống lại chúng tôi từ Anh Quốc. Đại diện của họ, ông Macartney, sẽ rời đi mà không có hy vọng về bất kỳ thỏa thuận nào liên quan đến chúng tôi.
+Bạn của ngài,
+Qianlong, Hoàng đế triều đại nhà Thanh.
+Ngài Mortimer thân mến nhất,
+Là một người bạn của Trung Quốc, hãy yên tâm rằng ngài sẽ được thưởng vì thông tin của mình.
+Ngài không cần lo lắng về bất kỳ âm mưu nào chống lại chúng tôi từ Anh Quốc. Đại diện của họ, ông Macartney, sẽ rời đi mà không có hy vọng về bất kỳ thỏa thuận nào liên quan đến chúng tôi.
+Bạn của ngài,
+Qianlong, Hoàng đế triều đại nhà Thanh.
+Ngài Mortimer,
+Con hổ đang hấp hối. Theo yêu cầu của ngài, tôi đã tấn công Travancore và đích thân cắt cổ càng nhiều người Anh càng tốt mặc dù không có sự giúp đỡ từ người Pháp,
+Tôi không thể cầm cự lâu hơn nữa.
+Lực lượng của tôi đang giảm nhanh chóng bất chấp những tên lửa mới của ngài.
+Hãy giúp chúng tôi.
+Tipu Sahib, quốc vương Mysore
+Ngài Mortimer,
+Con hổ đang hấp hối. Theo yêu cầu của ngài, tôi đã tấn công Travancore và đích thân cắt cổ càng nhiều người Anh càng tốt mặc dù không có sự giúp đỡ từ người Pháp,
+Tôi không thể cầm cự lâu hơn nữa.
+Lực lượng của tôi đang giảm nhanh chóng bất chấp những tên lửa mới của ngài.
+Hãy giúp chúng tôi.
+Tipu Sahib, quốc vương Mysore
+Bạn thân mến,
+Như mong muốn, tôi đã có thể tập hợp bạn bè của mình để ký thỏa thuận mà bạn đề xuất.
+Thỏa thuận này sẽ được gọi là "Thỏa thuận Buttonwood".
+Nếu bạn nhớ nơi chúng tôi tụ họp khi bạn gặp chúng tôi lần đầu tiên,
+bạn sẽ hiểu tại sao tên này được đặt.
+Vui lòng tìm đính kèm danh sách đồng nghiệp của tôi.
+Leonard Bleecker... 16, Wall Street
+Hugh Smith... Tontine Coffee House
+Armstrong & Barnewall... 58, Broad Street
+Samuel March... 243, Queen Street
+Andrew D. Barclay... 136, Pearl Street
+Benjamin Seixas... 8, Hanover Square
+John Henry... 13, Duke Street
+John Bush... 195, Water Street
+David Reedy... 58, Wall Street
+Nhờ sự giúp đỡ của bạn, chúng tôi sẽ sớm có thể gặp nhau tại nơi của tôi, Tontine Coffee House.
+Tôi mong được gặp bạn càng sớm càng tốt.
 Hugh Smith
-My dear friend,
-As desired, I have been able to gather together my friends to sign the agreement you proposed.
-This agreement shall be known as the "Buttonwood Agreement".
-If you recall the place where we gathered when you met us for the first time,
-you will understand why this name was given.
-Please find enclosed a list of my colleagues.
-Leonard Bleecker...  16, Wall Street
-Hugh Smith...  Tontine Coffee House
-Armstrong & Barnewall...  58, Broad Street
-Samuel March...  243, Queen Street
-Andrew D. Barclay...  136, Pearl Street
-Benjamin Seixas...  8, Hanover Square
-John Henry...  13, Duke Street
-John Bush...  195, Water Street
-David Reedy...  58, Wall Street
-Thanks to your help, we shall soon be able to meet at my place, the Tontine Coffee House.
-I look forward to seeing you as soon as possible.
+Bạn thân mến,
+Như mong muốn, tôi đã có thể tập hợp bạn bè của mình để ký thỏa thuận mà bạn đề xuất.
+Thỏa thuận này sẽ được gọi là "Thỏa thuận Buttonwood".
+Nếu bạn nhớ nơi chúng tôi tụ họp khi bạn gặp chúng tôi lần đầu tiên,
+bạn sẽ hiểu tại sao tên này được đặt.
+Vui lòng tìm đính kèm danh sách đồng nghiệp của tôi.
+Leonard Bleecker... 16, Wall Street
+Hugh Smith... Tontine Coffee House
+Armstrong & Barnewall... 58, Broad Street
+Samuel March... 243, Queen Street
+Andrew D. Barclay... 136, Pearl Street
+Benjamin Seixas... 8, Hanover Square
+John Henry... 13, Duke Street
+John Bush... 195, Water Street
+David Reedy... 58, Wall Street
+Nhờ sự giúp đỡ của bạn, chúng tôi sẽ sớm có thể gặp nhau tại nơi của tôi, Tontine Coffee House.
+Tôi mong được gặp bạn càng sớm càng tốt.
 Hugh Smith
-My dear Giuseppe,
-Poor health forbids me from joining you, please thank Sir Gregory for his invitation at Lord Mortimer's.
-I'm convinced you'll be able to strengthen our agreements. Please tell Sir Gregory that his enterprise concerning our friend, Cardinal Bishop Chiaramonti, is following its course.
-I place my trust in you.
-May God bless you and give you protection.
+Giuseppe thân mến,
+Sức khỏe kém khiến tôi không thể tham gia cùng bạn, vui lòng cảm ơn Ngài Gregory vì lời mời của ông ấy tại nhà Ngài Mortimer.
+Tôi tin rằng bạn sẽ có thể củng cố thỏa thuận của chúng ta. Vui lòng nói với Ngài Gregory rằng doanh nghiệp của ông ấy liên quan đến người bạn của chúng ta, Giám mục Hồng y Chiaramonti, đang theo đúng tiến trình.
+Tôi đặt niềm tin vào bạn.
+Cầu Chúa ban phước và bảo vệ bạn.
 S. S. Giovanni Angelico Braschi
-My dear Giuseppe,
-Poor health forbids me from joining you, please thank Sir Gregory for his invitation at Lord Mortimer's.
-I'm convinced you'll be able to strengthen our agreements. Please tell Sir Gregory that his enterprise concerning our friend, Cardinal Bishop Chiaramonti, is following its course.
-I place my trust in you.
-May God bless you and give you protection.
+Giuseppe thân mến,
+Sức khỏe kém khiến tôi không thể tham gia cùng bạn, vui lòng cảm ơn Ngài Gregory vì lời mời của ông ấy tại nhà Ngài Mortimer.
+Tôi tin rằng bạn sẽ có thể củng cố thỏa thuận của chúng ta. Vui lòng nói với Ngài Gregory rằng doanh nghiệp của ông ấy liên quan đến người bạn của chúng ta, Giám mục Hồng y Chiaramonti, đang theo đúng tiến trình.
+Tôi đặt niềm tin vào bạn.
+Cầu Chúa ban phước và bảo vệ bạn.
 S. S. Giovanni Angelico Braschi
-My dear Louis,
-I am writing in the knowledge that you will never be able to read my letter, but I must write it.
-Leave the Order. Flee Paris and its private salons. If you want to be happy, if you want to have a chance to live, give up everything at once and disappear!
-I would love for you to be by my side. I have so much to tell you that I haven't said before.
-I apologize for your harsh upbringing.
-I was determined that you would be able to continue my fight. I had planned a great future for you.
-But it is all a farce. I was mistaken. I was playing a game without knowing all the rules, and I lost.
-But I want you to know that I did everything I could to save you. I'm so angry with myself.
-Live, Louis, just live!
-And whatever happens, stay as you are.
-Your loving mother.
-My dear Louis,
-I am writing in the knowledge that you will never be able to read my letter, but I must write it.
-Leave the Order. Flee Paris and its private salons. If you want to be happy, if you want to have a chance to live, give up everything at once and disappear!
-I would love for you to be by my side. I have so much to tell you that I haven't said before.
-I apologize for your harsh upbringing.
-I was determined that you would be able to continue my fight. I had planned a great future for you.
-But it is all a farce. I was mistaken. I was playing a game without knowing all the rules, and I lost.
-But I want you to know that I did everything I could to save you. I'm so angry with myself.
-Live, Louis, just live!
-And whatever happens, stay as you are.
-Your loving mother.
-George Washington, that good old George holds Mortimer in high esteem. (He probaby owes him something)
-Johann von Wöllner, if we serve his interests, would provide important support. (Warning, very interested in the Occult)
-Cardinal Piaggi. Good reputation. Warning, too close to Chiaramonti! Risk of being influenced!
-Jacques Péru. A  power in Paris. Devoted to the Republic. Unstable and dangerous!
-Napoleon Bonaparte. Unknown. Minor lieutenant in the army. Corsican. Careerist.
-George Washington, that good old George holds Mortimer in high esteem. (He probaby owes him something)
-Johann von Wöllner, if we serve his interests, would provide important support. (Warning, very interested in the Occult)
-Cardinal Piaggi. Good reputation. Warning, too close to Chiaramonti! Risk of being influenced!
-Jacques Péru. A  power in Paris. Devoted to the Republic. Unstable and dangerous!
-Napoleon Bonaparte. Unknown. Minor lieutenant in the army. Corsican. Careerist.
-Let us see if you have the courage to face me, alone.
-Let us see if you have the courage to face me, alone.
-COME OUT OF THE TRIAL INNOCENT
-POSE YOUR QUESTIONS TO MORTIMER
-GO TO THE TOWER ROOM
-DECYPHER THE MESSAGE
-LOOK FOR CLUES
-INVESTIGATE ADAMS' DEATH
-SEARCH ADAMS' ROOM
-QUESTION THE SUSPECTS
-MEET WITH THE OTHER GUESTS IN THE SMALL LIVING ROOM
-GO TO MORTIMER'S STUDY
-FIND "THE NIGHTMARE"
-FIND A MECHANISM TO MOVE THE PAINTING
-FIND THE CODE OF THE HIDDEN DOOR 
-SEARCH MORTIMER'S SECRET STUDY
-GO FIND YOUR MOTHER
-FIND A WAY OUT
-FIND OUT THE ORIGIN OF THE SWORD LEFT BY YOUR MOTHER
-FOLLOW THE TRAIL LEFT BY YOUR MOTHER
-SEARCH THE CRYPT
-FIND OUT WHAT WOLLNER IS HIDING
-FIND OUT MORE CLUES ABOUT YOUR MOTHER'S NOTE
-FIND THE YOUNG APOSTLE
-FOLLOW THE CLUES LEFT BY YOUR MOTHER IN THE BIBLE
-FIND THE ANGEL
-SEARCH THE SAINT WITH THE SWORD
-JOIN THE OTHER GUESTS
-SEARCH THE ROOM
-Adams letters
-Letter to Bonaparte family
-Letter
-Letter
-Letter
-Letter
-Letter
-Letter
-Letter
-Letter
-Letter
-Letter
-Letter
-Letter
-Letter
-Letter
-Letter
-Adams letters
-Adams letters
+Louis thân mến,
+Tôi viết thư này với nhận thức rằng bạn sẽ không bao giờ có thể đọc được thư của tôi, nhưng tôi phải viết nó.
+Hãy rời khỏi Hội. Hãy trốn khỏi Paris và các phòng khách riêng tư của nó. Nếu bạn muốn hạnh phúc, nếu bạn muốn có cơ hội sống, hãy từ bỏ tất cả ngay lập tức và biến mất!
+Tôi rất muốn bạn ở bên cạnh tôi. Tôi có rất nhiều điều muốn nói với bạn mà tôi chưa từng nói trước đây.
+Tôi xin lỗi vì đã nuôi dạy bạn một cách khắc nghiệt.
+Tôi đã quyết tâm rằng bạn sẽ có thể tiếp tục cuộc chiến của tôi. Tôi đã lên kế hoạch một tương lai tuyệt vời cho bạn.
+Nhưng tất cả chỉ là một trò hề. Tôi đã nhầm. Tôi đang chơi một trò chơi mà không biết tất cả các quy tắc, và tôi đã thua.
+Nhưng tôi muốn bạn biết rằng tôi đã làm mọi thứ có thể để cứu bạn. Tôi rất tức giận với chính mình.
+Hãy sống, Louis, chỉ cần sống!
+Và dù có chuyện gì xảy ra, hãy giữ nguyên con người bạn.
+Mẹ yêu quý của bạn.
+Louis thân mến,
+Tôi viết thư này với nhận thức rằng bạn sẽ không bao giờ có thể đọc được thư của tôi, nhưng tôi phải viết nó.
+Hãy rời khỏi Hội. Hãy trốn khỏi Paris và các phòng khách riêng tư của nó. Nếu bạn muốn hạnh phúc, nếu bạn muốn có cơ hội sống, hãy từ bỏ tất cả ngay lập tức và biến mất!
+Tôi rất muốn bạn ở bên cạnh tôi. Tôi có rất nhiều điều muốn nói với bạn mà tôi chưa từng nói trước đây.
+Tôi xin lỗi vì đã nuôi dạy bạn một cách khắc nghiệt.
+Tôi đã quyết tâm rằng bạn sẽ có thể tiếp tục cuộc chiến của tôi. Tôi đã lên kế hoạch một tương lai tuyệt vời cho bạn.
+Nhưng tất cả chỉ là một trò hề. Tôi đã nhầm. Tôi đang chơi một trò chơi mà không biết tất cả các quy tắc, và tôi đã thua.
+Nhưng tôi muốn bạn biết rằng tôi đã làm mọi thứ có thể để cứu bạn. Tôi rất tức giận với chính mình.
+Hãy sống, Louis, chỉ cần sống!
+Và dù có chuyện gì xảy ra, hãy giữ nguyên con người bạn.
+Mẹ yêu quý của bạn.
+George Washington, ông già George tốt bụng đó rất coi trọng Mortimer. (Có lẽ ông ấy nợ ông ta điều gì đó)
+Johann von Wöllner, nếu chúng ta phục vụ lợi ích của ông ta, sẽ cung cấp sự hỗ trợ quan trọng. (Cảnh báo, rất quan tâm đến Huyền bí)
+Hồng y Piaggi. Danh tiếng tốt. Cảnh báo, quá gần gũi với Chiaramonti! Nguy cơ bị ảnh hưởng!
+Jacques Péru. Một thế lực ở Paris. Tận tụy với Cộng hòa. Không ổn định và nguy hiểm!
+Napoleon Bonaparte. Không rõ. Trung úy nhỏ trong quân đội. Người Corsica. Tham vọng.
+George Washington, ông già George tốt bụng đó rất coi trọng Mortimer. (Có lẽ ông ấy nợ ông ta điều gì đó)
+Johann von Wöllner, nếu chúng ta phục vụ lợi ích của ông ta, sẽ cung cấp sự hỗ trợ quan trọng. (Cảnh báo, rất quan tâm đến Huyền bí)
+Hồng y Piaggi. Danh tiếng tốt. Cảnh báo, quá gần gũi với Chiaramonti! Nguy cơ bị ảnh hưởng!
+Jacques Péru. Một thế lực ở Paris. Tận tụy với Cộng hòa. Không ổn định và nguy hiểm!
+Napoleon Bonaparte. Không rõ. Trung úy nhỏ trong quân đội. Người Corsica. Tham vọng.
+Hãy xem liệu bạn có đủ can đảm để đối mặt với tôi, một mình.
+Hãy xem liệu bạn có đủ can đảm để đối mặt với tôi, một mình.
+RA KHỎI PHIÊN TÒA VÔ TỘI
+ĐẶT CÂU HỎI CHO MORTIMER
+ĐI ĐẾN PHÒNG THÁP
+GIẢI MÃ THÔNG ĐIỆP
+TÌM KIẾM MANH MỐI
+ĐIỀU TRA CÁI CHẾT CỦA ADAMS
+TÌM KIẾM PHÒNG CỦA ADAMS
+THẨM VẤN CÁC NGHI PHẠM
+GẶP GỠ CÁC VỊ KHÁCH KHÁC TRONG PHÒNG KHÁCH NHỎ
+ĐI ĐẾN PHÒNG LÀM VIỆC CỦA MORTIMER
+TÌM "CƠN ÁC MỘNG"
+TÌM CƠ CHẾ ĐỂ DI CHUYỂN BỨC TRANH
+TÌM MÃ CỦA CỬA BÍ MẬT
+TÌM KIẾM PHÒNG NGHIÊN CỨU BÍ MẬT CỦA MORTIMER
+ĐI TÌM MẸ BẠN
+TÌM ĐƯỜNG RA
+TÌM HIỂU NGUỒN GỐC CỦA THANH KIẾM MẸ BẠN ĐỂ LẠI
+THEO DẤU VẾT MẸ BẠN ĐỂ LẠI
+TÌM KIẾM HẦM MỘ
+TÌM HIỂU WOLLNER ĐANG GIẤU GÌ
+TÌM THÊM MANH MỐI VỀ GHI CHÚ CỦA MẸ BẠN
+TÌM TÔNG ĐỒ TRẺ
+THEO DẤU VẾT MẸ BẠN ĐỂ LẠI TRONG KINH THÁNH
+TÌM THIÊN THẦN
+TÌM KIẾM VỊ THÁNH VỚI THANH KIẾM
+THAM GIA VỚI CÁC VỊ KHÁCH KHÁC
+TÌM KIẾM PHÒNG
+Thư của Adams
+Thư gửi gia đình Bonaparte
+Thư
+Thư
+Thư
+Thư
+Thư
+Thư
+Thư
+Thư
+Thư
+Thư
+Thư
+Thư
+Thư
+Thư
+Thư
+Thư của Adams
+Thư của Adams
