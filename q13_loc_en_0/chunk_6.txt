@@ -1,0 +1,100 @@
+I could have found the cards that von Wöllner stole from Lord Mortimer
+I found Lady Hillsborrow in her room
+I could have found Lady Hillsborrow in her room
+Well my friends, here we all are!
+Isn't the duchess meant to be with us?
+No, she's resting in her room. Don't worry.
+The conference can resume.
+Now we all know the tensions have been runing high.
+But now is not the moment to give in.
+The main thing is that just one vote can suffice to...
+Yes indeed, it will only take one of you opposing his project to win the conference...
+But I would rather have us united until the end.
+Meanwhile, let us remain on our guard against any last-minute surprises. I know my brother well and he never prepares for war if he has no chance of winning.
+Rational and open.
+I've spent my whole life swimming in lies.
+Emily... what a waste.
+Emma... what a bloody mess! I've been completely manipulated!
+I feel like I know nothing, that I have to learn everything all over again.
+I'm a Daemon.
+I age more slowly, I can mentally manipulate people.
+I don't even know if it's a good thing or a curse.
+It's good!
+No, no this is an advantage!
+I could get used to this pretty quickly, I think!
+It's a curse
+Frankly, I... I feel like I'm cursed.
+I hope I'll be able to control this new skill, otherwise my life will be hell.
+Damn it, what a mess!
+Come on, man up, Louis!
+I'm still the same old me. Daemon or not, I'm still in charge of my actions!
+And this father I know nothing about.
+Yes... I've still got a lot to learn!
+It's enough to drive you crazy! Everything I believed in... Nothing holds true anymore.
+Pull yourself together, man!
+I need to find some answers.
+There's no way of being alone for a minute.
+Rational and open.
+I've spent my whole life swimming in lies.
+Emily... what a waste.
+Emma... what a bloody mess! I've been completely manipulated!
+I feel like I know nothing, that I have to learn everything all over again.
+I'm a Daemon.
+I age more slowly, I can mentally manipulate people.
+I don't even know if it's a good thing or a curse.
+It's good!
+No, no this is an advantage!
+I could get used to this pretty quickly, I think!
+It's a curse
+Frankly, I... I feel like I'm cursed.
+I hope I'll be able to control this new skill, otherwise my life will be hell.
+Damn it, what a mess!
+Come on, man up, Louis!
+I'm still the same old me. Daemon or not, I'm still in charge of my actions!
+I'll have to learn to master these new skills if I don't want to become a slave to them.
+And this father I know nothing about.
+Yes... I've still got a lot to learn!
+It's enough to drive you crazy! Everything I believed in... Nothing holds true anymore.
+Pull yourself together, man!
+I need to find some answers.
+There's no way of being alone for a minute.
+My dear Giuseppe,
+As my health does not allow me to honor Sir Holm's invitation to go to Lord Mortimer's, 
+I should be grateful if you would sit at a conference on my behalf.
+Naturally, you will give my thanks to your hosts.
+Consolidate our agreements with Sir Gregory and let him know that his venture regarding Cardinal-Bishop Chiaramonti is following its course.
+I have every confidence in you.
+May God bless and protect you
+S. S. Giovanni Angelo Braschi
+P.S.: Do not use your personal stamp when writing to me. Instead use the one with my motto on it.
+The 12/31/1792
+.............GJ GHFJ
+My dear Giuseppe,
+I know you are on your way to Lord Mortimer's residence,
+I hope you have a good trip, even though you are obliged to cross the French countryside at present very agitated.
+Know that this mission is crucial, my friend.
+May God bless and protect you.
+S. S. Giovanni Angelo Braschi
+The 01/17/1793
+...........EH HBCF
+Right... it's time I got started.
+Let's see what I can find here to help me write that letter.
+I have no means to validate my forgery, so I'd better take my time with it and not make any mistakes.
+There are two letters from the pope on the desk. I should be able to get a clue or two by checking how well they correspond to each other.
+And here are three stamps, all are different...
+Read the letters on the desk
+Read the first letter
+Read the second letter
+Put down the letters
+Choose the contents of the letter
+Right... Let's start writing...
+Lord Mortimer asked me to discredit Sir Gregory and to announce Piaggi's final vote in his favor.
+As an introduction... “Your Holiness, thank you for your trust...
+Discredit Holm
+“It turns out, now that I'm here, that I find Lord Mortimer's projects grant us many more advantages, in comparison to what Sir Gregory had suggested.”
+“We are talking about the future of the Holy See”... There, that should be enough to justify the change of vote!
+Discredit Mortimer
+“As we informed Sir Gregory, it is of absolute necessity that Lord Mortimer's projects do not come to fruition.”
+“We are talking about the future of the Holy See.”
+Discredit both
+“It even appears that Lord Mortimer and Sir Gregory both have access to obscure, superior forces to help them reach their ends.”

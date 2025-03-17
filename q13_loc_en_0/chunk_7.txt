@@ -1,0 +1,100 @@
+“I think that the Papal States, for the sake of their own preservation, ought to condemn this practice of conferences in the future.”
+Choose a stamp for the letter
+I noticed something about the stamp
+In one of the letters, the pope asked Piaggi to change, and to stop using his personal stamp...
+He asked him to use the one with the pope's motto on it...
+I know that
+And I remember that...
+Floret in Domo Domini
+The pope's motto...
+Must be in Latin...
+Go back
+Look at the stamp on the right
+I have already read a letter from Piaggi...
+I've already seen this seal...
+Yes, it looks like the stamp that Piaggi applied to the letter he handed to me!
+Compare with Piaggi's letter
+Piaggi once gave me a sealed letter...
+It had the same seal on it, I remember now!
+Look at the inscription on the stamp
+"Giustizia, Misericordia e Umiltà." Boy, I gotta brush up my foreign languages.
+Translate
+I think it's in Italian: “Justice, Mercy and Humility”.
+Go back
+Use this one
+Go back
+Look at the stamp in the middle
+I've already read a letter from Piaggi!
+I remember the seal that Piaggi used for the letter he confided me with...
+I don't recognize this one...
+Compare with Piaggi's letter
+This seal is different to the one Piaggi used for the letter he gave me...
+Yes, I'm certain of it...
+Look at the inscription on the stamp
+On it is written...
+"Floret in Domo Domini"
+Translate
+Latin.
+“It blooms in the house of God”
+Go back
+Use this one
+Go back
+Look at the stamp on the left
+I've already read a letter from Piaggi!
+When Piaggi handed me that letter to give to my mother, I noticed the seal...
+And this one is clearly different...
+Compare with Piaggi's letter
+Now... I distinctly remember the seal that Piaggi used on the letter he gave me...
+This isn't the same stamp.
+Look at the inscription on the stamp...
+A circle with a cross inside.
+Use this one
+Go back
+Go back
+Write a secret code
+There's a kind of code composed of six letters that they always write under the dates of their correspondence.
+According to Mortimer, it's got something to do with Piaggi's tattoo...
+I guess I'll have to write one for today's date.
+Now, ideally it'd be better to do without it... but I'm gonna need to be extremely clever here!
+Today the date is 24.01.1793  |ConvertLetterCode(6)
+A - E
+A
+B
+C
+D
+E
+Go back
+F - J
+F
+G
+H
+I
+J
+Go back
+Change the last letter
+Start again from the beginning
+Think about the logic of the code
+In the letters from the pope, there are 6 letters just below the date.
+2 just below the month, 4 others below the year.
+Piaggi's tattoo... It must be used to establish a connection between the letter of the concentric circle and the numbers shown in the middle.
+Think!
+Some figures are the same in both codes... yet they correspond to different letters.
+The day is not translated. That must be the key to the code!
+Go back
+Do without the code
+I could pretend that the code got erased during the voyage, as if the letter arrived in really bad condition...
+That would be perfectly understandable given that it's traveled across the seas, right?
+Today is the 24.01.1793...|ConvertLetterCode(6)
+Change the code
+Change a letter
+First
+Second
+Third
+Fourth
+Fifth
+Sixth
+Change all the code
+Go back
+That's it!
+Finish the letter
+It's finished... I just need to put the seal on it.

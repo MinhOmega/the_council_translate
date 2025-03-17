@@ -1,0 +1,100 @@
+But let's assume...
+[SUBTERFUGE] It's wrong, I'm a man of my word
+Are you joking?!
+Upon my honor, I urge you to believe that I am not the sort to play on both sides of the fence, monsieur!
+Very well, very well!
+There's no point getting on your high horse!
+It's true, I confess
+Well, yes! I confess!
+And I've found you out, Godoy!
+If you don't confess this minute, I will denounce you to Sir Gregory!
+I suspected as much!
+I was sure that...
+Mmm.. no... wait... you're lying!
+You are decidedly a very bad actor...
+But I don't understand what you're up to...
+If you are really working for Mortimer, why did he task you to question me like this?
+[MINDREADING]
+I don't understand!
+If he really really is here on behalf of Mortimer, all he would have to do is to tell me the code we agreed upon...
+Whatever happens, if he doesn't say "hummingbird", it means I've fallen into a trap!...
+[PSYCHOLOGIE] Mortimer needs to know if he can count on you
+Lord Mortimer trusts you, my Lord Duke.
+But with all that's been going on, I admit he needs to feel supported.
+And as you are a man of great qualities, in his opinion, he simply wanted to make sure that you will still support him.
+Ah... now I understand.
+I'm his right-hand-man
+I'm his right-hand-man. I'm the one who takes care of any delicate matters.
+You?
+I would have thought that it would have been young de Richet, or President Washington.
+Louis? Are you joking?
+De Richet? That skinny runt?
+Not on your life! Mortimer isn't mad, you know!
+Yes, you're quite right...
+Advancing with de Richet would equate to putting your own head on the block!
+You Scumbag! I'll get you for that!
+You can say that again...
+Certainly not Washington
+Washington?
+You're dreaming, he's half senile. Mortimer only keeps him around for the sake of appearances.
+A little respect, young man!
+You are talking about a great man the likes of whom we shall probably never see again!
+Well, frankly, Monsieur Bonaparte, I shall strongly advise Lord Mortimer to choose better team members.
+It's not that I don't value you, but I sincerely think that President Washington would be a much better man for this kind of mission.
+He is afraid you won't vote for him
+You must understand his point of view.
+He fears you might not dare follow him at the last minute.
+That is all.
+And with good reason...
+How many times do I have to tell you that I will not be voting for Mortimer?
+Is that clear?
+Now do you get it? Have we finished?
+Surely because he thought you would trust me
+What a snob you are, Godoy.
+Lord Mortimer simply thought that you would trust me.
+You?
+You're joking, I hope...
+If not, Mortimer really is desperate, my poor man!
+[IF MINDREADING] Hummingbird
+Right, I think we've wasted enough time here...
+I couldn't agree more!
+Hummingbird!
+Did you...
+Pardon?
+You heard...
+Hummingbird.
+At last!
+Heavens above, why didn't you tell me before?
+I didn't think I would need to.
+Imbecile, someone could have caught us!
+Good Outcome
+Listen, I'll take your word for it but tell Mortimer that he's making me run too great a risk!
+I already gave him my approval and we agreed not to speak about it on the island.
+Just imagine for a minute if Holm had caught us. You might not know what he is capable of but I certainly do!
+It would be the end of me!
+The bastard! He really is a traitor!
+Please excuse me, Duke Manuel. But that was not the intention.
+I shall go and reassure Lord Mortimer about the vote, and I promise to avoid you running any more risks.
+I hope so!
+Now, please leave me. We mustn't be seen together!
+Bad Outcome
+Bonaparte, I really don't know what you're playing at but you seem completely off track.
+For the last time, I shall follow Sir Gregory for the Louisiana vote and you can tell Mortimer that I'm not the kind to break my word!
+Understood, but I...
+I have nothing more to say!
+Please leave me now!
+Do you trust him?
+Certainly not
+Are you joking?!
+I'll never be able to trust him!
+He distills the information that he's willing to share, a drop at a time. He manipulates the people he needs, and gets rid of those in his way.
+Sure, he's our father, but he can't count on me to follow him in everything he does.
+Don't say anything, Louis
+I don't know, it's... it's difficult to say.
+He's our father, he's started to initiate me, and well he's been pretty decent...
+...that said, you can't say he's gone about it in the best possible way to gain my total trust.
+And you? What do you think?
+Honestly, I don't know who to believe.
+The only person I really trust is you.
+So I'll follow you this time round.
+I won't be voting for him.
