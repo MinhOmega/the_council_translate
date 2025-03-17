@@ -1,0 +1,185 @@
+No, Louis no...
+The longer you remain in his presence, the more danger you're in...
+Just get out of here!
+Wait...
+I have a proposal to make to you.
+LEAVE
+Ahahahah! Come back! Or you shall feel my wrath!
+LISTEN TO THE PROPOSAL
+I'm listening...
+William has to pay for what he did. He had no right!
+No one must ever attack a member of one's own family! That is the law...
+If you don't want to be involved in all this, let me enter your mind...
+When the time comes, I will just step in.
+You mean... like with Elizabeth?
+Elizabeth was not part of our family.
+She didn't get any choice.
+But you can't say it worked out well for her.
+What's to say that once inside he won't stay there?
+If I ask my children to respect the rules, then I must do so, as well.
+So? Do you accept my proposal?
+ACCEPT
+Very well.
+I accept.
+Good...
+Pursue your goal now...
+When the time comes, I will take care of William.
+REFUSE
+I'm sorry, I... I'd rather not get involved in your disputes.
+I understand that you're mad at him, but I refuse to let you use me, to get at him.
+Young fool!
+Goodbye...
+No!
+Come back! Or you too shall feel my wrath!
+ Stop, Louis...
+The more you remain in his presence the more you are in danger...
+Get out of here!
+Wait...
+I have a proposal to make to you.
+LEAVE
+Come back! Or you shall feel my wrath!
+LISTEN TO THE PROPOSAL
+I'm listening...
+William has to pay for what he did. He had no right!
+No one must ever attack a member of one's own family! That is the law...
+If you don't want to be mixed up in this, let me enter you...
+When the time comes, I will step in.
+You mean... Like with Elizabeth?
+Elizabeth was not part of our family.
+She didn't get the choice.
+But you can't say it worked out well for her.
+What's to say that once inside he won't stay there?
+If I ask my children to respect the rules, I have to do so too.
+So? Do you accept my proposal?
+ACCEPT
+Very well.
+I accept.
+Good...
+Pursue your goal now...
+When the time comes, I will take care of William.
+REFUSE
+Sorry, I'd rather not get involved in your disputes.
+I understand that you are mad with him but I refuse that you use me to get to him.
+Young fool!
+Goodbye...
+No!
+Come back! Or you too shall feel my wrath!
+Let's see what he think...
+Aaahhh yes! That is good, come, open up...
+Ah! Louis Mauras de Richet, son of William Mortimer, now I see you!
+Damn it, I can feel him entering inside me... I shouldn't have...
+William!
+You dirty traitor!
+No! No! Gregory!
+You have no right, William! You are violating the rules!
+MY rules!
+I can't break the link!
+Get out of my mind!
+William should have taught you not to try to read just anyone's mind...
+Resist, Louis!
+It's pointless!
+Father! Help me!
+Louis! What's happening?!
+Father?!
+Ah! William!
+I can't feel you anymore!
+William! You dirty traitor! What did you do to Gregory?!
+NO! Not now, NO! Louis, get out of here! ! GET OUT!!
+Get out of here, Louis!
+My son Gregory sent you here to find an ally.
+Well, you have found him!
+Now that I'm inside you, you are going to exit the Ether and return to William!
+It's time I settled my scores!
+Let's see what he think...
+Aaahhh yes! That's good, open up...
+Louis Mauras de Richet, son of William Mortimer, now I see you!
+Ah, damn it, I can feel him entering inside me... I shouldn't have...
+William!
+You dirty traitor!
+No! Gregory!
+You have no right, William! You are violating the rules!
+MY rules!
+I can't break the link!
+Leave me!...
+William should have taught you not to try to read just anyone's mind...
+Resist, Louis!
+It's pointless!
+Father! Help me!
+Louis! What's happening?!
+Father?!
+William!
+I can't feel you anymore!
+William! Dirty traitor! What did you do to Gregory?!
+NO! Not now, NO! Louis, get out of here! ! GET OUT!!
+Get away from here, Louis!
+INSANE
+The use of the Logic skill costs 3 extra effort points
+You have read Al Azif
+SWEET-TALKER
+You win 1 skill point in Manipulation
+You have chosen to manipulate Emma and to play along with her
+EMISSARY
+You win 1 skill point in Conviction
+You have made all of Holm's team change sides
+DISCIPLE
+You win 1 skill point in Politics
+You voted for Mortimer's project
+OFFSPRING
+You win 1 skill point in Politics
+You voted against Mortimer's project
+FRIENDLY
+You win 1 skill point in Etiquette
+You decided to help Emma
+PUNISHER
+You win 1 skill point in Agility
+You have decided to take revenge on von Wöllner
+BLACKMAILER
+You win 1 skill point in Psychology
+You decided to blackmail Wöllner
+FALLEN
+Politics costs 2 extra effort points
+You did not make any of Holm's team change sides
+EMANCIPATED
+You escaped from the Ether
+You win 1 skill point in Psychology
+PRESUMPTUOUS
+You win 1 skill point in Conviction
+You tried to read Asahel's spirit
+WELCOMING
+You win 1 skill point in Occultism
+You accepted Asahel inside you
+You accepted Sir Gregory Holm inside you
+EXPERT
+All your skills are increased by 1 point
+You have found Al Azif
+GO TO THE CONFERENCE ROOM
+CHECK THEIR LOYALTY TOWARDS HOLM:
+PERSUADE THEM TO VOTE FOR LORD MORTIMER:
+MAKE OUT YOUR REPORT TO SIR HOLM IN THE LIVING ROOM
+MAKE OUT YOUR REPORT TO LORD MORTIMER
+SABOTAGE SIR HOLM'S PROJECT
+SABOTAGE LORD MORTIMER'S PROJECT
+Manuel Godoy
+Giuseppe Piaggi
+Johann Von Wöllner
+Lady Hillsborrow
+George Washington
+FIND SIR HOLM
+RECONSTRUCT THE SEQUENCE OF MEMORIES OF SIR HOLM
+First memory found
+Second memory found
+Third memory found
+Fourth memory found
+Fifth memory found
+Sixth memory found
+ORGANIZE THE GUESTS
+Hold down to move a character
+Stop
+Press <style widget=Murder:Button:DisplayDynamicNotes></style> to reorganize the characters depending on their affinities
+MEET AN ALLY IN ELIZABETH ADAMS'S ROOM
+GO AND CONFRONT MORTIMER IN THE DINING ROOM
+PROVE YOUR INNOCENCE
+RECOVER THE HOLY LANCE FROM NAPOLEON BONAPARTE
+JOIN MORTIMER IN THE DINING ROOM
+JOIN LADY HILLSBORROW IN HER ROOM TO ASK FOR HER HELP
+GO TO THE HALL WHEN YOU ARE READY TO CONFRONT MORTIMER
