@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Layout>
+    <Child name="Text_Ingame" proto="Dummy">
+        <Stack value="1" />
+        <StackDirection value="VERTICAL" />
+        <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.550000" offset_y="0.000000" />
+        <Size scale_x="-1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+        <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+        <InheritState value="1" />
+        <Child name="Small_Txt" proto="Label">
+            <Alpha value="0.000000" />
+            <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+            <Size scale_x="-1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="-10.000000" />
+            <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+            <InheritState value="1" />
+            <Text value="GUI.translationtable:DISPLAY_STUDIO_PREFIX" />
+            <Font value="montserat_35" />
+            <HorizontalAlignment value="CENTER" />
+            <State name="Anim_text_0">
+                <Alpha value="0.000000" />
+            </State>
+            <State name="Anim_text_20">
+                <Alpha value="1.000000" />
+            </State>
+            <State name="Anim_text_100">
+                <Alpha value="0.000000" />
+            </State>
+            <State name="Anim_text_80">
+                <Alpha value="1.000000" />
+            </State>
+        </Child>
+        <Child name="Big_Txt" proto="Label">
+            <Alpha value="0.000000" />
+            <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="38.000000" />
+            <Size scale_x="-1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="-10.000000" />
+            <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+            <InheritState value="1" />
+            <Text value="GUI.translationtable:DISPLAY_STUDIO" />
+            <Font value="Montserat_110" />
+            <HorizontalAlignment value="CENTER" />
+            <State name="Anim_text_0">
+                <Alpha value="0.000000" />
+            </State>
+            <State name="Anim_text_20">
+                <Alpha value="1.000000" />
+            </State>
+            <State name="Anim_text_100">
+                <Alpha value="0.000000" />
+            </State>
+            <State name="Anim_text_80">
+                <Alpha value="1.000000" />
+            </State>
+        </Child>
+    </Child>
+</Layout>

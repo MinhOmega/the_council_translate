@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Layout>
+    <Child name="Chargement" proto="Loading">
+        <Position scale_x="1.000000" offset_x="-96.000000" scale_y="1.000000" offset_y="-54.000000" />
+        <Child name="Chargement">
+            <Litteral value="0" />
+        </Child>
+        <Child name="marge">
+            <Position scale_x="0.000000" offset_x="308.000000" scale_y="0.935185" offset_y="0.000000" />
+        </Child>
+        <Child name="losange1">
+            <Position scale_x="0.000000" offset_x="318.000000" scale_y="0.500000" offset_y="0.000000" />
+        </Child>
+        <Child name="marge_0">
+            <Position scale_x="0.000000" offset_x="333.000000" scale_y="0.935185" offset_y="0.000000" />
+        </Child>
+        <Child name="losange2">
+            <Position scale_x="0.000000" offset_x="345.000000" scale_y="0.500000" offset_y="0.000000" />
+        </Child>
+        <Child name="marge_0_0">
+            <Position scale_x="0.000000" offset_x="360.000000" scale_y="0.935185" offset_y="0.000000" />
+        </Child>
+        <Child name="losange3">
+            <Position scale_x="0.000000" offset_x="372.000000" scale_y="0.500000" offset_y="0.000000" />
+        </Child>
+    </Child>
+    <Child name="fond_tips" proto="Image">
+        <Alpha value="0.050000" />
+        <Stack value="1" />
+        <Position scale_x="1.000000" offset_x="0.000000" scale_y="0.763889" offset_y="0.000000" />
+        <Size scale_x="-1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="10.000000" />
+        <Anchor scale_x="1.000000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+        <Image set="Uni" image="White" />
+        <Child name="Dummy" proto="Dummy">
+            <Position scale_x="0.000000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+            <Size scale_x="-1.000000" offset_x="30.000000" scale_y="-1.000000" offset_y="0.000000" />
+            <Anchor scale_x="0.000000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+            <Child name="Tip" proto="Label">
+                <Position scale_x="1.000000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                <Size scale_x="-1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="20.000000" />
+                <Anchor scale_x="1.000000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                <InheritAlpha value="0" />
+                <Font value="montserat_20" />
+                <HorizontalAlignment value="RIGHT" />
+                <VerticalAlignment value="CENTER" />
+                <Child name="ProgressGauge">
+                    <Visible value="0" />
+                    <Alpha value="0.300000" />
+                    <Position scale_x="1.000000" offset_x="0.000000" scale_y="1.000000" offset_y="0.000000" />
+                    <Size scale_x="1.000000" offset_x="0.000000" scale_y="0.000000" offset_y="6.000000" />
+                    <Anchor scale_x="1.000000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+                    <InheritAlpha value="0" />
+                    <Child name="progress" proto="Image">
+                        <Size scale_x="0.000000" offset_x="550.000000" scale_y="0.000000" offset_y="6.000000" />
+                        <InheritAlpha value="0" />
+                        <Image set="Uni" image="White" />
+                        <Color r="50" g="170" b="157" a="255" />
+                    </Child>
+                </Child>
+            </Child>
+        </Child>
+        <Child name="Dummy_0" proto="Dummy">
+            <Position scale_x="0.000000" offset_x="30.000000" scale_y="0.000000" offset_y="0.000000" />
+            <Size scale_x="0.000000" offset_x="96.000000" scale_y="-1.000000" offset_y="0.000000" />
+        </Child>
+    </Child>
+</Layout>

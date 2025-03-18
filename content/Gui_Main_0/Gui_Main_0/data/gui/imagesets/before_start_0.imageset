@@ -1,0 +1,4 @@
+<Imageset name="Before_Start" texture="Before_Start.tga">
+	<Image name="focus_logo" left="1" top="1" right="1921" bottom="1081" />
+	<Image name="LOGOM_START" left="1" top="1085" right="1111" bottom="1493" />
+</Imageset>

@@ -1,0 +1,3 @@
+<Imageset name="objectif" texture="objectif.tga">
+	<Image name="rond_objectif" left="1" top="1" right="40" bottom="40" />
+</Imageset>

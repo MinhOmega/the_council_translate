@@ -1,0 +1,11 @@
+<Imageset name="Choose_Episode" texture="Choose_Episode.tga">
+	<Image name="Adams" left="1" top="1" right="455" bottom="1081" />
+	<Image name="Holm" left="1" top="1085" right="421" bottom="2165" />
+	<Image name="Holm_env" left="457" top="1" right="877" bottom="1081" />
+	<Image name="hillsborrow_env" left="457" top="1085" right="817" bottom="2165" />
+	<Image name="Hillsborrow" left="881" top="1" right="1241" bottom="1081" />
+	<Image name="derichet_env" left="1245" top="1" right="1605" bottom="1081" />
+	<Image name="derichet" left="1609" top="1" right="1969" bottom="1081" />
+	<Image name="Peru" left="881" top="1085" right="1241" bottom="2165" />
+	<Image name="peru_env" left="1245" top="1085" right="1605" bottom="2165" />
+</Imageset>

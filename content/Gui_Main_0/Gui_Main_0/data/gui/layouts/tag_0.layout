@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Layout>
+    <Child name="Black" proto="Black">
+        <Position scale_x="-0.000095" offset_x="0.000000" scale_y="0.001515" offset_y="0.000000" />
+        <Image set="Uni" image="White" />
+        <Color r="16" g="16" b="16" a="255" />
+    </Child>
+</Layout>

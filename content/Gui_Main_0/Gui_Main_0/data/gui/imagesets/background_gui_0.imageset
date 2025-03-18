@@ -1,0 +1,3 @@
+<Imageset name="Background_GUI" texture="Background_GUI.tga">
+	<Image name="Background_GUI" left="1" top="1" right="1921" bottom="1081" />
+</Imageset>

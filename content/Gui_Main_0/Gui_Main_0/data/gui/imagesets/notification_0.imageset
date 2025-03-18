@@ -1,0 +1,7 @@
+<Imageset name="notification" texture="notification.tga">
+	<Image name="fond_notif_2" left="1" top="1" right="321" bottom="123" />
+	<Image name="fond_immunite2" left="1" top="125" right="373" bottom="210" />
+	<Image name="fond_immunite" left="1" top="213" right="373" bottom="298" />
+	<Image name="fond_text_notif" left="1" top="301" right="392" bottom="341" />
+	<Image name="rond_notif" left="325" top="1" right="389" bottom="65" />
+</Imageset>

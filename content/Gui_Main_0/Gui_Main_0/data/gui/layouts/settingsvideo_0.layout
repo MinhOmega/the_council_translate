@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Layout>
+    <Child name="Background" proto="Image">
+        <Alpha value="0.850000" />
+        <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+        <Size scale_x="50.000000" offset_x="0.000000" scale_y="50.000000" offset_y="0.000000" />
+        <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+        <Image set="Uni" image="White" />
+        <Color r="0" g="0" b="0" a="255" />
+    </Child>
+    <Child name="Input_Contener" proto="Input_Contener">
+        <Position scale_x="1.000000" offset_x="-96.000000" scale_y="1.000000" offset_y="-54.000000" />
+    </Child>
+    <Child name="margin" proto="Dummy">
+        <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+        <Size scale_x="1.000000" offset_x="-192.000000" scale_y="1.000000" offset_y="-108.000000" />
+        <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+        <Child name="VideoSettings">
+            <Child name="DialogBox" proto="Dummy">
+                <Visible value="0" />
+                <Position scale_x="0.001736" offset_x="0.000000" scale_y="0.005144" offset_y="0.000000" />
+                <Size scale_x="1.001157" offset_x="0.000000" scale_y="1.000000" offset_y="0.000000" />
+                <Child name="DialogBoxText" proto="Label">
+                    <Text value="GUI.translationtable:OPTIONS_VIDEO_WARNING" />
+                    <Font value="montserat_25" />
+                    <Color r="255" g="0" b="0" a="255" />
+                </Child>
+            </Child>
+        </Child>
+    </Child>
+    <Child name="Slot_Profil" proto="Label">
+        <Alpha value="0.050000" />
+        <Position scale_x="0.020000" offset_x="0.000000" scale_y="0.940741" offset_y="0.000000" />
+        <Size scale_x="-1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+        <Anchor scale_x="0.000000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+        <InheritAlpha value="0" />
+        <InheritState value="1" />
+        <Text value="GUI.translationtable:OPTIONS_VIDEO" />
+        <Font value="montserat_170" />
+        <Color r="255" g="193" b="6" a="255" />
+        <MultiLine value="0" />
+        <VerticalAlignment value="CENTER" />
+    </Child>
+    <Child name="setting_control" proto="Dummy">
+        <Stack value="1" />
+        <StackDirection value="VERTICAL" />
+        <Position scale_x="0.495833" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+        <Size scale_x="-1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+        <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+        <Child name="Resolution" proto="SettingEnum">
+            <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+            <Child name="title">
+                <Text value="GUI.translationtable:OPTIONS_VIDEO_RESOLUTION" />
+            </Child>
+            <Child name="content_0">
+                <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="69.000000" />
+            </Child>
+        </Child>
+        <Child name="margin_0_0_0_1" proto="Dummy">
+            <Position scale_x="0.474000" offset_x="0.000000" scale_y="0.000000" offset_y="97.000000" />
+            <Size scale_x="0.000000" offset_x="0.000000" scale_y="0.000000" offset_y="40.000000" />
+        </Child>
+        <Child name="Fullscreen" proto="SettingEnum">
+            <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="137.000000" />
+            <Child name="title">
+                <Text value="GUI.translationtable:OPTIONS_VIDEO_FULLSCREEN_CAT" />
+            </Child>
+            <Child name="content_0">
+                <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="69.000000" />
+            </Child>
+        </Child>
+        <Child name="margin_0_0_0_1_0" proto="Dummy">
+            <Position scale_x="0.474000" offset_x="0.000000" scale_y="0.000000" offset_y="234.000000" />
+            <Size scale_x="0.000000" offset_x="0.000000" scale_y="0.000000" offset_y="40.000000" />
+        </Child>
+        <Child name="textures" proto="SettingEnum">
+            <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="274.000000" />
+            <Child name="title">
+                <Text value="GUI.translationtable:OPTIONS_VIDEO_TEXTURES" />
+            </Child>
+            <Child name="content_0">
+                <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="69.000000" />
+            </Child>
+        </Child>
+        <Child name="margin_0" proto="Dummy">
+            <Position scale_x="0.474000" offset_x="0.000000" scale_y="0.000000" offset_y="371.000000" />
+            <Size scale_x="0.000000" offset_x="0.000000" scale_y="0.000000" offset_y="40.000000" />
+        </Child>
+        <Child name="Graphique" proto="SettingEnum">
+            <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="411.000000" />
+            <Child name="title">
+                <Text value="GUI.translationtable:OPTIONS_VIDEO_GRAPH_QUALITY" />
+            </Child>
+            <Child name="content_0">
+                <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="69.000000" />
+            </Child>
+        </Child>
+        <Child name="margin_1" proto="Dummy">
+            <Position scale_x="0.474000" offset_x="0.000000" scale_y="0.000000" offset_y="508.000000" />
+            <Size scale_x="0.000000" offset_x="0.000000" scale_y="0.000000" offset_y="40.000000" />
+        </Child>
+        <Child name="VSync" proto="SettingEnum">
+            <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="548.000000" />
+            <Child name="title">
+                <Text value="GUI.translationtable:OPTIONS_VIDEO_VSYNC" />
+            </Child>
+            <Child name="content_0">
+                <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="69.000000" />
+            </Child>
+        </Child>
+        <Child name="margin_2" proto="Dummy">
+            <Visible value="0" />
+            <Position scale_x="0.474000" offset_x="0.000000" scale_y="0.000000" offset_y="620.000000" />
+            <Size scale_x="0.000000" offset_x="0.000000" scale_y="0.000000" offset_y="20.000000" />
+        </Child>
+        <Child name="antialiasing" proto="SettingEnum">
+            <Visible value="0" />
+            <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="528.000000" />
+            <Child name="title">
+                <Text value="GUI.translationtable:OPTIONS_VIDEO_ANTIALIASING" />
+            </Child>
+        </Child>
+        <Child name="margin" proto="Dummy">
+            <Visible value="0" />
+            <Position scale_x="0.474000" offset_x="0.000000" scale_y="0.000000" offset_y="620.000000" />
+            <Size scale_x="0.000000" offset_x="0.000000" scale_y="0.000000" offset_y="20.000000" />
+        </Child>
+        <Child name="Gamma" proto="setting_gauge">
+            <Visible value="0" />
+            <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="640.000000" />
+            <Child name="master">
+                <Text value="GUI.translationtable:GAMMA" />
+                <State name="Active">
+                    <Color r="239" g="223" b="212" a="255" />
+                </State>
+            </Child>
+            <Child name="volume">
+                <Child name="pointedstate">
+                    <State name="Active">
+                        <Visible value="0" />
+                    </State>
+                </Child>
+            </Child>
+        </Child>
+        <Child name="margin_1_0" proto="Dummy">
+            <Position scale_x="0.474000" offset_x="0.000000" scale_y="0.000000" offset_y="645.000000" />
+            <Size scale_x="0.000000" offset_x="0.000000" scale_y="0.000000" offset_y="40.000000" />
+        </Child>
+        <Child name="Locked2VSync" proto="SettingEnum">
+            <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="685.000000" />
+            <Child name="title">
+                <Text value="GUI.translationtable:OPTIONS_VIDEO_LOCKED2VSYNC" />
+            </Child>
+            <Child name="content_0">
+                <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="69.000000" />
+            </Child>
+        </Child>
+        <Child name="Luminosity" proto="setting_gauge">
+            <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="782.000000" />
+            <Child name="master">
+                <Text value="GUI.translationtable:OPTIONS_VIDEO_LUMINOSITY" />
+            </Child>
+        </Child>
+    </Child>
+</Layout>

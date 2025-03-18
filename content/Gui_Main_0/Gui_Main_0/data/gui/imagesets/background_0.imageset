@@ -1,0 +1,5 @@
+<Imageset name="background" texture="background.tga">
+	<Image name="Puzzle" left="1" top="1" right="1677" bottom="950" />
+	<Image name="Pointed_State" left="1" top="953" right="178" bottom="1130" />
+	<Image name="selection_talent" left="1681" top="1" right="1780" bottom="100" />
+</Imageset>

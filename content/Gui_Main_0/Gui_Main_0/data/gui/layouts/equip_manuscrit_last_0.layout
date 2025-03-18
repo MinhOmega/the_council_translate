@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Layout>
+    <Child name="fond_0" proto="Image">
+        <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+        <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+        <Image set="Background_GUI" image="Background_GUI" />
+    </Child>
+    <Child name="IngameNav" proto="Nav_LAST">
+        <Child name="InfoLabel">
+            <Litteral value="0" />
+            <Text value="GUI_TABS_SLOT_INVENTORY" />
+        </Child>
+        <Child name="stack">
+            <Child name="RB">
+                <Position scale_x="0.000000" offset_x="2294.000000" scale_y="0.500000" offset_y="0.000000" />
+            </Child>
+        </Child>
+    </Child>
+    <Child name="margin_0" proto="Dummy">
+        <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+        <Size scale_x="0.000000" offset_x="1728.000000" scale_y="0.000000" offset_y="972.000000" />
+        <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+        <Child name="Input_Contener" proto="Input_Contener">
+            <Position scale_x="1.000000" offset_x="0.000000" scale_y="1.000000" offset_y="0.000000" />
+        </Child>
+        <Child name="Niveau_Info" proto="Dummy">
+            <Position scale_x="0.000000" offset_x="0.000000" scale_y="0.250000" offset_y="0.000000" />
+            <Size scale_x="-1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+            <Child name="Level_Xp" proto="Level_Xp">
+                <Position scale_x="0.000000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+                <Child name="margin">
+                    <Position scale_x="0.000000" offset_x="436.000000" scale_y="0.000000" offset_y="0.000000" />
+                </Child>
+                <Child name="no_stack">
+                    <Position scale_x="0.000000" offset_x="441.000000" scale_y="0.500000" offset_y="5.000000" />
+                </Child>
+            </Child>
+        </Child>
+        <Child name="Dotslevelup" proto="Image">
+            <Position scale_x="1.000000" offset_x="0.000000" scale_y="0.280000" offset_y="0.000000" />
+            <Size scale_x="-1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+            <Anchor scale_x="1.000000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+            <Image set="Elements" image="rond_dots_left" />
+            <Child name="chiffre_manuscrit" proto="Label">
+                <Stackable value="0" />
+                <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="-23.000000" />
+                <Size scale_x="-1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+                <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                <Text value="2" />
+                <Font value="montserat_110_bold" />
+                <Color r="8" g="25" b="41" a="255" />
+            </Child>
+        </Child>
+        <Child name="desc_manuscrit" proto="Label">
+            <Position scale_x="0.930000" offset_x="0.000000" scale_y="0.280000" offset_y="0.000000" />
+            <Size scale_x="-1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+            <Anchor scale_x="1.000000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+            <Text value="GUI.translationtable:MANUSCRIT_A_EQUIP_DESC" />
+            <Font value="montserat_30" />
+            <Color r="255" g="193" b="6" a="255" />
+            <HorizontalAlignment value="RIGHT" />
+            <VerticalAlignment value="CENTER" />
+            <TagEnabled value="1" />
+        </Child>
+    </Child>
+    <Child name="ParallaxRoot" proto="Dummy">
+        <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+        <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+        <Child name="Manuscrit" proto="Manuscrit_LAST">
+            <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.620000" offset_y="0.000000" />
+            <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+            <Child name="encylopedie1">
+                <Child name="etat">
+                    <Color r="255" g="193" b="6" a="255" />
+                </Child>
+            </Child>
+            <Child name="encylopedie2">
+                <Child name="etat">
+                    <Color r="255" g="193" b="6" a="255" />
+                </Child>
+            </Child>
+            <Child name="encylopedie3">
+                <Child name="etat">
+                    <Color r="255" g="193" b="6" a="255" />
+                </Child>
+            </Child>
+            <Child name="encylopedie4">
+                <Child name="etat">
+                    <Color r="255" g="193" b="6" a="255" />
+                </Child>
+            </Child>
+            <Child name="encylopedie5">
+                <Child name="etat">
+                    <Color r="255" g="193" b="6" a="255" />
+                </Child>
+            </Child>
+            <Child name="encylopedie6">
+                <Child name="etat">
+                    <Color r="255" g="193" b="6" a="255" />
+                </Child>
+            </Child>
+            <Child name="encylopedie7">
+                <Child name="etat">
+                    <Color r="255" g="193" b="6" a="255" />
+                </Child>
+            </Child>
+            <Child name="encylopedie8">
+                <Child name="etat">
+                    <Color r="255" g="193" b="6" a="255" />
+                </Child>
+            </Child>
+            <Child name="encylopedie9">
+                <Child name="etat">
+                    <Color r="255" g="193" b="6" a="255" />
+                </Child>
+            </Child>
+            <Child name="encylopedie10">
+                <Child name="etat">
+                    <Color r="255" g="193" b="6" a="255" />
+                </Child>
+            </Child>
+            <Child name="encylopedie11">
+                <Child name="etat">
+                    <Color r="255" g="193" b="6" a="255" />
+                </Child>
+            </Child>
+            <Child name="encylopedie12">
+                <Child name="etat">
+                    <Color r="255" g="193" b="6" a="255" />
+                </Child>
+            </Child>
+            <Child name="encylopedie13">
+                <Child name="etat">
+                    <Color r="255" g="193" b="6" a="255" />
+                </Child>
+            </Child>
+            <Child name="encylopedie14">
+                <Child name="etat">
+                    <Color r="255" g="193" b="6" a="255" />
+                </Child>
+            </Child>
+            <Child name="encylopedie15">
+                <Child name="etat">
+                    <Color r="255" g="193" b="6" a="255" />
+                </Child>
+            </Child>
+            <Child name="encylopedie16">
+                <Child name="etat">
+                    <Color r="255" g="193" b="6" a="255" />
+                </Child>
+            </Child>
+            <Child name="encylopedie17">
+                <Child name="etat">
+                    <Color r="255" g="193" b="6" a="255" />
+                </Child>
+            </Child>
+            <Child name="encylopedie18">
+                <Child name="etat">
+                    <Color r="255" g="193" b="6" a="255" />
+                </Child>
+            </Child>
+            <Child name="encylopedie19">
+                <Child name="etat">
+                    <Color r="255" g="193" b="6" a="255" />
+                </Child>
+            </Child>
+            <Child name="encylopedie20">
+                <Child name="etat">
+                    <Color r="255" g="193" b="6" a="255" />
+                </Child>
+            </Child>
+            <Child name="encylopedie21">
+                <Child name="etat">
+                    <Color r="255" g="193" b="6" a="255" />
+                </Child>
+            </Child>
+            <Child name="encylopedie22">
+                <Child name="etat">
+                    <Color r="255" g="193" b="6" a="255" />
+                </Child>
+            </Child>
+            <Child name="encylopedie23">
+                <Child name="etat">
+                    <Color r="255" g="193" b="6" a="255" />
+                </Child>
+            </Child>
+            <Child name="encylopedie24">
+                <Child name="etat">
+                    <Color r="255" g="193" b="6" a="255" />
+                </Child>
+            </Child>
+            <Child name="encylopedie25">
+                <Child name="etat">
+                    <Color r="255" g="193" b="6" a="255" />
+                </Child>
+            </Child>
+            <Child name="encylopedie26">
+                <Child name="etat">
+                    <Color r="255" g="193" b="6" a="255" />
+                </Child>
+            </Child>
+            <Child name="encylopedie27">
+                <Child name="etat">
+                    <Color r="255" g="193" b="6" a="255" />
+                </Child>
+            </Child>
+            <Child name="encylopedie28">
+                <Child name="etat">
+                    <Color r="255" g="193" b="6" a="255" />
+                </Child>
+            </Child>
+            <Child name="encylopedie29">
+                <Child name="etat">
+                    <Color r="255" g="193" b="6" a="255" />
+                </Child>
+            </Child>
+            <Child name="encylopedie30">
+                <Child name="etat">
+                    <Color r="255" g="193" b="6" a="255" />
+                </Child>
+            </Child>
+            <Child name="encylopedie31">
+                <Child name="etat">
+                    <Color r="255" g="193" b="6" a="255" />
+                </Child>
+            </Child>
+            <Child name="encylopedie32">
+                <Child name="etat">
+                    <Color r="255" g="193" b="6" a="255" />
+                </Child>
+            </Child>
+            <Child name="SEPARATION">
+                <Visible value="0" />
+            </Child>
+        </Child>
+    </Child>
+    <Child name="Txt_title_manuscrit" proto="Label">
+        <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.100000" offset_y="0.000000" />
+        <Size scale_x="-1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+        <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+        <Text value="GUI.translationtable:MANUSCRIT_EQUIP_TITLE" />
+        <Font value="Montserat_110" />
+        <Color r="239" g="223" b="212" a="255" />
+        <TagEnabled value="1" />
+    </Child>
+</Layout>

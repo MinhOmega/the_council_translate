@@ -1,0 +1,1057 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Layout>
+    <Child name="fond" proto="Image">
+        <Visible value="0" />
+        <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+        <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+        <Image set="Background_GUI" image="Background_GUI" />
+    </Child>
+    <Child name="Title_manuscrit" proto="Label">
+        <Alpha value="0.050000" />
+        <Rotation value="90.000000" />
+        <Position scale_x="0.000000" offset_x="-30.000000" scale_y="0.500000" offset_y="0.000000" />
+        <Size scale_x="-1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+        <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+        <Text value="GUI.translationtable:INVENTAIRE_TITLE_MANUSCRIT" />
+        <Font value="Montserat_110" />
+    </Child>
+    <Child name="Title_objet" proto="Label">
+        <Alpha value="0.050000" />
+        <Rotation value="270.000000" />
+        <Position scale_x="1.000000" offset_x="30.000000" scale_y="0.500000" offset_y="0.000000" />
+        <Size scale_x="-1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+        <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+        <Text value="GUI.translationtable:INVENTAIRE_TITLE_OBJET_NARRATIF" />
+        <Font value="Montserat_110" />
+    </Child>
+    <Child name="ParallaxInventory" proto="Dummy">
+        <Child name="Objet_narratif" proto="Objet_LAST">
+            <Position scale_x="1.000000" offset_x="0.000000" scale_y="0.450000" offset_y="0.000000" />
+            <Child name="Objet2">
+                <Child name="Tooltip_narratif">
+                    <Child name="TooltipBackground">
+                        <Child name="margin_0">
+                            <Position scale_x="0.000000" offset_x="0.000000" scale_y="0.000000" offset_y="98.000000" />
+                        </Child>
+                        <Child name="text">
+                            <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="56.500000" />
+                        </Child>
+                    </Child>
+                </Child>
+            </Child>
+            <Child name="Objet3">
+                <Child name="Tooltip_narratif">
+                    <Child name="TooltipBackground">
+                        <Child name="margin_0">
+                            <Position scale_x="0.000000" offset_x="0.000000" scale_y="0.000000" offset_y="98.000000" />
+                        </Child>
+                        <Child name="text">
+                            <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="56.500000" />
+                        </Child>
+                    </Child>
+                </Child>
+            </Child>
+            <Child name="Objet4">
+                <Child name="Tooltip_narratif">
+                    <Child name="TooltipBackground">
+                        <Child name="margin_0">
+                            <Position scale_x="0.000000" offset_x="0.000000" scale_y="0.000000" offset_y="98.000000" />
+                        </Child>
+                        <Child name="text">
+                            <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="56.500000" />
+                        </Child>
+                    </Child>
+                </Child>
+            </Child>
+            <Child name="Objet5">
+                <Child name="Tooltip_narratif">
+                    <Child name="TooltipBackground">
+                        <Child name="margin_0">
+                            <Position scale_x="0.000000" offset_x="0.000000" scale_y="0.000000" offset_y="98.000000" />
+                        </Child>
+                        <Child name="text">
+                            <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="56.500000" />
+                        </Child>
+                    </Child>
+                </Child>
+            </Child>
+            <Child name="Objet6">
+                <Child name="Tooltip_narratif">
+                    <Child name="TooltipBackground">
+                        <Child name="margin_0">
+                            <Position scale_x="0.000000" offset_x="0.000000" scale_y="0.000000" offset_y="98.000000" />
+                        </Child>
+                        <Child name="text">
+                            <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="56.500000" />
+                        </Child>
+                    </Child>
+                </Child>
+            </Child>
+            <Child name="Objet7">
+                <Child name="Tooltip_narratif">
+                    <Child name="TooltipBackground">
+                        <Child name="margin_0">
+                            <Position scale_x="0.000000" offset_x="0.000000" scale_y="0.000000" offset_y="98.000000" />
+                        </Child>
+                        <Child name="text">
+                            <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="56.500000" />
+                        </Child>
+                    </Child>
+                </Child>
+            </Child>
+            <Child name="Objet8">
+                <Child name="Tooltip_narratif">
+                    <Child name="TooltipBackground">
+                        <Child name="margin_0">
+                            <Position scale_x="0.000000" offset_x="0.000000" scale_y="0.000000" offset_y="98.000000" />
+                        </Child>
+                        <Child name="text">
+                            <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="56.500000" />
+                        </Child>
+                    </Child>
+                </Child>
+            </Child>
+            <Child name="Objet9">
+                <Child name="Tooltip_narratif">
+                    <Child name="TooltipBackground">
+                        <Child name="margin_0">
+                            <Position scale_x="0.000000" offset_x="0.000000" scale_y="0.000000" offset_y="98.000000" />
+                        </Child>
+                        <Child name="text">
+                            <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="56.500000" />
+                        </Child>
+                    </Child>
+                </Child>
+            </Child>
+            <Child name="Objet10">
+                <Child name="Tooltip_narratif">
+                    <Child name="TooltipBackground">
+                        <Child name="margin_0">
+                            <Position scale_x="0.000000" offset_x="0.000000" scale_y="0.000000" offset_y="98.000000" />
+                        </Child>
+                        <Child name="text">
+                            <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="56.500000" />
+                        </Child>
+                    </Child>
+                </Child>
+            </Child>
+            <Child name="Objet11">
+                <Child name="Tooltip_narratif">
+                    <Child name="TooltipBackground">
+                        <Child name="margin_0">
+                            <Position scale_x="0.000000" offset_x="0.000000" scale_y="0.000000" offset_y="98.000000" />
+                        </Child>
+                        <Child name="text">
+                            <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="56.500000" />
+                        </Child>
+                    </Child>
+                </Child>
+            </Child>
+            <Child name="Objet12">
+                <Child name="Tooltip_narratif">
+                    <Child name="TooltipBackground">
+                        <Child name="margin_0">
+                            <Position scale_x="0.000000" offset_x="0.000000" scale_y="0.000000" offset_y="98.000000" />
+                        </Child>
+                        <Child name="text">
+                            <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="56.500000" />
+                        </Child>
+                    </Child>
+                </Child>
+            </Child>
+            <Child name="Objet13">
+                <Child name="Tooltip_narratif">
+                    <Child name="TooltipBackground">
+                        <Child name="margin_0">
+                            <Position scale_x="0.000000" offset_x="0.000000" scale_y="0.000000" offset_y="98.000000" />
+                        </Child>
+                        <Child name="text">
+                            <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="56.500000" />
+                        </Child>
+                    </Child>
+                </Child>
+            </Child>
+            <Child name="Objet14">
+                <Child name="Tooltip_narratif">
+                    <Child name="TooltipBackground">
+                        <Child name="margin_0">
+                            <Position scale_x="0.000000" offset_x="0.000000" scale_y="0.000000" offset_y="98.000000" />
+                        </Child>
+                        <Child name="text">
+                            <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="56.500000" />
+                        </Child>
+                    </Child>
+                </Child>
+            </Child>
+            <Child name="Objet15">
+                <Child name="Tooltip_narratif">
+                    <Child name="TooltipBackground">
+                        <Child name="margin_0">
+                            <Position scale_x="0.000000" offset_x="0.000000" scale_y="0.000000" offset_y="98.000000" />
+                        </Child>
+                        <Child name="text">
+                            <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="56.500000" />
+                        </Child>
+                    </Child>
+                </Child>
+            </Child>
+            <Child name="Objet16">
+                <Child name="Tooltip_narratif">
+                    <Child name="TooltipBackground">
+                        <Child name="margin_0">
+                            <Position scale_x="0.000000" offset_x="0.000000" scale_y="0.000000" offset_y="98.000000" />
+                        </Child>
+                        <Child name="text">
+                            <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="56.500000" />
+                        </Child>
+                    </Child>
+                </Child>
+            </Child>
+            <Child name="Objet17">
+                <Child name="Tooltip_narratif">
+                    <Child name="TooltipBackground">
+                        <Child name="margin_0">
+                            <Position scale_x="0.000000" offset_x="0.000000" scale_y="0.000000" offset_y="98.000000" />
+                        </Child>
+                        <Child name="text">
+                            <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="56.500000" />
+                        </Child>
+                    </Child>
+                </Child>
+            </Child>
+            <Child name="Objet18">
+                <Child name="Tooltip_narratif">
+                    <Child name="TooltipBackground">
+                        <Child name="margin_0">
+                            <Position scale_x="0.000000" offset_x="0.000000" scale_y="0.000000" offset_y="98.000000" />
+                        </Child>
+                        <Child name="text">
+                            <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="56.500000" />
+                        </Child>
+                    </Child>
+                </Child>
+            </Child>
+            <Child name="Objet19">
+                <Child name="Tooltip_narratif">
+                    <Child name="TooltipBackground">
+                        <Child name="margin_0">
+                            <Position scale_x="0.000000" offset_x="0.000000" scale_y="0.000000" offset_y="98.000000" />
+                        </Child>
+                        <Child name="text">
+                            <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="56.500000" />
+                        </Child>
+                    </Child>
+                </Child>
+            </Child>
+            <Child name="Objet20">
+                <Child name="Tooltip_narratif">
+                    <Child name="TooltipBackground">
+                        <Child name="margin_0">
+                            <Position scale_x="0.000000" offset_x="0.000000" scale_y="0.000000" offset_y="98.000000" />
+                        </Child>
+                        <Child name="text">
+                            <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="56.500000" />
+                        </Child>
+                    </Child>
+                </Child>
+            </Child>
+            <Child name="PageScrolling" proto="PageScrolling">
+                <Position scale_x="0.500000" offset_x="0.000000" scale_y="1.000000" offset_y="0.000000" />
+            </Child>
+        </Child>
+        <Child name="Manuscrit" proto="Manuscrit_LAST">
+            <Position scale_x="0.000000" offset_x="0.000000" scale_y="0.450000" offset_y="0.000000" />
+            <Child name="encylopedie1">
+                <Child name="etat">
+                    <Color r="255" g="193" b="6" a="255" />
+                </Child>
+            </Child>
+            <Child name="encylopedie2">
+                <Child name="etat">
+                    <Color r="255" g="193" b="6" a="255" />
+                </Child>
+            </Child>
+            <Child name="encylopedie3">
+                <Child name="etat">
+                    <Color r="255" g="193" b="6" a="255" />
+                </Child>
+            </Child>
+            <Child name="encylopedie4">
+                <Child name="etat">
+                    <Color r="255" g="193" b="6" a="255" />
+                </Child>
+            </Child>
+            <Child name="encylopedie5">
+                <Child name="etat">
+                    <Color r="255" g="193" b="6" a="255" />
+                </Child>
+            </Child>
+            <Child name="encylopedie6">
+                <Child name="etat">
+                    <Color r="255" g="193" b="6" a="255" />
+                </Child>
+            </Child>
+            <Child name="encylopedie7">
+                <Child name="etat">
+                    <Color r="255" g="193" b="6" a="255" />
+                </Child>
+            </Child>
+            <Child name="encylopedie8">
+                <Child name="etat">
+                    <Color r="255" g="193" b="6" a="255" />
+                </Child>
+            </Child>
+            <Child name="encylopedie9">
+                <Child name="etat">
+                    <Color r="255" g="193" b="6" a="255" />
+                </Child>
+            </Child>
+            <Child name="encylopedie10">
+                <Child name="etat">
+                    <Color r="255" g="193" b="6" a="255" />
+                </Child>
+            </Child>
+            <Child name="encylopedie11">
+                <Child name="etat">
+                    <Color r="255" g="193" b="6" a="255" />
+                </Child>
+            </Child>
+            <Child name="encylopedie12">
+                <Child name="etat">
+                    <Color r="255" g="193" b="6" a="255" />
+                </Child>
+            </Child>
+            <Child name="encylopedie13">
+                <Child name="etat">
+                    <Color r="255" g="193" b="6" a="255" />
+                </Child>
+            </Child>
+            <Child name="encylopedie14">
+                <Child name="etat">
+                    <Color r="255" g="193" b="6" a="255" />
+                </Child>
+            </Child>
+            <Child name="encylopedie15">
+                <Child name="etat">
+                    <Color r="255" g="193" b="6" a="255" />
+                </Child>
+            </Child>
+            <Child name="encylopedie16">
+                <Child name="etat">
+                    <Color r="255" g="193" b="6" a="255" />
+                </Child>
+            </Child>
+            <Child name="encylopedie17">
+                <Child name="etat">
+                    <Color r="255" g="193" b="6" a="255" />
+                </Child>
+            </Child>
+            <Child name="encylopedie18">
+                <Child name="etat">
+                    <Color r="255" g="193" b="6" a="255" />
+                </Child>
+            </Child>
+            <Child name="encylopedie19">
+                <Child name="etat">
+                    <Color r="255" g="193" b="6" a="255" />
+                </Child>
+            </Child>
+            <Child name="encylopedie20">
+                <Child name="etat">
+                    <Color r="255" g="193" b="6" a="255" />
+                </Child>
+            </Child>
+            <Child name="encylopedie21">
+                <Child name="etat">
+                    <Color r="255" g="193" b="6" a="255" />
+                </Child>
+            </Child>
+            <Child name="encylopedie22">
+                <Child name="etat">
+                    <Color r="255" g="193" b="6" a="255" />
+                </Child>
+            </Child>
+            <Child name="encylopedie23">
+                <Child name="etat">
+                    <Color r="255" g="193" b="6" a="255" />
+                </Child>
+            </Child>
+            <Child name="encylopedie24">
+                <Child name="etat">
+                    <Color r="255" g="193" b="6" a="255" />
+                </Child>
+            </Child>
+            <Child name="encylopedie25">
+                <Child name="etat">
+                    <Color r="255" g="193" b="6" a="255" />
+                </Child>
+            </Child>
+            <Child name="encylopedie26">
+                <Child name="etat">
+                    <Color r="255" g="193" b="6" a="255" />
+                </Child>
+            </Child>
+            <Child name="encylopedie27">
+                <Child name="etat">
+                    <Color r="255" g="193" b="6" a="255" />
+                </Child>
+            </Child>
+            <Child name="encylopedie28">
+                <Child name="etat">
+                    <Color r="255" g="193" b="6" a="255" />
+                </Child>
+            </Child>
+            <Child name="encylopedie29">
+                <Child name="etat">
+                    <Color r="255" g="193" b="6" a="255" />
+                </Child>
+            </Child>
+            <Child name="encylopedie30">
+                <Child name="etat">
+                    <Color r="255" g="193" b="6" a="255" />
+                </Child>
+            </Child>
+            <Child name="encylopedie31">
+                <Child name="etat">
+                    <Color r="255" g="193" b="6" a="255" />
+                </Child>
+            </Child>
+            <Child name="encylopedie32">
+                <Child name="etat">
+                    <Color r="255" g="193" b="6" a="255" />
+                </Child>
+            </Child>
+        </Child>
+    </Child>
+    <Child name="Dummy_0" proto="Dummy">
+        <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+        <Size scale_x="0.900000" offset_x="0.000000" scale_y="0.900000" offset_y="0.000000" />
+        <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+        <Child name="consommables" proto="Dummy">
+            <Stack value="1" />
+            <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.950000" offset_y="0.000000" />
+            <Size scale_x="-1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+            <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="1.000000" offset_y="0.000000" />
+            <Child name="Remontant" proto="Dummy">
+                <Position scale_x="0.000000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                <Size scale_x="-1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+                <Anchor scale_x="0.000000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                <Child name="Dummy" proto="Dummy">
+                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                    <Size scale_x="-1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+                    <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                    <InteractEnabled value="1" />
+                    <InheritState value="1" />
+                    <Child name="Fond_conso" proto="Image">
+                        <Alpha value="0.200000" />
+                        <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                        <Size scale_x="-1.000000" offset_x="-20.000000" scale_y="-1.000000" offset_y="-20.000000" />
+                        <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                        <InheritState value="1" />
+                        <Image set="Inventory_Manuscrit" image="Unlock" />
+                        <State name="actif">
+                            <Alpha value="0.400000" />
+                        </State>
+                    </Child>
+                    <Child name="selection" proto="Image">
+                        <Visible value="0" />
+                        <Alpha value="0.800000" />
+                        <Stackable value="0" />
+                        <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.390000" offset_y="0.000000" />
+                        <Size scale_x="-1.000000" offset_x="-20.000000" scale_y="-1.000000" offset_y="-15.000000" />
+                        <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                        <InheritAlpha value="0" />
+                        <InheritState value="1" />
+                        <Image set="Inventory_Manuscrit" image="PointedState" />
+                        <State name="PointedState">
+                            <Visible value="1" />
+                        </State>
+                    </Child>
+                    <Child name="icon" proto="Image">
+                        <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="-10.000000" />
+                        <Size scale_x="-1.000000" offset_x="20.000000" scale_y="-1.000000" offset_y="15.000000" />
+                        <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                        <InheritAlpha value="0" />
+                        <InheritState value="1" />
+                        <Image set="consommables" image="gelee_royal" />
+                        <State name="etat_none">
+                            <Alpha value="0.300000" />
+                        </State>
+                    </Child>
+                    <Child name="chiffre" proto="Label">
+                        <Position scale_x="0.500000" offset_x="0.000000" scale_y="1.000000" offset_y="-5.000000" />
+                        <Size scale_x="-1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+                        <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="1.000000" offset_y="0.000000" />
+                        <InheritState value="1" />
+                        <Text value="2/5" />
+                        <Font value="montserat_20" />
+                        <HorizontalAlignment value="CENTER" />
+                        <VerticalAlignment value="CENTER" />
+                        <State name="etat_none">
+                            <Alpha value="0.300000" />
+                        </State>
+                    </Child>
+                    <Child name="Tooltip" proto="Tooltip_Fake_Objet">
+                        <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="-10.000000" />
+                        <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="1.000000" offset_y="0.000000" />
+                        <Child name="TitleBackground">
+                            <Child name="Title">
+                                <Text value="GUI.translationtable:CONSOMMABLE_REMONTANT" />
+                            </Child>
+                        </Child>
+                        <Child name="TooltipBackground">
+                            <Child name="text">
+                                <Text value="GUI.translationtable:CONSOMMABLE_REMONTANT_DESC" />
+                            </Child>
+                            <Child name="margin_1_0">
+                                <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="41.000000" />
+                            </Child>
+                            <Child name="text_0" proto="Label">
+                                <Alpha value="0.950000" />
+                                <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="10.000000" />
+                                <Size scale_x="0.950000" offset_x="0.000000" scale_y="-1.000000" offset_y="5.000000" />
+                                <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+                                <Text value="GUI.translationtable:TUTO_REMONTANT_UTILISATION" />
+                                <Font value="montserat_20" />
+                                <Color r="239" g="223" b="212" a="255" />
+                                <HorizontalAlignment value="CENTER" />
+                                <VerticalAlignment value="CENTER" />
+                                <TagEnabled value="1" />
+                            </Child>
+                        </Child>
+                    </Child>
+                </Child>
+            </Child>
+            <Child name="margin_5_0" proto="Dummy">
+                <Position scale_x="0.000000" offset_x="81.000000" scale_y="0.132075" offset_y="0.000000" />
+                <Size scale_x="0.000000" offset_x="20.000000" scale_y="0.000000" offset_y="0.000000" />
+            </Child>
+            <Child name="Cathartique" proto="Dummy">
+                <Position scale_x="0.000000" offset_x="101.000000" scale_y="0.500000" offset_y="0.000000" />
+                <Size scale_x="-1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+                <Anchor scale_x="0.000000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                <Child name="Dummy" proto="Dummy">
+                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                    <Size scale_x="-1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+                    <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                    <InteractEnabled value="1" />
+                    <InheritState value="1" />
+                    <Child name="Fond_conso" proto="Image">
+                        <Alpha value="0.200000" />
+                        <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                        <Size scale_x="-1.000000" offset_x="-20.000000" scale_y="-1.000000" offset_y="-20.000000" />
+                        <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                        <InheritState value="1" />
+                        <Image set="Inventory_Manuscrit" image="Unlock" />
+                        <State name="actif">
+                            <Alpha value="0.400000" />
+                        </State>
+                    </Child>
+                    <Child name="selection" proto="Image">
+                        <Visible value="0" />
+                        <Alpha value="0.800000" />
+                        <Stackable value="0" />
+                        <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.390000" offset_y="0.000000" />
+                        <Size scale_x="-1.000000" offset_x="-20.000000" scale_y="-1.000000" offset_y="-15.000000" />
+                        <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                        <InheritAlpha value="0" />
+                        <InheritState value="1" />
+                        <Image set="Inventory_Manuscrit" image="PointedState" />
+                        <State name="PointedState">
+                            <Visible value="1" />
+                        </State>
+                    </Child>
+                    <Child name="icon" proto="Image">
+                        <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="-10.000000" />
+                        <Size scale_x="-1.000000" offset_x="20.000000" scale_y="-1.000000" offset_y="20.000000" />
+                        <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                        <InheritAlpha value="0" />
+                        <InheritState value="1" />
+                        <Image set="consommables" image="goutte_dor" />
+                        <State name="etat_none">
+                            <Alpha value="0.300000" />
+                        </State>
+                    </Child>
+                    <Child name="chiffre" proto="Label">
+                        <Position scale_x="0.500000" offset_x="0.000000" scale_y="1.000000" offset_y="-5.000000" />
+                        <Size scale_x="-1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+                        <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="1.000000" offset_y="0.000000" />
+                        <InheritState value="1" />
+                        <Text value="2/5" />
+                        <Font value="montserat_20" />
+                        <HorizontalAlignment value="CENTER" />
+                        <VerticalAlignment value="CENTER" />
+                        <State name="etat_none">
+                            <Alpha value="0.300000" />
+                        </State>
+                    </Child>
+                    <Child name="Tooltip" proto="Tooltip_Fake_Objet">
+                        <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="-10.000000" />
+                        <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="1.000000" offset_y="0.000000" />
+                        <Child name="TitleBackground">
+                            <Child name="Title">
+                                <Text value="GUI.translationtable:CONSOMMABLE_CATHARTIQUE" />
+                            </Child>
+                        </Child>
+                        <Child name="TooltipBackground">
+                            <Child name="text">
+                                <Text value="GUI.translationtable:CONSOMMABLE_CATHARTIQUE_DESC" />
+                            </Child>
+                            <Child name="margin_1_0">
+                                <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="41.000000" />
+                            </Child>
+                            <Child name="text_0" proto="Label">
+                                <Alpha value="0.950000" />
+                                <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="10.000000" />
+                                <Size scale_x="0.950000" offset_x="0.000000" scale_y="-1.000000" offset_y="5.000000" />
+                                <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+                                <Text value="GUI.translationtable:TUTO_CATHARTIQUE_UTILISATION" />
+                                <Font value="montserat_20" />
+                                <Color r="239" g="223" b="212" a="255" />
+                                <HorizontalAlignment value="CENTER" />
+                                <VerticalAlignment value="CENTER" />
+                                <TagEnabled value="1" />
+                            </Child>
+                        </Child>
+                    </Child>
+                </Child>
+            </Child>
+            <Child name="margin_5_1" proto="Dummy">
+                <Position scale_x="0.000000" offset_x="182.000000" scale_y="0.132075" offset_y="0.000000" />
+                <Size scale_x="0.000000" offset_x="20.000000" scale_y="0.000000" offset_y="0.000000" />
+            </Child>
+            <Child name="Stimulant" proto="Dummy">
+                <Position scale_x="0.000000" offset_x="202.000000" scale_y="0.500000" offset_y="0.000000" />
+                <Size scale_x="-1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+                <Anchor scale_x="0.000000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                <Child name="Dummy" proto="Dummy">
+                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                    <Size scale_x="-1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+                    <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                    <InteractEnabled value="1" />
+                    <InheritState value="1" />
+                    <Child name="Fond_conso" proto="Image">
+                        <Alpha value="0.200000" />
+                        <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                        <Size scale_x="-1.000000" offset_x="-20.000000" scale_y="-1.000000" offset_y="-20.000000" />
+                        <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                        <InheritState value="1" />
+                        <Image set="Inventory_Manuscrit" image="Unlock" />
+                        <State name="actif">
+                            <Alpha value="0.400000" />
+                        </State>
+                    </Child>
+                    <Child name="selection" proto="Image">
+                        <Visible value="0" />
+                        <Alpha value="0.800000" />
+                        <Stackable value="0" />
+                        <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.390000" offset_y="0.000000" />
+                        <Size scale_x="-1.000000" offset_x="-20.000000" scale_y="-1.000000" offset_y="-15.000000" />
+                        <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                        <InheritAlpha value="0" />
+                        <InheritState value="1" />
+                        <Image set="Inventory_Manuscrit" image="PointedState" />
+                        <State name="PointedState">
+                            <Visible value="1" />
+                        </State>
+                    </Child>
+                    <Child name="icon" proto="Image">
+                        <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="-10.000000" />
+                        <Size scale_x="-1.000000" offset_x="20.000000" scale_y="-1.000000" offset_y="20.000000" />
+                        <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                        <InheritAlpha value="0" />
+                        <InheritState value="1" />
+                        <Image set="consommables" image="croix_malte" />
+                        <State name="etat_none">
+                            <Alpha value="0.300000" />
+                        </State>
+                    </Child>
+                    <Child name="Tooltip" proto="Tooltip_Fake_Objet">
+                        <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="-10.000000" />
+                        <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="1.000000" offset_y="0.000000" />
+                        <Child name="TitleBackground">
+                            <Child name="Title">
+                                <Text value="GUI.translationtable:CONSOMMABLE_STIMULANT" />
+                            </Child>
+                        </Child>
+                        <Child name="TooltipBackground">
+                            <Child name="text">
+                                <Text value="GUI.translationtable:CONSOMMABLE_STIMULANT_DESC" />
+                            </Child>
+                            <Child name="margin_1_0">
+                                <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="41.000000" />
+                            </Child>
+                            <Child name="text_0" proto="Label">
+                                <Alpha value="0.950000" />
+                                <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="10.000000" />
+                                <Size scale_x="0.950000" offset_x="0.000000" scale_y="-1.000000" offset_y="5.000000" />
+                                <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+                                <Text value="GUI.translationtable:TUTO_STIMULANT_UTILISATION" />
+                                <Font value="montserat_20" />
+                                <Color r="239" g="223" b="212" a="255" />
+                                <HorizontalAlignment value="CENTER" />
+                                <VerticalAlignment value="CENTER" />
+                                <TagEnabled value="1" />
+                            </Child>
+                        </Child>
+                    </Child>
+                    <Child name="chiffre" proto="Label">
+                        <Position scale_x="0.500000" offset_x="0.000000" scale_y="1.000000" offset_y="-5.000000" />
+                        <Size scale_x="-1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+                        <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="1.000000" offset_y="0.000000" />
+                        <InheritState value="1" />
+                        <Text value="2/5" />
+                        <Font value="montserat_20" />
+                        <HorizontalAlignment value="CENTER" />
+                        <VerticalAlignment value="CENTER" />
+                        <State name="etat_none">
+                            <Alpha value="0.300000" />
+                        </State>
+                    </Child>
+                </Child>
+            </Child>
+            <Child name="margin_5" proto="Dummy">
+                <Position scale_x="0.000000" offset_x="283.000000" scale_y="0.132075" offset_y="0.000000" />
+                <Size scale_x="0.000000" offset_x="20.000000" scale_y="0.000000" offset_y="0.000000" />
+            </Child>
+            <Child name="Tonique" proto="Dummy">
+                <Position scale_x="0.000000" offset_x="303.000000" scale_y="0.500000" offset_y="0.000000" />
+                <Size scale_x="-1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+                <Anchor scale_x="0.000000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                <Child name="Dummy" proto="Dummy">
+                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                    <Size scale_x="-1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+                    <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                    <InteractEnabled value="1" />
+                    <InheritState value="1" />
+                    <Child name="Fond_conso" proto="Image">
+                        <Alpha value="0.200000" />
+                        <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                        <Size scale_x="-1.000000" offset_x="-20.000000" scale_y="-1.000000" offset_y="-20.000000" />
+                        <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                        <InheritState value="1" />
+                        <Image set="Inventory_Manuscrit" image="Unlock" />
+                        <State name="actif">
+                            <Alpha value="0.400000" />
+                        </State>
+                    </Child>
+                    <Child name="selection" proto="Image">
+                        <Visible value="0" />
+                        <Alpha value="0.800000" />
+                        <Stackable value="0" />
+                        <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.390000" offset_y="0.000000" />
+                        <Size scale_x="-1.000000" offset_x="-20.000000" scale_y="-1.000000" offset_y="-15.000000" />
+                        <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                        <InheritAlpha value="0" />
+                        <InheritState value="1" />
+                        <Image set="Inventory_Manuscrit" image="PointedState" />
+                        <State name="PointedState">
+                            <Visible value="1" />
+                        </State>
+                    </Child>
+                    <Child name="icon" proto="Image">
+                        <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="-10.000000" />
+                        <Size scale_x="-1.000000" offset_x="20.000000" scale_y="-1.000000" offset_y="20.000000" />
+                        <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                        <InheritAlpha value="0" />
+                        <InheritState value="1" />
+                        <Image set="consommables" image="eau_melisse" />
+                        <State name="etat_none">
+                            <Alpha value="0.300000" />
+                        </State>
+                    </Child>
+                    <Child name="chiffre" proto="Label">
+                        <Position scale_x="0.500000" offset_x="0.000000" scale_y="1.000000" offset_y="-5.000000" />
+                        <Size scale_x="-1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+                        <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="1.000000" offset_y="0.000000" />
+                        <InheritState value="1" />
+                        <Text value="2/5" />
+                        <Font value="montserat_20" />
+                        <HorizontalAlignment value="CENTER" />
+                        <VerticalAlignment value="CENTER" />
+                        <State name="etat_none">
+                            <Alpha value="0.300000" />
+                        </State>
+                    </Child>
+                    <Child name="Tooltip" proto="Tooltip_Fake_Objet">
+                        <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="-10.000000" />
+                        <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="1.000000" offset_y="0.000000" />
+                        <Child name="TitleBackground">
+                            <Child name="Title">
+                                <Text value="GUI.translationtable:CONSOMMABLE_TONIQUE" />
+                            </Child>
+                        </Child>
+                        <Child name="TooltipBackground">
+                            <Child name="text">
+                                <Text value="GUI.translationtable:CONSOMMABLE_TONIQUE_DESC" />
+                            </Child>
+                            <Child name="margin_1_0">
+                                <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="41.000000" />
+                            </Child>
+                            <Child name="text_0" proto="Label">
+                                <Alpha value="0.950000" />
+                                <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="10.000000" />
+                                <Size scale_x="0.950000" offset_x="0.000000" scale_y="-1.000000" offset_y="5.000000" />
+                                <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+                                <Text value="GUI.translationtable:TUTO_TONIQUE_UTILISATION" />
+                                <Font value="montserat_20" />
+                                <Color r="239" g="223" b="212" a="255" />
+                                <HorizontalAlignment value="CENTER" />
+                                <VerticalAlignment value="CENTER" />
+                                <TagEnabled value="1" />
+                            </Child>
+                        </Child>
+                    </Child>
+                </Child>
+            </Child>
+        </Child>
+        <Child name="Coin" proto="Dummy">
+            <Position scale_x="1.000000" offset_x="0.000000" scale_y="1.000000" offset_y="0.000000" />
+            <Size scale_x="-1.000000" offset_x="0.000000" scale_y="0.000000" offset_y="80.000000" />
+            <Anchor scale_x="1.000000" offset_x="0.000000" scale_y="1.000000" offset_y="0.000000" />
+            <Child name="chiffre" proto="Label">
+                <Position scale_x="0.000000" offset_x="-10.000000" scale_y="0.500000" offset_y="0.000000" />
+                <Size scale_x="0.000000" offset_x="30.000000" scale_y="0.500000" offset_y="0.000000" />
+                <Anchor scale_x="1.000000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                <InheritState value="1" />
+                <Text value='|variableManager:GetIntValue(&quot;hero.variabletable#Coin&quot;)' />
+                <Font value="montserat_60" />
+                <HorizontalAlignment value="CENTER" />
+                <VerticalAlignment value="CENTER" />
+                <State name="etat_none">
+                    <Alpha value="0.300000" />
+                </State>
+            </Child>
+            <Child name="Dummy" proto="Dummy">
+                <Size scale_x="-1.000000" offset_x="0.000000" scale_y="1.000000" offset_y="0.000000" />
+                <InteractEnabled value="1" />
+                <Child name="Fond_conso" proto="Image">
+                    <Alpha value="0.100000" />
+                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                    <Size scale_x="-1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+                    <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                    <InheritState value="1" />
+                    <Image set="Inventaire" image="fond_consommable" />
+                    <Child name="selection" proto="Image">
+                        <Visible value="0" />
+                        <Alpha value="0.800000" />
+                        <Size scale_x="-1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+                        <InheritAlpha value="0" />
+                        <InheritState value="1" />
+                        <Image set="Inventaire" image="selection_consommable" />
+                        <Color r="255" g="193" b="6" a="255" />
+                        <State name="PointedState">
+                            <Visible value="1" />
+                        </State>
+                    </Child>
+                    <Child name="icon" proto="Image">
+                        <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                        <Size scale_x="-1.000000" offset_x="-15.000000" scale_y="-1.000000" offset_y="-15.000000" />
+                        <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                        <InheritAlpha value="0" />
+                        <InheritState value="1" />
+                        <Image set="Elements" image="Coin" />
+                        <State name="etat_none">
+                            <Alpha value="0.300000" />
+                        </State>
+                    </Child>
+                </Child>
+                <Child name="Tooltip" proto="Tooltip_Fake_Objet">
+                    <Position scale_x="1.000000" offset_x="0.000000" scale_y="0.046296" offset_y="0.000000" />
+                    <Anchor scale_x="1.000000" offset_x="0.000000" scale_y="1.000000" offset_y="0.000000" />
+                    <Child name="TitleBackground">
+                        <Child name="Title">
+                            <Text value="GUI.translationtable:GUI_COIN" />
+                        </Child>
+                    </Child>
+                    <Child name="TooltipBackground">
+                        <Child name="text">
+                            <Text value="GUI.translationtable:GUI_COIN_DESC" />
+                        </Child>
+                        <Child name="margin_1_0">
+                            <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="41.000000" />
+                        </Child>
+                    </Child>
+                </Child>
+            </Child>
+        </Child>
+    </Child>
+    <Child name="dummy" proto="Dummy">
+        <Stack value="1" />
+        <Position scale_x="0.000000" offset_x="96.000000" scale_y="1.000000" offset_y="-54.000000" />
+        <Size scale_x="-1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+        <Anchor scale_x="0.000000" offset_x="0.000000" scale_y="1.000000" offset_y="0.000000" />
+        <Child name="gauge_effort" proto="EffortGauge2">
+            <Position scale_x="0.000000" offset_x="0.000000" scale_y="0.071429" offset_y="0.000000" />
+            <InteractEnabled value="1" />
+            <Child name="Line">
+                <Child name="point2">
+                    <Position scale_x="0.000000" offset_x="37.000000" scale_y="0.500000" offset_y="0.000000" />
+                </Child>
+                <Child name="point3">
+                    <Position scale_x="0.000000" offset_x="74.000000" scale_y="0.500000" offset_y="0.000000" />
+                </Child>
+                <Child name="point4">
+                    <Position scale_x="0.000000" offset_x="111.000000" scale_y="0.500000" offset_y="0.000000" />
+                </Child>
+                <Child name="point5">
+                    <Position scale_x="0.000000" offset_x="148.000000" scale_y="0.500000" offset_y="0.000000" />
+                </Child>
+                <Child name="point6">
+                    <Position scale_x="0.000000" offset_x="185.000000" scale_y="0.500000" offset_y="0.000000" />
+                </Child>
+                <Child name="point7">
+                    <Position scale_x="0.000000" offset_x="222.000000" scale_y="0.500000" offset_y="0.000000" />
+                </Child>
+                <Child name="point8">
+                    <Position scale_x="0.000000" offset_x="259.000000" scale_y="0.500000" offset_y="0.000000" />
+                </Child>
+                <Child name="point9">
+                    <Position scale_x="0.000000" offset_x="296.000000" scale_y="0.500000" offset_y="0.000000" />
+                </Child>
+                <Child name="point10">
+                    <Position scale_x="0.000000" offset_x="333.000000" scale_y="0.500000" offset_y="0.000000" />
+                </Child>
+            </Child>
+            <Child name="Line2">
+                <Child name="point12">
+                    <Position scale_x="0.000000" offset_x="37.000000" scale_y="0.500000" offset_y="0.000000" />
+                </Child>
+                <Child name="point13">
+                    <Position scale_x="0.000000" offset_x="74.000000" scale_y="0.500000" offset_y="0.000000" />
+                </Child>
+                <Child name="point14">
+                    <Position scale_x="0.000000" offset_x="111.000000" scale_y="0.500000" offset_y="0.000000" />
+                </Child>
+                <Child name="point15">
+                    <Position scale_x="0.000000" offset_x="148.000000" scale_y="0.500000" offset_y="0.000000" />
+                </Child>
+                <Child name="point16">
+                    <Position scale_x="0.000000" offset_x="185.000000" scale_y="0.500000" offset_y="0.000000" />
+                </Child>
+                <Child name="point17">
+                    <Position scale_x="0.000000" offset_x="222.000000" scale_y="0.500000" offset_y="0.000000" />
+                </Child>
+                <Child name="point18">
+                    <Position scale_x="0.000000" offset_x="259.000000" scale_y="0.500000" offset_y="0.000000" />
+                </Child>
+                <Child name="point19">
+                    <Position scale_x="0.000000" offset_x="296.000000" scale_y="0.500000" offset_y="0.000000" />
+                </Child>
+                <Child name="point20">
+                    <Position scale_x="0.000000" offset_x="333.000000" scale_y="0.500000" offset_y="0.000000" />
+                </Child>
+            </Child>
+            <Child name="Tooltip" proto="Tooltip_Fake_Objet">
+                <Position scale_x="0.019071" offset_x="0.000000" scale_y="0.000000" offset_y="-5.000000" />
+                <Anchor scale_x="0.000000" offset_x="0.000000" scale_y="1.000000" offset_y="0.000000" />
+                <Child name="TitleBackground">
+                    <Child name="Title">
+                        <Text value="GUI_TOOLTIP_STAMINA_POINTS_TITLE" />
+                    </Child>
+                </Child>
+                <Child name="TooltipBackground">
+                    <Child name="text">
+                        <Text value="GUI_TOOLTIP_STAMINA_POINTS_DESC" />
+                        <HorizontalAlignment value="LEFT" />
+                    </Child>
+                    <Child name="margin_1_0">
+                        <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="41.000000" />
+                    </Child>
+                    <Child name="Footer" proto="Label">
+                        <Alpha value="0.950000" />
+                        <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="51.000000" />
+                        <Size scale_x="0.950000" offset_x="0.000000" scale_y="-1.000000" offset_y="5.000000" />
+                        <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+                        <Font value="montserat_20" />
+                        <Color r="239" g="223" b="212" a="255" />
+                        <HorizontalAlignment value="CENTER" />
+                        <VerticalAlignment value="CENTER" />
+                    </Child>
+                </Child>
+            </Child>
+        </Child>
+        <Child name="marge" proto="Dummy">
+            <Position scale_x="0.000000" offset_x="370.000000" scale_y="1.042857" offset_y="0.000000" />
+            <Size scale_x="0.000000" offset_x="20.000000" scale_y="0.000000" offset_y="0.000000" />
+        </Child>
+        <Child name="Amber" proto="Ambre">
+            <Position scale_x="0.000000" offset_x="390.000000" scale_y="0.500000" offset_y="0.000000" />
+            <Anchor scale_x="0.000000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+            <InteractEnabled value="1" />
+            <Child name="Tooltip" proto="Tooltip_Fake_Objet">
+                <Position scale_x="0.008322" offset_x="0.000000" scale_y="-3.071815" offset_y="0.000000" />
+                <Child name="TitleBackground">
+                    <Child name="Title">
+                        <Text value="GUI.translationtable:GUI_TOOLTIP_HEARTQUARTERS_TITLE" />
+                    </Child>
+                </Child>
+                <Child name="TooltipBackground">
+                    <Child name="text">
+                        <Text value="GUI.translationtable:GUI_TOOLTIP_HEARTQUARTERS_DESC" />
+                        <HorizontalAlignment value="LEFT" />
+                    </Child>
+                    <Child name="margin_1_0">
+                        <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="41.000000" />
+                    </Child>
+                    <Child name="Footer" proto="Label">
+                        <Alpha value="0.950000" />
+                        <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="51.000000" />
+                        <Size scale_x="0.950000" offset_x="0.000000" scale_y="-1.000000" offset_y="5.000000" />
+                        <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+                        <Font value="montserat_20" />
+                        <Color r="239" g="223" b="212" a="255" />
+                        <HorizontalAlignment value="CENTER" />
+                        <VerticalAlignment value="CENTER" />
+                    </Child>
+                </Child>
+            </Child>
+        </Child>
+        <Child name="IchorBar" proto="IchorBar">
+            <Visible value="0" />
+            <Stackable value="0" />
+            <Position scale_x="0.000000" offset_x="0.000000" scale_y="0.000000" offset_y="-10.000000" />
+            <InteractEnabled value="1" />
+            <Child name="Tooltip" proto="Tooltip_Fake_Objet">
+                <Position scale_x="0.019071" offset_x="0.000000" scale_y="0.000000" offset_y="-5.000000" />
+                <Anchor scale_x="0.000000" offset_x="0.000000" scale_y="1.000000" offset_y="0.000000" />
+                <Child name="TitleBackground">
+                    <Child name="Title">
+                        <Text value="GUI_TOOLTIP_ICHOR_POINTS_TITLE" />
+                    </Child>
+                </Child>
+                <Child name="TooltipBackground">
+                    <Position scale_x="0.000000" offset_x="0.000000" scale_y="0.000000" offset_y="41.000000" />
+                    <Child name="text">
+                        <Text value="GUI_TOOLTIP_ICHOR_POINTS_DESC" />
+                        <HorizontalAlignment value="LEFT" />
+                    </Child>
+                    <Child name="margin_1_0">
+                        <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="43.000000" />
+                    </Child>
+                    <Child name="Footer" proto="Label">
+                        <Alpha value="0.950000" />
+                        <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="53.000000" />
+                        <Size scale_x="0.950000" offset_x="0.000000" scale_y="-1.000000" offset_y="5.000000" />
+                        <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+                        <Font value="montserat_20" />
+                        <Color r="239" g="223" b="212" a="255" />
+                        <HorizontalAlignment value="CENTER" />
+                        <VerticalAlignment value="CENTER" />
+                    </Child>
+                </Child>
+            </Child>
+        </Child>
+    </Child>
+    <Child name="IngameNav" proto="Nav_LAST">
+        <Child name="InfoLabel">
+            <Litteral value="0" />
+            <Text value="GUI.translationtable:GUI_TABS_SLOT_INVENTORY" />
+        </Child>
+        <Child name="stack">
+            <Child name="RB">
+                <Position scale_x="0.000000" offset_x="2294.000000" scale_y="0.500000" offset_y="0.000000" />
+            </Child>
+        </Child>
+    </Child>
+</Layout>

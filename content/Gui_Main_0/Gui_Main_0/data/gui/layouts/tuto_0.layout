@@ -1,0 +1,1495 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Layout>
+    <Child name="Input_Camera" proto="Input_tuto">
+        <Visible value="0" />
+        <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.700000" offset_y="0.000000" />
+        <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+        <Child name="Content">
+            <Child name="fond">
+                <Child name="desc_tuto">
+                    <Text value="GUI.translationtable:TUTO_CAMERA" />
+                    <TagEnabled value="1" />
+                </Child>
+            </Child>
+        </Child>
+    </Child>
+    <Child name="Input_Movement" proto="Input_tuto">
+        <Visible value="0" />
+        <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.700000" offset_y="60.000000" />
+        <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+        <Child name="Content">
+            <Child name="fond">
+                <Child name="desc_tuto">
+                    <Text value="GUI.translationtable:TUTO_MOVEMENT" />
+                    <TagEnabled value="1" />
+                </Child>
+            </Child>
+        </Child>
+    </Child>
+    <Child name="Input_Run" proto="Input_tuto">
+        <Visible value="0" />
+        <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.727778" offset_y="0.000000" />
+        <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+        <Child name="Content">
+            <Child name="fond">
+                <Child name="desc_tuto">
+                    <Text value="GUI.translationtable:TUTO_RUN" />
+                    <TagEnabled value="1" />
+                </Child>
+            </Child>
+        </Child>
+    </Child>
+    <Child name="Consommable">
+        <Position scale_x="0.000521" offset_x="0.000000" scale_y="0.000926" offset_y="0.000000" />
+        <Child name="Tuto_Remontant" proto="Tuto_Bloquante">
+            <Child name="tuto_back">
+                <Child name="content">
+                    <Child name="Title">
+                        <Text value="GUI.translationtable:TUTO_REMONTANT_TITLE" />
+                    </Child>
+                    <Child name="desc_tuto">
+                        <Text value="GUI.translationtable:TUTO_REMONTANT_DESC" />
+                    </Child>
+                    <Child name="desc_utilisation">
+                        <Text value="GUI.translationtable:TUTO_REMONTANT_UTILISATION" />
+                    </Child>
+                    <Child name="content_0">
+                        <Stack value="1" />
+                        <Child name="logo_tuto">
+                            <Position scale_x="0.000000" offset_x="0.000000" scale_y="0.000000" offset_y="46.000000" />
+                            <Size scale_x="-1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+                            <Anchor scale_x="0.000000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                            <Image set="Tuto" image="fond" />
+                            <Color r="255" g="255" b="255" a="255" />
+                            <Child name="logo" proto="Image">
+                                <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                                <Size scale_x="0.000000" offset_x="35.000000" scale_y="0.000000" offset_y="35.000000" />
+                                <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                                <Image set="consommables" image="gelee_royal" />
+                            </Child>
+                        </Child>
+                    </Child>
+                    <Child name="margin_4_0_0">
+                        <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="317.000000" />
+                    </Child>
+                </Child>
+            </Child>
+        </Child>
+        <Child name="Tuto_Tonique" proto="Tuto_Bloquante">
+            <Child name="tuto_back">
+                <Child name="content">
+                    <Child name="Title">
+                        <Text value="GUI.translationtable:TUTO_TONIQUE_TITLE" />
+                    </Child>
+                    <Child name="desc_tuto">
+                        <Text value="GUI.translationtable:TUTO_TONIQUE_DESC" />
+                    </Child>
+                    <Child name="desc_utilisation">
+                        <Text value="GUI.translationtable:TUTO_TONIQUE_UTILISATION" />
+                    </Child>
+                    <Child name="content_0">
+                        <Stack value="1" />
+                        <Child name="logo_tuto">
+                            <Position scale_x="0.000000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                            <Size scale_x="-1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+                            <Anchor scale_x="0.000000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                            <Image set="Tuto" image="fond" />
+                            <Color r="255" g="255" b="255" a="255" />
+                            <Child name="logo_0" proto="Image">
+                                <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                                <Size scale_x="0.000000" offset_x="35.000000" scale_y="0.000000" offset_y="35.000000" />
+                                <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                                <Image set="consommables" image="eau_melisse" />
+                            </Child>
+                        </Child>
+                        <Child name="margin_4_0_0_0" proto="Dummy">
+                            <Position scale_x="0.000000" offset_x="91.000000" scale_y="-6.391304" offset_y="760.000000" />
+                            <Size scale_x="0.000000" offset_x="10.000000" scale_y="0.000000" offset_y="80.000000" />
+                            <InheritOrientation value="0" />
+                        </Child>
+                        <Child name="fleche" proto="Image">
+                            <Position scale_x="0.000000" offset_x="101.000000" scale_y="0.500000" offset_y="0.000000" />
+                            <Size scale_x="-1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+                            <Anchor scale_x="0.000000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                            <Image set="Tuto" image="fleche" />
+                        </Child>
+                        <Child name="margin_4_0_0_0_0" proto="Dummy">
+                            <Position scale_x="0.000000" offset_x="132.000000" scale_y="-6.391304" offset_y="760.000000" />
+                            <Size scale_x="0.000000" offset_x="10.000000" scale_y="0.000000" offset_y="80.000000" />
+                            <InheritOrientation value="0" />
+                        </Child>
+                        <Child name="Alte" proto="Image">
+                            <Position scale_x="0.000000" offset_x="142.000000" scale_y="0.500000" offset_y="0.000000" />
+                            <Size scale_x="-1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+                            <Anchor scale_x="0.000000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                            <Image set="alteration" image="ALteration_6" />
+                        </Child>
+                    </Child>
+                    <Child name="margin_4_0_0">
+                        <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="317.000000" />
+                    </Child>
+                </Child>
+            </Child>
+        </Child>
+        <Child name="Tuto_Stimulant" proto="Tuto_Bloquante">
+            <Child name="tuto_back">
+                <Child name="content">
+                    <Child name="Title">
+                        <Text value="GUI.translationtable:TUTO_STIMULANT_TITLE" />
+                    </Child>
+                    <Child name="desc_tuto">
+                        <Text value="GUI.translationtable:TUTO_STIMULANT_DESC" />
+                    </Child>
+                    <Child name="desc_utilisation">
+                        <Text value="GUI.translationtable:TUTO_STIMULANT_UTILISATION" />
+                    </Child>
+                    <Child name="content_0">
+                        <Stack value="1" />
+                        <Child name="logo_tuto">
+                            <Position scale_x="0.000000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                            <Size scale_x="-1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+                            <Anchor scale_x="0.000000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                            <Image set="Tuto" image="fond" />
+                            <Color r="255" g="255" b="255" a="255" />
+                            <Child name="logo" proto="Image">
+                                <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                                <Size scale_x="0.000000" offset_x="35.000000" scale_y="0.000000" offset_y="35.000000" />
+                                <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                                <Image set="consommables" image="croix_malte" />
+                            </Child>
+                        </Child>
+                        <Child name="margin_4_0_0_0" proto="Dummy">
+                            <Position scale_x="0.000000" offset_x="91.000000" scale_y="0.000000" offset_y="0.000000" />
+                            <Size scale_x="0.000000" offset_x="10.000000" scale_y="0.000000" offset_y="80.000000" />
+                        </Child>
+                        <Child name="fleche" proto="Image">
+                            <Position scale_x="0.000000" offset_x="101.000000" scale_y="0.500000" offset_y="0.000000" />
+                            <Size scale_x="-1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+                            <Anchor scale_x="0.000000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                            <Image set="Tuto" image="fleche" />
+                        </Child>
+                        <Child name="margin_4_0_0_0_0" proto="Dummy">
+                            <Position scale_x="0.000000" offset_x="132.000000" scale_y="0.000000" offset_y="0.000000" />
+                            <Size scale_x="0.000000" offset_x="10.000000" scale_y="0.000000" offset_y="80.000000" />
+                        </Child>
+                        <Child name="Alteration" proto="Image">
+                            <Position scale_x="0.000000" offset_x="142.000000" scale_y="0.500000" offset_y="0.000000" />
+                            <Size scale_x="-1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+                            <Anchor scale_x="0.000000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                            <Image set="alteration" image="ALteration_5" />
+                        </Child>
+                    </Child>
+                    <Child name="margin_4_0_0">
+                        <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="317.000000" />
+                    </Child>
+                </Child>
+            </Child>
+        </Child>
+        <Child name="Tuto_Cathartique" proto="Tuto_Bloquante">
+            <Child name="tuto_back">
+                <Child name="content">
+                    <Child name="Title">
+                        <Text value="GUI.translationtable:TUTO_CATHARTIQUE_TITLE" />
+                    </Child>
+                    <Child name="desc_tuto">
+                        <Text value="GUI.translationtable:TUTO_CATHARTIQUE_DESC" />
+                    </Child>
+                    <Child name="desc_utilisation">
+                        <Text value="GUI.translationtable:TUTO_CATHARTIQUE_UTILISATION" />
+                    </Child>
+                    <Child name="content_0">
+                        <Stack value="1" />
+                        <Child name="logo_tuto">
+                            <Position scale_x="0.000000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                            <Size scale_x="-1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+                            <Anchor scale_x="0.000000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                            <Image set="Tuto" image="fond" />
+                            <Color r="255" g="255" b="255" a="255" />
+                            <Child name="logo" proto="Image">
+                                <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                                <Size scale_x="0.000000" offset_x="30.000000" scale_y="0.000000" offset_y="35.000000" />
+                                <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                                <Image set="consommables" image="goutte_dor" />
+                            </Child>
+                        </Child>
+                        <Child name="margin_4_0_0_0" proto="Dummy">
+                            <Position scale_x="0.000000" offset_x="91.000000" scale_y="-6.391304" offset_y="760.000000" />
+                            <Size scale_x="0.000000" offset_x="10.000000" scale_y="0.000000" offset_y="80.000000" />
+                            <InheritOrientation value="0" />
+                        </Child>
+                        <Child name="fleche" proto="Image">
+                            <Position scale_x="0.000000" offset_x="101.000000" scale_y="0.500000" offset_y="0.000000" />
+                            <Size scale_x="-1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+                            <Anchor scale_x="0.000000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                            <Image set="Tuto" image="fleche" />
+                        </Child>
+                        <Child name="margin_4_0_0_0_0" proto="Dummy">
+                            <Position scale_x="0.000000" offset_x="132.000000" scale_y="-6.391304" offset_y="760.000000" />
+                            <Size scale_x="0.000000" offset_x="10.000000" scale_y="0.000000" offset_y="80.000000" />
+                            <InheritOrientation value="0" />
+                        </Child>
+                        <Child name="alte" proto="Image">
+                            <Position scale_x="0.000000" offset_x="142.000000" scale_y="0.500000" offset_y="0.000000" />
+                            <Size scale_x="-1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+                            <Anchor scale_x="0.000000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                            <Image set="alteration" image="alteration_take_off" />
+                        </Child>
+                    </Child>
+                    <Child name="margin_4_0_0">
+                        <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="317.000000" />
+                    </Child>
+                </Child>
+            </Child>
+        </Child>
+    </Child>
+    <Child name="Ambre">
+        <Position scale_x="-0.000521" offset_x="0.000000" scale_y="0.001852" offset_y="0.000000" />
+        <Child name="Tuto_Win_Ambre" proto="Tuto_Bloquante">
+            <Child name="tuto_back">
+                <Child name="content">
+                    <Child name="Title">
+                        <Text value="GUI.translationtable:TUTO_WIN_AMBRE_TITLE" />
+                    </Child>
+                    <Child name="desc_tuto">
+                        <Text value="GUI.translationtable:TUTO_WIN_AMBRE_DESC" />
+                    </Child>
+                    <Child name="margin_1">
+                        <Visible value="0" />
+                    </Child>
+                    <Child name="separation">
+                        <Visible value="0" />
+                        <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="128.000000" />
+                    </Child>
+                    <Child name="margin_3">
+                        <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="115.000000" />
+                    </Child>
+                    <Child name="desc_utilisation">
+                        <Visible value="0" />
+                        <Text value="GUI.translationtable:TUTO_WIN_AMBRE_UTILISATION" />
+                    </Child>
+                    <Child name="margin_4">
+                        <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="120.000000" />
+                        <Size scale_x="0.000000" offset_x="700.000000" scale_y="0.000000" offset_y="40.000000" />
+                    </Child>
+                    <Child name="separation_0">
+                        <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="160.000000" />
+                    </Child>
+                    <Child name="margin_4_0">
+                        <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="162.000000" />
+                    </Child>
+                    <Child name="content_0">
+                        <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="202.000000" />
+                        <Child name="logo_tuto">
+                            <Size scale_x="-1.000000" offset_x="10.000000" scale_y="-1.000000" offset_y="10.000000" />
+                            <Image set="ambre" image="ambre_win" />
+                            <Color r="255" g="255" b="255" a="255" />
+                        </Child>
+                    </Child>
+                    <Child name="margin_4_0_0">
+                        <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="274.000000" />
+                    </Child>
+                </Child>
+            </Child>
+        </Child>
+        <Child name="Tuto_PickUp_Ambre" proto="Tuto_Bloquante">
+            <Position scale_x="0.000521" offset_x="0.000000" scale_y="-0.001852" offset_y="0.000000" />
+            <Child name="tuto_back">
+                <Child name="content">
+                    <Child name="Title">
+                        <Text value="GUI.translationtable:TUTO_PICKUP_AMBRE_TITLE" />
+                    </Child>
+                    <Child name="desc_tuto">
+                        <Text value="GUI.translationtable:TUTO_PICKUP_AMBRE_DESC" />
+                    </Child>
+                    <Child name="desc_utilisation">
+                        <Text value="GUI.translationtable:TUTO_PICKUP_AMBRE_UTILISATION" />
+                    </Child>
+                    <Child name="content_0">
+                        <Child name="logo_tuto">
+                            <Size scale_x="-1.000000" offset_x="10.000000" scale_y="-1.000000" offset_y="10.000000" />
+                            <Image set="ambre" image="ambre_pickup" />
+                            <Color r="255" g="255" b="255" a="255" />
+                        </Child>
+                    </Child>
+                    <Child name="margin_4_0_0">
+                        <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="297.000000" />
+                    </Child>
+                </Child>
+            </Child>
+        </Child>
+    </Child>
+    <Child name="Alteration">
+        <Child name="Tuto_Alteration_Decontenance" proto="Tuto_Bloquante">
+            <Child name="tuto_back">
+                <Child name="content">
+                    <Child name="Title">
+                        <Text value="GUI.translationtable:TUTO_ALTE_DECONTENANCE_TITLE" />
+                    </Child>
+                    <Child name="desc_tuto">
+                        <Text value="GUI.translationtable:TUTO_ALTE_DECONTENANCE_DESC" />
+                    </Child>
+                    <Child name="desc_utilisation">
+                        <Text value="GUI.translationtable:TUTO_ALTE_DECONTENANCE_UTILISATION" />
+                    </Child>
+                    <Child name="content_0">
+                        <Child name="logo_tuto">
+                            <Size scale_x="-1.000000" offset_x="20.000000" scale_y="-1.000000" offset_y="20.000000" />
+                            <Image set="alteration" image="ALteration_3" />
+                            <Color r="255" g="255" b="255" a="255" />
+                        </Child>
+                    </Child>
+                    <Child name="margin_4_0_0">
+                        <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="298.000000" />
+                    </Child>
+                </Child>
+            </Child>
+        </Child>
+        <Child name="Tuto_Alteration_Intoxique" proto="Tuto_Bloquante">
+            <Child name="tuto_back">
+                <Child name="content">
+                    <Child name="Title">
+                        <Text value="GUI.translationtable:TUTO_ALTE_INTOXIQUE_TITLE" />
+                    </Child>
+                    <Child name="desc_tuto">
+                        <Text value="GUI.translationtable:TUTO_ALTE_INTOXIQUE_DESC" />
+                    </Child>
+                    <Child name="desc_utilisation">
+                        <Text value="GUI.translationtable:TUTO_ALTE_INTOXIQUE_UTILISATION" />
+                    </Child>
+                    <Child name="content_0">
+                        <Child name="logo_tuto">
+                            <Size scale_x="-1.000000" offset_x="20.000000" scale_y="-1.000000" offset_y="20.000000" />
+                            <Image set="alteration" image="ALteration_1" />
+                            <Color r="255" g="255" b="255" a="255" />
+                        </Child>
+                    </Child>
+                    <Child name="margin_4_0_0">
+                        <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="298.000000" />
+                    </Child>
+                </Child>
+            </Child>
+        </Child>
+        <Child name="Tuto_Alteration_Opportuniste" proto="Tuto_Bloquante">
+            <Child name="tuto_back">
+                <Child name="content">
+                    <Child name="Title">
+                        <Text value="GUI.translationtable:TUTO_ALTE_OPPORTUNISTE_TITLE" />
+                    </Child>
+                    <Child name="desc_tuto">
+                        <Text value="GUI.translationtable:TUTO_ALTE_OPPORTUNISTE_DESC" />
+                    </Child>
+                    <Child name="desc_utilisation">
+                        <Text value="GUI.translationtable:TUTO_ALTE_OPPORTUNISTE_UTILISATION" />
+                    </Child>
+                    <Child name="content_0">
+                        <Child name="logo_tuto">
+                            <Size scale_x="-1.000000" offset_x="20.000000" scale_y="-1.000000" offset_y="20.000000" />
+                            <Image set="alteration" image="ALteration_4" />
+                            <Color r="255" g="255" b="255" a="255" />
+                        </Child>
+                    </Child>
+                    <Child name="margin_4_0_0">
+                        <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="298.000000" />
+                    </Child>
+                </Child>
+            </Child>
+        </Child>
+        <Child name="Tuto_Alteration_Epuise" proto="Tuto_Bloquante">
+            <Child name="tuto_back">
+                <Child name="content">
+                    <Child name="Title">
+                        <Text value="GUI.translationtable:TUTO_ALTE_EPUISE_TITLE" />
+                    </Child>
+                    <Child name="desc_tuto">
+                        <Text value="GUI.translationtable:TUTO_ALTE_EPUISE_DESC" />
+                    </Child>
+                    <Child name="desc_utilisation">
+                        <Text value="GUI.translationtable:TUTO_ALTE_EPUISE_UTILISATION" />
+                    </Child>
+                    <Child name="content_0">
+                        <Child name="logo_tuto">
+                            <Size scale_x="-1.000000" offset_x="20.000000" scale_y="-1.000000" offset_y="20.000000" />
+                            <Image set="alteration" image="ALteration_2" />
+                            <Color r="255" g="255" b="255" a="255" />
+                        </Child>
+                    </Child>
+                    <Child name="margin_4_0_0">
+                        <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="298.000000" />
+                    </Child>
+                </Child>
+            </Child>
+        </Child>
+    </Child>
+    <Child name="Joute_Verbal">
+        <Child name="Tuto_Step" proto="Tuto_Bloquante">
+            <Child name="tuto_back">
+                <Child name="content">
+                    <Child name="Title">
+                        <Text value="GUI.translationtable:TUTO_STEP_TITLE" />
+                    </Child>
+                    <Child name="desc_tuto">
+                        <Text value="GUI.translationtable:TUTO_STEP_DESC" />
+                    </Child>
+                    <Child name="desc_utilisation">
+                        <Text value="GUI.translationtable:TUTO_STEP_UTILISATION" />
+                    </Child>
+                    <Child name="content_0">
+                        <Visible value="0" />
+                    </Child>
+                    <Child name="margin_4_0_0">
+                        <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="225.000000" />
+                    </Child>
+                </Child>
+            </Child>
+        </Child>
+        <Child name="Tuto_Start_Joute" proto="Tuto_Bloquante">
+            <Child name="tuto_back">
+                <Child name="content">
+                    <Child name="Title">
+                        <Text value="GUI.translationtable:TUTO_START_JOUTE_TITLE" />
+                    </Child>
+                    <Child name="desc_tuto">
+                        <Text value="GUI.translationtable:TUTO_START_JOUTE_DESC" />
+                    </Child>
+                    <Child name="desc_utilisation">
+                        <Text value="GUI.translationtable:TUTO_START_JOUTE_UTILISATION" />
+                    </Child>
+                    <Child name="content_0">
+                        <Visible value="0" />
+                    </Child>
+                    <Child name="margin_4_0_0">
+                        <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="225.000000" />
+                    </Child>
+                </Child>
+            </Child>
+        </Child>
+    </Child>
+    <Child name="Tuto_Menu">
+        <Child name="Tuto_Equip_Manuscrit" proto="Tuto_menu">
+            <Child name="tuto_fond_menu">
+                <Child name="Title">
+                    <Text value="GUI.translationtable:TUTO_EQUIP_MANUSCRIT_TITLE" />
+                </Child>
+                <Child name="text">
+                    <Text value="GUI.translationtable:TUTO_EQUIP_MANUSCRIT_DESC" />
+                </Child>
+                <Child name="Input_Content">
+                    <Child name="Content">
+                        <Child name="Button">
+                            <Binding value="Validate" />
+                        </Child>
+                    </Child>
+                </Child>
+            </Child>
+        </Child>
+        <Child name="Tuto_Trait_Gameplay[[[" proto="Tuto_menu">
+            <Child name="tuto_fond_menu">
+                <Child name="Title">
+                    <Text value="GUI.translationtable:TUTO_TRAIT_GAMEPLAY_TITLE" />
+                </Child>
+                <Child name="text">
+                    <Text value="GUI.translationtable:TUTO_TRAIT_GAMEPLAY_DESC" />
+                </Child>
+            </Child>
+        </Child>
+        <Child name="Tuto_Unlock_Skill" proto="Tuto_menu">
+            <Child name="tuto_fond_menu">
+                <Child name="Title">
+                    <Text value="GUI.translationtable:TUTO_UNLOCK_SKILL_TITLE" />
+                </Child>
+                <Child name="text">
+                    <Text value="GUI.translationtable:TUTO_UNLOCK_SKILL_DESC" />
+                </Child>
+            </Child>
+        </Child>
+        <Child name="Tuto_LevelUp" proto="Tuto_menu">
+            <Child name="tuto_fond_menu">
+                <Child name="Title">
+                    <Text value="GUI.translationtable:TUTO_LEVELUP_TITLE" />
+                </Child>
+                <Child name="text">
+                    <Text value="GUI.translationtable:TUTO_LEVELUP_DESC" />
+                </Child>
+            </Child>
+        </Child>
+    </Child>
+    <Child name="Tuto_Loot_Manuscrit" proto="Tuto_Bloquante">
+        <Child name="tuto_back">
+            <Child name="content">
+                <Child name="Title">
+                    <Text value="GUI.translationtable:TUTO_LOOT_MANUSCRIT_TITLE" />
+                </Child>
+                <Child name="desc_tuto">
+                    <Text value="GUI.translationtable:TUTO_LOOT_MANUSCRIT_DESC" />
+                </Child>
+                <Child name="desc_utilisation">
+                    <Text value="GUI.translationtable:TUTO_LOOT_MANUSCRIT_UTILISATION" />
+                </Child>
+                <Child name="margin_4_0">
+                    <Size scale_x="0.000000" offset_x="700.000000" scale_y="0.000000" offset_y="20.000000" />
+                </Child>
+                <Child name="content_0">
+                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="205.000000" />
+                    <Child name="logo_tuto">
+                        <Alpha value="0.000000" />
+                        <Size scale_x="-1.000000" offset_x="-20.000000" scale_y="-1.000000" offset_y="-20.000000" />
+                        <Image set="Inventory_Manuscrit" image="Unlock" />
+                        <Color r="255" g="255" b="255" a="255" />
+                        <Child name="logo" proto="Image">
+                            <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.400000" offset_y="0.000000" />
+                            <Size scale_x="-1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+                            <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                            <InheritAlpha value="0" />
+                            <Image set="Inventaire" image="book_open" />
+                        </Child>
+                    </Child>
+                </Child>
+                <Child name="margin_4_0_0">
+                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="311.000000" />
+                    <Size scale_x="0.000000" offset_x="700.000000" scale_y="0.000000" offset_y="40.000000" />
+                </Child>
+                <Child name="info_select_2" proto="info_select">
+                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="351.000000" />
+                </Child>
+            </Child>
+        </Child>
+    </Child>
+    <Child name="Tuto_Choice_Critical" proto="Tuto_Bloquante">
+        <Child name="tuto_back">
+            <Child name="content">
+                <Child name="Title">
+                    <Text value="GUI.translationtable:TUTO_CHOICE_CRITICAL_TITLE" />
+                </Child>
+                <Child name="desc_tuto">
+                    <Text value="GUI.translationtable:TUTO_CHOICE_CRITICAL_DESC" />
+                </Child>
+                <Child name="separation">
+                    <Visible value="0" />
+                </Child>
+                <Child name="margin_3">
+                    <Visible value="0" />
+                </Child>
+                <Child name="desc_utilisation">
+                    <Visible value="0" />
+                </Child>
+                <Child name="margin_4">
+                    <Visible value="0" />
+                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="515.000000" />
+                </Child>
+                <Child name="separation_0">
+                    <Visible value="0" />
+                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="520.000000" />
+                </Child>
+                <Child name="margin_4_0">
+                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="145.000000" />
+                </Child>
+                <Child name="content_0">
+                    <Visible value="0" />
+                </Child>
+                <Child name="margin_4_0_0">
+                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="185.000000" />
+                </Child>
+            </Child>
+        </Child>
+    </Child>
+    <Child name="Tuto_Use_Skill" proto="Tuto_Bloquante">
+        <Child name="tuto_back">
+            <Child name="content">
+                <Child name="Title">
+                    <Text value="GUI.translationtable:TUTO_USE_SKILL_TITLE" />
+                </Child>
+                <Child name="desc_tuto">
+                    <Text value="GUI.translationtable:TUTO_USE_SKILL_DESC" />
+                </Child>
+                <Child name="desc_utilisation">
+                    <Text value="GUI.translationtable:TUTO_USE_SKILL_UTILISATION" />
+                </Child>
+                <Child name="content_0">
+                    <Child name="logo_tuto">
+                        <Size scale_x="-1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+                    </Child>
+                    <Child name="Skill" proto="Skill">
+                        <Size scale_x="0.000000" offset_x="100.000000" scale_y="0.000000" offset_y="100.000000" />
+                        <Child name="Dummy">
+                            <Child name="skills">
+                                <Alpha value="0.100000" />
+                                <Size scale_x="0.000000" offset_x="100.000000" scale_y="0.000000" offset_y="100.000000" />
+                                <Color r="255" g="255" b="255" a="255" />
+                            </Child>
+                            <Child name="logo">
+                                <Alpha value="1.000000" />
+                                <Image set="Skills" image="Icon_manipulation_00" />
+                            </Child>
+                        </Child>
+                    </Child>
+                </Child>
+                <Child name="margin_4_0_0">
+                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="325.000000" />
+                </Child>
+            </Child>
+        </Child>
+    </Child>
+    <Child name="Tuto_Trait_Narratif" proto="Tuto_Bloquante">
+        <Child name="tuto_back">
+            <Child name="content">
+                <Child name="Title">
+                    <Text value="GUI.translationtable:TUTO_TRAIT_NARRATIF_TITLE" />
+                </Child>
+                <Child name="desc_tuto">
+                    <Text value="GUI.translationtable:TUTO_TRAIT_NARRATIF_DESC" />
+                </Child>
+                <Child name="desc_utilisation">
+                    <Text value="GUI.translationtable:TUTO_TRAIT_NARRATIF_UTILISATION" />
+                </Child>
+                <Child name="content_0">
+                    <Child name="logo_tuto">
+                        <Size scale_x="-1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+                        <Image set="PlayerTraitsNarratif" image="Trait_Amateur" />
+                        <Color r="255" g="255" b="255" a="255" />
+                    </Child>
+                </Child>
+                <Child name="margin_4_0_0">
+                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="302.000000" />
+                    <Size scale_x="0.000000" offset_x="700.000000" scale_y="0.000000" offset_y="40.000000" />
+                </Child>
+                <Child name="info_select_1" proto="info_select">
+                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="342.000000" />
+                </Child>
+            </Child>
+        </Child>
+    </Child>
+    <Child name="Tuto_Trait_Invite_Revealed" proto="Tuto_Bloquante">
+        <Child name="tuto_back">
+            <Child name="content">
+                <Child name="Title">
+                    <Text value="GUI.translationtable:TUTO_TRAIT_INVITE_TITLE" />
+                </Child>
+                <Child name="margin_1_0">
+                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="69.000000" />
+                </Child>
+                <Child name="desc_tuto">
+                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="89.000000" />
+                    <Size scale_x="0.000000" offset_x="550.000000" scale_y="-1.000000" offset_y="0.000000" />
+                    <Text value="GUI.translationtable:TUTO_TRAIT_INVITE_DESC" />
+                </Child>
+                <Child name="margin_1">
+                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="119.000000" />
+                </Child>
+                <Child name="separation">
+                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="149.000000" />
+                </Child>
+                <Child name="margin_3">
+                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="151.000000" />
+                </Child>
+                <Child name="desc_utilisation">
+                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="156.000000" />
+                    <Text value="GUI.translationtable:TUTO_TRAIT_INVITE_UTILISATION" />
+                </Child>
+                <Child name="margin_4">
+                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="184.000000" />
+                </Child>
+                <Child name="separation_0">
+                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="189.000000" />
+                </Child>
+                <Child name="margin_4_0">
+                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="191.000000" />
+                </Child>
+                <Child name="content_0">
+                    <Stack value="1" />
+                    <StackDirection value="VERTICAL" />
+                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="231.000000" />
+                    <Child name="logo_tuto">
+                        <Visible value="0" />
+                    </Child>
+                    <Child name="Trait" proto="Label">
+                        <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+                        <Size scale_x="-1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="5.000000" />
+                        <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+                        <InheritState value="1" />
+                        <Text value="GUI.translationtable:IMMUNITY_REVEALED" />
+                        <Font value="montserat_20" />
+                        <Color r="167" g="46" b="56" a="255" />
+                        <HorizontalAlignment value="RIGHT" />
+                        <State name="vulnerability">
+                            <Color r="47" g="167" b="155" a="255" />
+                        </State>
+                        <State name="immunity">
+                            <Color r="167" g="46" b="56" a="255" />
+                        </State>
+                    </Child>
+                    <Child name="Trait_0" proto="Label">
+                        <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="33.000000" />
+                        <Size scale_x="-1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="5.000000" />
+                        <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+                        <InheritState value="1" />
+                        <Text value="GUI.translationtable:VULNERABILITY_REVEALED" />
+                        <Font value="montserat_20" />
+                        <Color r="47" g="167" b="155" a="255" />
+                        <HorizontalAlignment value="RIGHT" />
+                        <State name="vulnerability">
+                            <Color r="47" g="167" b="155" a="255" />
+                        </State>
+                        <State name="immunity">
+                            <Color r="167" g="46" b="56" a="255" />
+                        </State>
+                    </Child>
+                </Child>
+                <Child name="margin_4_0_0">
+                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="297.000000" />
+                    <Size scale_x="0.000000" offset_x="700.000000" scale_y="0.000000" offset_y="50.000000" />
+                </Child>
+                <Child name="info_select_0" proto="info_select">
+                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="347.000000" />
+                </Child>
+            </Child>
+            <Child name="Input_Content">
+                <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="420.000000" />
+                <Child name="Content">
+                    <Child name="margin">
+                        <Position scale_x="0.000000" offset_x="85.000000" scale_y="-0.242593" offset_y="0.000000" />
+                    </Child>
+                    <Child name="Button">
+                        <Position scale_x="0.000000" offset_x="90.000000" scale_y="0.500000" offset_y="0.000000" />
+                    </Child>
+                </Child>
+            </Child>
+        </Child>
+    </Child>
+    <Child name="Tuto_Trait_Invite_Immune_Deco[[[" proto="Tuto_Bloquante" />
+    <Child name="Tuto_Trait_Invite_Met[[[" proto="Tuto_Bloquante">
+        <Child name="tuto_back">
+            <Child name="content">
+                <Child name="Title">
+                    <Text value="GUI.translationtable:TUTO_TRAIT_INVITE_TITLE" />
+                </Child>
+                <Child name="desc_tuto">
+                    <Text value="GUI.translationtable:TUTO_TRAIT_INVITE_DESC" />
+                </Child>
+                <Child name="desc_utilisation">
+                    <Text value="GUI.translationtable:TUTO_TRAIT_INVITE_UTILISATION" />
+                </Child>
+                <Child name="margin_4_0">
+                    <Visible value="0" />
+                </Child>
+                <Child name="content_0">
+                    <Stack value="1" />
+                    <StackDirection value="VERTICAL" />
+                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="185.000000" />
+                    <Child name="logo_tuto">
+                        <Visible value="0" />
+                        <Position scale_x="0.000000" offset_x="25.000000" scale_y="0.000000" offset_y="25.000000" />
+                    </Child>
+                    <Child name="Trait" proto="Label">
+                        <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+                        <Size scale_x="-1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="5.000000" />
+                        <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+                        <InheritState value="1" />
+                        <Litteral value="1" />
+                        <Text value="IMUNITE DECOUVERTE" />
+                        <Font value="montserat_20" />
+                        <Color r="167" g="46" b="56" a="255" />
+                        <HorizontalAlignment value="RIGHT" />
+                        <State name="vulnerability">
+                            <Color r="47" g="167" b="155" a="255" />
+                        </State>
+                        <State name="immunity">
+                            <Color r="167" g="46" b="56" a="255" />
+                        </State>
+                    </Child>
+                    <Child name="Trait_0" proto="Label">
+                        <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="46.500000" />
+                        <Size scale_x="-1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="5.000000" />
+                        <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                        <InheritState value="1" />
+                        <Litteral value="1" />
+                        <Text value="VULNERABILITE DECOUVERTE" />
+                        <Font value="montserat_20" />
+                        <Color r="47" g="167" b="155" a="255" />
+                        <HorizontalAlignment value="RIGHT" />
+                        <State name="vulnerability">
+                            <Color r="47" g="167" b="155" a="255" />
+                        </State>
+                        <State name="immunity">
+                            <Color r="167" g="46" b="56" a="255" />
+                        </State>
+                    </Child>
+                </Child>
+                <Child name="margin_4_0_0">
+                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="247.000000" />
+                    <Size scale_x="0.000000" offset_x="700.000000" scale_y="0.000000" offset_y="20.000000" />
+                </Child>
+            </Child>
+        </Child>
+    </Child>
+    <Child name="Tuto_Auto_Choice" proto="Tuto_Bloquante">
+        <Child name="tuto_back">
+            <Child name="content">
+                <Child name="Title">
+                    <Text value="GUI.translationtable:TUTO_AUTO_CHOICE_TITLE" />
+                </Child>
+                <Child name="desc_tuto">
+                    <Text value="GUI.translationtable:TUTO_AUTO_CHOICE_DESC" />
+                </Child>
+                <Child name="desc_utilisation">
+                    <Text value="GUI.translationtable:TUTO_AUTO_CHOICE_UTILISATION" />
+                </Child>
+                <Child name="content_0">
+                    <Child name="logo_tuto">
+                        <Visible value="0" />
+                    </Child>
+                    <Child name="timer_back" proto="timer_back">
+                        <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                        <Size scale_x="0.000000" offset_x="400.000000" scale_y="0.000000" offset_y="6.000000" />
+                        <Child name="progress">
+                            <Size scale_x="0.000000" offset_x="340.000000" scale_y="0.000000" offset_y="6.000000" />
+                        </Child>
+                    </Child>
+                </Child>
+                <Child name="margin_4_0_0">
+                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="231.000000" />
+                </Child>
+            </Child>
+        </Child>
+    </Child>
+    <Child name="Tuto_Mult_Paths" proto="Tuto_Bloquante">
+        <Child name="tuto_back">
+            <Child name="content">
+                <Child name="Title">
+                    <Text value="GUI.translationtable:TUTO_MULT_PATH_TITLE" />
+                </Child>
+                <Child name="desc_tuto">
+                    <Text value="GUI.translationtable:TUTO_MULT_PATH_DESC" />
+                </Child>
+                <Child name="separation">
+                    <Visible value="0" />
+                </Child>
+                <Child name="margin_3">
+                    <Visible value="0" />
+                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="138.000000" />
+                </Child>
+                <Child name="desc_utilisation">
+                    <Visible value="0" />
+                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="138.000000" />
+                    <Text value="GUI.translationtable:TUTO_MULT_PATH_UTILISATION" />
+                </Child>
+                <Child name="margin_4">
+                    <Visible value="0" />
+                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="138.000000" />
+                </Child>
+                <Child name="separation_0">
+                    <Visible value="0" />
+                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="138.000000" />
+                </Child>
+                <Child name="margin_4_0">
+                    <Visible value="0" />
+                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="138.000000" />
+                </Child>
+                <Child name="content_0">
+                    <Visible value="0" />
+                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="138.000000" />
+                </Child>
+                <Child name="margin_4_0_0">
+                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="145.000000" />
+                </Child>
+            </Child>
+        </Child>
+    </Child>
+    <Child name="Tuto_Trait_Gameplay" proto="Tuto_Bloquante">
+        <Child name="tuto_back">
+            <Child name="content">
+                <Child name="Title">
+                    <Text value="GUI.translationtable:TUTO_TRAIT_GAMEPLAY_TITLE" />
+                </Child>
+                <Child name="desc_tuto">
+                    <Text value="GUI.translationtable:TUTO_TRAIT_GAMEPLAY_DESC" />
+                </Child>
+                <Child name="desc_utilisation">
+                    <Text value="GUI.translationtable:TUTO_TRAIT_GAMEPLAY_UTILISATION" />
+                </Child>
+                <Child name="content_0">
+                    <Stack value="1" />
+                    <Child name="logo_tuto">
+                        <Visible value="0" />
+                    </Child>
+                    <Child name="Trait" proto="Trait_Tuto">
+                        <Child name="Content_0">
+                            <Child name="Background">
+                                <Alpha value="0.100000" />
+                            </Child>
+                            <Child name="Icon">
+                                <Image set="PlayerTraitsNarratif" image="Trait_Detective" />
+                            </Child>
+                        </Child>
+                    </Child>
+                    <Child name="Trait_0" proto="Trait_Tuto">
+                        <Position scale_x="0.000000" offset_x="125.000000" scale_y="0.000000" offset_y="0.000000" />
+                        <Child name="Content_0">
+                            <Child name="Background">
+                                <Alpha value="0.100000" />
+                            </Child>
+                            <Child name="Icon">
+                                <Image set="PlayerTraitsNarratif" image="Trait_Occultist" />
+                            </Child>
+                        </Child>
+                    </Child>
+                    <Child name="Trait_1" proto="Trait_Tuto">
+                        <Position scale_x="0.000000" offset_x="250.000000" scale_y="0.000000" offset_y="0.000000" />
+                        <Child name="Content_0">
+                            <Child name="Background">
+                                <Alpha value="0.100000" />
+                            </Child>
+                            <Child name="Icon">
+                                <Image set="PlayerTraitsNarratif" image="Trait_Spy" />
+                            </Child>
+                        </Child>
+                    </Child>
+                </Child>
+                <Child name="margin_4_0_0">
+                    <Visible value="0" />
+                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="128.000000" />
+                </Child>
+                <Child name="info_select" proto="info_select">
+                    <Visible value="0" />
+                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="350.000000" />
+                </Child>
+            </Child>
+        </Child>
+    </Child>
+    <Child name="Tuto_QTE_Reaction" proto="Tuto_Bloquante">
+        <Child name="tuto_back">
+            <Child name="content">
+                <Child name="Title">
+                    <Text value="GUI.translationtable:TUTO_QTE_REACTION_TITLE" />
+                </Child>
+                <Child name="desc_tuto">
+                    <Text value="GUI.translationtable:TUTO_QTE_REACTION_DESC" />
+                </Child>
+                <Child name="desc_utilisation">
+                    <Text value="GUI.translationtable:TUTO_QTE_REACTION_UTILISATION" />
+                </Child>
+                <Child name="content_0">
+                    <Child name="logo_tuto">
+                        <Rotation value="45.000000" />
+                        <Image set="Pointer" image="Sans titre-2 copie" />
+                        <Color r="255" g="255" b="255" a="255" />
+                    </Child>
+                </Child>
+            </Child>
+        </Child>
+    </Child>
+    <Child name="Tuto_Joute_Good" proto="Tuto_Bloquante">
+        <Child name="tuto_back">
+            <Child name="content">
+                <Child name="Title">
+                    <Text value="GUI.translationtable:TUTO_JOUTE_GOOD_TITLE" />
+                </Child>
+                <Child name="desc_tuto">
+                    <Text value="GUI.translationtable:TUTO_JOUTE_GOOD_DESC" />
+                </Child>
+                <Child name="desc_utilisation">
+                    <Text value="GUI.translationtable:TUTO_JOUTE_GOOD_UTILISATION" />
+                </Child>
+                <Child name="content_0">
+                    <Stack value="1" />
+                    <Child name="logo_tuto">
+                        <Position scale_x="0.000000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                        <Size scale_x="0.000000" offset_x="20.000000" scale_y="0.000000" offset_y="20.000000" />
+                        <Anchor scale_x="0.000000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                        <Image set="Dial_Fight" image="good" />
+                    </Child>
+                    <Child name="margin_4_0_0_0" proto="Dummy">
+                        <Position scale_x="0.000000" offset_x="20.000000" scale_y="0.000000" offset_y="0.000000" />
+                        <Size scale_x="0.000000" offset_x="20.000000" scale_y="0.000000" offset_y="20.000000" />
+                    </Child>
+                    <Child name="Wrong" proto="Image">
+                        <Position scale_x="0.000000" offset_x="40.000000" scale_y="0.500000" offset_y="0.000000" />
+                        <Size scale_x="-1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+                        <Anchor scale_x="0.000000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                        <Image set="Dial_Fight" image="wrong" />
+                        <Color r="255" g="43" b="48" a="255" />
+                    </Child>
+                </Child>
+                <Child name="margin_4_0_0">
+                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="253.000000" />
+                </Child>
+            </Child>
+        </Child>
+    </Child>
+    <Child name="Tuto_Explo_Hints" proto="Tuto_Bloquante">
+        <Child name="tuto_back">
+            <Child name="content">
+                <Child name="Title">
+                    <Text value="GUI.translationtable:TUTO_EXPLO_HINTS_TITLE" />
+                </Child>
+                <Child name="margin_1_0">
+                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="69.000000" />
+                </Child>
+                <Child name="desc_tuto">
+                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="89.000000" />
+                    <Text value="GUI.translationtable:TUTO_EXPLO_HINTS_DESC" />
+                </Child>
+                <Child name="margin_1">
+                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="119.000000" />
+                </Child>
+                <Child name="separation">
+                    <Visible value="0" />
+                </Child>
+                <Child name="margin_3">
+                    <Visible value="0" />
+                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="138.000000" />
+                </Child>
+                <Child name="desc_utilisation">
+                    <Visible value="0" />
+                    <Text value="GUI.translationtable:TUTO_USE_SKILL_UTILISATION" />
+                </Child>
+                <Child name="margin_4">
+                    <Visible value="0" />
+                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="145.000000" />
+                </Child>
+                <Child name="separation_0">
+                    <Visible value="0" />
+                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="145.000000" />
+                </Child>
+                <Child name="margin_4_0">
+                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="149.000000" />
+                </Child>
+                <Child name="content_0">
+                    <Visible value="0" />
+                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="187.000000" />
+                    <Child name="logo_tuto">
+                        <Size scale_x="-1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+                    </Child>
+                </Child>
+                <Child name="margin_4_0_0">
+                    <Visible value="0" />
+                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="187.000000" />
+                </Child>
+            </Child>
+            <Child name="Input_Content">
+                <Child name="Content">
+                    <Child name="margin">
+                        <Position scale_x="0.000000" offset_x="85.000000" scale_y="-0.242593" offset_y="0.000000" />
+                    </Child>
+                    <Child name="Button">
+                        <Position scale_x="0.000000" offset_x="90.000000" scale_y="0.500000" offset_y="0.000000" />
+                    </Child>
+                </Child>
+            </Child>
+        </Child>
+    </Child>
+    <Child name="Tuto_Looping_Step" proto="Tuto_Bloquante">
+        <Child name="tuto_back">
+            <Child name="content">
+                <Child name="Title">
+                    <Text value="GUI.translationtable:TUTO_LOOPING_STEP_TITLE" />
+                </Child>
+                <Child name="margin_1_0">
+                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="69.000000" />
+                </Child>
+                <Child name="desc_tuto">
+                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="89.000000" />
+                    <Text value="GUI.translationtable:TUTO_LOOPING_STEP_DESC" />
+                </Child>
+                <Child name="margin_1">
+                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="119.000000" />
+                </Child>
+                <Child name="separation">
+                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="149.000000" />
+                </Child>
+                <Child name="margin_3">
+                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="151.000000" />
+                </Child>
+                <Child name="desc_utilisation">
+                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="156.000000" />
+                    <Text value="GUI.translationtable:TUTO_LOOPING_STEP_UTILISATION" />
+                </Child>
+                <Child name="margin_4">
+                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="184.000000" />
+                </Child>
+                <Child name="separation_0">
+                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="189.000000" />
+                </Child>
+                <Child name="margin_4_0">
+                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="191.000000" />
+                </Child>
+                <Child name="content_0">
+                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="231.000000" />
+                    <Child name="logo_tuto">
+                        <Size scale_x="-1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+                        <Image set="Dial_Fight" image="last_step" />
+                        <Color r="255" g="255" b="255" a="255" />
+                    </Child>
+                </Child>
+                <Child name="margin_4_0_0">
+                    <Visible value="0" />
+                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="128.000000" />
+                </Child>
+            </Child>
+            <Child name="Input_Content">
+                <Child name="Content">
+                    <Child name="margin">
+                        <Position scale_x="0.000000" offset_x="85.000000" scale_y="-0.242593" offset_y="0.000000" />
+                    </Child>
+                    <Child name="Button">
+                        <Position scale_x="0.000000" offset_x="90.000000" scale_y="0.500000" offset_y="0.000000" />
+                    </Child>
+                </Child>
+            </Child>
+        </Child>
+    </Child>
+    <Child name="Tuto_Dead_Mauras" proto="Tuto_Bloquante">
+        <Child name="fond_grise">
+            <Alpha value="1.000000" />
+            <Color r="0" g="0" b="0" a="255" />
+        </Child>
+        <Child name="tuto_back">
+            <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+            <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+            <Child name="content">
+                <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                <Child name="Title">
+                    <Visible value="0" />
+                    <Text value="GUI.translationtable:TUTO_EXPLO_HINTS_TITLE" />
+                </Child>
+                <Child name="margin_1_0">
+                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+                </Child>
+                <Child name="desc_tuto">
+                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="20.000000" />
+                    <Size scale_x="0.000000" offset_x="1000.000000" scale_y="-1.000000" offset_y="0.000000" />
+                    <Text value="GUI.translationtable:Q5_DEAD_TUTO" />
+                    <Font value="montserat_35" />
+                </Child>
+                <Child name="margin_1">
+                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="68.000000" />
+                </Child>
+                <Child name="separation">
+                    <Visible value="0" />
+                </Child>
+                <Child name="margin_3">
+                    <Visible value="0" />
+                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="138.000000" />
+                </Child>
+                <Child name="desc_utilisation">
+                    <Visible value="0" />
+                    <Text value="GUI.translationtable:TUTO_USE_SKILL_UTILISATION" />
+                </Child>
+                <Child name="margin_4">
+                    <Visible value="0" />
+                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="145.000000" />
+                </Child>
+                <Child name="separation_0">
+                    <Visible value="0" />
+                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="145.000000" />
+                </Child>
+                <Child name="margin_4_0">
+                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="98.000000" />
+                </Child>
+                <Child name="content_0">
+                    <Visible value="0" />
+                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="187.000000" />
+                    <Child name="logo_tuto">
+                        <Size scale_x="-1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+                    </Child>
+                </Child>
+                <Child name="margin_4_0_0">
+                    <Visible value="0" />
+                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="187.000000" />
+                </Child>
+            </Child>
+            <Child name="Input_Content">
+                <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="310.000000" />
+                <Child name="Content">
+                    <Position scale_x="0.000000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                    <Anchor scale_x="0.000000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                    <Child name="margin">
+                        <Position scale_x="0.000000" offset_x="85.000000" scale_y="-0.242593" offset_y="0.000000" />
+                    </Child>
+                    <Child name="Button">
+                        <Position scale_x="0.000000" offset_x="90.000000" scale_y="0.500000" offset_y="0.000000" />
+                        <Binding value="ValidateTuto" />
+                    </Child>
+                </Child>
+            </Child>
+            <Child name="Input_Content_0" proto="Input_Content">
+                <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="350.000000" />
+                <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+                <Child name="Content">
+                    <Position scale_x="0.000000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                    <Anchor scale_x="0.000000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                    <Child name="stack">
+                        <Child name="Fond">
+                            <Position scale_x="0.000000" offset_x="0.000000" scale_y="0.857143" offset_y="3.000000" />
+                        </Child>
+                    </Child>
+                    <Child name="margin">
+                        <Position scale_x="0.000000" offset_x="85.000000" scale_y="-0.242593" offset_y="0.000000" />
+                    </Child>
+                    <Child name="Button">
+                        <Position scale_x="0.000000" offset_x="90.000000" scale_y="0.500000" offset_y="0.000000" />
+                        <Binding value="ConfirmDeadMauras" />
+                    </Child>
+                </Child>
+            </Child>
+        </Child>
+        <Child name="fond_grise_0">
+            <Visible value="0" />
+        </Child>
+    </Child>
+    <Child name="Daemon">
+        <Child name="Tuto_MindRead" proto="Tuto_Bloquante">
+            <Child name="tuto_back">
+                <Child name="content">
+                    <Child name="Title">
+                        <Text value="GUI.translationtable:TUTO_MINDREAD_TITLE" />
+                    </Child>
+                    <Child name="margin_1_0">
+                        <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="69.000000" />
+                    </Child>
+                    <Child name="desc_tuto">
+                        <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="89.000000" />
+                        <Text value="GUI.translationtable:TUTO_MINDREAD_DESC" />
+                    </Child>
+                    <Child name="margin_1">
+                        <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="119.000000" />
+                    </Child>
+                    <Child name="separation">
+                        <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="149.000000" />
+                    </Child>
+                    <Child name="margin_3">
+                        <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="151.000000" />
+                    </Child>
+                    <Child name="desc_utilisation">
+                        <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="156.000000" />
+                        <Text value="GUI.translationtable:TUTO_MINDREAD_UTILISATION" />
+                    </Child>
+                    <Child name="margin_4">
+                        <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="184.000000" />
+                    </Child>
+                    <Child name="separation_0">
+                        <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="189.000000" />
+                    </Child>
+                    <Child name="margin_4_0">
+                        <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="191.000000" />
+                    </Child>
+                    <Child name="content_0">
+                        <Stack value="1" />
+                        <StackDirection value="VERTICAL" />
+                        <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="231.000000" />
+                        <Child name="logo_tuto">
+                            <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+                            <Size scale_x="-1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+                            <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+                        </Child>
+                        <Child name="MindRead" proto="MindRead">
+                            <Visible value="1" />
+                            <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="1.000000" />
+                            <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+                        </Child>
+                        <Child name="IchorBar" proto="IchorBar">
+                            <Position scale_x="0.000000" offset_x="0.000000" scale_y="0.000000" offset_y="71.000000" />
+                            <Anchor scale_x="0.000000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+                            <Child name="IchorPoint" proto="IchorPoint">
+                                <Position scale_x="0.000000" offset_x="33.000000" scale_y="0.500000" offset_y="0.000000" />
+                                <Anchor scale_x="0.000000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                                <Child name="point">
+                                    <Image set="pt_effort" image="pt_effort_full" />
+                                </Child>
+                            </Child>
+                            <Child name="IchorPoint_0" proto="IchorPoint">
+                                <Position scale_x="0.000000" offset_x="76.000000" scale_y="0.500000" offset_y="0.000000" />
+                                <Anchor scale_x="0.000000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                                <Child name="point">
+                                    <Image set="pt_effort" image="pt_effort_full" />
+                                    <Color r="176" g="176" b="255" a="255" />
+                                </Child>
+                            </Child>
+                            <Child name="IchorPoint_1" proto="IchorPoint">
+                                <Position scale_x="0.000000" offset_x="119.000000" scale_y="0.500000" offset_y="0.000000" />
+                                <Anchor scale_x="0.000000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                            </Child>
+                        </Child>
+                    </Child>
+                    <Child name="margin_4_0_0">
+                        <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="337.000000" />
+                    </Child>
+                </Child>
+                <Child name="Input_Content">
+                    <Child name="Content">
+                        <Child name="margin">
+                            <Position scale_x="0.000000" offset_x="85.000000" scale_y="-0.242593" offset_y="0.000000" />
+                        </Child>
+                        <Child name="Button">
+                            <Position scale_x="0.000000" offset_x="90.000000" scale_y="0.500000" offset_y="0.000000" />
+                        </Child>
+                    </Child>
+                </Child>
+            </Child>
+        </Child>
+        <Child name="Tuto_MindControl" proto="Tuto_Bloquante">
+            <Child name="tuto_back">
+                <Child name="content">
+                    <Child name="Title">
+                        <Text value="GUI.translationtable:TUTO_MINDCONTROL_TITLE" />
+                    </Child>
+                    <Child name="margin_1_0">
+                        <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="69.000000" />
+                    </Child>
+                    <Child name="desc_tuto">
+                        <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="89.000000" />
+                        <Text value="GUI.translationtable:TUTO_MINDCONTROL_DESC" />
+                    </Child>
+                    <Child name="margin_1">
+                        <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="119.000000" />
+                    </Child>
+                    <Child name="separation">
+                        <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="149.000000" />
+                    </Child>
+                    <Child name="margin_3">
+                        <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="151.000000" />
+                    </Child>
+                    <Child name="desc_utilisation">
+                        <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="156.000000" />
+                        <Text value="GUI.translationtable:TUTO_MINDCONTROL_UTILISATION" />
+                    </Child>
+                    <Child name="margin_4">
+                        <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="184.000000" />
+                    </Child>
+                    <Child name="separation_0">
+                        <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="189.000000" />
+                    </Child>
+                    <Child name="margin_4_0">
+                        <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="191.000000" />
+                    </Child>
+                    <Child name="content_0">
+                        <Stack value="1" />
+                        <StackDirection value="VERTICAL" />
+                        <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="231.000000" />
+                        <Child name="logo_tuto">
+                            <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+                            <Size scale_x="-1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+                            <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+                        </Child>
+                        <Child name="MindRead" proto="MindRead">
+                            <Visible value="1" />
+                            <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="1.000000" />
+                            <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+                            <Child name="Logo">
+                                <Image set="Ichor" image="Icone_MindControl" />
+                            </Child>
+                        </Child>
+                    </Child>
+                    <Child name="margin_4_0_0">
+                        <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="302.000000" />
+                    </Child>
+                </Child>
+                <Child name="Input_Content">
+                    <Child name="Content">
+                        <Child name="margin">
+                            <Position scale_x="0.000000" offset_x="85.000000" scale_y="-0.242593" offset_y="0.000000" />
+                        </Child>
+                        <Child name="Button">
+                            <Position scale_x="0.000000" offset_x="90.000000" scale_y="0.500000" offset_y="0.000000" />
+                        </Child>
+                    </Child>
+                </Child>
+            </Child>
+        </Child>
+        <Child name="Tuto_MindControlSkill" proto="Tuto_Bloquante">
+            <Child name="tuto_back">
+                <Child name="content">
+                    <Child name="Title">
+                        <Text value="GUI.translationtable:TUTO_MINDCONTROLSKILL_TITLE" />
+                    </Child>
+                    <Child name="margin_1_0">
+                        <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="69.000000" />
+                    </Child>
+                    <Child name="desc_tuto">
+                        <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="89.000000" />
+                        <Text value="GUI.translationtable:TUTO_MINDCONTROLSKILL_DESC" />
+                    </Child>
+                    <Child name="margin_1">
+                        <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="119.000000" />
+                    </Child>
+                    <Child name="separation">
+                        <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="149.000000" />
+                    </Child>
+                    <Child name="margin_3">
+                        <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="151.000000" />
+                    </Child>
+                    <Child name="desc_utilisation">
+                        <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="156.000000" />
+                        <Text value="GUI.translationtable:TUTO_MINDCONTROLSKILL_UTILISATION" />
+                    </Child>
+                    <Child name="margin_4">
+                        <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="184.000000" />
+                    </Child>
+                    <Child name="separation_0">
+                        <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="189.000000" />
+                    </Child>
+                    <Child name="margin_4_0">
+                        <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="191.000000" />
+                    </Child>
+                    <Child name="content_0">
+                        <Stack value="1" />
+                        <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="231.000000" />
+                        <Child name="logo_tuto">
+                            <Position scale_x="0.000000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+                            <Size scale_x="-1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+                            <Anchor scale_x="0.000000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+                        </Child>
+                        <Child name="Skill_Seul_FINAL" proto="Skill_Seul_FINAL">
+                            <Position scale_x="0.000000" offset_x="1.000000" scale_y="1.000000" offset_y="0.000000" />
+                            <Anchor scale_x="0.000000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                            <Child name="Dummy">
+                                <Child name="skills">
+                                    <Alpha value="1.000000" />
+                                    <Image set="level_Last" image="level1" />
+                                    <Color r="27" g="27" b="27" a="255" />
+                                </Child>
+                                <Child name="logo">
+                                    <Color r="200" g="200" b="200" a="255" />
+                                </Child>
+                            </Child>
+                        </Child>
+                        <Child name="margin_4_0" proto="Dummy">
+                            <Position scale_x="0.000000" offset_x="101.000000" scale_y="0.000000" offset_y="0.000000" />
+                            <Size scale_x="0.000000" offset_x="50.000000" scale_y="0.000000" offset_y="0.000000" />
+                        </Child>
+                        <Child name="Skill_Seul_FINAL_0" proto="Skill_Seul_FINAL">
+                            <Position scale_x="0.000000" offset_x="151.000000" scale_y="1.000000" offset_y="0.000000" />
+                            <Anchor scale_x="0.000000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                            <Child name="Dummy">
+                                <Child name="logo">
+                                    <Color r="0" g="0" b="0" a="255" />
+                                </Child>
+                            </Child>
+                        </Child>
+                    </Child>
+                    <Child name="margin_4_0_0">
+                        <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="331.000000" />
+                    </Child>
+                </Child>
+                <Child name="Input_Content">
+                    <Child name="Content">
+                        <Child name="stack">
+                            <Child name="marge">
+                                <Position scale_x="0.000000" offset_x="85.000000" scale_y="0.500000" offset_y="0.000000" />
+                            </Child>
+                            <Child name="hold">
+                                <Position scale_x="0.000000" offset_x="90.000000" scale_y="0.500000" offset_y="0.000000" />
+                            </Child>
+                        </Child>
+                        <Child name="margin">
+                            <Position scale_x="0.000000" offset_x="85.000000" scale_y="-0.242593" offset_y="0.000000" />
+                        </Child>
+                        <Child name="Button">
+                            <Position scale_x="0.000000" offset_x="90.000000" scale_y="0.500000" offset_y="0.000000" />
+                        </Child>
+                    </Child>
+                </Child>
+            </Child>
+        </Child>
+    </Child>
+</Layout>

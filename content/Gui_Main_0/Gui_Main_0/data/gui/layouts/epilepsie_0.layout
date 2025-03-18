@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Layout>
+    <Child name="fond" proto="Image">
+        <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+        <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+        <Image set="Uni" image="White" />
+        <Color r="0" g="0" b="0" a="255" />
+    </Child>
+    <Child name="Stack" proto="Dummy">
+        <Stack value="1" />
+        <StackDirection value="VERTICAL" />
+        <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+        <Size scale_x="-1.000000" offset_x="-200.000000" scale_y="-1.000000" offset_y="0.000000" />
+        <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+        <Child name="info_txt" proto="Label">
+            <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+            <Size scale_x="0.800000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+            <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+            <Text value="GUI.translationtable:MENU_EPILEPSY_TITLE" />
+            <Font value="montserat_35" />
+            <HorizontalAlignment value="CENTER" />
+        </Child>
+        <Child name="margin" proto="Dummy">
+            <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="46.000000" />
+            <Size scale_x="1.000000" offset_x="0.000000" scale_y="0.000000" offset_y="100.000000" />
+            <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+        </Child>
+        <Child name="info_txt2" proto="Label">
+            <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="146.000000" />
+            <Size scale_x="0.700000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+            <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+            <Text value="GUI.translationtable:MENU_EPILEPSY_TEXT" />
+            <Font value="montserat_20" />
+            <HorizontalAlignment value="CENTER" />
+        </Child>
+    </Child>
+</Layout>

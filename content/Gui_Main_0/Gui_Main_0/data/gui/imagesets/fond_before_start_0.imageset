@@ -1,0 +1,3 @@
+<Imageset name="fond_before_start" texture="fond_before_start.tga">
+	<Image name="fond_before_start" left="1" top="1" right="1921" bottom="1081" />
+</Imageset>

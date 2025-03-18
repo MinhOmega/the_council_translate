@@ -1,0 +1,4 @@
+<Imageset name="Pointer" texture="Pointer.tga">
+	<Image name="Sans titre-2 copie" left="1" top="1" right="100" bottom="100" />
+	<Image name="Circle" left="105" top="1" right="184" bottom="80" />
+</Imageset>

@@ -1,0 +1,17 @@
+<Imageset name="alteration" texture="alteration.tga">
+	<Image name="ALteration_6" left="1" top="1" right="63" bottom="64" />
+	<Image name="ALteration_3" left="1" top="69" right="54" bottom="122" />
+	<Image name="ALteration_4" left="1" top="125" right="54" bottom="178" />
+	<Image name="ALteration_5" left="1" top="181" right="54" bottom="234" />
+	<Image name="ALteration_2" left="65" top="1" right="118" bottom="54" />
+	<Image name="alteration_take_off" left="121" top="1" right="174" bottom="54" />
+	<Image name="ALteration_1" left="177" top="1" right="230" bottom="54" />
+	<Image name="epuise" left="65" top="57" right="107" bottom="101" />
+	<Image name="immu" left="109" top="57" right="151" bottom="101" />
+	<Image name="moin1" left="153" top="57" right="195" bottom="101" />
+	<Image name="plus1" left="197" top="57" right="239" bottom="101" />
+	<Image name="timer_good" left="65" top="105" right="107" bottom="149" />
+	<Image name="temps_negatif" left="65" top="153" right="107" bottom="197" />
+	<Image name="vulne" left="65" top="201" right="107" bottom="245" />
+	<Image name="rond_alter" left="109" top="105" right="146" bottom="142" />
+</Imageset>

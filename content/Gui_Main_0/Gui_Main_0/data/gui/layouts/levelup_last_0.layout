@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Layout>
+    <Child name="fond_0" proto="Image">
+        <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+        <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+        <Image set="Background_GUI" image="Background_GUI" />
+    </Child>
+    <Child name="Margin" proto="Dummy">
+        <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+        <Size scale_x="0.900000" offset_x="0.000000" scale_y="0.900000" offset_y="0.000000" />
+        <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+        <Child name="Input_Contener" proto="Input_Contener">
+            <Position scale_x="1.000000" offset_x="0.000000" scale_y="1.000000" offset_y="0.000000" />
+        </Child>
+    </Child>
+    <Child name="Content" proto="Dummy">
+        <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+        <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+        <Child name="ParallaxRoot" proto="Dummy">
+            <Position scale_x="0.680000" offset_x="-10.000000" scale_y="0.500000" offset_y="0.000000" />
+            <Size scale_x="-1.000000" offset_x="0.000000" scale_y="1.000000" offset_y="0.000000" />
+            <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+            <InheritState value="1" />
+            <Child name="all_skill" proto="Skill_FINAL">
+                <Child name="Spy">
+                    <Child name="Etiquette">
+                        <Child name="Tooltip">
+                            <Child name="TooltipBackground">
+                                <Child name="margin_0">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="67.000000" />
+                                </Child>
+                                <Child name="text_0">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="319.000000" />
+                                </Child>
+                                <Child name="margin_2">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+                                </Child>
+                                <Child name="next">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="345.000000" />
+                                </Child>
+                                <Child name="separation_0">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="77.000000" />
+                                </Child>
+                                <Child name="margin_1">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="79.000000" />
+                                </Child>
+                                <Child name="text">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="10.000000" />
+                                </Child>
+                                <Child name="margin_2_0">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="371.000000" />
+                                </Child>
+                                <Child name="margin_11">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="267.000000" />
+                                </Child>
+                                <Child name="separation">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="307.000000" />
+                                </Child>
+                                <Child name="margin_2_0_0">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="309.000000" />
+                                </Child>
+                            </Child>
+                        </Child>
+                    </Child>
+                </Child>
+            </Child>
+            <Child name="Niveau_Info" proto="Dummy">
+                <Position scale_x="0.500000" offset_x="10.000000" scale_y="0.300000" offset_y="0.000000" />
+                <Size scale_x="-1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+                <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+                <Child name="Level_Xp" proto="Level_Xp">
+                    <Position scale_x="0.000000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+                    <Child name="margin">
+                        <Position scale_x="0.000000" offset_x="436.000000" scale_y="0.000000" offset_y="0.000000" />
+                    </Child>
+                    <Child name="no_stack">
+                        <Position scale_x="0.000000" offset_x="441.000000" scale_y="0.500000" offset_y="5.000000" />
+                        <Child name="level">
+                            <Child name="evolution">
+                                <Size scale_x="0.000000" offset_x="0.000000" scale_y="0.000000" offset_y="11.000000" />
+                            </Child>
+                            <Child name="gauge">
+                                <Size scale_x="0.010000" offset_x="0.000000" scale_y="0.000000" offset_y="11.000000" />
+                            </Child>
+                        </Child>
+                    </Child>
+                </Child>
+            </Child>
+            <Child name="InfoClass" proto="Label">
+                <Position scale_x="0.500000" offset_x="10.000000" scale_y="0.355000" offset_y="0.000000" />
+                <Size scale_x="-1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+                <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+                <InheritAlpha value="0" />
+                <InheritState value="1" />
+                <Text value="|GetPlayerClassLoca()" />
+                <Font value="montserat_30" />
+                <Color r="255" g="193" b="6" a="255" />
+            </Child>
+        </Child>
+    </Child>
+    <Child name="Nav" proto="Nav_LAST">
+        <Child name="InfoLabel">
+            <Litteral value="0" />
+            <Text value="GUI_TABS_SLOT_CHARACTERSHEET" />
+        </Child>
+        <Child name="stack">
+            <Child name="RB">
+                <Position scale_x="0.000000" offset_x="2294.000000" scale_y="0.500000" offset_y="0.000000" />
+            </Child>
+        </Child>
+    </Child>
+    <Child name="ParallaxRoot3" proto="Dummy">
+        <Position scale_x="0.000000" offset_x="96.000000" scale_y="0.500000" offset_y="0.000000" />
+        <Size scale_x="0.000000" offset_x="600.000000" scale_y="1.000000" offset_y="0.000000" />
+        <Anchor scale_x="0.000000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+        <Child name="stack" proto="Dummy">
+            <Stack value="1" />
+            <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.310000" offset_y="0.000000" />
+            <Size scale_x="-1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+            <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+            <Child name="Dotslevelup" proto="Image">
+                <Position scale_x="0.000000" offset_x="0.000000" scale_y="0.400000" offset_y="0.000000" />
+                <Size scale_x="-1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+                <Anchor scale_x="0.000000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                <Image set="Elements" image="rond_dots_left" />
+                <Child name="Chiffre" proto="Label">
+                    <Stackable value="0" />
+                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="-23.000000" />
+                    <Size scale_x="-1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+                    <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                    <Text value="2" />
+                    <Font value="montserat_110_bold" />
+                    <Color r="17" g="17" b="17" a="255" />
+                </Child>
+            </Child>
+            <Child name="marge" proto="Dummy">
+                <Position scale_x="0.000000" offset_x="109.000000" scale_y="0.500000" offset_y="0.000000" />
+                <Size scale_x="0.000000" offset_x="10.000000" scale_y="0.000000" offset_y="0.000000" />
+            </Child>
+            <Child name="pt_restant" proto="Label">
+                <Position scale_x="0.000000" offset_x="119.000000" scale_y="0.400000" offset_y="0.000000" />
+                <Size scale_x="-1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+                <Anchor scale_x="0.000000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                <Text value="GUI.translationtable:LEVEL_UP_POINTS_DESC" />
+                <Font value="montserat_25" />
+                <Color r="255" g="193" b="6" a="255" />
+                <HorizontalAlignment value="RIGHT" />
+                <VerticalAlignment value="CENTER" />
+            </Child>
+        </Child>
+        <Child name="notif" proto="Dummy">
+            <Stack value="1" />
+            <StackDirection value="VERTICAL" />
+            <Position scale_x="0.000000" offset_x="0.000000" scale_y="0.450000" offset_y="0.000000" />
+            <Size scale_x="0.000000" offset_x="600.000000" scale_y="-1.000000" offset_y="0.000000" />
+        </Child>
+    </Child>
+    <Child name="margin_0" proto="Dummy">
+        <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+        <Size scale_x="0.900000" offset_x="0.000000" scale_y="0.770000" offset_y="0.000000" />
+        <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+        <Child name="small_texte" proto="Label">
+            <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+            <Size scale_x="-1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+            <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+            <InheritState value="1" />
+            <Text value="GUI.translationtable:ASSIGN_TITLE" />
+            <Font value="montserat_35" />
+            <Color r="239" g="223" b="212" a="255" />
+            <HorizontalAlignment value="CENTER" />
+            <VerticalAlignment value="CENTER" />
+        </Child>
+        <Child name="texte" proto="Label">
+            <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.060000" offset_y="0.000000" />
+            <Size scale_x="-1.000000" offset_x="0.000000" scale_y="0.000000" offset_y="120.000000" />
+            <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+            <InheritState value="1" />
+            <Text value="GUI.translationtable:ASSIGN_DOTS" />
+            <Font value="Montserat_110" />
+            <Color r="239" g="223" b="212" a="255" />
+            <HorizontalAlignment value="CENTER" />
+            <VerticalAlignment value="CENTER" />
+        </Child>
+    </Child>
+</Layout>

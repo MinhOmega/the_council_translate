@@ -1,0 +1,3 @@
+<Imageset name="background_class_choice" texture="background_class_choice.tga">
+	<Image name="background_class_choice" left="1" top="1" right="1921" bottom="1081" />
+</Imageset>

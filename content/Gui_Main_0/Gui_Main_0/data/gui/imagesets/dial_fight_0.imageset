@@ -1,0 +1,5 @@
+<Imageset name="Dial_Fight" texture="Dial_Fight.tga">
+	<Image name="last_step" left="1" top="1" right="56" bottom="35" />
+	<Image name="wrong" left="61" top="1" right="94" bottom="29" />
+	<Image name="good" left="97" top="1" right="130" bottom="29" />
+</Imageset>

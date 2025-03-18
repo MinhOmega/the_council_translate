@@ -1,0 +1,13 @@
+<Imageset name="Elements" texture="Elements.tga">
+	<Image name="xbox_manette" left="1" top="1" right="1055" bottom="590" />
+	<Image name="rond_dots_left" left="1057" top="1" right="1166" bottom="109" />
+	<Image name="LOADING_test" left="1169" top="1" right="1273" bottom="108" />
+	<Image name="img_question" left="1" top="593" right="356" bottom="619" />
+	<Image name="fond_texte_Choice" left="1057" top="113" right="1211" bottom="164" />
+	<Image name="encyclopedie" left="1057" top="169" right="1120" bottom="232" />
+	<Image name="Coin" left="1125" top="169" right="1188" bottom="232" />
+	<Image name="fond_texte" left="1213" top="113" right="1247" bottom="132" />
+	<Image name="tooltip_off" left="1213" top="137" right="1223" bottom="167" />
+	<Image name="tooltip_already" left="1225" top="137" right="1235" bottom="167" />
+	<Image name="tooltip" left="1237" top="137" right="1247" bottom="167" />
+</Imageset>

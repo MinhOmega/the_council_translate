@@ -1,0 +1,7 @@
+<Imageset name="Maps" texture="Maps.tga">
+	<Image name="all_fond" left="1" top="1" right="888" bottom="835" />
+	<Image name="rdc_contour" left="893" top="1" right="1462" bottom="775" />
+	<Image name="2eme_etage" left="1" top="837" right="729" bottom="1340" />
+	<Image name="map_level" left="893" top="777" right="995" bottom="803" />
+	<Image name="player" left="997" top="777" right="1046" bottom="817" />
+</Imageset>

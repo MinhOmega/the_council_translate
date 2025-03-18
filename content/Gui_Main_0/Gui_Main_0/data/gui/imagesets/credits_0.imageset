@@ -1,0 +1,5 @@
+<Imageset name="Credits" texture="Credits.tga">
+	<Image name="eu-creative-media" left="1" top="1" right="1001" bottom="262" />
+	<Image name="matrice-logo" left="1" top="265" right="501" bottom="417" />
+	<Image name="eu_flag-2015" left="1" top="421" right="243" bottom="582" />
+</Imageset>

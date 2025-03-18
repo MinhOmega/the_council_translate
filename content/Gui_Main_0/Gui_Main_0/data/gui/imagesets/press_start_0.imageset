@@ -1,0 +1,4 @@
+<Imageset name="Press_Start" texture="Press_Start.tga">
+	<Image name="matrice-logo" left="1" top="1" right="1281" bottom="391" />
+	<Image name="eu_flag_creative_europe_media_co_funded_en_rgb_ copie" left="1" top="393" right="1281" bottom="727" />
+</Imageset>

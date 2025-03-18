@@ -1,0 +1,12 @@
+<Imageset name="Inventory_Manuscrit" texture="Inventory_Manuscrit.tga">
+	<Image name="Unlock" left="1" top="1" right="102" bottom="127" />
+	<Image name="selection_objet_Narratif" left="105" top="1" right="216" bottom="112" />
+	<Image name="PointedState" left="105" top="117" right="214" bottom="223" />
+	<Image name="Manuscrit_Read" left="1" top="129" right="101" bottom="229" />
+	<Image name="Unlock_Icon" left="221" top="1" right="321" bottom="101" />
+	<Image name="use" left="221" top="105" right="321" bottom="205" />
+	<Image name="Rond_Icon_Manuscrit" left="325" top="1" right="424" bottom="100" />
+	<Image name="collection" left="429" top="1" right="507" bottom="79" />
+	<Image name="Rond_Skill" left="221" top="209" right="264" bottom="252" />
+	<Image name="Inconnu" left="105" top="225" right="132" bottom="252" />
+</Imageset>

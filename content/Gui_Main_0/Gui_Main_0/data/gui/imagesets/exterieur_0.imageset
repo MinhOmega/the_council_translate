@@ -1,0 +1,17 @@
+<Imageset name="Exterieur" texture="Exterieur.tga">
+	<Image name="Limbo_Selection" left="1" top="1" right="837" bottom="1042" />
+	<Image name="Limbo_Inside" left="1" top="1045" right="837" bottom="2086" />
+	<Image name="Garden_Inside" left="841" top="1" right="1771" bottom="686" />
+	<Image name="Garden_Ok" left="1773" top="1" right="2703" bottom="686" />
+	<Image name="Garden_Selection" left="841" top="689" right="1771" bottom="1374" />
+	<Image name="exterieur_selection" left="1" top="2089" right="757" bottom="2815" />
+	<Image name="exterieur_Inside" left="841" top="1377" right="1597" bottom="2103" />
+	<Image name="exterieur" left="841" top="2105" right="1597" bottom="2831" />
+	<Image name="Graveyard_Ok" left="1773" top="689" right="2889" bottom="1130" />
+	<Image name="Graveyard_Selection" left="1601" top="1377" right="2717" bottom="1818" />
+	<Image name="Graveyard_Inside" left="1601" top="1821" right="2717" bottom="2262" />
+	<Image name="GardenToPortraitGallery" left="1" top="2817" right="196" bottom="2869" />
+	<Image name="PierToParvis" left="1" top="2873" right="95" bottom="2947" />
+	<Image name="GraveYardToGarden" left="761" top="2089" right="808" bottom="2133" />
+	<Image name="GardenToBackStairs" left="813" top="2089" right="828" bottom="2113" />
+</Imageset>

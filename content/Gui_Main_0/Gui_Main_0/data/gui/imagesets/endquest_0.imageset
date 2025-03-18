@@ -1,0 +1,5 @@
+<Imageset name="EndQuest" texture="EndQuest.tga">
+	<Image name="Fail_line" left="1" top="1" right="376" bottom="35" />
+	<Image name="Success_line" left="1" top="37" right="376" bottom="71" />
+	<Image name="altPath_line" left="1" top="73" right="376" bottom="107" />
+</Imageset>

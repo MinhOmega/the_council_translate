@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Layout>
+    <Child name="Dummy" proto="Dummy">
+        <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.580000" offset_y="0.000000" />
+        <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.580000" offset_y="0.000000" />
+        <InheritState value="1" />
+        <Child name="timer_back" proto="timer_back">
+            <Position scale_x="0.500000" offset_x="0.000000" scale_y="1.000000" offset_y="-54.000000" />
+            <Size scale_x="0.000000" offset_x="780.000000" scale_y="0.000000" offset_y="8.000000" />
+            <InheritOrientation value="0" />
+            <Child name="progress">
+                <Size scale_x="0.000000" offset_x="200.000000" scale_y="0.000000" offset_y="8.000000" />
+            </Child>
+        </Child>
+        <Child name="Target" proto="Target">
+            <State name="good">
+                <Color r="0" g="255" b="0" a="255" />
+            </State>
+            <State name="wrong">
+                <Color r="255" g="64" b="64" a="255" />
+            </State>
+        </Child>
+    </Child>
+</Layout>

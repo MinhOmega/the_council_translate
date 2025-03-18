@@ -1,0 +1,1582 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Layout>
+    <Child name="fond" proto="Image">
+        <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+        <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+        <Image set="Background_GUI" image="Background_GUI" />
+    </Child>
+    <Child name="IngameNav" proto="Nav_LAST">
+        <Child name="InfoLabel">
+            <Litteral value="0" />
+            <Text value="GUI_TABS_SLOT_MAP" />
+        </Child>
+        <Child name="stack">
+            <Child name="RB">
+                <Position scale_x="0.000000" offset_x="2294.000000" scale_y="0.500000" offset_y="0.000000" />
+            </Child>
+        </Child>
+    </Child>
+    <Child name="margin" proto="Dummy">
+        <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+        <Size scale_x="0.000000" offset_x="1728.000000" scale_y="0.000000" offset_y="956.000000" />
+        <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+        <InheritState value="1" />
+        <Child name="ParallaxRoot" proto="Dummy">
+            <Position scale_x="0.500551" offset_x="0.000000" scale_y="0.498506" offset_y="0.000000" />
+            <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+            <InheritState value="1" />
+            <Child name="GroundFloor">
+                <Position scale_x="-0.067053" offset_x="0.000000" scale_y="-0.017728" offset_y="0.000000" />
+                <Child name="Garden" proto="MapRoom">
+                    <Alpha value="0.000000" />
+                    <Position scale_x="0.501426" offset_x="0.000000" scale_y="0.292354" offset_y="0.000000" />
+                    <InheritState value="1" />
+                    <Image set="rdc" image="garden" />
+                    <State name="Revealed">
+                        <Image set="rdc" image="garden_selection" />
+                        <Visible value="1" />
+                    </State>
+                    <State name="Inside">
+                        <Image set="rdc" image="garden_selection" />
+                        <Visible value="1" />
+                    </State>
+                    <State name="PointedState">
+                        <Image set="rdc" image="garden_inside" />
+                    </State>
+                    <State name="Known">
+                        <Visible value="1" />
+                        <Image set="rdc" image="garden_selection" />
+                    </State>
+                    <Child name="Tooltip">
+                        <Child name="top">
+                            <Child name="title">
+                                <Text value="Rooms.translationtable:Garden" />
+                            </Child>
+                        </Child>
+                        <Child name="content">
+                            <Child name="text">
+                                <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+                                <Text value="Rooms.translationtable:Garden_DESC" />
+                            </Child>
+                        </Child>
+                        <Child name="Input">
+                            <Position scale_x="0.000000" offset_x="0.000000" scale_y="0.000000" offset_y="112.000000" />
+                            <Anchor scale_x="0.000000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+                        </Child>
+                    </Child>
+                </Child>
+                <Child name="GroundFloor_All" proto="Image">
+                    <Visible value="0" />
+                    <Alpha value="0.500000" />
+                    <Position scale_x="0.330657" offset_x="0.000000" scale_y="0.118553" offset_y="0.000000" />
+                    <Size scale_x="-1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+                    <Image set="Maps" image="rdc_contour" />
+                </Child>
+                <Child name="RDC_ALL" proto="Image">
+                    <Visible value="0" />
+                    <Alpha value="0.200000" />
+                    <Position scale_x="0.331019" offset_x="0.000000" scale_y="0.118486" offset_y="0.000000" />
+                    <Size scale_x="-1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+                    <Image set="rdc" image="rdc_contour" />
+                </Child>
+                <Child name="FrontSquare" proto="MapRoom">
+                    <Position scale_x="0.208075" offset_x="0.000000" scale_y="0.348594" offset_y="0.000000" />
+                    <InheritState value="1" />
+                    <Image set="rdc" image="parvis" />
+                    <State name="Revealed">
+                        <Image set="rdc" image="parvis_selection" />
+                        <Visible value="1" />
+                    </State>
+                    <State name="Inside">
+                        <Image set="rdc" image="parvis_selection" />
+                    </State>
+                    <State name="PointedState">
+                        <Image set="rdc" image="parvis_inside" />
+                    </State>
+                    <State name="Known">
+                        <Visible value="1" />
+                        <Image set="rdc" image="parvis" />
+                    </State>
+                    <Child name="Tooltip">
+                        <Child name="top">
+                            <Child name="title">
+                                <Text value="Rooms.translationtable:FrontSquare" />
+                            </Child>
+                        </Child>
+                        <Child name="content">
+                            <Child name="text">
+                                <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="28.000000" />
+                                <Text value="Rooms.translationtable:FrontSquare_DESC" />
+                            </Child>
+                        </Child>
+                        <Child name="Input">
+                            <Position scale_x="0.000000" offset_x="0.000000" scale_y="0.000000" offset_y="113.500000" />
+                        </Child>
+                    </Child>
+                    <Child name="ToPier" proto="MapStairs" />
+                </Child>
+                <Child name="BigHall" proto="MapRoom">
+                    <Position scale_x="0.387929" offset_x="0.000000" scale_y="0.393169" offset_y="0.000000" />
+                    <InheritState value="1" />
+                    <Image set="rdc" image="big_hall" />
+                    <State name="Revealed">
+                        <Image set="rdc" image="big_hall_selection" />
+                        <Visible value="1" />
+                    </State>
+                    <State name="Inside">
+                        <Image set="rdc" image="big_hall_selection" />
+                    </State>
+                    <State name="PointedState">
+                        <Image set="rdc" image="big_hall_inside" />
+                    </State>
+                    <State name="Known">
+                        <Visible value="1" />
+                        <Image set="rdc" image="big_hall" />
+                    </State>
+                    <Child name="Tooltip">
+                        <Child name="top">
+                            <Child name="title">
+                                <Text value="Rooms.translationtable:BigHall" />
+                            </Child>
+                        </Child>
+                        <Child name="content">
+                            <Child name="text">
+                                <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="28.000000" />
+                                <Text value="Rooms.translationtable:BigHall_DESC" />
+                            </Child>
+                        </Child>
+                        <Child name="Input">
+                            <Position scale_x="0.000000" offset_x="0.000000" scale_y="0.000000" offset_y="113.500000" />
+                        </Child>
+                    </Child>
+                    <Child name="GuestFloor_1" proto="MapStairs">
+                        <Position scale_x="0.000000" offset_x="111.000000" scale_y="0.000000" offset_y="12.000000" />
+                        <Image set="rdc" image="BigHallToCorridor1" />
+                    </Child>
+                    <Child name="GuestFloor_2" proto="MapStairs">
+                        <Position scale_x="0.000000" offset_x="111.000000" scale_y="0.000000" offset_y="224.000000" />
+                        <Image set="rdc" image="BigHallToCorridor2" />
+                    </Child>
+                </Child>
+                <Child name="ColloquiumRoom" proto="MapRoom">
+                    <Position scale_x="0.500893" offset_x="0.000000" scale_y="0.154731" offset_y="0.000000" />
+                    <InheritState value="1" />
+                    <Image set="rdc" image="Colloquium2" />
+                    <State name="Revealed">
+                        <Image set="rdc" image="Colloquium2_selection" />
+                        <Visible value="1" />
+                    </State>
+                    <State name="Inside">
+                        <Image set="rdc" image="Colloquium2_selection" />
+                    </State>
+                    <State name="PointedState">
+                        <Image set="rdc" image="Colloquium2_inside" />
+                    </State>
+                    <State name="Known">
+                        <Visible value="1" />
+                        <Image set="rdc" image="Colloquium2_selection" />
+                    </State>
+                    <Child name="Tooltip">
+                        <Child name="top">
+                            <Child name="title">
+                                <Text value="Rooms.translationtable:ColloquiumRoom" />
+                            </Child>
+                        </Child>
+                        <Child name="content">
+                            <Child name="text">
+                                <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="28.000000" />
+                                <Text value="Rooms.translationtable:ColloquiumRoom_DESC" />
+                            </Child>
+                        </Child>
+                        <Child name="Input">
+                            <Position scale_x="0.000000" offset_x="0.000000" scale_y="0.000000" offset_y="113.500000" />
+                        </Child>
+                    </Child>
+                </Child>
+                <Child name="DiningRoom" proto="MapRoom">
+                    <Position scale_x="0.401026" offset_x="0.000000" scale_y="0.732276" offset_y="0.000000" />
+                    <InheritState value="1" />
+                    <Image set="rdc" image="dinning_room" />
+                    <State name="Revealed">
+                        <Image set="rdc" image="dinning_room_selection" />
+                        <Visible value="1" />
+                    </State>
+                    <State name="Inside">
+                        <Image set="rdc" image="dinning_room_selection" />
+                    </State>
+                    <State name="PointedState">
+                        <Image set="rdc" image="dinning_room_inside" />
+                    </State>
+                    <State name="Known">
+                        <Visible value="1" />
+                        <Image set="rdc" image="dinning_room" />
+                    </State>
+                    <Child name="Tooltip">
+                        <Child name="top">
+                            <Child name="title">
+                                <Text value="Rooms.translationtable:DiningRoom" />
+                            </Child>
+                        </Child>
+                        <Child name="content">
+                            <Child name="text">
+                                <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="28.000000" />
+                                <Text value="Rooms.translationtable:DiningRoom_DESC" />
+                            </Child>
+                        </Child>
+                        <Child name="Input">
+                            <Position scale_x="0.000000" offset_x="0.000000" scale_y="0.000000" offset_y="113.500000" />
+                        </Child>
+                    </Child>
+                </Child>
+                <Child name="PortraitGallery" proto="MapRoom">
+                    <Position scale_x="0.651711" offset_x="0.000000" scale_y="0.268352" offset_y="0.000000" />
+                    <Size scale_x="0.000000" offset_x="357.000000" scale_y="0.000000" offset_y="491.000000" />
+                    <InheritState value="1" />
+                    <Image set="rdc" image="portrait_gallery" />
+                    <State name="Revealed">
+                        <Image set="rdc" image="portrait_gallery_selection" />
+                        <Visible value="1" />
+                    </State>
+                    <State name="Inside">
+                        <Image set="rdc" image="portrait_gallery_selection" />
+                    </State>
+                    <State name="PointedState">
+                        <Image set="rdc" image="portrait_gallery_inside" />
+                    </State>
+                    <State name="Known">
+                        <Visible value="1" />
+                        <Image set="rdc" image="portrait_gallery" />
+                    </State>
+                    <Child name="Tooltip">
+                        <Child name="top">
+                            <Child name="title">
+                                <Text value="Rooms.translationtable:PortraitGallery" />
+                            </Child>
+                        </Child>
+                        <Child name="content">
+                            <Child name="text">
+                                <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="28.000000" />
+                                <Text value="Rooms.translationtable:PortraitGallery_DESC" />
+                            </Child>
+                        </Child>
+                        <Child name="Input">
+                            <Position scale_x="0.000000" offset_x="0.000000" scale_y="0.000000" offset_y="113.500000" />
+                        </Child>
+                    </Child>
+                    <Child name="TrophyRoom" proto="Dummy">
+                        <Stackable value="0" />
+                        <Position scale_x="0.581958" offset_x="0.000000" scale_y="-0.066472" offset_y="0.000000" />
+                        <Size scale_x="0.000000" offset_x="150.000000" scale_y="0.000000" offset_y="225.000000" />
+                        <Child name="TrophyRoom" proto="MapRoom">
+                            <Visible value="0" />
+                            <Position scale_x="-0.145268" offset_x="0.000000" scale_y="-0.027646" offset_y="0.000000" />
+                            <InheritState value="1" />
+                            <Image set="rdc" image="secret_piece" />
+                            <State name="Revealed">
+                                <Image set="rdc" image="secret_piece_selection" />
+                                <Visible value="1" />
+                            </State>
+                            <State name="Inside">
+                                <Image set="rdc" image="secret_piece_inside" />
+                                <Visible value="1" />
+                            </State>
+                            <State name="PointedState">
+                                <Image set="rdc" image="secret_piece_inside" />
+                            </State>
+                            <State name="Known">
+                                <Visible value="1" />
+                                <Image set="rdc" image="Colloquium3" />
+                            </State>
+                            <Child name="Tooltip">
+                                <Child name="top">
+                                    <Child name="title">
+                                        <Text value="Rooms.translationtable:TrophyRoom" />
+                                    </Child>
+                                </Child>
+                                <Child name="content">
+                                    <Child name="text">
+                                        <Text value="Rooms.translationtable:TrophyRoom_DESC" />
+                                    </Child>
+                                </Child>
+                            </Child>
+                        </Child>
+                    </Child>
+                    <Child name="ToGarden" proto="MapStairs">
+                        <Visible value="0" />
+                        <Alpha value="1.000000" />
+                        <Position scale_x="0.000000" offset_x="20.000000" scale_y="0.500000" offset_y="0.000000" />
+                        <Anchor scale_x="1.000000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                        <InheritAlpha value="0" />
+                        <Image set="rdc" image="GenericDoor" />
+                        <Color r="239" g="223" b="212" a="255" />
+                        <State name="PointedState">
+                            <Color r="255" g="193" b="6" a="255" />
+                        </State>
+                        <State name="Revealed">
+                            <Visible value="1" />
+                        </State>
+                    </Child>
+                </Child>
+                <Child name="Library" proto="MapRoom">
+                    <Position scale_x="0.709606" offset_x="0.000000" scale_y="0.734779" offset_y="0.000000" />
+                    <InheritState value="1" />
+                    <Image set="rdc" image="library" />
+                    <State name="Revealed">
+                        <Image set="rdc" image="library_selection" />
+                        <Visible value="1" />
+                    </State>
+                    <State name="Inside">
+                        <Image set="rdc" image="library_selection" />
+                    </State>
+                    <State name="PointedState">
+                        <Image set="rdc" image="library_inside" />
+                    </State>
+                    <State name="Known">
+                        <Visible value="1" />
+                        <Image set="rdc" image="library" />
+                    </State>
+                    <Child name="Tooltip">
+                        <Child name="top">
+                            <Child name="title">
+                                <Text value="Rooms.translationtable:Library" />
+                            </Child>
+                        </Child>
+                        <Child name="content">
+                            <Child name="text">
+                                <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="28.000000" />
+                                <Text value="Rooms.translationtable:Library_DESC" />
+                            </Child>
+                        </Child>
+                        <Child name="Input">
+                            <Position scale_x="0.000000" offset_x="0.000000" scale_y="0.000000" offset_y="113.500000" />
+                        </Child>
+                    </Child>
+                </Child>
+                <Child name="LivingRoom" proto="MapRoom">
+                    <Position scale_x="0.387132" offset_x="0.000000" scale_y="0.223686" offset_y="0.000000" />
+                    <InheritState value="1" />
+                    <Image set="rdc" image="Colloquium1" />
+                    <State name="Revealed">
+                        <Image set="rdc" image="Colloquium1_selection" />
+                        <Visible value="1" />
+                    </State>
+                    <State name="Inside">
+                        <Image set="rdc" image="Colloquium1_selection" />
+                    </State>
+                    <State name="PointedState">
+                        <Image set="rdc" image="Colloquium1_inside" />
+                    </State>
+                    <State name="Known">
+                        <Visible value="1" />
+                        <Image set="rdc" image="Colloquium1" />
+                    </State>
+                    <Child name="Tooltip">
+                        <Child name="top">
+                            <Child name="title">
+                                <Text value="Rooms.translationtable:LivingRoom" />
+                            </Child>
+                        </Child>
+                        <Child name="content">
+                            <Child name="text">
+                                <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="28.000000" />
+                                <Text value="Rooms.translationtable:LivingRoom_DESC" />
+                            </Child>
+                        </Child>
+                        <Child name="Input">
+                            <Position scale_x="0.000000" offset_x="0.000000" scale_y="0.000000" offset_y="113.500000" />
+                        </Child>
+                    </Child>
+                </Child>
+                <Child name="BackStairs" proto="MapRoom">
+                    <Position scale_x="0.649526" offset_x="0.000000" scale_y="0.105284" offset_y="0.000000" />
+                    <InheritState value="1" />
+                    <Image set="rdc" image="Colloquium3" />
+                    <State name="Revealed">
+                        <Image set="rdc" image="Colloquium3_selection" />
+                        <Visible value="1" />
+                    </State>
+                    <State name="Inside">
+                        <Image set="rdc" image="Colloquium3_selection" />
+                    </State>
+                    <State name="PointedState">
+                        <Image set="rdc" image="Colloquium3_inside" />
+                    </State>
+                    <State name="Known">
+                        <Visible value="1" />
+                        <Image set="rdc" image="Colloquium3" />
+                    </State>
+                    <Child name="Tooltip">
+                        <Child name="top">
+                            <Child name="title">
+                                <Text value="Rooms.translationtable:BackStairs" />
+                            </Child>
+                        </Child>
+                        <Child name="content">
+                            <Child name="text">
+                                <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="28.000000" />
+                                <Text value="Rooms.translationtable:BackStairs_DESC" />
+                            </Child>
+                        </Child>
+                        <Child name="Input">
+                            <Position scale_x="0.000000" offset_x="0.000000" scale_y="0.000000" offset_y="113.500000" />
+                        </Child>
+                    </Child>
+                    <Child name="GuestFloor_1" proto="MapStairs">
+                        <Position scale_x="0.000000" offset_x="123.000000" scale_y="0.000000" offset_y="0.000000" />
+                        <Image set="rdc" image="BackStairsToCorridor" />
+                    </Child>
+                    <Child name="ToGarden" proto="MapStairs">
+                        <Visible value="0" />
+                        <Alpha value="1.000000" />
+                        <Rotation value="90.000000" />
+                        <Position scale_x="0.000000" offset_x="35.000000" scale_y="1.000000" offset_y="0.000000" />
+                        <Anchor scale_x="1.000000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+                        <InheritAlpha value="0" />
+                        <Image set="rdc" image="GenericDoor" />
+                        <Color r="239" g="223" b="212" a="255" />
+                        <State name="PointedState">
+                            <Color r="255" g="193" b="6" a="255" />
+                        </State>
+                        <State name="Revealed">
+                            <Visible value="1" />
+                        </State>
+                    </Child>
+                </Child>
+            </Child>
+            <Child name="GuestFloor">
+                <Visible value="0" />
+                <Rotation value="270.000000" />
+                <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                <Child name="GuestFloor_All" proto="Image">
+                    <Visible value="0" />
+                    <Alpha value="0.500000" />
+                    <Position scale_x="0.249785" offset_x="0.000000" scale_y="0.092170" offset_y="0.000000" />
+                    <Size scale_x="-1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+                    <Image set="Maps" image="all_fond" />
+                </Child>
+                <Child name="CorridorsGuestFloor" proto="MapRoom">
+                    <Position scale_x="0.267620" offset_x="0.000000" scale_y="0.082296" offset_y="0.000000" />
+                    <InheritState value="1" />
+                    <Image set="1er_etage" image="corridor_ok" />
+                    <State name="Revealed">
+                        <Image set="1er_etage" image="Corridor_Selection" />
+                        <Visible value="1" />
+                    </State>
+                    <State name="Inside">
+                        <Image set="1er_etage" image="Corridor_Selection" />
+                    </State>
+                    <State name="PointedState">
+                        <Image set="1er_etage" image="corridor_inside" />
+                    </State>
+                    <State name="Known">
+                        <Visible value="1" />
+                        <Image set="1er_etage" image="corridor_ok" />
+                    </State>
+                    <Child name="Tooltip">
+                        <Child name="top">
+                            <Child name="title">
+                                <Text value="Rooms.translationtable:CorridorsGuestFloor" />
+                            </Child>
+                        </Child>
+                        <Child name="content">
+                            <Child name="text">
+                                <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+                                <Text value="Rooms.translationtable:CorridorsGuestFloor_DESC" />
+                            </Child>
+                        </Child>
+                        <Child name="Input">
+                            <Position scale_x="0.000000" offset_x="0.000000" scale_y="0.000000" offset_y="112.000000" />
+                            <Anchor scale_x="0.000000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+                        </Child>
+                    </Child>
+                    <Child name="GroundFloor_1" proto="MapStairs">
+                        <Position scale_x="0.000000" offset_x="217.000000" scale_y="0.000000" offset_y="763.000000" />
+                        <Image set="1er_etage" image="CorridorToBigHall1" />
+                    </Child>
+                    <Child name="GroundFloor_2" proto="MapStairs">
+                        <Position scale_x="0.000000" offset_x="518.000000" scale_y="0.000000" offset_y="763.000000" />
+                        <Image set="1er_etage" image="CorridorToBigHall2" />
+                    </Child>
+                    <Child name="GroundFloor_3" proto="MapStairs">
+                        <Position scale_x="0.000000" offset_x="72.000000" scale_y="0.000000" offset_y="192.000000" />
+                        <Image set="1er_etage" image="CorridorToBackStairs" />
+                    </Child>
+                    <Child name="ToMorti" proto="MapStairs">
+                        <Position scale_x="0.000000" offset_x="61.000000" scale_y="0.000000" offset_y="455.000000" />
+                        <Image set="1er_etage" image="CorridorToMorti" />
+                    </Child>
+                </Child>
+                <Child name="masque" proto="Dummy">
+                    <Position scale_x="0.374049" offset_x="0.000000" scale_y="0.281033" offset_y="0.000000" />
+                    <Size scale_x="0.000000" offset_x="380.000000" scale_y="0.000000" offset_y="440.000000" />
+                    <InteractEnabled value="1" />
+                </Child>
+                <Child name="masque_0" proto="Dummy">
+                    <Position scale_x="0.558489" offset_x="0.000000" scale_y="0.356640" offset_y="0.000000" />
+                    <Size scale_x="0.000000" offset_x="110.000000" scale_y="0.000000" offset_y="440.000000" />
+                    <InteractEnabled value="1" />
+                </Child>
+                <Child name="masque_0_0" proto="Dummy">
+                    <Position scale_x="0.380682" offset_x="0.000000" scale_y="0.673873" offset_y="0.000000" />
+                    <Size scale_x="0.000000" offset_x="450.000000" scale_y="0.000000" offset_y="120.000000" />
+                    <InteractEnabled value="1" />
+                </Child>
+                <Child name="masque_0_1" proto="Dummy">
+                    <Position scale_x="0.439062" offset_x="0.000000" scale_y="0.217178" offset_y="0.000000" />
+                    <Size scale_x="0.000000" offset_x="190.000000" scale_y="0.000000" offset_y="100.000000" />
+                    <InteractEnabled value="1" />
+                </Child>
+                <Child name="Garden" proto="MapRoom">
+                    <Position scale_x="0.445358" offset_x="0.000000" scale_y="0.597311" offset_y="0.000000" />
+                    <InheritState value="1" />
+                    <Image set="1er_etage" image="Garden_ok" />
+                    <State name="Revealed">
+                        <Image set="1er_etage" image="Garden_Selection" />
+                        <Visible value="1" />
+                    </State>
+                    <State name="Inside">
+                        <Image set="1er_etage" image="Garden_Selection" />
+                    </State>
+                    <State name="PointedState">
+                        <Image set="1er_etage" image="Garden_Inside" />
+                    </State>
+                    <State name="Known">
+                        <Visible value="1" />
+                        <Image set="1er_etage" image="Garden_ok" />
+                    </State>
+                    <Child name="Tooltip">
+                        <Child name="top">
+                            <Child name="title">
+                                <Text value="Rooms.translationtable:Garden" />
+                            </Child>
+                        </Child>
+                        <Child name="content">
+                            <Child name="text">
+                                <Text value="Rooms.translationtable:Garden_DESC" />
+                            </Child>
+                        </Child>
+                    </Child>
+                </Child>
+                <Child name="TowerRoom" proto="MapRoom">
+                    <Position scale_x="0.373032" offset_x="0.000000" scale_y="0.493802" offset_y="0.000000" />
+                    <InheritState value="1" />
+                    <Image set="1er_etage" image="Piaggi_ok" />
+                    <State name="Revealed">
+                        <Image set="1er_etage" image="Piaggi_selection" />
+                        <Visible value="1" />
+                    </State>
+                    <State name="Inside">
+                        <Image set="1er_etage" image="Piaggi_selection" />
+                    </State>
+                    <State name="PointedState">
+                        <Image set="1er_etage" image="Piaggi_Inside" />
+                    </State>
+                    <State name="Known">
+                        <Visible value="1" />
+                        <Image set="1er_etage" image="Piaggi_ok" />
+                    </State>
+                    <Child name="Tooltip">
+                        <Child name="top">
+                            <Child name="title">
+                                <Text value="Rooms.translationtable:TowerRoom" />
+                            </Child>
+                        </Child>
+                        <Child name="content">
+                            <Child name="text">
+                                <Text value="Rooms.translationtable:TowerRoom_DESC" />
+                            </Child>
+                        </Child>
+                    </Child>
+                </Child>
+                <Child name="WollnerRoom" proto="MapRoom">
+                    <Position scale_x="0.373748" offset_x="0.000000" scale_y="0.275120" offset_y="0.000000" />
+                    <InheritState value="1" />
+                    <Image set="1er_etage" image="Woolner_ok" />
+                    <State name="Revealed">
+                        <Image set="1er_etage" image="Wollner_selection" />
+                        <Visible value="1" />
+                    </State>
+                    <State name="Inside">
+                        <Image set="1er_etage" image="Wollner_selection" />
+                    </State>
+                    <State name="PointedState">
+                        <Image set="1er_etage" image="Wollner_Inside" />
+                    </State>
+                    <State name="Known">
+                        <Visible value="1" />
+                        <Image set="1er_etage" image="Woolner_ok" />
+                    </State>
+                    <Child name="Tooltip">
+                        <Child name="top">
+                            <Child name="title">
+                                <Text value="Rooms.translationtable:WollnerRoom" />
+                            </Child>
+                        </Child>
+                        <Child name="content">
+                            <Child name="text">
+                                <Text value="Rooms.translationtable:WollnerRoom_DESC" />
+                            </Child>
+                        </Child>
+                    </Child>
+                </Child>
+                <Child name="AdamsRoom" proto="MapRoom">
+                    <Visible value="0" />
+                    <Position scale_x="0.434724" offset_x="0.000000" scale_y="0.203518" offset_y="0.000000" />
+                    <InheritState value="1" />
+                    <Image set="1er_etage" image="Adams_ok" />
+                    <State name="Revealed">
+                        <Image set="1er_etage" image="Adams_selection" />
+                        <Visible value="1" />
+                    </State>
+                    <State name="Inside">
+                        <Image set="1er_etage" image="Adams_selection" />
+                    </State>
+                    <State name="PointedState">
+                        <Image set="1er_etage" image="Adams_Inside" />
+                    </State>
+                    <State name="Known">
+                        <Visible value="1" />
+                        <Image set="1er_etage" image="Adams_ok" />
+                    </State>
+                    <Child name="Tooltip">
+                        <Child name="top">
+                            <Child name="title">
+                                <Text value="Rooms.translationtable:AdamsRoom" />
+                            </Child>
+                        </Child>
+                        <Child name="content">
+                            <Child name="text">
+                                <Text value="Rooms.translationtable:AdamsRoom_DESC" />
+                            </Child>
+                        </Child>
+                    </Child>
+                </Child>
+                <Child name="WashingtonRoom" proto="MapRoom">
+                    <Position scale_x="0.490771" offset_x="0.000000" scale_y="0.206440" offset_y="0.000000" />
+                    <InheritState value="1" />
+                    <Image set="1er_etage" image="Washington_ok" />
+                    <State name="Revealed">
+                        <Image set="1er_etage" image="Washington_Selection" />
+                        <Visible value="1" />
+                    </State>
+                    <State name="Inside">
+                        <Image set="1er_etage" image="Washington_Selection" />
+                    </State>
+                    <State name="PointedState">
+                        <Image set="1er_etage" image="Washington_Inside" />
+                    </State>
+                    <State name="Known">
+                        <Visible value="1" />
+                        <Image set="1er_etage" image="Washington_ok" />
+                    </State>
+                    <Child name="Tooltip">
+                        <Child name="top">
+                            <Child name="title">
+                                <Text value="Rooms.translationtable:WashingtonRoom" />
+                            </Child>
+                        </Child>
+                        <Child name="content">
+                            <Child name="text">
+                                <Text value="Rooms.translationtable:WashingtonRoom_DESC" />
+                            </Child>
+                        </Child>
+                    </Child>
+                </Child>
+                <Child name="PiaggiRoom2" proto="MapRoom">
+                    <Position scale_x="0.658974" offset_x="0.000000" scale_y="0.324550" offset_y="0.000000" />
+                    <InheritState value="1" />
+                    <Image set="1er_etage" image="Deavilla_ok" />
+                    <State name="Revealed">
+                        <Image set="1er_etage" image="Deavilla_selection" />
+                        <Visible value="1" />
+                    </State>
+                    <State name="Inside">
+                        <Image set="1er_etage" image="Deavilla_selection" />
+                    </State>
+                    <State name="PointedState">
+                        <Image set="1er_etage" image="deavilla_inside" />
+                    </State>
+                    <State name="Known">
+                        <Visible value="1" />
+                        <Image set="1er_etage" image="Deavilla_ok" />
+                    </State>
+                    <Child name="Tooltip">
+                        <Child name="top">
+                            <Child name="title">
+                                <Text value="Rooms.translationtable:PiaggiRoom2" />
+                            </Child>
+                        </Child>
+                        <Child name="content">
+                            <Child name="text">
+                                <Text value="Rooms.translationtable:PiaggiRoom2_DESC" />
+                            </Child>
+                        </Child>
+                    </Child>
+                </Child>
+                <Child name="MaurasRoom" proto="MapRoom">
+                    <Position scale_x="0.669091" offset_x="0.000000" scale_y="0.496641" offset_y="0.000000" />
+                    <InheritState value="1" />
+                    <Image set="1er_etage" image="Mauras_ok" />
+                    <State name="Revealed">
+                        <Image set="1er_etage" image="Mauras_selection" />
+                        <Visible value="1" />
+                    </State>
+                    <State name="Inside">
+                        <Image set="1er_etage" image="Mauras_selection" />
+                    </State>
+                    <State name="PointedState">
+                        <Image set="1er_etage" image="Mauras_inside" />
+                    </State>
+                    <State name="Known">
+                        <Visible value="1" />
+                        <Image set="1er_etage" image="Mauras_ok" />
+                    </State>
+                    <Child name="Tooltip">
+                        <Child name="top">
+                            <Child name="title">
+                                <Text value="Rooms.translationtable:MaurasRoom" />
+                            </Child>
+                        </Child>
+                        <Child name="content">
+                            <Child name="text">
+                                <Text value="Rooms.translationtable:MaurasRoom_DESC" />
+                            </Child>
+                        </Child>
+                    </Child>
+                </Child>
+                <Child name="Library" proto="MapRoom">
+                    <Position scale_x="0.634651" offset_x="0.000000" scale_y="0.168426" offset_y="0.000000" />
+                    <InheritState value="1" />
+                    <Image set="1er_etage" image="library_ok" />
+                    <State name="Revealed">
+                        <Image set="1er_etage" image="Library_selection" />
+                        <Visible value="1" />
+                    </State>
+                    <State name="Inside">
+                        <Image set="1er_etage" image="Library_selection" />
+                    </State>
+                    <State name="PointedState">
+                        <Image set="1er_etage" image="library_inside" />
+                    </State>
+                    <State name="Known">
+                        <Visible value="1" />
+                        <Image set="1er_etage" image="library_ok" />
+                    </State>
+                    <Child name="Tooltip">
+                        <Child name="top">
+                            <Child name="title">
+                                <Text value="Rooms.translationtable:Library" />
+                            </Child>
+                        </Child>
+                        <Child name="content">
+                            <Child name="text">
+                                <Text value="Rooms.translationtable:Library_DESC" />
+                            </Child>
+                        </Child>
+                    </Child>
+                </Child>
+                <Child name="GodoyRoom" proto="MapRoom">
+                    <Position scale_x="0.671601" offset_x="0.000000" scale_y="0.700741" offset_y="0.000000" />
+                    <InheritState value="1" />
+                    <Image set="1er_etage" image="Godoy_ok" />
+                    <State name="Revealed">
+                        <Image set="1er_etage" image="Godoy_selection" />
+                        <Visible value="1" />
+                    </State>
+                    <State name="Inside">
+                        <Image set="1er_etage" image="Godoy_selection" />
+                    </State>
+                    <State name="PointedState">
+                        <Image set="1er_etage" image="Godoy_Inside" />
+                    </State>
+                    <State name="Known">
+                        <Visible value="1" />
+                        <Image set="1er_etage" image="Godoy_ok" />
+                    </State>
+                    <Child name="Tooltip">
+                        <Child name="top">
+                            <Child name="title">
+                                <Text value="Rooms.translationtable:GodoyRoom" />
+                            </Child>
+                        </Child>
+                        <Child name="content">
+                            <Child name="text">
+                                <Text value="Rooms.translationtable:GodoyRoom_DESC" />
+                            </Child>
+                        </Child>
+                    </Child>
+                </Child>
+                <Child name="HillsborrowRoom" proto="MapRoom">
+                    <Position scale_x="0.585862" offset_x="0.000000" scale_y="0.597400" offset_y="0.000000" />
+                    <InheritState value="1" />
+                    <Image set="1er_etage" image="hillsborrow_ok" />
+                    <State name="Revealed">
+                        <Image set="1er_etage" image="Hillsborrow_selection" />
+                        <Visible value="1" />
+                    </State>
+                    <State name="Inside">
+                        <Image set="1er_etage" image="Hillsborrow_selection" />
+                    </State>
+                    <State name="PointedState">
+                        <Image set="1er_etage" image="hillsborrow_inside" />
+                    </State>
+                    <State name="Known">
+                        <Visible value="1" />
+                        <Image set="1er_etage" image="hillsborrow_ok" />
+                    </State>
+                    <Child name="Tooltip">
+                        <Child name="top">
+                            <Child name="title">
+                                <Text value="Rooms.translationtable:HillsborrowRoom" />
+                            </Child>
+                        </Child>
+                        <Child name="content">
+                            <Child name="text">
+                                <Text value="Rooms.translationtable:HillsborrowRoom_DESC" />
+                            </Child>
+                        </Child>
+                    </Child>
+                </Child>
+                <Child name="NapoleonRoom" proto="MapRoom">
+                    <Position scale_x="0.490351" offset_x="0.000000" scale_y="0.710560" offset_y="0.000000" />
+                    <InheritState value="1" />
+                    <Image set="1er_etage" image="Napoleon_ok" />
+                    <State name="Revealed">
+                        <Image set="1er_etage" image="Napoleon_Selection" />
+                        <Visible value="1" />
+                    </State>
+                    <State name="Inside">
+                        <Image set="1er_etage" image="Napoleon_Selection" />
+                    </State>
+                    <State name="PointedState">
+                        <Image set="1er_etage" image="Napoleon_Inside" />
+                    </State>
+                    <State name="Known">
+                        <Visible value="1" />
+                        <Image set="1er_etage" image="Napoleon_ok" />
+                    </State>
+                    <Child name="Tooltip">
+                        <Child name="top">
+                            <Child name="title">
+                                <Text value="Rooms.translationtable:NapoleonRoom" />
+                            </Child>
+                        </Child>
+                        <Child name="content">
+                            <Child name="text">
+                                <Text value="Rooms.translationtable:NapoleonRoom_DESC" />
+                            </Child>
+                        </Child>
+                    </Child>
+                </Child>
+                <Child name="PeruRoom" proto="MapRoom">
+                    <Position scale_x="0.392102" offset_x="0.000000" scale_y="0.690281" offset_y="0.000000" />
+                    <InheritState value="1" />
+                    <Image set="1er_etage" image="Peru_ok" />
+                    <State name="Revealed">
+                        <Image set="1er_etage" image="Peru_Selection" />
+                        <Visible value="1" />
+                    </State>
+                    <State name="Inside">
+                        <Image set="1er_etage" image="Peru_Selection" />
+                    </State>
+                    <State name="PointedState">
+                        <Image set="1er_etage" image="Peru_Inside" />
+                    </State>
+                    <State name="Known">
+                        <Visible value="1" />
+                        <Image set="1er_etage" image="Peru_ok" />
+                    </State>
+                    <Child name="Tooltip">
+                        <Child name="top">
+                            <Child name="title">
+                                <Text value="Rooms.translationtable:PeruRoom" />
+                            </Child>
+                        </Child>
+                        <Child name="content">
+                            <Child name="text">
+                                <Text value="Rooms.translationtable:PeruRoom_DESC" />
+                            </Child>
+                        </Child>
+                    </Child>
+                </Child>
+                <Child name="MaurasBalcony" proto="MapRoom">
+                    <Rotation value="359.984985" />
+                    <Position scale_x="0.738500" offset_x="0.000000" scale_y="0.331777" offset_y="0.000000" />
+                    <InheritState value="1" />
+                    <Image set="1er_etage" image="balcon_mauras_ok" />
+                    <State name="Revealed">
+                        <Image set="1er_etage" image="balcon_mauras_selection" />
+                        <Visible value="1" />
+                    </State>
+                    <State name="Inside">
+                        <Image set="1er_etage" image="balcon_mauras_selection" />
+                    </State>
+                    <State name="PointedState">
+                        <Image set="1er_etage" image="balcon_mauras_inside" />
+                    </State>
+                    <State name="Known">
+                        <Visible value="1" />
+                        <Image set="1er_etage" image="balcon_mauras_ok" />
+                    </State>
+                    <Child name="Tooltip">
+                        <Child name="top">
+                            <Child name="title">
+                                <Text value="Rooms.translationtable:MaurasBalcony" />
+                            </Child>
+                        </Child>
+                        <Child name="content">
+                            <Child name="text">
+                                <Text value="Rooms.translationtable:MaurasBalcony_DESC" />
+                            </Child>
+                        </Child>
+                    </Child>
+                </Child>
+            </Child>
+            <Child name="TopFloor">
+                <Visible value="0" />
+                <Stackable value="0" />
+                <Child name="Top_floor_all" proto="Image">
+                    <Visible value="0" />
+                    <Alpha value="0.500000" />
+                    <Position scale_x="0.329550" offset_x="0.000000" scale_y="0.337654" offset_y="0.000000" />
+                    <Size scale_x="-1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+                    <Image set="Maps" image="2eme_etage" />
+                </Child>
+                <Child name="MortimerRoom" proto="MapRoom">
+                    <Position scale_x="0.300000" offset_x="0.000000" scale_y="0.336837" offset_y="0.000000" />
+                    <InheritState value="1" />
+                    <Image set="2eme_etage" image="mortimer_know" />
+                    <State name="Revealed">
+                        <Image set="2eme_etage" image="mortimer_selection" />
+                        <Visible value="1" />
+                    </State>
+                    <State name="Inside">
+                        <Image set="2eme_etage" image="mortimer_selection" />
+                    </State>
+                    <State name="PointedState">
+                        <Image set="2eme_etage" image="mortimer_inside" />
+                    </State>
+                    <State name="Known">
+                        <Visible value="1" />
+                        <Image set="2eme_etage" image="mortimer_know" />
+                    </State>
+                    <Child name="Tooltip">
+                        <Child name="top">
+                            <Child name="title">
+                                <Text value="Rooms.translationtable:MortimerRoom" />
+                            </Child>
+                        </Child>
+                        <Child name="content">
+                            <Child name="text">
+                                <Text value="Rooms.translationtable:MortimerRoom_DESC" />
+                            </Child>
+                        </Child>
+                    </Child>
+                    <Child name="MortimerSecreteRoom" proto="MapRoom">
+                        <Visible value="0" />
+                        <Position scale_x="1.000000" offset_x="-7.000000" scale_y="0.500000" offset_y="0.000000" />
+                        <Anchor scale_x="0.000000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                        <Image set="2eme_etage" image="secret_mortimer_know" />
+                        <State name="Revealed">
+                            <Image set="2eme_etage" image="secret_mortimer_selection" />
+                            <Visible value="1" />
+                        </State>
+                        <State name="Inside">
+                            <Image set="2eme_etage" image="secret_mortimer_selection" />
+                        </State>
+                        <State name="PointedState">
+                            <Image set="2eme_etage" image="secret_mortimer_inside" />
+                        </State>
+                        <State name="Known">
+                            <Visible value="1" />
+                            <Image set="2eme_etage" image="secret_mortimer_selection" />
+                        </State>
+                        <Child name="Tooltip">
+                            <Child name="top">
+                                <Child name="title">
+                                    <Text value="Rooms.translationtable:MortimerSecreteRoom" />
+                                </Child>
+                            </Child>
+                            <Child name="content">
+                                <Child name="text">
+                                    <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+                                    <Text value="Rooms.translationtable:MortimerSecreteRoom_DESC" />
+                                </Child>
+                            </Child>
+                            <Child name="Input">
+                                <Position scale_x="0.000000" offset_x="0.000000" scale_y="0.000000" offset_y="86.000000" />
+                                <Anchor scale_x="0.000000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+                            </Child>
+                        </Child>
+                    </Child>
+                    <Child name="ToCorridor" proto="MapStairs">
+                        <Position scale_x="0.000000" offset_x="17.000000" scale_y="0.000000" offset_y="159.000000" />
+                        <Image set="2eme_etage" image="MortiToCorridor" />
+                    </Child>
+                </Child>
+                <Child name="FacetofaceRoom" proto="MapRoom">
+                    <Alpha value="0.000000" />
+                    <Position scale_x="0.442650" offset_x="0.000000" scale_y="0.371580" offset_y="0.000000" />
+                    <InheritState value="1" />
+                    <Image set="2eme_etage" image="confrotation_know" />
+                    <State name="Revealed">
+                        <Image set="2eme_etage" image="confrotation_know" />
+                        <Visible value="0" />
+                    </State>
+                    <State name="Inside">
+                        <Image set="2eme_etage" image="confrotation_inside" />
+                    </State>
+                    <State name="PointedState">
+                        <Alpha value="0.000000" />
+                        <Image set="2eme_etage" image="confrotation_selection" />
+                    </State>
+                    <State name="Known">
+                        <Visible value="0" />
+                        <Image set="2eme_etage" image="confrotation_know" />
+                    </State>
+                    <Child name="Tooltip">
+                        <Child name="top">
+                            <Child name="title">
+                                <Text value="Rooms.translationtable:FaceToFaceRoom" />
+                            </Child>
+                        </Child>
+                        <Child name="content">
+                            <Child name="text">
+                                <Text value="Rooms.translationtable:FaceToFaceRoom_DESC" />
+                            </Child>
+                        </Child>
+                    </Child>
+                </Child>
+                <Child name="HolmRoom" proto="MapRoom">
+                    <Visible value="0" />
+                    <Alpha value="0.000000" />
+                    <Position scale_x="0.592007" offset_x="0.000000" scale_y="0.371672" offset_y="0.000000" />
+                    <InheritState value="1" />
+                    <Image set="2eme_etage" image="holm_know" />
+                    <State name="Revealed">
+                        <Alpha value="0.000000" />
+                        <Image set="2eme_etage" image="holm_know" />
+                        <Visible value="0" />
+                    </State>
+                    <State name="Inside">
+                        <Image set="2eme_etage" image="holm_inside" />
+                    </State>
+                    <State name="PointedState">
+                        <Alpha value="0.000000" />
+                        <Image set="2eme_etage" image="holm_selection" />
+                    </State>
+                    <State name="Known">
+                        <Visible value="0" />
+                        <Image set="2eme_etage" image="holm_know" />
+                    </State>
+                    <Child name="Tooltip">
+                        <Child name="top">
+                            <Child name="title">
+                                <Text value="Rooms.translationtable:HolmRoom" />
+                            </Child>
+                        </Child>
+                        <Child name="content">
+                            <Child name="text">
+                                <Text value="Rooms.translationtable:HolmRoom_DESC" />
+                            </Child>
+                        </Child>
+                    </Child>
+                </Child>
+            </Child>
+            <Child name="ExtFloor">
+                <Visible value="0" />
+                <Child name="Pier" proto="MapRoom">
+                    <Alpha value="1.000000" />
+                    <Rotation value="270.000000" />
+                    <Position scale_x="0.455044" offset_x="0.000000" scale_y="0.518364" offset_y="0.000000" />
+                    <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                    <InheritState value="1" />
+                    <Image set="Exterieur" image="exterieur" />
+                    <State name="Revealed">
+                        <Image set="Exterieur" image="exterieur_selection" />
+                    </State>
+                    <State name="Inside">
+                        <Image set="Exterieur" image="exterieur_selection" />
+                    </State>
+                    <State name="PointedState">
+                        <Image set="Exterieur" image="exterieur_Inside" />
+                    </State>
+                    <State name="Known">
+                        <Image set="Exterieur" image="exterieur_selection" />
+                    </State>
+                    <Child name="Tooltip">
+                        <Child name="top">
+                            <Child name="title">
+                                <Text value="Rooms.translationtable:Pier" />
+                            </Child>
+                        </Child>
+                        <Child name="content">
+                            <Child name="text">
+                                <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+                                <Text value="Rooms.translationtable:Pier_DESC" />
+                            </Child>
+                        </Child>
+                        <Child name="Input">
+                            <Position scale_x="0.000000" offset_x="0.000000" scale_y="0.000000" offset_y="86.000000" />
+                            <Anchor scale_x="0.000000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+                        </Child>
+                    </Child>
+                    <Child name="ToParvis" proto="MapStairs">
+                        <Position scale_x="0.000000" offset_x="279.000000" scale_y="0.000000" offset_y="330.000000" />
+                        <Image set="Exterieur" image="PierToParvis" />
+                    </Child>
+                </Child>
+                <Child name="none" proto="Dummy">
+                    <Position scale_x="0.234362" offset_x="0.000000" scale_y="0.040623" offset_y="0.000000" />
+                    <Size scale_x="0.000000" offset_x="300.000000" scale_y="0.000000" offset_y="500.000000" />
+                    <InteractEnabled value="1" />
+                </Child>
+                <Child name="none_0" proto="Dummy">
+                    <Position scale_x="0.378212" offset_x="0.000000" scale_y="0.203504" offset_y="0.000000" />
+                    <Size scale_x="0.000000" offset_x="300.000000" scale_y="0.000000" offset_y="200.000000" />
+                    <InteractEnabled value="1" />
+                </Child>
+                <Child name="none_0_0" proto="Dummy">
+                    <Position scale_x="0.409214" offset_x="0.000000" scale_y="0.042491" offset_y="0.000000" />
+                    <Size scale_x="0.000000" offset_x="400.000000" scale_y="0.000000" offset_y="200.000000" />
+                    <InteractEnabled value="1" />
+                </Child>
+                <Child name="none_0_1" proto="Dummy">
+                    <Position scale_x="0.343490" offset_x="0.000000" scale_y="0.768358" offset_y="0.000000" />
+                    <Size scale_x="0.000000" offset_x="600.000000" scale_y="0.000000" offset_y="100.000000" />
+                    <InteractEnabled value="1" />
+                </Child>
+                <Child name="none_1" proto="Dummy">
+                    <Position scale_x="0.500566" offset_x="0.000000" scale_y="0.623409" offset_y="0.000000" />
+                    <Size scale_x="0.000000" offset_x="300.000000" scale_y="0.000000" offset_y="300.000000" />
+                    <InteractEnabled value="1" />
+                </Child>
+            </Child>
+            <Child name="GardenFloor" proto="GardenFloor">
+                <Visible value="0" />
+                <Child name="Garden" proto="MapRoom">
+                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                    <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                    <Image set="Exterieur" image="Garden_Ok" />
+                    <State name="Revealed">
+                        <Image set="Exterieur" image="Garden_Selection" />
+                    </State>
+                    <State name="Inside">
+                        <InteractEnabled value="0" />
+                        <Image set="Exterieur" image="Garden_Selection" />
+                    </State>
+                    <State name="PointedState">
+                        <InteractEnabled value="0" />
+                        <Image set="Exterieur" image="Garden_Inside" />
+                    </State>
+                    <State name="Objectif">
+                        <Color r="255" g="255" b="255" a="255" />
+                    </State>
+                    <Child name="Tooltip">
+                        <Child name="top">
+                            <Child name="title">
+                                <Text value="Rooms.translationtable:Garden" />
+                            </Child>
+                        </Child>
+                        <Child name="content">
+                            <Child name="text">
+                                <Text value="Rooms.translationtable:Garden_DESC" />
+                            </Child>
+                        </Child>
+                    </Child>
+                    <Child name="ToPortrait" proto="MapStairs">
+                        <Position scale_x="0.000000" offset_x="389.000000" scale_y="0.000000" offset_y="250.000000" />
+                        <Image set="Exterieur" image="GardenToPortraitGallery" />
+                    </Child>
+                    <Child name="GroundFloor_0" proto="MapStairs">
+                        <Position scale_x="0.000000" offset_x="292.000000" scale_y="0.000000" offset_y="272.000000" />
+                        <Image set="Exterieur" image="GardenToBackStairs" />
+                    </Child>
+                </Child>
+                <Child name="none" proto="Dummy">
+                    <Position scale_x="0.189223" offset_x="0.000000" scale_y="0.103384" offset_y="0.000000" />
+                    <Size scale_x="0.000000" offset_x="1000.000000" scale_y="0.000000" offset_y="250.000000" />
+                    <InteractEnabled value="1" />
+                </Child>
+                <Child name="none_0" proto="Dummy">
+                    <Position scale_x="0.139454" offset_x="0.000000" scale_y="0.356522" offset_y="0.000000" />
+                    <Size scale_x="0.000000" offset_x="400.000000" scale_y="0.000000" offset_y="500.000000" />
+                    <InteractEnabled value="1" />
+                </Child>
+                <Child name="none_1" proto="Dummy">
+                    <Position scale_x="0.227417" offset_x="0.000000" scale_y="0.831418" offset_y="0.000000" />
+                    <Size scale_x="0.000000" offset_x="1000.000000" scale_y="0.000000" offset_y="250.000000" />
+                    <InteractEnabled value="1" />
+                </Child>
+                <Child name="none_0_0" proto="Dummy">
+                    <Position scale_x="0.678806" offset_x="0.000000" scale_y="0.339786" offset_y="0.000000" />
+                    <Size scale_x="0.000000" offset_x="400.000000" scale_y="0.000000" offset_y="500.000000" />
+                    <InteractEnabled value="1" />
+                </Child>
+            </Child>
+            <Child name="UnderGroundFloor">
+                <Visible value="0" />
+                <Position scale_x="0.001286" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+                <Child name="GraveYard" proto="MapRoom">
+                    <Position scale_x="0.081697" offset_x="0.000000" scale_y="0.515869" offset_y="0.000000" />
+                    <Size scale_x="0.000000" offset_x="800.000000" scale_y="0.000000" offset_y="316.000000" />
+                    <Image set="Exterieur" image="Graveyard_Selection" />
+                    <State name="Revealed">
+                        <Image set="Exterieur" image="Graveyard_Selection" />
+                    </State>
+                    <State name="Inside">
+                        <Image set="Exterieur" image="Graveyard_Selection" />
+                    </State>
+                    <State name="PointedState">
+                        <Image set="Exterieur" image="Graveyard_Ok" />
+                    </State>
+                    <State name="Known">
+                        <Image set="Exterieur" image="Graveyard_Selection" />
+                    </State>
+                    <Child name="Tooltip">
+                        <Child name="top">
+                            <Child name="title">
+                                <Text value="Rooms.translationtable:GraveYard" />
+                            </Child>
+                        </Child>
+                        <Child name="content">
+                            <Child name="text">
+                                <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+                                <Text value="Rooms.translationtable:GraveYard_DESC" />
+                            </Child>
+                        </Child>
+                        <Child name="Input">
+                            <Position scale_x="0.000000" offset_x="0.000000" scale_y="0.000000" offset_y="112.000000" />
+                            <Anchor scale_x="0.000000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+                        </Child>
+                    </Child>
+                    <Child name="ToGarden" proto="MapStairs">
+                        <Position scale_x="0.000000" offset_x="6.000000" scale_y="0.000000" offset_y="231.000000" />
+                        <Image set="Exterieur" image="GraveYardToGarden" />
+                    </Child>
+                </Child>
+                <Child name="none_0_1_0" proto="Dummy">
+                    <Position scale_x="-0.059784" offset_x="0.000000" scale_y="0.740701" offset_y="0.000000" />
+                    <Size scale_x="0.000000" offset_x="800.000000" scale_y="0.000000" offset_y="150.000000" />
+                    <InteractEnabled value="1" />
+                </Child>
+                <Child name="none_0_2" proto="Dummy">
+                    <Position scale_x="-0.002778" offset_x="0.000000" scale_y="0.428502" offset_y="0.000000" />
+                    <Size scale_x="0.000000" offset_x="400.000000" scale_y="0.000000" offset_y="200.000000" />
+                    <InteractEnabled value="1" />
+                </Child>
+                <Child name="Limbo" proto="MapRoom">
+                    <Alpha value="0.000000" />
+                    <Rotation value="90.000000" />
+                    <Position scale_x="0.542652" offset_x="0.000000" scale_y="0.785680" offset_y="0.000000" />
+                    <Size scale_x="0.000000" offset_x="599.000000" scale_y="0.000000" offset_y="746.000000" />
+                    <Image set="Uni" image="White" />
+                    <State name="Revealed">
+                        <Image set="Exterieur" image="Limbo_Inside" />
+                    </State>
+                    <State name="Inside">
+                        <Image set="Exterieur" image="Limbo_Inside" />
+                    </State>
+                    <State name="PointedState">
+                        <Image set="Exterieur" image="Limbo_Selection" />
+                    </State>
+                    <State name="Known">
+                        <Image set="Exterieur" image="Limbo_Inside" />
+                    </State>
+                    <Child name="Tooltip">
+                        <Child name="top">
+                            <Child name="title">
+                                <Text value="Rooms.translationtable:Limbo" />
+                            </Child>
+                        </Child>
+                        <Child name="content">
+                            <Child name="text">
+                                <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+                                <Text value="Rooms.translationtable:Limbo_DESC" />
+                            </Child>
+                        </Child>
+                        <Child name="Input">
+                            <Position scale_x="0.000000" offset_x="0.000000" scale_y="0.000000" offset_y="112.000000" />
+                            <Anchor scale_x="0.000000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+                        </Child>
+                    </Child>
+                </Child>
+            </Child>
+        </Child>
+        <Child name="Info" proto="Label">
+            <Visible value="0" />
+            <Position scale_x="0.747045" offset_x="0.000000" scale_y="0.884594" offset_y="0.000000" />
+            <Size scale_x="0.000000" offset_x="250.000000" scale_y="-1.000000" offset_y="0.000000" />
+            <Litteral value="1" />
+            <Text value="Fleche directionnelle pour le changement d etage" />
+            <Font value="montserat_20" />
+            <HorizontalAlignment value="RIGHT" />
+        </Child>
+        <Child name="FloorsNav">
+            <Position scale_x="1.000000" offset_x="0.000000" scale_y="1.000000" offset_y="0.000000" />
+            <Size scale_x="-1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+            <Anchor scale_x="1.000000" offset_x="0.000000" scale_y="1.000000" offset_y="0.000000" />
+            <InheritState value="1" />
+            <Child name="Label_Info">
+                <Stackable value="0" />
+                <Position scale_x="1.000000" offset_x="-30.000000" scale_y="1.000000" offset_y="0.000000" />
+                <Size scale_x="-1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+                <Anchor scale_x="1.000000" offset_x="0.000000" scale_y="1.000000" offset_y="0.000000" />
+                <InheritState value="1" />
+                <Child name="GroundFloorLabel" proto="Label">
+                    <Visible value="0" />
+                    <Alpha value="0.500000" />
+                    <Position scale_x="1.000000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+                    <Size scale_x="-1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+                    <Anchor scale_x="1.000000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+                    <InheritState value="1" />
+                    <Text value="Rooms.translationtable:GROUND_FLOOR" />
+                    <Font value="montserat_25" />
+                    <HorizontalAlignment value="RIGHT" />
+                    <State name="GroundFloorSelection">
+                        <Visible value="1" />
+                    </State>
+                    <Child name="FloorPlayer" proto="MapPlayer">
+                        <Visible value="0" />
+                        <Position scale_x="1.000000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                        <Anchor scale_x="0.000000" offset_x="-10.000000" scale_y="0.500000" offset_y="0.000000" />
+                        <InheritState value="1" />
+                        <State name="PlayerGroundFloor">
+                            <Visible value="0" />
+                        </State>
+                    </Child>
+                </Child>
+                <Child name="GuestFloorLabel" proto="Label">
+                    <Visible value="0" />
+                    <Alpha value="0.500000" />
+                    <Position scale_x="1.000000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+                    <Size scale_x="-1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+                    <Anchor scale_x="1.000000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+                    <InheritState value="1" />
+                    <Text value="Rooms.translationtable:FIRST_FLOOR" />
+                    <Font value="montserat_25" />
+                    <HorizontalAlignment value="RIGHT" />
+                    <State name="GuestFloorSelection">
+                        <Visible value="1" />
+                    </State>
+                    <Child name="FloorPlayer" proto="MapPlayer">
+                        <Visible value="0" />
+                        <Position scale_x="1.000000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                        <Anchor scale_x="0.000000" offset_x="-10.000000" scale_y="0.500000" offset_y="0.000000" />
+                        <InheritState value="1" />
+                        <State name="PlayerGuestFloor">
+                            <Visible value="0" />
+                        </State>
+                    </Child>
+                </Child>
+                <Child name="TopFloorLabel" proto="Label">
+                    <Visible value="0" />
+                    <Alpha value="0.500000" />
+                    <Position scale_x="1.000000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+                    <Size scale_x="-1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+                    <Anchor scale_x="1.000000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+                    <InheritState value="1" />
+                    <Text value="Rooms.translationtable:SECOND_FLOOR" />
+                    <Font value="montserat_25" />
+                    <HorizontalAlignment value="RIGHT" />
+                    <State name="TopFloorSelection">
+                        <Visible value="1" />
+                    </State>
+                    <Child name="FloorPlayer" proto="MapPlayer">
+                        <Visible value="0" />
+                        <Position scale_x="1.000000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                        <Anchor scale_x="0.000000" offset_x="-10.000000" scale_y="0.500000" offset_y="0.000000" />
+                        <InheritState value="1" />
+                        <State name="PlayerTopFloor">
+                            <Visible value="0" />
+                        </State>
+                    </Child>
+                </Child>
+                <Child name="GardenFloorLabel" proto="Label">
+                    <Visible value="0" />
+                    <Alpha value="0.500000" />
+                    <Position scale_x="1.000000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+                    <Size scale_x="-1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+                    <Anchor scale_x="1.000000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+                    <InheritState value="1" />
+                    <Text value="Rooms.translationtable:Garden_floor" />
+                    <Font value="montserat_25" />
+                    <HorizontalAlignment value="RIGHT" />
+                    <State name="GardenFloorSelection">
+                        <Visible value="1" />
+                    </State>
+                    <Child name="FloorPlayer" proto="MapPlayer">
+                        <Visible value="0" />
+                        <Position scale_x="1.000000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                        <Anchor scale_x="0.000000" offset_x="-10.000000" scale_y="0.500000" offset_y="0.000000" />
+                        <InheritState value="1" />
+                        <State name="PlayerGardenFloor">
+                            <Visible value="0" />
+                        </State>
+                    </Child>
+                </Child>
+                <Child name="ExtFloorLabel" proto="Label">
+                    <Visible value="0" />
+                    <Alpha value="0.500000" />
+                    <Position scale_x="1.000000" offset_x="0.000000" scale_y="0.000926" offset_y="0.000000" />
+                    <Size scale_x="-1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+                    <Anchor scale_x="1.000000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+                    <InheritState value="1" />
+                    <Text value="Rooms.translationtable:EXTERIOR" />
+                    <Font value="montserat_25" />
+                    <HorizontalAlignment value="RIGHT" />
+                    <State name="ExtFloorSelection">
+                        <Visible value="1" />
+                    </State>
+                    <Child name="FloorPlayer" proto="MapPlayer">
+                        <Visible value="0" />
+                        <Position scale_x="1.000000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                        <Anchor scale_x="0.000000" offset_x="-10.000000" scale_y="0.500000" offset_y="0.000000" />
+                        <InheritState value="1" />
+                        <State name="PlayerExtFloor">
+                            <Visible value="0" />
+                        </State>
+                    </Child>
+                </Child>
+                <Child name="UnderGroundFloorLabel" proto="Label">
+                    <Visible value="0" />
+                    <Alpha value="0.500000" />
+                    <Position scale_x="1.000000" offset_x="0.000000" scale_y="0.000926" offset_y="0.000000" />
+                    <Size scale_x="-1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+                    <Anchor scale_x="1.000000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+                    <InheritState value="1" />
+                    <Text value="Rooms.translationtable:UNDERGROUND" />
+                    <Font value="montserat_25" />
+                    <HorizontalAlignment value="RIGHT" />
+                    <State name="UnderGroundFloorSelection">
+                        <Visible value="1" />
+                    </State>
+                    <Child name="FloorPlayer" proto="MapPlayer">
+                        <Visible value="0" />
+                        <Position scale_x="1.000000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                        <Anchor scale_x="0.000000" offset_x="-10.000000" scale_y="0.500000" offset_y="0.000000" />
+                        <InheritState value="1" />
+                        <State name="PlayerUnderGroundFloor">
+                            <Visible value="0" />
+                        </State>
+                    </Child>
+                </Child>
+            </Child>
+            <Child name="Image_Info" proto="Dummy">
+                <StackDirection value="VERTICAL" />
+                <Position scale_x="1.000000" offset_x="0.000000" scale_y="1.000000" offset_y="-50.000000" />
+                <Size scale_x="0.000000" offset_x="200.000000" scale_y="0.000000" offset_y="200.000000" />
+                <Anchor scale_x="1.000000" offset_x="0.000000" scale_y="1.000000" offset_y="0.000000" />
+                <InheritState value="1" />
+                <Child name="RDC" proto="Image">
+                    <Alpha value="0.700000" />
+                    <Position scale_x="0.500000" offset_x="20.000000" scale_y="1.000000" offset_y="-60.000000" />
+                    <Size scale_x="-1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+                    <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="1.000000" offset_y="0.000000" />
+                    <InheritState value="1" />
+                    <Image set="Maps" image="map_level" />
+                    <State name="GroundFloorSelection">
+                        <Position scale_x="0.500000" offset_x="50.000000" scale_y="1.000000" offset_y="-60.000000" />
+                    </State>
+                    <State name="PlayerGroundFloor">
+                        <Color r="255" g="193" b="6" a="255" />
+                    </State>
+                </Child>
+                <Child name="1er_etage" proto="Image">
+                    <Alpha value="0.700000" />
+                    <Position scale_x="0.500000" offset_x="20.000000" scale_y="1.000000" offset_y="-80.000000" />
+                    <Size scale_x="-1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+                    <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="1.000000" offset_y="0.000000" />
+                    <InheritState value="1" />
+                    <Image set="Maps" image="map_level" />
+                    <State name="GuestFloorSelection">
+                        <Position scale_x="0.500000" offset_x="50.000000" scale_y="1.000000" offset_y="-80.000000" />
+                    </State>
+                    <State name="PlayerGuestFloor">
+                        <Color r="255" g="193" b="6" a="255" />
+                    </State>
+                </Child>
+                <Child name="2eme_etage" proto="Image">
+                    <Alpha value="0.700000" />
+                    <Position scale_x="0.500000" offset_x="20.000000" scale_y="1.000000" offset_y="-100.000000" />
+                    <Size scale_x="-1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+                    <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="1.000000" offset_y="0.000000" />
+                    <InheritState value="1" />
+                    <Image set="Maps" image="map_level" />
+                    <State name="TopFloorSelection">
+                        <Position scale_x="0.500000" offset_x="50.000000" scale_y="1.000000" offset_y="-100.000000" />
+                    </State>
+                    <State name="PlayerTopFloor">
+                        <Color r="255" g="193" b="6" a="255" />
+                    </State>
+                </Child>
+                <Child name="Exterieur" proto="Image">
+                    <Alpha value="0.700000" />
+                    <Position scale_x="0.500000" offset_x="20.000000" scale_y="1.000000" offset_y="-20.000000" />
+                    <Size scale_x="-1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+                    <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="1.000000" offset_y="0.000000" />
+                    <InheritState value="1" />
+                    <Image set="Maps" image="map_level" />
+                    <State name="ExtFloorSelection">
+                        <Position scale_x="0.500000" offset_x="50.000000" scale_y="1.000000" offset_y="-20.000000" />
+                    </State>
+                    <State name="PlayerExtFloor">
+                        <Color r="255" g="193" b="6" a="255" />
+                    </State>
+                </Child>
+                <Child name="GardenF" proto="Image">
+                    <Alpha value="0.700000" />
+                    <Position scale_x="0.500000" offset_x="20.000000" scale_y="1.000000" offset_y="-40.000000" />
+                    <Size scale_x="-1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+                    <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="1.000000" offset_y="0.000000" />
+                    <InheritState value="1" />
+                    <Image set="Maps" image="map_level" />
+                    <State name="GardenFloorSelection">
+                        <Position scale_x="0.500000" offset_x="50.000000" scale_y="1.000000" offset_y="-40.000000" />
+                    </State>
+                    <State name="PlayerGardenFloor">
+                        <Color r="255" g="193" b="6" a="255" />
+                    </State>
+                </Child>
+                <Child name="UnderGroundF" proto="Image">
+                    <Alpha value="0.700000" />
+                    <Position scale_x="0.500000" offset_x="20.000000" scale_y="1.000000" offset_y="0.000000" />
+                    <Size scale_x="-1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+                    <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="1.000000" offset_y="0.000000" />
+                    <InheritState value="1" />
+                    <Image set="Maps" image="map_level" />
+                    <State name="UnderGroundFloorSelection">
+                        <Position scale_x="0.500000" offset_x="50.000000" scale_y="1.000000" offset_y="0.000000" />
+                    </State>
+                    <State name="PlayerUnderGroundFloor">
+                        <Color r="255" g="193" b="6" a="255" />
+                    </State>
+                </Child>
+            </Child>
+            <Child name="Button" proto="Button">
+                <Position scale_x="0.000000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                <Binding value="MapUpDown" />
+            </Child>
+        </Child>
+        <Child name="objectif_all" proto="Objectif">
+            <Position scale_x="1.000000" offset_x="0.000000" scale_y="0.000000" offset_y="40.000000" />
+            <InheritState value="1" />
+            <Child name="wrong">
+                <Position scale_x="0.000000" offset_x="33.000000" scale_y="0.049118" offset_y="0.000000" />
+            </Child>
+            <Child name="Objectif">
+                <Position scale_x="0.000000" offset_x="66.000000" scale_y="0.000000" offset_y="0.000000" />
+                <Anchor scale_x="0.000000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+                <Font value="montserat_20" />
+            </Child>
+        </Child>
+        <Child name="SubObjectives" proto="Dummy">
+            <Stack value="1" />
+            <StackDirection value="VERTICAL" />
+            <Position scale_x="1.000000" offset_x="0.000000" scale_y="0.000000" offset_y="100.000000" />
+            <Size scale_x="-1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+            <Anchor scale_x="1.000000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+        </Child>
+    </Child>
+</Layout>

@@ -1,0 +1,14 @@
+<Imageset name="consommables" texture="consommables.tga">
+	<Image name="carre_consommables" left="1" top="1" right="67" bottom="69" />
+	<Image name="goutte_dor_notif" left="1" top="73" right="64" bottom="136" />
+	<Image name="croix_malte_notif" left="1" top="141" right="64" bottom="204" />
+	<Image name="gelee_royal_notif" left="69" top="1" right="132" bottom="64" />
+	<Image name="eau_melisse_notif" left="137" top="1" right="200" bottom="64" />
+	<Image name="carre_consommables_blanc" left="69" top="69" right="125" bottom="127" />
+	<Image name="gelee_royal" left="1" top="209" right="26" bottom="235" />
+	<Image name="croix_malte" left="29" top="209" right="50" bottom="236" />
+	<Image name="goutte_dor" left="205" top="1" right="224" bottom="27" />
+	<Image name="eau_melisse" left="229" top="1" right="250" bottom="24" />
+	<Image name="rond_conso_blanc" left="205" top="29" right="225" bottom="49" />
+	<Image name="rond_conso" left="229" top="29" right="249" bottom="49" />
+</Imageset>

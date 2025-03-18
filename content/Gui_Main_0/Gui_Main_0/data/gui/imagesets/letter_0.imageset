@@ -1,0 +1,4 @@
+<Imageset name="letter" texture="letter.tga">
+	<Image name="haut_letter" left="1" top="1" right="795" bottom="118" />
+	<Image name="bas_letter" left="1" top="121" right="795" bottom="217" />
+</Imageset>

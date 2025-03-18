@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Layout>
+    <Child name="fond" proto="Image">
+        <Visible value="0" />
+        <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+        <Size scale_x="10.000000" offset_x="0.000000" scale_y="10.000000" offset_y="0.000000" />
+        <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+        <Image set="Uni" image="Black" />
+    </Child>
+    <Child name="fond_0" proto="Image">
+        <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+        <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+        <Image set="fond_before_start" image="fond_before_start" />
+    </Child>
+    <Child name="PressStart" proto="Label">
+        <Position scale_x="0.500000" offset_x="0.000000" scale_y="1.000000" offset_y="-100.000000" />
+        <Size scale_x="-1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+        <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="1.000000" offset_y="0.000000" />
+        <Text value="GUI.translationtable:GUI_PRESS_START" />
+        <Font value="montserat_20" />
+        <HorizontalAlignment value="CENTER" />
+        <VerticalAlignment value="CENTER" />
+        <TagEnabled value="1" />
+    </Child>
+    <Child name="CheckingDLC" proto="Label">
+        <Visible value="0" />
+        <Position scale_x="0.500000" offset_x="0.000000" scale_y="1.000000" offset_y="-100.000000" />
+        <Size scale_x="-1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+        <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="1.000000" offset_y="0.000000" />
+        <Text value="GUI.translationtable:GUI_CHECKING_DLC" />
+        <Font value="montserat_20" />
+        <HorizontalAlignment value="CENTER" />
+        <VerticalAlignment value="CENTER" />
+    </Child>
+    <Child name="ReadingSaves" proto="Label">
+        <Visible value="0" />
+        <Position scale_x="0.500000" offset_x="0.000000" scale_y="1.000000" offset_y="-100.000000" />
+        <Size scale_x="-1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+        <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="1.000000" offset_y="0.000000" />
+        <Text value="GUI.translationtable:GUI_READING_SAVEGAMES" />
+        <Font value="montserat_20" />
+        <HorizontalAlignment value="CENTER" />
+        <VerticalAlignment value="CENTER" />
+    </Child>
+    <Child name="Version" proto="Label">
+        <Position scale_x="0.950000" offset_x="0.000000" scale_y="0.950000" offset_y="0.000000" />
+        <Size scale_x="-1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+        <Anchor scale_x="1.000000" offset_x="0.000000" scale_y="1.000000" offset_y="0.000000" />
+        <Litteral value="1" />
+        <Text value="0.8.XXX" />
+        <Font value="montserat_18" />
+        <HorizontalAlignment value="CENTER" />
+        <VerticalAlignment value="CENTER" />
+        <TagEnabled value="1" />
+    </Child>
+</Layout>

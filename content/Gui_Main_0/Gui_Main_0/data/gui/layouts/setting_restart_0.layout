@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Layout>
+    <Child name="fond" proto="Image">
+        <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+        <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+        <Image set="Uni" image="White" />
+        <Color r="0" g="0" b="0" a="255" />
+    </Child>
+    <Child name="warning" proto="Label">
+        <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+        <Size scale_x="-1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+        <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+        <Text value="GUI.translationtable:WARNING_TITLE" />
+        <Font value="montserat_60" />
+    </Child>
+    <Child name="Label" proto="Label">
+        <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.570000" offset_y="0.000000" />
+        <Size scale_x="0.000000" offset_x="400.000000" scale_y="-1.000000" offset_y="0.000000" />
+        <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+        <Text value="GUI.translationtable:OPTIONS_VIDEO_WARNING" />
+        <Font value="montserat_20" />
+        <HorizontalAlignment value="CENTER" />
+        <VerticalAlignment value="CENTER" />
+    </Child>
+    <Child name="Input_Content" proto="Input_Content">
+        <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.670000" offset_y="0.000000" />
+        <Child name="Content">
+            <Visible value="0" />
+            <Child name="stack">
+                <Child name="Fond">
+                    <Child name="jauge">
+                        <Size scale_x="0.200000" offset_x="0.000000" scale_y="0.000000" offset_y="5.000000" />
+                    </Child>
+                </Child>
+            </Child>
+            <Child name="desc_pad">
+                <Position scale_x="0.000000" offset_x="87.000000" scale_y="0.500000" offset_y="0.000000" />
+                <Child name="Fond">
+                    <Visible value="0" />
+                </Child>
+            </Child>
+        </Child>
+    </Child>
+    <Child name="Input_Contener" proto="Input_Contener">
+        <Position scale_x="1.000000" offset_x="-96.000000" scale_y="1.000000" offset_y="-56.000000" />
+    </Child>
+</Layout>

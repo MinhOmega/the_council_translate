@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Layout>
+    <Child name="Background" proto="Image">
+        <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+        <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+        <Image set="background_class_choice" image="background_class_choice" />
+    </Child>
+    <Child name="Dummy" proto="Dummy">
+        <Position scale_x="0.000000" offset_x="96.000000" scale_y="0.000000" offset_y="54.000000" />
+        <Size scale_x="0.000000" offset_x="1728.000000" scale_y="0.000000" offset_y="972.000000" />
+        <Child name="ParallaxRoot" proto="Dummy">
+            <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+            <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+            <Child name="all_class" proto="Dummy">
+                <Stack value="1" />
+                <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.540000" offset_y="0.000000" />
+                <Size scale_x="-1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+                <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                <Child name="Espion" proto="Dummy">
+                    <Stack value="1" />
+                    <StackDirection value="VERTICAL" />
+                    <Position scale_x="0.000000" offset_x="0.000000" scale_y="0.400000" offset_y="0.000000" />
+                    <Size scale_x="0.000000" offset_x="250.000000" scale_y="-1.000000" offset_y="0.000000" />
+                    <Anchor scale_x="0.000000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                    <InteractEnabled value="1" />
+                    <Child name="Espion_content" proto="Dummy">
+                        <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+                        <Size scale_x="-1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+                        <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+                        <InheritState value="1" />
+                        <Child name="logo" proto="Image">
+                            <Alpha value="0.900000" />
+                            <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                            <Size scale_x="0.000000" offset_x="215.000000" scale_y="0.000000" offset_y="215.000000" />
+                            <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                            <InheritAlpha value="0" />
+                            <InheritState value="1" />
+                            <Image set="Class_Choice" image="logo_diplomate" />
+                            <State name="PointedState">
+                                <Alpha value="1.000000" />
+                                <Color r="255" g="193" b="6" a="255" />
+                            </State>
+                        </Child>
+                        <Child name="Name_Class" proto="Label">
+                            <Position scale_x="0.500000" offset_x="0.000000" scale_y="1.000000" offset_y="0.000000" />
+                            <Size scale_x="0.000000" offset_x="575.000000" scale_y="-1.000000" offset_y="0.000000" />
+                            <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+                            <InheritState value="1" />
+                            <Text value="GUI.translationtable:CLASS_SPY" />
+                            <Font value="montserat_60" />
+                            <HorizontalAlignment value="CENTER" />
+                            <State name="PointedState">
+                                <Alpha value="1.000000" />
+                                <Color r="255" g="193" b="6" a="255" />
+                            </State>
+                        </Child>
+                        <Child name="des_Class" proto="Label">
+                            <Alpha value="0.800000" />
+                            <Position scale_x="0.500000" offset_x="0.000000" scale_y="1.325581" offset_y="5.000000" />
+                            <Size scale_x="0.000000" offset_x="575.000000" scale_y="-1.000000" offset_y="0.000000" />
+                            <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+                            <InheritState value="1" />
+                            <Text value="GUI.translationtable:GUI_TOOLTIP_CLASS_SPY_DESC" />
+                            <Font value="montserat_20" />
+                            <HorizontalAlignment value="CENTER" />
+                            <State name="PointedState">
+                                <Color r="255" g="193" b="6" a="255" />
+                            </State>
+                        </Child>
+                    </Child>
+                    <Child name="Tooltip" proto="Tooltip_Class_Choice">
+                        <Child name="content">
+                            <Child name="skill_title">
+                                <Text value="GUI.translationtable:CLASSCHOICE_SKILL" />
+                            </Child>
+                        </Child>
+                        <Child name="bottom">
+                            <Position scale_x="0.000000" offset_x="0.000000" scale_y="0.000000" offset_y="80.500000" />
+                            <Child name="Skill">
+                                <Text value="GUI.translationtable:CLASSCHOICE_SPYSKILLS" />
+                            </Child>
+                        </Child>
+                        <Child name="Input">
+                            <Position scale_x="0.000000" offset_x="0.000000" scale_y="0.000000" offset_y="104.000000" />
+                        </Child>
+                    </Child>
+                </Child>
+                <Child name="margin_0" proto="Dummy">
+                    <Position scale_x="0.000000" offset_x="250.000000" scale_y="1.423256" offset_y="0.000000" />
+                    <Size scale_x="0.000000" offset_x="370.000000" scale_y="1.000000" offset_y="0.000000" />
+                </Child>
+                <Child name="Occultist" proto="Dummy">
+                    <Stack value="1" />
+                    <StackDirection value="VERTICAL" />
+                    <Position scale_x="0.000000" offset_x="620.000000" scale_y="0.400000" offset_y="0.000000" />
+                    <Size scale_x="0.000000" offset_x="250.000000" scale_y="-1.000000" offset_y="0.000000" />
+                    <Anchor scale_x="0.000000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                    <InteractEnabled value="1" />
+                    <Child name="Occultist_content" proto="Dummy">
+                        <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+                        <Size scale_x="-1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+                        <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+                        <InheritState value="1" />
+                        <Child name="logo" proto="Image">
+                            <Alpha value="0.900000" />
+                            <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                            <Size scale_x="0.000000" offset_x="215.000000" scale_y="0.000000" offset_y="215.000000" />
+                            <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                            <InheritAlpha value="0" />
+                            <InheritState value="1" />
+                            <Image set="Class_Choice" image="logo_occultiste" />
+                            <State name="PointedState">
+                                <Alpha value="1.000000" />
+                                <Color r="255" g="193" b="6" a="255" />
+                            </State>
+                        </Child>
+                        <Child name="Name_Class" proto="Label">
+                            <Position scale_x="0.500000" offset_x="0.000000" scale_y="1.000000" offset_y="0.000000" />
+                            <Size scale_x="0.000000" offset_x="575.000000" scale_y="-1.000000" offset_y="0.000000" />
+                            <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+                            <InheritState value="1" />
+                            <Text value="GUI.translationtable:CLASS_OCCULTIST" />
+                            <Font value="montserat_60" />
+                            <HorizontalAlignment value="CENTER" />
+                            <State name="PointedState">
+                                <Alpha value="1.000000" />
+                                <Color r="255" g="193" b="6" a="255" />
+                            </State>
+                        </Child>
+                        <Child name="des_Class" proto="Label">
+                            <Alpha value="0.800000" />
+                            <Position scale_x="0.500000" offset_x="0.000000" scale_y="1.325581" offset_y="5.000000" />
+                            <Size scale_x="0.000000" offset_x="575.000000" scale_y="-1.000000" offset_y="0.000000" />
+                            <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+                            <InheritState value="1" />
+                            <Text value="GUI.translationtable:GUI_TOOLTIP_CLASS_OCCULTIST_DESC" />
+                            <Font value="montserat_20" />
+                            <HorizontalAlignment value="CENTER" />
+                            <State name="PointedState">
+                                <Color r="255" g="193" b="6" a="255" />
+                            </State>
+                        </Child>
+                    </Child>
+                    <Child name="Tooltip" proto="Tooltip_Class_Choice">
+                        <Child name="content">
+                            <Child name="skill_title">
+                                <Text value="GUI.translationtable:CLASSCHOICE_SKILL" />
+                            </Child>
+                        </Child>
+                        <Child name="bottom">
+                            <Position scale_x="0.000000" offset_x="0.000000" scale_y="0.000000" offset_y="80.500000" />
+                            <Child name="Skill">
+                                <Text value="GUI.translationtable:CLASSCHOICE_OCCSKILLS" />
+                            </Child>
+                        </Child>
+                        <Child name="Input">
+                            <Position scale_x="0.000000" offset_x="0.000000" scale_y="0.000000" offset_y="104.000000" />
+                        </Child>
+                    </Child>
+                </Child>
+                <Child name="margin_0_0" proto="Dummy">
+                    <Position scale_x="0.000000" offset_x="870.000000" scale_y="1.423256" offset_y="0.000000" />
+                    <Size scale_x="0.000000" offset_x="370.000000" scale_y="1.000000" offset_y="0.000000" />
+                </Child>
+                <Child name="Detective" proto="Dummy">
+                    <Stack value="1" />
+                    <StackDirection value="VERTICAL" />
+                    <Position scale_x="0.000000" offset_x="1240.000000" scale_y="0.400000" offset_y="0.000000" />
+                    <Size scale_x="-1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+                    <Anchor scale_x="0.000000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                    <InteractEnabled value="1" />
+                    <Child name="Detective_content" proto="Dummy">
+                        <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+                        <Size scale_x="0.000000" offset_x="250.000000" scale_y="-1.000000" offset_y="0.000000" />
+                        <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+                        <InheritState value="1" />
+                        <Child name="logo" proto="Image">
+                            <Alpha value="0.900000" />
+                            <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                            <Size scale_x="0.000000" offset_x="215.000000" scale_y="0.000000" offset_y="215.000000" />
+                            <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                            <InheritAlpha value="0" />
+                            <InheritState value="1" />
+                            <Image set="Class_Choice" image="Logo_Detective" />
+                            <State name="PointedState">
+                                <Alpha value="1.000000" />
+                                <Color r="255" g="193" b="6" a="255" />
+                            </State>
+                        </Child>
+                        <Child name="Name_Class" proto="Label">
+                            <Position scale_x="0.500000" offset_x="0.000000" scale_y="1.000000" offset_y="0.000000" />
+                            <Size scale_x="0.000000" offset_x="575.000000" scale_y="-1.000000" offset_y="0.000000" />
+                            <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+                            <InheritState value="1" />
+                            <Text value="GUI.translationtable:CLASS_DETECTIVE" />
+                            <Font value="montserat_60" />
+                            <HorizontalAlignment value="CENTER" />
+                            <State name="PointedState">
+                                <Alpha value="1.000000" />
+                                <Color r="255" g="193" b="6" a="255" />
+                            </State>
+                        </Child>
+                        <Child name="des_Class" proto="Label">
+                            <Alpha value="0.800000" />
+                            <Position scale_x="0.500000" offset_x="0.000000" scale_y="1.325581" offset_y="5.000000" />
+                            <Size scale_x="0.000000" offset_x="575.000000" scale_y="-1.000000" offset_y="0.000000" />
+                            <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+                            <InheritState value="1" />
+                            <Text value="GUI.translationtable:GUI_TOOLTIP_CLASS_DETECTIVE_DESC" />
+                            <Font value="montserat_20" />
+                            <HorizontalAlignment value="CENTER" />
+                            <State name="PointedState">
+                                <Color r="255" g="193" b="6" a="255" />
+                            </State>
+                        </Child>
+                    </Child>
+                    <Child name="Tooltip" proto="Tooltip_Class_Choice">
+                        <Child name="content">
+                            <Child name="skill_title">
+                                <Text value="GUI.translationtable:CLASSCHOICE_SKILL" />
+                            </Child>
+                        </Child>
+                        <Child name="bottom">
+                            <Position scale_x="0.000000" offset_x="0.000000" scale_y="0.000000" offset_y="80.500000" />
+                            <Child name="Skill">
+                                <Text value="GUI.translationtable:CLASSCHOICE_DETSKILLS" />
+                            </Child>
+                        </Child>
+                        <Child name="Input">
+                            <Position scale_x="0.000000" offset_x="0.000000" scale_y="0.000000" offset_y="104.000000" />
+                        </Child>
+                    </Child>
+                </Child>
+            </Child>
+        </Child>
+        <Child name="ParallaxRoot2" proto="Dummy">
+            <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+            <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+            <Child name="texte" proto="Label">
+                <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.060000" offset_y="0.000000" />
+                <Size scale_x="-1.000000" offset_x="0.000000" scale_y="0.000000" offset_y="120.000000" />
+                <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+                <InheritState value="1" />
+                <Text value="GUI.translationtable:CLASSCHOICE_TITLE2" />
+                <Font value="montserat_170" />
+                <Color r="239" g="223" b="212" a="255" />
+                <HorizontalAlignment value="CENTER" />
+                <VerticalAlignment value="CENTER" />
+            </Child>
+            <Child name="small_texte" proto="Label">
+                <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+                <Size scale_x="-1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+                <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+                <InheritState value="1" />
+                <Text value="GUI.translationtable:CLASSCHOICE_TITLE1" />
+                <Font value="montserat_35" />
+                <Color r="239" g="223" b="212" a="255" />
+                <HorizontalAlignment value="CENTER" />
+                <VerticalAlignment value="CENTER" />
+            </Child>
+            <Child name="step" proto="Dummy">
+                <Stack value="1" />
+                <Position scale_x="0.500000" offset_x="0.000000" scale_y="1.000000" offset_y="0.000000" />
+                <Size scale_x="-1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+                <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="1.000000" offset_y="0.000000" />
+                <InheritState value="1" />
+                <Child name="step1" proto="Image">
+                    <Position scale_x="0.000000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                    <Size scale_x="0.000000" offset_x="60.000000" scale_y="0.000000" offset_y="4.000000" />
+                    <Anchor scale_x="0.000000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                    <Image set="Uni" image="White" />
+                    <Color r="239" g="223" b="212" a="255" />
+                </Child>
+                <Child name="margin_1" proto="Dummy">
+                    <Position scale_x="0.000000" offset_x="60.000000" scale_y="0.000000" offset_y="0.000000" />
+                    <Size scale_x="0.000000" offset_x="10.000000" scale_y="0.000000" offset_y="0.000000" />
+                </Child>
+                <Child name="step2" proto="Image">
+                    <Alpha value="0.200000" />
+                    <Position scale_x="0.000000" offset_x="70.000000" scale_y="0.500000" offset_y="0.000000" />
+                    <Size scale_x="0.000000" offset_x="60.000000" scale_y="0.000000" offset_y="4.000000" />
+                    <Anchor scale_x="0.000000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                    <Image set="Uni" image="White" />
+                    <Color r="239" g="223" b="212" a="255" />
+                </Child>
+            </Child>
+            <Child name="INFO" proto="Label">
+                <Position scale_x="0.500000" offset_x="0.000000" scale_y="1.000000" offset_y="-20.000000" />
+                <Size scale_x="0.000000" offset_x="1000.000000" scale_y="-1.000000" offset_y="0.000000" />
+                <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="1.000000" offset_y="0.000000" />
+                <InheritState value="1" />
+                <Text value="GUI.translationtable:CHOOSE_CLASS_TXT" />
+                <Font value="montserat_20" />
+                <Color r="239" g="223" b="212" a="255" />
+                <HorizontalAlignment value="CENTER" />
+            </Child>
+        </Child>
+        <Child name="Input_Contener" proto="Input_Contener">
+            <Position scale_x="1.000000" offset_x="0.000000" scale_y="1.000000" offset_y="0.000000" />
+        </Child>
+    </Child>
+    <Child name="Step" proto="Label">
+        <Alpha value="0.060000" />
+        <Position scale_x="0.000000" offset_x="0.000000" scale_y="1.000000" offset_y="55.000000" />
+        <Size scale_x="-1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+        <Anchor scale_x="0.000000" offset_x="0.000000" scale_y="1.000000" offset_y="0.000000" />
+        <Text value="GUI.translationtable:CHOOSE_CLASS_STEP1" />
+        <Font value="montserat_170" />
+    </Child>
+</Layout>

@@ -1,0 +1,4 @@
+<Imageset name="Editeur" texture="Editeur.tga">
+	<Image name="Cyanide_logo" left="1" top="1" right="1001" bottom="501" />
+	<Image name="Bigbadwolf_logo" left="1" top="505" right="1001" bottom="1005" />
+</Imageset>

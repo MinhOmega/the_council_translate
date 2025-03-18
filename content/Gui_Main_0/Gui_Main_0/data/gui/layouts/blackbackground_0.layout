@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Layout>
+    <Child name="Black" proto="Black">
+        <Alpha value="1.000000" />
+        <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+        <Size scale_x="100.000000" offset_x="0.000000" scale_y="100.000000" offset_y="0.000000" />
+        <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+        <Image set="Uni" image="White" />
+    </Child>
+    <Child name="RatioBlocker" proto="Dummy">
+        <Visible value="0" />
+        <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+        <Size scale_x="0.000000" offset_x="1920.000000" scale_y="0.000000" offset_y="1080.000000" />
+        <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+        <Child name="Top" proto="Image">
+            <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+            <Size scale_x="100.000000" offset_x="0.000000" scale_y="100.000000" offset_y="0.000000" />
+            <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="1.000000" offset_y="0.000000" />
+            <Image set="Uni" image="Black" />
+        </Child>
+        <Child name="Bottom" proto="Image">
+            <Position scale_x="0.500000" offset_x="0.000000" scale_y="1.000000" offset_y="0.000000" />
+            <Size scale_x="100.000000" offset_x="0.000000" scale_y="100.000000" offset_y="0.000000" />
+            <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+            <Image set="Uni" image="Black" />
+        </Child>
+        <Child name="Left" proto="Image">
+            <Position scale_x="0.000000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+            <Size scale_x="100.000000" offset_x="0.000000" scale_y="100.000000" offset_y="0.000000" />
+            <Anchor scale_x="1.000000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+            <Image set="Uni" image="Black" />
+        </Child>
+        <Child name="Right" proto="Image">
+            <Position scale_x="1.000000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+            <Size scale_x="100.000000" offset_x="0.000000" scale_y="100.000000" offset_y="0.000000" />
+            <Anchor scale_x="-0.000000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+            <Image set="Uni" image="Black" />
+        </Child>
+    </Child>
+    <Child name="autosave" proto="autosave_LAST">
+        <Position scale_x="1.000000" offset_x="-80.000000" scale_y="1.000000" offset_y="-80.000000" />
+        <Anchor scale_x="1.000000" offset_x="0.000000" scale_y="1.000000" offset_y="0.000000" />
+    </Child>
+    <Child name="SafeZone" proto="Dummy">
+        <Visible value="0" />
+        <AlwaysOnTop value="1" />
+        <Alpha value="0.300000" />
+        <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+        <Size scale_x="0.000000" offset_x="1920.000000" scale_y="0.000000" offset_y="1080.000000" />
+        <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+        <Child name="Top" proto="Image">
+            <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.050000" offset_y="0.000000" />
+            <Size scale_x="100.000000" offset_x="0.000000" scale_y="100.000000" offset_y="0.000000" />
+            <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="1.000000" offset_y="0.000000" />
+            <Image set="Uni" image="White" />
+            <Color r="255" g="0" b="255" a="255" />
+        </Child>
+        <Child name="Bottom" proto="Image">
+            <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.950000" offset_y="0.000000" />
+            <Size scale_x="100.000000" offset_x="0.000000" scale_y="100.000000" offset_y="0.000000" />
+            <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+            <Image set="Uni" image="White" />
+            <Color r="255" g="0" b="255" a="255" />
+        </Child>
+        <Child name="Left" proto="Image">
+            <Position scale_x="0.050000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+            <Size scale_x="100.000000" offset_x="0.000000" scale_y="100.000000" offset_y="0.000000" />
+            <Anchor scale_x="1.000000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+            <Image set="Uni" image="White" />
+            <Color r="255" g="0" b="255" a="255" />
+        </Child>
+        <Child name="Right" proto="Image">
+            <Position scale_x="0.950000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+            <Size scale_x="100.000000" offset_x="0.000000" scale_y="100.000000" offset_y="0.000000" />
+            <Anchor scale_x="-0.000000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+            <Image set="Uni" image="White" />
+            <Color r="255" g="0" b="255" a="255" />
+        </Child>
+    </Child>
+</Layout>

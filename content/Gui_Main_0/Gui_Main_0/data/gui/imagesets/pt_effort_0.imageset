@@ -1,0 +1,6 @@
+<Imageset name="pt_effort" texture="pt_effort.tga">
+	<Image name="pt_effort_lock" left="1" top="1" right="39" bottom="36" />
+	<Image name="pt_effort_vide" left="41" top="1" right="79" bottom="36" />
+	<Image name="wrong" left="81" top="1" right="119" bottom="36" />
+	<Image name="pt_effort_full" left="121" top="1" right="159" bottom="36" />
+</Imageset>

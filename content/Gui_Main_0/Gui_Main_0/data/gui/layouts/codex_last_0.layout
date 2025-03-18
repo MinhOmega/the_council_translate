@@ -1,0 +1,622 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Layout>
+    <Child name="fond_0" proto="Image">
+        <Visible value="0" />
+        <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+        <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+        <Image set="Background_GUI" image="Background_GUI" />
+    </Child>
+    <Child name="IngameNav" proto="Nav_LAST">
+        <Child name="InfoLabel">
+            <Litteral value="0" />
+            <Text value="GUI_TABS_SLOT_DIARY" />
+        </Child>
+        <Child name="stack">
+            <Child name="RB">
+                <Position scale_x="0.000000" offset_x="2294.000000" scale_y="0.500000" offset_y="0.000000" />
+            </Child>
+        </Child>
+    </Child>
+    <Child name="ParallaxRoot" proto="Dummy">
+        <Position scale_x="1.000000" offset_x="-350.000000" scale_y="0.550000" offset_y="0.000000" />
+        <Size scale_x="0.000000" offset_x="780.000000" scale_y="0.000000" offset_y="650.000000" />
+        <Anchor scale_x="1.000000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+        <Child name="NPC_Adams" proto="Codex">
+            <Position scale_x="0.000000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+            <Child name="Perso">
+                <Child name="stack">
+                    <Child name="Name">
+                        <Text value="GUI.translationtable:ADAMS_NAME" />
+                    </Child>
+                    <Child name="Surname">
+                        <Text value="GUI.translationtable:ADAMS_SURNAME" />
+                    </Child>
+                </Child>
+                <Child name="BIGNAME">
+                    <Text value="GUI.translationtable:ADAMS_NAME" />
+                </Child>
+                <Child name="Tooltip_fake_codex">
+                    <Position scale_x="1.000000" offset_x="10.000000" scale_y="0.000000" offset_y="0.000000" />
+                    <Anchor scale_x="0.000000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+                    <Child name="Top">
+                        <Child name="stack">
+                            <Child name="Name">
+                                <Text value="GUI.translationtable:ADAMS_NAME" />
+                            </Child>
+                            <Child name="marge">
+                                <Position scale_x="0.000000" offset_x="533.000000" scale_y="0.000000" offset_y="61.000000" />
+                            </Child>
+                            <Child name="Surname">
+                                <Position scale_x="0.000000" offset_x="543.000000" scale_y="0.000000" offset_y="0.000000" />
+                                <Text value="GUI.translationtable:ADAMS_SURNAME" />
+                            </Child>
+                        </Child>
+                    </Child>
+                    <Child name="Content">
+                        <Child name="text_info_0">
+                            <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="23.000000" />
+                            <Text value="GUI.translationtable:ADAMS_WIKI" />
+                        </Child>
+                        <Child name="marge_2">
+                            <Position scale_x="0.000000" offset_x="30.000000" scale_y="0.000000" offset_y="49.000000" />
+                        </Child>
+                    </Child>
+                </Child>
+            </Child>
+        </Child>
+        <Child name="NPC_DeRichet" proto="Codex">
+            <Position scale_x="0.670000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+            <InheritState value="1" />
+            <Child name="Perso">
+                <Child name="stack">
+                    <Child name="Name">
+                        <Text value="GUI.translationtable:DERICHET_NAME" />
+                    </Child>
+                    <Child name="Surname">
+                        <Text value="GUI.translationtable:DERICHET_SURNAME" />
+                    </Child>
+                </Child>
+                <Child name="BIGNAME">
+                    <Text value="GUI.translationtable:DERICHET_NAME" />
+                </Child>
+                <Child name="Tooltip_fake_codex">
+                    <Position scale_x="0.000000" offset_x="-10.000000" scale_y="0.000000" offset_y="0.000000" />
+                    <Anchor scale_x="1.000000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+                    <Child name="Top">
+                        <Child name="stack">
+                            <Child name="Name">
+                                <Text value="GUI.translationtable:DERICHET_NAME" />
+                            </Child>
+                            <Child name="Surname">
+                                <Text value="GUI.translationtable:DERICHET_SURNAME" />
+                            </Child>
+                        </Child>
+                    </Child>
+                    <Child name="Content">
+                        <Child name="text_info_0">
+                            <Text value="GUI.translationtable:DERICHET_WIKI" />
+                        </Child>
+                    </Child>
+                </Child>
+            </Child>
+        </Child>
+        <Child name="NPC_EmmaHB" proto="Codex">
+            <Position scale_x="1.000000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+            <Child name="Perso">
+                <Child name="stack">
+                    <Child name="Name">
+                        <Text value="GUI.translationtable:EMMAHB_NAME" />
+                    </Child>
+                    <Child name="Surname">
+                        <Text value="GUI.translationtable:EMMAHB_SURNAME" />
+                    </Child>
+                </Child>
+                <Child name="BIGNAME">
+                    <Text value="GUI.translationtable:EMMAHB_NAME" />
+                </Child>
+                <Child name="Tooltip_fake_codex">
+                    <Position scale_x="0.000000" offset_x="-10.000000" scale_y="0.000000" offset_y="0.000000" />
+                    <Anchor scale_x="1.000000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+                    <Child name="Top">
+                        <Child name="stack">
+                            <Child name="Name">
+                                <Text value="GUI.translationtable:EMMAHB_NAME" />
+                            </Child>
+                            <Child name="marge">
+                                <Position scale_x="0.000000" offset_x="562.000000" scale_y="0.000000" offset_y="61.000000" />
+                            </Child>
+                            <Child name="Surname">
+                                <Position scale_x="0.000000" offset_x="572.000000" scale_y="0.000000" offset_y="0.000000" />
+                                <Text value="GUI.translationtable:EMMAHB_SURNAME" />
+                            </Child>
+                        </Child>
+                    </Child>
+                    <Child name="Content">
+                        <Child name="text_info_0">
+                            <Text value="GUI.translationtable:EMMAHB_WIKI" />
+                        </Child>
+                    </Child>
+                </Child>
+            </Child>
+        </Child>
+        <Child name="NPC_Godoy" proto="Codex">
+            <Position scale_x="0.000000" offset_x="0.000000" scale_y="0.330000" offset_y="0.000000" />
+            <Child name="Perso">
+                <Child name="stack">
+                    <Child name="Name">
+                        <Text value="GUI.translationtable:GODOY_NAME" />
+                    </Child>
+                    <Child name="Surname">
+                        <Text value="GUI.translationtable:GODOY_SURNAME" />
+                    </Child>
+                </Child>
+                <Child name="BIGNAME">
+                    <Text value="GUI.translationtable:GODOY_NAME" />
+                </Child>
+                <Child name="Tooltip_fake_codex">
+                    <Child name="Top">
+                        <Child name="stack">
+                            <Child name="Name">
+                                <Text value="GUI.translationtable:GODOY_NAME" />
+                            </Child>
+                            <Child name="marge">
+                                <Position scale_x="0.000000" offset_x="531.000000" scale_y="0.000000" offset_y="61.000000" />
+                            </Child>
+                            <Child name="Surname">
+                                <Position scale_x="0.000000" offset_x="541.000000" scale_y="0.000000" offset_y="0.000000" />
+                                <Text value="GUI.translationtable:GODOY_SURNAME" />
+                            </Child>
+                        </Child>
+                    </Child>
+                    <Child name="Content">
+                        <Child name="text_info_0">
+                            <Text value="GUI.translationtable:GODOY_WIKI" />
+                        </Child>
+                    </Child>
+                </Child>
+            </Child>
+        </Child>
+        <Child name="NPC_Hillsborrow" proto="Codex">
+            <Position scale_x="0.000000" offset_x="0.000000" scale_y="0.670000" offset_y="0.000000" />
+            <Child name="Perso">
+                <Child name="stack">
+                    <Child name="Name">
+                        <Text value="GUI.translationtable:HILLSBORROW_NAME" />
+                    </Child>
+                    <Child name="Surname">
+                        <Text value="GUI.translationtable:HILLSBORROW_SURNAME" />
+                    </Child>
+                </Child>
+                <Child name="BIGNAME">
+                    <Text value="GUI.translationtable:HILLSBORROW_NAME" />
+                </Child>
+                <Child name="Tooltip_fake_codex">
+                    <Child name="Top">
+                        <Child name="stack">
+                            <Child name="Name">
+                                <Text value="GUI.translationtable:HILLSBORROW_NAME" />
+                            </Child>
+                            <Child name="Surname">
+                                <Text value="GUI.translationtable:HILLSBORROW_SURNAME" />
+                            </Child>
+                        </Child>
+                    </Child>
+                    <Child name="Content">
+                        <Child name="text_info_0">
+                            <Text value="GUI.translationtable:HILLSBORROW_WIKI" />
+                        </Child>
+                    </Child>
+                </Child>
+            </Child>
+        </Child>
+        <Child name="NPC_Washington" proto="Codex">
+            <Position scale_x="0.000000" offset_x="0.000000" scale_y="1.000000" offset_y="0.000000" />
+            <Child name="Perso">
+                <Child name="stack">
+                    <Child name="Name">
+                        <Text value="GUI.translationtable:WASHINGTON_NAME" />
+                    </Child>
+                    <Child name="Surname">
+                        <Text value="GUI.translationtable:WASHINGTON_SURNAME" />
+                    </Child>
+                </Child>
+                <Child name="BIGNAME">
+                    <Text value="GUI.translationtable:WASHINGTON_NAME" />
+                </Child>
+                <Child name="Tooltip_fake_codex">
+                    <Position scale_x="1.000000" offset_x="10.000000" scale_y="1.000000" offset_y="0.000000" />
+                    <Anchor scale_x="0.000000" offset_x="0.000000" scale_y="1.000000" offset_y="0.000000" />
+                    <Child name="Top">
+                        <Child name="stack">
+                            <Child name="Name">
+                                <Text value="GUI.translationtable:WASHINGTON_NAME" />
+                            </Child>
+                            <Child name="marge">
+                                <Position scale_x="0.000000" offset_x="635.000000" scale_y="0.000000" offset_y="61.000000" />
+                            </Child>
+                            <Child name="Surname">
+                                <Position scale_x="0.000000" offset_x="645.000000" scale_y="0.000000" offset_y="0.000000" />
+                                <Text value="GUI.translationtable:WASHINGTON_SURNAME" />
+                            </Child>
+                        </Child>
+                    </Child>
+                    <Child name="Content">
+                        <Child name="text_info_0">
+                            <Text value="GUI.translationtable:WASHINGTON_WIKI" />
+                        </Child>
+                    </Child>
+                </Child>
+            </Child>
+        </Child>
+        <Child name="NPC_Wollner" proto="Codex">
+            <Position scale_x="0.330000" offset_x="0.000000" scale_y="0.330000" offset_y="0.000000" />
+            <Child name="Perso">
+                <Child name="stack">
+                    <Child name="Name">
+                        <Text value="GUI.translationtable:WOLLNER_NAME" />
+                    </Child>
+                    <Child name="Surname">
+                        <Text value="GUI.translationtable:WOLLNER_SURNAME" />
+                    </Child>
+                </Child>
+                <Child name="BIGNAME">
+                    <Text value="GUI.translationtable:WOLLNER_NAME" />
+                </Child>
+                <Child name="Tooltip_fake_codex">
+                    <Child name="Top">
+                        <Child name="stack">
+                            <Child name="Name">
+                                <Text value="GUI.translationtable:WOLLNER_NAME" />
+                            </Child>
+                            <Child name="Surname">
+                                <Text value="GUI.translationtable:WOLLNER_SURNAME" />
+                            </Child>
+                        </Child>
+                    </Child>
+                    <Child name="Content">
+                        <Child name="text_info_0">
+                            <Text value="GUI.translationtable:WOLLNER_WIKI" />
+                        </Child>
+                    </Child>
+                </Child>
+            </Child>
+        </Child>
+        <Child name="PlayerCharacter" proto="Codex">
+            <Position scale_x="0.330000" offset_x="0.000000" scale_y="0.670000" offset_y="0.000000" />
+            <Child name="Perso">
+                <Child name="stack">
+                    <Child name="Name">
+                        <Text value="GUI.translationtable:MAURAS_NAME" />
+                    </Child>
+                    <Child name="Surname">
+                        <Text value="GUI.translationtable:MAURAS_SURNAME" />
+                    </Child>
+                </Child>
+                <Child name="BIGNAME">
+                    <Text value="GUI.translationtable:MAURAS_NAME" />
+                </Child>
+                <Child name="Tooltip_fake_codex">
+                    <Child name="Top">
+                        <Child name="stack">
+                            <Child name="Name">
+                                <Text value="GUI.translationtable:MAURAS_NAME" />
+                            </Child>
+                            <Child name="Surname">
+                                <Text value="GUI.translationtable:MAURAS_SURNAME" />
+                            </Child>
+                        </Child>
+                    </Child>
+                    <Child name="Content">
+                        <Child name="text_info_0">
+                            <Text value="GUI.translationtable:MAURAS_WIKI" />
+                        </Child>
+                    </Child>
+                </Child>
+            </Child>
+        </Child>
+        <Child name="NPC_vorchert" proto="Codex">
+            <Visible value="0" />
+            <Position scale_x="0.330000" offset_x="0.000000" scale_y="1.000000" offset_y="0.000000" />
+            <Child name="Perso">
+                <Child name="stack">
+                    <Child name="Name">
+                        <Text value="GUI.translationtable:BORCHERT_NAME" />
+                    </Child>
+                    <Child name="Surname">
+                        <Text value="GUI.translationtable:BORCHERT_SURNAME" />
+                    </Child>
+                </Child>
+                <Child name="BIGNAME">
+                    <Text value="GUI.translationtable:BORCHERT_NAME" />
+                </Child>
+            </Child>
+        </Child>
+        <Child name="NPC_Peru" proto="Codex">
+            <Position scale_x="0.670000" offset_x="0.000000" scale_y="0.330000" offset_y="0.000000" />
+            <Child name="Perso">
+                <Child name="stack">
+                    <Child name="Name">
+                        <Text value="GUI.translationtable:PERU_NAME" />
+                    </Child>
+                    <Child name="Surname">
+                        <Text value="GUI.translationtable:PERU_SURNAME" />
+                    </Child>
+                </Child>
+                <Child name="BIGNAME">
+                    <Text value="GUI.translationtable:PERU_NAME" />
+                </Child>
+                <Child name="Tooltip_fake_codex">
+                    <Position scale_x="0.000000" offset_x="-10.000000" scale_y="0.500000" offset_y="0.000000" />
+                    <Anchor scale_x="1.000000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                    <Child name="Top">
+                        <Child name="stack">
+                            <Child name="Name">
+                                <Text value="GUI.translationtable:PERU_NAME" />
+                            </Child>
+                            <Child name="marge">
+                                <Position scale_x="0.000000" offset_x="504.000000" scale_y="0.000000" offset_y="61.000000" />
+                            </Child>
+                            <Child name="Surname">
+                                <Position scale_x="0.000000" offset_x="514.000000" scale_y="0.000000" offset_y="0.000000" />
+                                <Text value="GUI.translationtable:PERU_SURNAME" />
+                            </Child>
+                        </Child>
+                    </Child>
+                    <Child name="Content">
+                        <Child name="text_info_0">
+                            <Text value="GUI.translationtable:PERU_WIKI" />
+                        </Child>
+                    </Child>
+                </Child>
+            </Child>
+        </Child>
+        <Child name="NPC_Piaggi" proto="Codex">
+            <Position scale_x="0.670000" offset_x="0.000000" scale_y="0.670000" offset_y="0.000000" />
+            <Child name="Perso">
+                <Child name="stack">
+                    <Child name="Name">
+                        <Text value="GUI.translationtable:PIAGGI_NAME" />
+                    </Child>
+                    <Child name="Surname">
+                        <Text value="GUI.translationtable:PIAGGI_SURNAME" />
+                    </Child>
+                </Child>
+                <Child name="BIGNAME">
+                    <Text value="GUI.translationtable:PIAGGI_NAME" />
+                </Child>
+                <Child name="Tooltip_fake_codex">
+                    <Position scale_x="0.000000" offset_x="-10.000000" scale_y="0.500000" offset_y="0.000000" />
+                    <Anchor scale_x="1.000000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                    <Child name="Top">
+                        <Child name="stack">
+                            <Child name="Name">
+                                <Text value="GUI.translationtable:PIAGGI_NAME" />
+                            </Child>
+                            <Child name="marge">
+                                <Position scale_x="0.000000" offset_x="523.000000" scale_y="0.000000" offset_y="61.000000" />
+                            </Child>
+                            <Child name="Surname">
+                                <Position scale_x="0.000000" offset_x="533.000000" scale_y="0.000000" offset_y="0.000000" />
+                                <Text value="GUI.translationtable:PIAGGI_SURNAME" />
+                            </Child>
+                        </Child>
+                    </Child>
+                    <Child name="Content">
+                        <Child name="text_info_0">
+                            <Text value="GUI.translationtable:PIAGGI_WIKI" />
+                        </Child>
+                    </Child>
+                </Child>
+            </Child>
+        </Child>
+        <Child name="NPC_Holm" proto="Codex">
+            <Position scale_x="1.000000" offset_x="0.000000" scale_y="0.330000" offset_y="0.000000" />
+            <Child name="Perso">
+                <Child name="stack">
+                    <Child name="Name">
+                        <Text value="GUI.translationtable:HOLM_NAME" />
+                    </Child>
+                    <Child name="Surname">
+                        <Text value="GUI.translationtable:HOLM_SURNAME" />
+                    </Child>
+                </Child>
+                <Child name="BIGNAME">
+                    <Text value="GUI.translationtable:HOLM_NAME" />
+                </Child>
+                <Child name="Tooltip_fake_codex">
+                    <Position scale_x="0.000000" offset_x="-10.000000" scale_y="0.500000" offset_y="0.000000" />
+                    <Anchor scale_x="1.000000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                    <Child name="Top">
+                        <Child name="stack">
+                            <Child name="Name">
+                                <Text value="GUI.translationtable:HOLM_NAME" />
+                            </Child>
+                            <Child name="marge">
+                                <Position scale_x="0.000000" offset_x="511.000000" scale_y="0.000000" offset_y="61.000000" />
+                            </Child>
+                            <Child name="Surname">
+                                <Position scale_x="0.000000" offset_x="521.000000" scale_y="0.000000" offset_y="0.000000" />
+                                <Text value="GUI.translationtable:HOLM_SURNAME" />
+                            </Child>
+                        </Child>
+                    </Child>
+                    <Child name="Content">
+                        <Child name="text_info_0">
+                            <Text value="GUI.translationtable:HOLM_WIKI" />
+                        </Child>
+                    </Child>
+                </Child>
+            </Child>
+        </Child>
+        <Child name="NPC_Napoleon" proto="Codex">
+            <Position scale_x="1.000000" offset_x="0.000000" scale_y="0.670000" offset_y="0.000000" />
+            <Child name="Perso">
+                <Child name="stack">
+                    <Child name="Name">
+                        <Text value="GUI.translationtable:NAPOLEON_NAME" />
+                    </Child>
+                    <Child name="Surname">
+                        <Text value="GUI.translationtable:NAPOLEON_SURNAME" />
+                    </Child>
+                </Child>
+                <Child name="BIGNAME">
+                    <Text value="GUI.translationtable:NAPOLEON_NAME" />
+                </Child>
+                <Child name="Tooltip_fake_codex">
+                    <Position scale_x="0.000000" offset_x="-10.000000" scale_y="0.500000" offset_y="0.000000" />
+                    <Anchor scale_x="1.000000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                    <Child name="Top">
+                        <Child name="stack">
+                            <Child name="Name">
+                                <Text value="GUI.translationtable:NAPOLEON_NAME" />
+                            </Child>
+                            <Child name="marge">
+                                <Position scale_x="0.000000" offset_x="593.000000" scale_y="0.000000" offset_y="61.000000" />
+                            </Child>
+                            <Child name="Surname">
+                                <Position scale_x="0.000000" offset_x="603.000000" scale_y="0.000000" offset_y="0.000000" />
+                                <Text value="GUI.translationtable:NAPOLEON_SURNAME" />
+                            </Child>
+                        </Child>
+                    </Child>
+                    <Child name="Content">
+                        <Child name="text_info_0">
+                            <Text value="GUI.translationtable:NAPOLEON_WIKI" />
+                        </Child>
+                    </Child>
+                </Child>
+            </Child>
+        </Child>
+        <Child name="NPC_Mortimer" proto="Codex">
+            <Position scale_x="0.330000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+            <Child name="Perso">
+                <Child name="stack">
+                    <Child name="Name">
+                        <Text value="GUI.translationtable:MORTIMER_NAME" />
+                    </Child>
+                    <Child name="Surname">
+                        <Text value="GUI.translationtable:MORTIMER_SURNAME" />
+                    </Child>
+                </Child>
+                <Child name="BIGNAME">
+                    <Text value="GUI.translationtable:MORTIMER_NAME" />
+                </Child>
+                <Child name="Tooltip_fake_codex">
+                    <Position scale_x="1.000000" offset_x="10.000000" scale_y="0.000000" offset_y="0.000000" />
+                    <Anchor scale_x="0.000000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+                    <Child name="Top">
+                        <Child name="stack">
+                            <Child name="Name">
+                                <Text value="GUI.translationtable:MORTIMER_NAME" />
+                            </Child>
+                            <Child name="marge">
+                                <Position scale_x="0.000000" offset_x="589.000000" scale_y="0.000000" offset_y="61.000000" />
+                            </Child>
+                            <Child name="Surname">
+                                <Position scale_x="0.000000" offset_x="599.000000" scale_y="0.000000" offset_y="0.000000" />
+                                <Text value="GUI.translationtable:MORTIMER_SURNAME" />
+                            </Child>
+                        </Child>
+                    </Child>
+                    <Child name="Content">
+                        <Child name="text_info_0">
+                            <Text value="GUI.translationtable:MORTIMER_WIKI" />
+                        </Child>
+                    </Child>
+                </Child>
+            </Child>
+        </Child>
+        <Child name="NPC_Servant" proto="Codex">
+            <Position scale_x="0.330000" offset_x="0.000000" scale_y="1.000000" offset_y="0.000000" />
+            <Child name="Perso">
+                <Child name="stack">
+                    <Child name="Name">
+                        <Text value="GUI.translationtable:SERVANT_NAME" />
+                    </Child>
+                    <Child name="Surname">
+                        <Alpha value="0.000000" />
+                        <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="48.000000" />
+                        <Text value="GUI.translationtable:SERVANT_NAME" />
+                    </Child>
+                </Child>
+                <Child name="BIGNAME">
+                    <Text value="GUI.translationtable:SERVANT_NAME" />
+                </Child>
+                <Child name="Tooltip_fake_codex">
+                    <Position scale_x="1.000000" offset_x="10.000000" scale_y="1.000000" offset_y="0.000000" />
+                    <Anchor scale_x="0.000000" offset_x="0.000000" scale_y="1.000000" offset_y="0.000000" />
+                    <Child name="Top">
+                        <Child name="stack">
+                            <Child name="Name">
+                                <Text value="GUI.translationtable:SERVANT_NAME" />
+                            </Child>
+                            <Child name="marge">
+                                <Position scale_x="0.000000" offset_x="577.000000" scale_y="0.000000" offset_y="61.000000" />
+                            </Child>
+                            <Child name="Surname">
+                                <Visible value="0" />
+                            </Child>
+                        </Child>
+                    </Child>
+                    <Child name="Content">
+                        <Child name="text_info_0">
+                            <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="23.000000" />
+                            <Text value="GUI.translationtable:SERVANT_WIKI" />
+                        </Child>
+                        <Child name="marge_2">
+                            <Position scale_x="0.000000" offset_x="30.000000" scale_y="0.000000" offset_y="51.000000" />
+                        </Child>
+                    </Child>
+                </Child>
+            </Child>
+        </Child>
+        <Child name="NPC_Asahel" proto="Codex">
+            <Position scale_x="0.670000" offset_x="0.000000" scale_y="1.000000" offset_y="0.000000" />
+            <Child name="Perso">
+                <Child name="Back_perso">
+                    <Visible value="0" />
+                </Child>
+                <Child name="stack">
+                    <Child name="Name">
+                        <Text value="GUI.translationtable:NPC_ASAHEL_NAME" />
+                    </Child>
+                    <Child name="Surname">
+                        <Alpha value="0.000000" />
+                        <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="48.000000" />
+                        <Text value="a" />
+                    </Child>
+                </Child>
+                <Child name="BIGNAME">
+                    <Text value="GUI.translationtable:NPC_ASAHEL_NAME" />
+                </Child>
+                <Child name="Tooltip_fake_codex">
+                    <Position scale_x="0.000000" offset_x="-10.000000" scale_y="1.000000" offset_y="0.000000" />
+                    <Anchor scale_x="1.000000" offset_x="0.000000" scale_y="1.000000" offset_y="0.000000" />
+                    <Child name="Top">
+                        <Child name="stack">
+                            <Child name="Name">
+                                <Text value="GUI.translationtable:NPC_ASAHEL_NAME" />
+                            </Child>
+                            <Child name="marge">
+                                <Position scale_x="0.000000" offset_x="577.000000" scale_y="0.000000" offset_y="61.000000" />
+                            </Child>
+                            <Child name="Surname">
+                                <Visible value="0" />
+                                <Text value="" />
+                            </Child>
+                        </Child>
+                    </Child>
+                    <Child name="Content">
+                        <Child name="text_info_0">
+                            <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="23.000000" />
+                            <Text value="" />
+                        </Child>
+                        <Child name="marge_2">
+                            <Position scale_x="0.000000" offset_x="30.000000" scale_y="0.000000" offset_y="51.000000" />
+                        </Child>
+                    </Child>
+                </Child>
+            </Child>
+        </Child>
+    </Child>
+</Layout>

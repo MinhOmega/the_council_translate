@@ -1,0 +1,4 @@
+<Imageset name="Elements_Skills" texture="Elements_Skills.tga">
+	<Image name="level3" left="1" top="1" right="78" bottom="78" />
+	<Image name="rond_skill" left="81" top="1" right="152" bottom="72" />
+</Imageset>

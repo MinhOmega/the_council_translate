@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Layout>
+    <Child name="Image_0" proto="Image">
+        <Visible value="0" />
+        <Image set="background" image="Puzzle" />
+    </Child>
+    <Child name="II" proto="Q10Nail">
+        <Position scale_x="0.308867" offset_x="0.000000" scale_y="0.279462" offset_y="0.000000" />
+        <Child name="LabelBackground">
+            <Child name="Label">
+                <Text value="II" />
+            </Child>
+        </Child>
+    </Child>
+    <Child name="9" proto="Q10Nail">
+        <Position scale_x="0.340105" offset_x="0.000000" scale_y="0.317000" offset_y="0.000000" />
+        <Child name="LabelBackground">
+            <Child name="Label">
+                <Text value="9" />
+            </Child>
+        </Child>
+    </Child>
+    <Child name="NAZARETH" proto="Q10Nail">
+        <Position scale_x="0.325906" offset_x="0.000000" scale_y="0.207939" offset_y="0.000000" />
+        <Child name="LabelBackground">
+            <Child name="Label">
+                <Text value="NAZARETH" />
+            </Child>
+        </Child>
+    </Child>
+    <Child name="XXIV" proto="Q10Nail">
+        <Position scale_x="0.429950" offset_x="0.000000" scale_y="0.119940" offset_y="0.000000" />
+        <Child name="LabelBackground">
+            <Child name="Label">
+                <Text value="XXIV" />
+            </Child>
+        </Child>
+    </Child>
+    <Child name="3" proto="Q10Nail">
+        <Position scale_x="0.400298" offset_x="0.000000" scale_y="0.216069" offset_y="0.000000" />
+        <Child name="LabelBackground">
+            <Child name="Label">
+                <Text value="3" />
+            </Child>
+        </Child>
+    </Child>
+    <Child name="BETHLEHEM" proto="Q10Nail">
+        <Position scale_x="0.496121" offset_x="0.000000" scale_y="0.076806" offset_y="0.000000" />
+        <Child name="LabelBackground">
+            <Child name="Label">
+                <Text value="BETHLEHEM" />
+            </Child>
+        </Child>
+    </Child>
+    <Child name="XIX" proto="Q10Nail">
+        <Position scale_x="0.566204" offset_x="0.000000" scale_y="0.119960" offset_y="0.000000" />
+        <Child name="LabelBackground">
+            <Child name="Label">
+                <Text value="XIX" />
+            </Child>
+        </Child>
+    </Child>
+    <Child name="22" proto="Q10Nail">
+        <Position scale_x="0.588365" offset_x="0.000000" scale_y="0.211670" offset_y="0.000000" />
+        <Child name="LabelBackground">
+            <Child name="Label">
+                <Text value="22" />
+            </Child>
+        </Child>
+    </Child>
+    <Child name="BETHESDA" proto="Q10Nail">
+        <Position scale_x="0.665035" offset_x="0.000000" scale_y="0.202464" offset_y="0.000000" />
+        <Child name="LabelBackground">
+            <Child name="Label">
+                <Text value="BETHESDA" />
+            </Child>
+        </Child>
+    </Child>
+    <Child name="17" proto="Q10Nail">
+        <Position scale_x="0.663289" offset_x="0.000000" scale_y="0.336132" offset_y="0.000000" />
+        <Child name="LabelBackground">
+            <Child name="Label">
+                <Text value="17" />
+            </Child>
+        </Child>
+    </Child>
+    <Child name="XIV" proto="Q10Nail">
+        <Position scale_x="0.308228" offset_x="0.000000" scale_y="0.732976" offset_y="0.000000" />
+        <Child name="LabelBackground">
+            <Child name="Label">
+                <Text value="XIV" />
+            </Child>
+        </Child>
+    </Child>
+    <Child name="GOLGOTHA" proto="Q10Nail">
+        <Position scale_x="0.331965" offset_x="0.000000" scale_y="0.807213" offset_y="0.000000" />
+        <Child name="LabelBackground">
+            <Child name="Label">
+                <Text value="GOLGOTHA" />
+            </Child>
+        </Child>
+    </Child>
+    <Child name="13" proto="Q10Nail">
+        <Position scale_x="0.418731" offset_x="0.000000" scale_y="0.817129" offset_y="0.000000" />
+        <Child name="LabelBackground">
+            <Child name="Label">
+                <Text value="13" />
+            </Child>
+        </Child>
+    </Child>
+    <Child name="JERUSALEM" proto="Q10Nail">
+        <Position scale_x="0.450922" offset_x="0.000000" scale_y="0.924535" offset_y="0.000000" />
+        <Child name="LabelBackground">
+            <Child name="Label">
+                <Text value="JERUSALEM" />
+            </Child>
+        </Child>
+    </Child>
+    <Child name="JORDAN" proto="Q10Nail">
+        <Position scale_x="0.550675" offset_x="0.000000" scale_y="0.921223" offset_y="0.000000" />
+        <Child name="LabelBackground">
+            <Child name="Label">
+                <Text value="JORDAN" />
+            </Child>
+        </Child>
+    </Child>
+    <Child name="I" proto="Q10Nail">
+        <Position scale_x="0.599771" offset_x="0.000000" scale_y="0.871624" offset_y="0.000000" />
+        <Child name="LabelBackground">
+            <Child name="Label">
+                <Text value="I" />
+            </Child>
+        </Child>
+    </Child>
+    <Child name="ABUGOSH" proto="Q10Nail">
+        <Position scale_x="0.669551" offset_x="0.000000" scale_y="0.810067" offset_y="0.000000" />
+        <Child name="LabelBackground">
+            <Child name="Label">
+                <Text value="ABUGOSH" />
+            </Child>
+        </Child>
+    </Child>
+    <Child name="6" proto="Q10Nail">
+        <Position scale_x="0.652873" offset_x="0.000000" scale_y="0.707375" offset_y="0.000000" />
+        <Child name="LabelBackground">
+            <Child name="Label">
+                <Text value="6" />
+            </Child>
+        </Child>
+    </Child>
+    <Child name="V" proto="Q10Nail">
+        <Position scale_x="0.683638" offset_x="0.000000" scale_y="0.741207" offset_y="0.000000" />
+        <Child name="LabelBackground">
+            <Child name="Label">
+                <Text value="V" />
+            </Child>
+        </Child>
+    </Child>
+    <Child name="2" proto="Q10Nail">
+        <Position scale_x="0.338738" offset_x="0.000000" scale_y="0.696318" offset_y="0.000000" />
+        <Child name="LabelBackground">
+            <Child name="Label">
+                <Text value="2" />
+            </Child>
+        </Child>
+    </Child>
+    <Child name="Input_Contener" proto="Input_Contener">
+        <Position scale_x="1.000000" offset_x="-96.000000" scale_y="1.000000" offset_y="-54.000000" />
+        <Size scale_x="-1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+    </Child>
+</Layout>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Layout>
+    <Child name="Subtitle_0" proto="Label">
+        <Position scale_x="0.144792" offset_x="0.000000" scale_y="0.751852" offset_y="0.000000" />
+        <Size scale_x="0.718750" offset_x="0.000000" scale_y="0.092593" offset_y="0.000000" />
+        <Font value="montserat_30" />
+        <HorizontalAlignment value="CENTER" />
+        <VerticalAlignment value="CENTER" />
+    </Child>
+    <Child name="Subtitle_1" proto="Label">
+        <Position scale_x="0.140104" offset_x="0.000000" scale_y="0.817593" offset_y="0.000000" />
+        <Size scale_x="0.726042" offset_x="0.000000" scale_y="0.116667" offset_y="0.000000" />
+        <Font value="montserat_30" />
+        <Color r="128" g="128" b="128" a="255" />
+    </Child>
+    <Child name="Subtitle_2" proto="Label">
+        <Position scale_x="0.147396" offset_x="0.000000" scale_y="0.921296" offset_y="0.000000" />
+        <Size scale_x="0.725000" offset_x="0.000000" scale_y="0.070370" offset_y="0.000000" />
+        <Font value="montserat_30" />
+    </Child>
+    <Child name="Subtitle_3" proto="Label">
+        <Position scale_x="0.633854" offset_x="0.000000" scale_y="0.028704" offset_y="0.000000" />
+        <Size scale_x="0.352083" offset_x="0.000000" scale_y="0.124074" offset_y="0.000000" />
+        <Font value="montserat_30" />
+        <Color r="128" g="128" b="128" a="255" />
+    </Child>
+</Layout>

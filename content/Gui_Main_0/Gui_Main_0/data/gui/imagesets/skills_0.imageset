@@ -1,0 +1,19 @@
+<Imageset name="Skills" texture="Skills.tga">
+	<Image name="selectionne" left="1" top="1" right="157" bottom="157" />
+	<Image name="Icon_conviction_00" left="1" top="161" right="66" bottom="226" />
+	<Image name="Icon_diversion_00" left="69" top="161" right="134" bottom="226" />
+	<Image name="Icon_erudition_00" left="161" top="1" right="226" bottom="66" />
+	<Image name="Icon_etiquette_00" left="161" top="69" right="226" bottom="134" />
+	<Image name="Icon_interrogatoire_00" left="161" top="137" right="226" bottom="202" />
+	<Image name="Icon_linguistique_00" left="229" top="1" right="294" bottom="66" />
+	<Image name="Icon_manipulation_00" left="229" top="69" right="294" bottom="134" />
+	<Image name="Icon_occultisme_00" left="229" top="137" right="294" bottom="202" />
+	<Image name="Icon_politique_00" left="297" top="1" right="362" bottom="66" />
+	<Image name="Icon_psychologie_00" left="365" top="1" right="430" bottom="66" />
+	<Image name="Icon_rhetorique_00" left="433" top="1" right="498" bottom="66" />
+	<Image name="Icon_sciences_00" left="297" top="69" right="362" bottom="134" />
+	<Image name="Icon_subterfuges_00" left="297" top="137" right="362" bottom="202" />
+	<Image name="Icon_vigilance_00" left="365" top="69" right="430" bottom="134" />
+	<Image name="Icon_athletisme_00" left="433" top="69" right="498" bottom="134" />
+	<Image name="tag" left="161" top="205" right="199" bottom="243" />
+</Imageset>

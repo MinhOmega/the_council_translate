@@ -1,0 +1,5 @@
+<Imageset name="ambre" texture="ambre.tga">
+	<Image name="ambre_pickup" left="1" top="1" right="53" bottom="63" />
+	<Image name="ambre_win" left="1" top="65" right="53" bottom="127" />
+	<Image name="ambre" left="1" top="129" right="29" bottom="137" />
+</Imageset>

@@ -1,0 +1,17 @@
+<Imageset name="dots_levelup" texture="dots_levelup.tga">
+	<Image name="1" left="1" top="1" right="64" bottom="66" />
+	<Image name="2-1" left="1" top="69" right="64" bottom="134" />
+	<Image name="2-2" left="1" top="137" right="64" bottom="202" />
+	<Image name="3-1" left="69" top="1" right="132" bottom="66" />
+	<Image name="3-2" left="69" top="69" right="132" bottom="134" />
+	<Image name="3-3" left="69" top="137" right="132" bottom="202" />
+	<Image name="4-1" left="137" top="1" right="200" bottom="66" />
+	<Image name="4-2" left="137" top="69" right="200" bottom="134" />
+	<Image name="4-3" left="137" top="137" right="200" bottom="202" />
+	<Image name="4-4" left="205" top="1" right="268" bottom="66" />
+	<Image name="5-1" left="205" top="69" right="268" bottom="134" />
+	<Image name="5-2" left="205" top="137" right="268" bottom="202" />
+	<Image name="5-3" left="273" top="1" right="336" bottom="66" />
+	<Image name="5-4" left="341" top="1" right="404" bottom="66" />
+	<Image name="5-5" left="409" top="1" right="472" bottom="66" />
+</Imageset>

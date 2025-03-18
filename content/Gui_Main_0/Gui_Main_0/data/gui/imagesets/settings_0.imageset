@@ -1,0 +1,4 @@
+<Imageset name="Settings" texture="Settings.tga">
+	<Image name="pointedstate" left="1" top="1" right="536" bottom="42" />
+	<Image name="fleche_settings" left="541" top="1" right="556" bottom="22" />
+</Imageset>

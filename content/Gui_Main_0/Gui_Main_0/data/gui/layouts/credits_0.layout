@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Layout>
+    <Child name="background" proto="Image">
+        <Visible value="0" />
+        <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+        <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+        <Image set="Uni" image="White" />
+        <Color r="0" g="0" b="0" a="255" />
+    </Child>
+    <Child name="Title" proto="Label">
+        <Visible value="0" />
+        <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+        <Size scale_x="-1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+        <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+        <Text value="CREDITS" />
+        <Font value="Montserat_110" />
+    </Child>
+    <Child name="Input_Contener" proto="Input_Contener">
+        <Position scale_x="1.000000" offset_x="-96.000000" scale_y="1.000000" offset_y="-54.000000" />
+    </Child>
+    <Child name="content_credit" proto="Dummy">
+        <Stack value="1" />
+        <StackDirection value="VERTICAL" />
+        <Position scale_x="0.500000" offset_x="0.000000" scale_y="1.000000" offset_y="0.000000" />
+        <Size scale_x="-1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+        <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+    </Child>
+</Layout>

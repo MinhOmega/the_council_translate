@@ -1,0 +1,10 @@
+<Imageset name="PlayerTraits" texture="PlayerTraits.tga">
+	<Image name="Integre" left="1" top="1" right="66" bottom="66" />
+	<Image name="Intemperant" left="69" top="1" right="134" bottom="66" />
+	<Image name="Irreflechi" left="137" top="1" right="202" bottom="66" />
+	<Image name="Libertin" left="1" top="69" right="66" bottom="134" />
+	<Image name="Occultist" left="1" top="137" right="66" bottom="202" />
+	<Image name="Sobre" left="69" top="69" right="134" bottom="134" />
+	<Image name="Spy" left="137" top="69" right="202" bottom="134" />
+	<Image name="Detective" left="69" top="137" right="134" bottom="202" />
+</Imageset>

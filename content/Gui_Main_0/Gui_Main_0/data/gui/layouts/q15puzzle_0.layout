@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Layout>
+    <Child name="CharactersList" proto="Dummy">
+        <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+        <Size scale_x="0.000000" offset_x="1600.000000" scale_y="-1.000000" offset_y="0.000000" />
+        <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+        <Child name="NPC_Holm" proto="Q15Character">
+            <Position scale_x="0.000000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+            <Child name="Perso">
+                <Child name="stack">
+                    <Child name="Name">
+                        <Text value="GUI.translationtable:HOLM_NAME" />
+                    </Child>
+                    <Child name="Surname">
+                        <Text value="GUI.translationtable:HOLM_SURNAME" />
+                    </Child>
+                </Child>
+            </Child>
+        </Child>
+        <Child name="NPC_Adams" proto="Q15Character">
+            <Position scale_x="0.000000" offset_x="200.000000" scale_y="0.500000" offset_y="0.000000" />
+            <Child name="Perso">
+                <Child name="stack">
+                    <Child name="Name">
+                        <Text value="GUI.translationtable:ADAMS_NAME" />
+                    </Child>
+                    <Child name="Surname">
+                        <Text value="GUI.translationtable:ADAMS_SURNAME" />
+                    </Child>
+                </Child>
+            </Child>
+        </Child>
+        <Child name="NPC_Wollner" proto="Q15Character">
+            <Position scale_x="0.000000" offset_x="400.000000" scale_y="0.500000" offset_y="0.000000" />
+            <Child name="Perso">
+                <Child name="stack">
+                    <Child name="Name">
+                        <Text value="GUI.translationtable:WOLLNER_NAME" />
+                    </Child>
+                    <Child name="Surname">
+                        <Text value="GUI.translationtable:WOLLNER_SURNAME" />
+                    </Child>
+                </Child>
+            </Child>
+        </Child>
+        <Child name="NPC_Hillsborrow" proto="Q15Character">
+            <Position scale_x="0.000000" offset_x="600.000000" scale_y="0.500000" offset_y="0.000000" />
+            <Child name="Perso">
+                <Child name="stack">
+                    <Child name="Name">
+                        <Text value="GUI.translationtable:HILLSBORROW_NAME" />
+                    </Child>
+                    <Child name="Surname">
+                        <Text value="GUI.translationtable:HILLSBORROW_SURNAME" />
+                    </Child>
+                </Child>
+            </Child>
+        </Child>
+        <Child name="NPC_Mortimer" proto="Q15Character">
+            <Position scale_x="0.000000" offset_x="800.000000" scale_y="0.500000" offset_y="0.000000" />
+            <Child name="Perso">
+                <Child name="stack">
+                    <Child name="Name">
+                        <Text value="GUI.translationtable:MORTIMER_NAME" />
+                    </Child>
+                    <Child name="Surname">
+                        <Text value="GUI.translationtable:MORTIMER_SURNAME" />
+                    </Child>
+                </Child>
+            </Child>
+        </Child>
+        <Child name="NPC_MaurasMirror" proto="Q15Character">
+            <Position scale_x="0.000000" offset_x="1000.000000" scale_y="0.500000" offset_y="0.000000" />
+            <Child name="Perso">
+                <Child name="stack">
+                    <Child name="Name">
+                        <Text value="GUI.translationtable:MAURAS_NAME" />
+                    </Child>
+                    <Child name="Surname">
+                        <Text value="GUI.translationtable:MAURAS_SURNAME" />
+                    </Child>
+                </Child>
+            </Child>
+        </Child>
+        <Child name="NPC_EmmaHB" proto="Q15Character">
+            <Position scale_x="0.000000" offset_x="1200.000000" scale_y="0.500000" offset_y="0.000000" />
+            <Child name="Perso">
+                <Child name="stack">
+                    <Child name="Name">
+                        <Text value="GUI.translationtable:EMMAHB_NAME" />
+                    </Child>
+                    <Child name="Surname">
+                        <Text value="GUI.translationtable:EMMAHB_SURNAME" />
+                    </Child>
+                </Child>
+            </Child>
+        </Child>
+        <Child name="NPC_DeRichetVariation" proto="Q15Character">
+            <Position scale_x="0.000000" offset_x="1400.000000" scale_y="0.500000" offset_y="0.000000" />
+            <Child name="Perso">
+                <Child name="stack">
+                    <Child name="Name">
+                        <Text value="GUI.translationtable:DERICHET_NAME" />
+                    </Child>
+                    <Child name="Surname">
+                        <Text value="GUI.translationtable:DERICHET_SURNAME" />
+                    </Child>
+                </Child>
+            </Child>
+        </Child>
+    </Child>
+    <Child name="Input_Contener" proto="Input_Contener">
+        <Position scale_x="1.000000" offset_x="-96.000000" scale_y="1.000000" offset_y="-54.000000" />
+        <Size scale_x="-1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+    </Child>
+</Layout>

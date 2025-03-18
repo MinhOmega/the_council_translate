@@ -1,0 +1,3 @@
+<Imageset name="Manuscrits" texture="Manuscrits.tga">
+	<Image name="rond_manuscrit" left="1" top="1" right="90" bottom="90" />
+</Imageset>

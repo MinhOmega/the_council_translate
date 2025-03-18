@@ -1,0 +1,840 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Workspace>
+  <Config>
+    <TexturePath path="" />
+    <BuildPath path="" />
+    <Name value="Murder" />
+    <Resolution width="1920" height="1080" />
+    <RescaleOffset value="0" />
+  </Config>
+  <Images>
+    <ImageSet name="1er_etage" file="Imagesets\1er_etage.imageset" built="true" width="2048" height="2048" compressed="1" tga="1">
+      <Image>Textures\Map\1er_etage\adams.png</Image>
+      <Image>Textures\Map\1er_etage\balcon.png</Image>
+      <Image>Textures\Map\1er_etage\balcon2.png</Image>
+      <Image>Textures\Map\1er_etage\corridor.png</Image>
+      <Image>Textures\Map\1er_etage\deavilla.png</Image>
+      <Image>Textures\Map\1er_etage\garden.png</Image>
+      <Image>Textures\Map\1er_etage\godoy.png</Image>
+      <Image>Textures\Map\1er_etage\Hillsborrow.png</Image>
+      <Image>Textures\Map\1er_etage\library.png</Image>
+      <Image>Textures\Map\1er_etage\mauras.png</Image>
+      <Image>Textures\Map\1er_etage\Napoleon.png</Image>
+      <Image>Textures\Map\1er_etage\peru.png</Image>
+      <Image>Textures\Map\1er_etage\piaggi.png</Image>
+      <Image>Textures\Map\1er_etage\washington.png</Image>
+      <Image>Textures\Map\1er_etage\wolner.png</Image>
+      <Image>Textures\Map\Guest_Floor\Adams_Inside.png</Image>
+      <Image>Textures\Map\Guest_Floor\Adams_ok.png</Image>
+      <Image>Textures\Map\Guest_Floor\Adams_selection.png</Image>
+      <Image>Textures\Map\Guest_Floor\balcon_1_inside.png</Image>
+      <Image>Textures\Map\Guest_Floor\balcon_1_ok.png</Image>
+      <Image>Textures\Map\Guest_Floor\balcon_1_selection.png</Image>
+      <Image>Textures\Map\Guest_Floor\balcon_mauras_inside.png</Image>
+      <Image>Textures\Map\Guest_Floor\balcon_mauras_ok.png</Image>
+      <Image>Textures\Map\Guest_Floor\balcon_mauras_selection.png</Image>
+      <Image>Textures\Map\Guest_Floor\corridor_inside.png</Image>
+      <Image>Textures\Map\Guest_Floor\corridor_ok.png</Image>
+      <Image>Textures\Map\Guest_Floor\Corridor_Selection.png</Image>
+      <Image>Textures\Map\Guest_Floor\deavilla_inside.png</Image>
+      <Image>Textures\Map\Guest_Floor\Deavilla_ok.png</Image>
+      <Image>Textures\Map\Guest_Floor\Deavilla_selection.png</Image>
+      <Image>Textures\Map\Guest_Floor\Garden_Inside.png</Image>
+      <Image>Textures\Map\Guest_Floor\Garden_ok.png</Image>
+      <Image>Textures\Map\Guest_Floor\Garden_Selection.png</Image>
+      <Image>Textures\Map\Guest_Floor\Godoy_Inside.png</Image>
+      <Image>Textures\Map\Guest_Floor\Godoy_ok.png</Image>
+      <Image>Textures\Map\Guest_Floor\Godoy_selection.png</Image>
+      <Image>Textures\Map\Guest_Floor\hillsborrow_inside.png</Image>
+      <Image>Textures\Map\Guest_Floor\hillsborrow_ok.png</Image>
+      <Image>Textures\Map\Guest_Floor\Hillsborrow_selection.png</Image>
+      <Image>Textures\Map\Guest_Floor\library_inside.png</Image>
+      <Image>Textures\Map\Guest_Floor\library_ok.png</Image>
+      <Image>Textures\Map\Guest_Floor\Library_selection.png</Image>
+      <Image>Textures\Map\Guest_Floor\Mauras_inside.png</Image>
+      <Image>Textures\Map\Guest_Floor\Mauras_ok.png</Image>
+      <Image>Textures\Map\Guest_Floor\Mauras_selection.png</Image>
+      <Image>Textures\Map\Guest_Floor\Napoleon_Inside.png</Image>
+      <Image>Textures\Map\Guest_Floor\Napoleon_ok.png</Image>
+      <Image>Textures\Map\Guest_Floor\Napoleon_Selection.png</Image>
+      <Image>Textures\Map\Guest_Floor\Peru_Inside.png</Image>
+      <Image>Textures\Map\Guest_Floor\Peru_ok.png</Image>
+      <Image>Textures\Map\Guest_Floor\Peru_Selection.png</Image>
+      <Image>Textures\Map\Guest_Floor\Piaggi_Inside.png</Image>
+      <Image>Textures\Map\Guest_Floor\Piaggi_ok.png</Image>
+      <Image>Textures\Map\Guest_Floor\Piaggi_selection.png</Image>
+      <Image>Textures\Map\Guest_Floor\Washington_Inside.png</Image>
+      <Image>Textures\Map\Guest_Floor\Washington_ok.png</Image>
+      <Image>Textures\Map\Guest_Floor\Washington_Selection.png</Image>
+      <Image>Textures\Map\Guest_Floor\Wollner_Inside.png</Image>
+      <Image>Textures\Map\Guest_Floor\Wollner_selection.png</Image>
+      <Image>Textures\Map\Guest_Floor\Woolner_ok.png</Image>
+      <Image>Textures\Map\Guest_Floor\CorridorToBackStairs.png</Image>
+      <Image>Textures\Map\Guest_Floor\CorridorToBigHall1.png</Image>
+      <Image>Textures\Map\Guest_Floor\CorridorToBigHall2.png</Image>
+      <Image>Textures\Map\Guest_Floor\CorridorToMorti.png</Image>
+    </ImageSet>
+    <ImageSet name="2eme_etage" file="Imagesets\2eme_etage.imageset" built="true" width="2048" height="2048" compressed="1" tga="1">
+      <Image>Textures\Map\2eme_etage\confrotation_inside.png</Image>
+      <Image>Textures\Map\2eme_etage\confrotation_know.png</Image>
+      <Image>Textures\Map\2eme_etage\holm_inside.png</Image>
+      <Image>Textures\Map\2eme_etage\holm_know.png</Image>
+      <Image>Textures\Map\2eme_etage\mortimer_inside.png</Image>
+      <Image>Textures\Map\2eme_etage\mortimer_know.png</Image>
+      <Image>Textures\Map\2eme_etage\oeideverre_know.png</Image>
+      <Image>Textures\Map\2eme_etage\secret_mortimer_inside.png</Image>
+      <Image>Textures\Map\2eme_etage\secret_mortimer_know.png</Image>
+      <Image>Textures\Map\2eme_etage\confrotation_selection.png</Image>
+      <Image>Textures\Map\2eme_etage\holm_selection.png</Image>
+      <Image>Textures\Map\2eme_etage\mortimer_selection.png</Image>
+      <Image>Textures\Map\2eme_etage\secret_mortimer_selection.png</Image>
+      <Image>Textures\Map\2eme_etage\2eme_etage.png</Image>
+      <Image>Textures\Map\2eme_etage\MortiToCorridor.png</Image>
+    </ImageSet>
+    <ImageSet name="Background_GUI" file="Imagesets\Background_GUI.imageset" built="true" width="2048" height="2048" compressed="1" tga="1">
+      <Image>Textures\background\Background_GUI.png</Image>
+    </ImageSet>
+    <ImageSet name="Before_Start" file="Imagesets\Before_Start.imageset" built="true" width="2048" height="2048" compressed="1" tga="1">
+      <Image>Textures\BEFORE_START\LOGOM_START.png</Image>
+      <Image>Textures\BEFORE_START\focus_logo.png</Image>
+    </ImageSet>
+    <ImageSet name="CharacterSheet" file="Imagesets\CharacterSheet.imageset" built="true" width="4096" height="4096" compressed="1" tga="1">
+      <Image>Textures\CharacterSheet\Leve_grid\Icon_Book.png</Image>
+    </ImageSet>
+    <ImageSet name="Choose_Episode" file="Imagesets\Choose_Episode.imageset" built="true" width="2048" height="2048" compressed="1" tga="1">
+      <Image>Textures\Choose_episode\Adams.png</Image>
+      <Image>Textures\Choose_episode\Peru.png</Image>
+      <Image>Textures\Choose_episode\derichet.png</Image>
+      <Image>Textures\Choose_episode\Holm.png</Image>
+      <Image>Textures\Choose_episode\derichet_env.png</Image>
+      <Image>Textures\Choose_episode\Hillsborrow.png</Image>
+      <Image>Textures\Choose_episode\hillsborrow_env.png</Image>
+      <Image>Textures\Choose_episode\Holm_env.png</Image>
+      <Image>Textures\Choose_episode\peru_env.png</Image>
+    </ImageSet>
+    <ImageSet name="Class_Choice" file="Imagesets\Class_Choice.imageset" built="true" width="2048" height="2048" compressed="1" tga="1">
+      <Image>Textures\Class_Choice\logo_occultiste.png</Image>
+      <Image>Textures\Class_Choice\logo_cut_occultiste.png</Image>
+      <Image>Textures\Class_Choice\Logo_Detective.png</Image>
+      <Image>Textures\Class_Choice\logo_diplomate.png</Image>
+      <Image>Textures\Class_Choice\logo_cut_detective.png</Image>
+      <Image>Textures\Class_Choice\logo_cut_diplomate.png</Image>
+    </ImageSet>
+    <ImageSet name="Composant" file="Imagesets\Composant.imageset" built="true" width="256" height="256" compressed="1" tga="1">
+      <Image>Textures\Composant\Roue\cursor_choix2.png</Image>
+      <Image>Textures\Composant\Roue\Fleche_01.png</Image>
+      <Image>Textures\Composant\Roue\newroue.png</Image>
+      <Image>Textures\Composant\Roue\rond.png</Image>
+      <Image>Textures\Composant\info_01.tga</Image>
+      <Image>Textures\Composant\fond_subtitle.png</Image>
+      <Image>Textures\Composant\Roue\diffi.png</Image>
+      <Image>Textures\Composant\interaction.png</Image>
+    </ImageSet>
+    <ImageSet name="Credits" file="Imagesets\Credits.imageset" built="true" width="2048" height="2048" compressed="1" tga="1">
+      <Image>Textures\Credits\eu-creative-media.png</Image>
+      <Image>Textures\Credits\eu_flag-2015.png</Image>
+      <Image>Textures\Credits\matrice-logo.png</Image>
+    </ImageSet>
+    <ImageSet name="Dial_Fight" file="Imagesets\Dial_Fight.imageset" built="true" width="2048" height="2048" compressed="1" tga="1">
+      <Image>Textures\Dial_Fight\good.png</Image>
+      <Image>Textures\Dial_Fight\wrong.png</Image>
+      <Image>Textures\Dial_Fight\last_step.png</Image>
+    </ImageSet>
+    <ImageSet name="Editeur" file="Imagesets\Editeur.imageset" built="true" width="2048" height="2048" compressed="1" tga="1">
+      <Image>Textures\Editeur\Cyanide_logo.png</Image>
+      <Image>Textures\Editeur\Bigbadwolf_logo.png</Image>
+    </ImageSet>
+    <ImageSet name="Elements" file="Imagesets\Elements.imageset" built="true" width="2048" height="2048" compressed="1" tga="1">
+      <Image>Textures\Element\img_question.png</Image>
+      <Image>Textures\Element\LOADING_test.png</Image>
+      <Image>Textures\Element\fond_texte.png</Image>
+      <Image>Textures\Element\Coin.png</Image>
+      <Image>Textures\Element\Choice\tooltip.png</Image>
+      <Image>Textures\Element\Choice\tooltip_off.png</Image>
+      <Image>Textures\Element\Choice\tooltip_already.png</Image>
+      <Image>Textures\Element\xbox_manette.png</Image>
+      <Image>Textures\Element\rond_dots_left.png</Image>
+      <Image>Textures\Element\fond_texte_Choice.png</Image>
+      <Image>Textures\Element\encyclopedie.png</Image>
+    </ImageSet>
+    <ImageSet name="Elements_Skills" file="Imagesets\Elements_Skills.imageset" built="true" width="2048" height="2048" compressed="1" tga="1">
+      <Image>Textures\Skills\Element\rond_skill.png</Image>
+      <Image>Textures\Skills\Element\level3.png</Image>
+    </ImageSet>
+    <ImageSet name="Encyclopedie" file="Imagesets\Encyclopedie.imageset" built="true" width="2048" height="2048" compressed="1" tga="1">
+      <Image>Textures\Inventaire\NEW\rond_manuscrit_unlock_NEW.png</Image>
+    </ImageSet>
+    <ImageSet name="EndQuest" file="Imagesets\EndQuest.imageset" built="true" width="2048" height="2048" compressed="1" tga="1">
+      <Image>Textures\EndQuestXp\altPath_line.png</Image>
+      <Image>Textures\EndQuestXp\Fail_line.png</Image>
+      <Image>Textures\EndQuestXp\Success_line.png</Image>
+    </ImageSet>
+    <ImageSet name="Exterieur" file="Imagesets\Exterieur.imageset" built="true" width="2048" height="2048" compressed="1" tga="1">
+      <Image>Textures\Map\Exterieur\exterieur.png</Image>
+      <Image>Textures\Map\Exterieur\exterieur_Inside.png</Image>
+      <Image>Textures\Map\Exterieur\exterieur_selection.png</Image>
+      <Image>Textures\Map\GardenFloor\Garden_Ok.png</Image>
+      <Image>Textures\Map\GardenFloor\Garden_Inside.png</Image>
+      <Image>Textures\Map\GardenFloor\Garden_Selection.png</Image>
+      <Image>Textures\Map\Exterieur\Graveyard_Inside.png</Image>
+      <Image>Textures\Map\Exterieur\Graveyard_Ok.png</Image>
+      <Image>Textures\Map\Exterieur\Graveyard_Selection.png</Image>
+      <Image>Textures\Map\Exterieur\GraveYardToGarden.png</Image>
+      <Image>Textures\Map\Exterieur\PierToParvis.png</Image>
+      <Image>Textures\Map\GardenFloor\GardenToBackStairs.png</Image>
+      <Image>Textures\Map\GardenFloor\GardenToPortraitGallery.png</Image>
+      <Image>Textures\Map\Limbo_Inside.png</Image>
+      <Image>Textures\Map\Limbo_Selection.png</Image>
+    </ImageSet>
+    <ImageSet name="Ichor" file="Imagesets\Ichor.imageset" built="true" width="2048" height="2048" compressed="1" tga="1">
+      <Image>Textures\Ichor\Ichor_Empty.png</Image>
+      <Image>Textures\Ichor\Ichor_Full.png</Image>
+      <Image>Textures\Ichor\Ichor_Preview.png</Image>
+      <Image>Textures\Ichor\Icone_Roue.png</Image>
+      <Image>Textures\Ichor\Oeil.png</Image>
+      <Image>Textures\Ichor\Fond_Roue.png</Image>
+      <Image>Textures\Ichor\Icone_MindControl.png</Image>
+    </ImageSet>
+    <ImageSet name="Inventaire" file="Imagesets\Inventaire.imageset" built="true" width="2048" height="2048" compressed="1" tga="1">
+      <Image>Textures\Inventaire\fond_consommable.png</Image>
+      <Image>Textures\Inventaire\selection_consommable.png</Image>
+      <Image>Textures\Inventaire\book_open.png</Image>
+    </ImageSet>
+    <ImageSet name="Inventory_Manuscrit" file="Imagesets\Inventory_Manuscrit.imageset" built="true" width="2048" height="2048" compressed="1" tga="1">
+      <Image>Textures\Inventory_Textures\Nouveau dossier\Inconnu.png</Image>
+      <Image>Textures\Inventory_Textures\Nouveau dossier\Manuscrit_Read.png</Image>
+      <Image>Textures\Inventory_Textures\Nouveau dossier\PointedState.png</Image>
+      <Image>Textures\Inventory_Textures\Nouveau dossier\Rond_Icon_Manuscrit.png</Image>
+      <Image>Textures\Inventory_Textures\Nouveau dossier\Rond_Skill.png</Image>
+      <Image>Textures\Inventory_Textures\Nouveau dossier\Unlock.png</Image>
+      <Image>Textures\Inventory_Textures\Nouveau dossier\Unlock_Icon.png</Image>
+      <Image>Textures\Inventory_Textures\Nouveau dossier\use.png</Image>
+      <Image>Textures\Inventory_Textures\Nouveau dossier\selection_objet_Narratif.png</Image>
+      <Image>Textures\Inventaire\collection.png</Image>
+    </ImageSet>
+    <ImageSet name="Manuscrits" file="Imagesets\Manuscrits.imageset" built="true" width="2048" height="2048" compressed="1" tga="1">
+      <Image>Textures\Inventaire\rond_manuscrit.png</Image>
+    </ImageSet>
+    <ImageSet name="Maps" file="Imagesets\Maps.imageset" built="true" width="2048" height="2048" compressed="1" tga="1">
+      <Image>Textures\Map\map_level.png</Image>
+      <Image>Textures\Map\1er_etage\all_fond.png</Image>
+      <Image>Textures\Map\2eme_etage\2eme_etage.png</Image>
+      <Image>Textures\Map\RDC\rdc_contour.png</Image>
+      <Image>Textures\Map\player.png</Image>
+    </ImageSet>
+    <ImageSet name="Menu" file="Imagesets\Menu.imageset" built="true" width="2048" height="2048" compressed="1" tga="1">
+      <Image>Textures\menu\missed.png</Image>
+      <Image>Textures\menu\NAILS_Nails.png</Image>
+      <Image>Textures\menu\NAILS_Normal.png</Image>
+      <Image>Textures\menu\NAILS_Rollover.png</Image>
+    </ImageSet>
+    <ImageSet name="PAD_TRC" file="Imagesets\PAD_TRC.imageset" built="true" width="2048" height="2048" compressed="1" tga="1">
+      <Image>Textures\Pad_TRC\Button_A.png</Image>
+      <Image>Textures\Pad_TRC\Button_B.png</Image>
+      <Image>Textures\Pad_TRC\Button_X.png</Image>
+      <Image>Textures\Pad_TRC\Button_Y.png</Image>
+      <Image>Textures\Pad_TRC\Button_carre.png</Image>
+      <Image>Textures\Pad_TRC\Button_L.png</Image>
+      <Image>Textures\Pad_TRC\Button_LB.png</Image>
+      <Image>Textures\Pad_TRC\Button_LT.png</Image>
+      <Image>Textures\Pad_TRC\Button_R.png</Image>
+      <Image>Textures\Pad_TRC\Button_RB.png</Image>
+      <Image>Textures\Pad_TRC\Button_Rond.png</Image>
+      <Image>Textures\Pad_TRC\Button_RT.png</Image>
+      <Image>Textures\Pad_TRC\Button_Setting.png</Image>
+      <Image>Textures\Pad_TRC\Button_triangle.png</Image>
+      <Image>Textures\Pad_TRC\Button_XPS.png</Image>
+      <Image>Textures\Pad_TRC\Cross.png</Image>
+      <Image>Textures\Pad_TRC\Cross_Down.png</Image>
+      <Image>Textures\Pad_TRC\Cross_Left.png</Image>
+      <Image>Textures\Pad_TRC\Cross_Right.png</Image>
+      <Image>Textures\Pad_TRC\Cross_Up.png</Image>
+      <Image>Textures\Pad_TRC\cursor_ps_bas.png</Image>
+      <Image>Textures\Pad_TRC\cursor_ps_droite.png</Image>
+      <Image>Textures\Pad_TRC\cursor_ps_gauche.png</Image>
+      <Image>Textures\Pad_TRC\cursor_ps_haut.png</Image>
+      <Image>Textures\Pad_TRC\cursor_ps4.png</Image>
+      <Image>Textures\Pad_TRC\L_ps.png</Image>
+      <Image>Textures\Pad_TRC\L1.png</Image>
+      <Image>Textures\Pad_TRC\L2.png</Image>
+      <Image>Textures\Pad_TRC\R_ps.png</Image>
+      <Image>Textures\Pad_TRC\R1.png</Image>
+      <Image>Textures\Pad_TRC\R2.png</Image>
+      <Image>Textures\Pad_TRC\Select_ps.png</Image>
+      <Image>Textures\Pad_TRC\trait.png</Image>
+      <Image>Textures\Pad_TRC\LB_NAV.png</Image>
+      <Image>Textures\Pad_TRC\RB_NAV.png</Image>
+      <Image>Textures\Pad_TRC\delete_key.png</Image>
+      <Image>Textures\Pad_TRC\enter_key.png</Image>
+      <Image>Textures\Pad_TRC\key_control_empty.png</Image>
+      <Image>Textures\Pad_TRC\key_empty.png</Image>
+      <Image>Textures\Pad_TRC\shift_key.png</Image>
+      <Image>Textures\Pad_TRC\tab_key.png</Image>
+      <Image>Textures\Pad_TRC\R3_ps.png</Image>
+      <Image>Textures\Pad_TRC\options_ps.png</Image>
+      <Image>Textures\Pad_TRC\LB_NAV_ps.png</Image>
+      <Image>Textures\Pad_TRC\RB_NAV_ps.png</Image>
+      <Image>Textures\Pad_TRC\cursor_haut_bas.png</Image>
+      <Image>Textures\Pad_TRC\mouse_move.png</Image>
+      <Image>Textures\Pad_TRC\click_middle.png</Image>
+      <Image>Textures\Pad_TRC\key_empty_border.png</Image>
+      <Image>Textures\Pad_TRC\key_empty_stretch.png</Image>
+    </ImageSet>
+    <ImageSet name="PlayerTraitsGameplay" file="Imagesets\PlayerTraitsGameplay.imageset" built="true" width="2048" height="2048" compressed="1" tga="1">
+      <Image>Textures\PlayerTraits\Gameplay\Trait_ABoutDeSouffle.png</Image>
+      <Image>Textures\PlayerTraits\Gameplay\Trait_Alchemist.png</Image>
+      <Image>Textures\PlayerTraits\Gameplay\Trait_Ambassadeur.png</Image>
+      <Image>Textures\PlayerTraits\Gameplay\Trait_Apprenti.png</Image>
+      <Image>Textures\PlayerTraits\Gameplay\Trait_Archeologue.png</Image>
+      <Image>Textures\PlayerTraits\Gameplay\Trait_Athlete.png</Image>
+      <Image>Textures\PlayerTraits\Gameplay\Trait_Bookworm.png</Image>
+      <Image>Textures\PlayerTraits\Gameplay\Trait_Bouquineur.png</Image>
+      <Image>Textures\PlayerTraits\Gameplay\Trait_Brutal.png</Image>
+      <Image>Textures\PlayerTraits\Gameplay\Trait_Calculateur.png</Image>
+      <Image>Textures\PlayerTraits\Gameplay\Trait_Collectionneur.png</Image>
+      <Image>Textures\PlayerTraits\Gameplay\Trait_Concentre.png</Image>
+      <Image>Textures\PlayerTraits\Gameplay\Trait_Demagogue.png</Image>
+      <Image>Textures\PlayerTraits\Gameplay\Trait_Docte.png</Image>
+      <Image>Textures\PlayerTraits\Gameplay\Trait_Empathique.png</Image>
+      <Image>Textures\PlayerTraits\Gameplay\Trait_Enqueteur.png</Image>
+      <Image>Textures\PlayerTraits\Gameplay\Trait_Espion.png</Image>
+      <Image>Textures\PlayerTraits\Gameplay\Trait_Experimente.png</Image>
+      <Image>Textures\PlayerTraits\Gameplay\Trait_Indelicat.png</Image>
+      <Image>Textures\PlayerTraits\Gameplay\Trait_Indiscret.png</Image>
+      <Image>Textures\PlayerTraits\Gameplay\Trait_Initie.png</Image>
+      <Image>Textures\PlayerTraits\Gameplay\Trait_Inspecteur.png</Image>
+      <Image>Textures\PlayerTraits\Gameplay\Trait_Interprete.png</Image>
+      <Image>Textures\PlayerTraits\Gameplay\Trait_Intuitif.png</Image>
+      <Image>Textures\PlayerTraits\Gameplay\Trait_Lettre.png</Image>
+      <Image>Textures\PlayerTraits\Gameplay\Trait_Machiavel.png</Image>
+      <Image>Textures\PlayerTraits\Gameplay\Trait_Maitrise_Diplomatique.png</Image>
+      <Image>Textures\PlayerTraits\Gameplay\Trait_Maitrise_Occulte.png</Image>
+      <Image>Textures\PlayerTraits\Gameplay\Trait_Maitrise_Policiere.png</Image>
+      <Image>Textures\PlayerTraits\Gameplay\Trait_Nature_Diplomatique.png</Image>
+      <Image>Textures\PlayerTraits\Gameplay\Trait_Nature_Occulte.png</Image>
+      <Image>Textures\PlayerTraits\Gameplay\Trait_Nature_Policiere.png</Image>
+      <Image>Textures\PlayerTraits\Gameplay\Trait_Officier.png</Image>
+      <Image>Textures\PlayerTraits\Gameplay\Trait_Orateur.png</Image>
+      <Image>Textures\PlayerTraits\Gameplay\Trait_PasseMuraille.png</Image>
+      <Image>Textures\PlayerTraits\Gameplay\Trait_Peremptoire.png</Image>
+      <Image>Textures\PlayerTraits\Gameplay\Trait_Politicien.png</Image>
+      <Image>Textures\PlayerTraits\Gameplay\Trait_PrinceAmbre.png</Image>
+      <Image>Textures\PlayerTraits\Gameplay\Trait_Rapide.png</Image>
+      <Image>Textures\PlayerTraits\Gameplay\Trait_Reflexes_Diplomatiques.png</Image>
+      <Image>Textures\PlayerTraits\Gameplay\Trait_Reflexes_Occultes.png</Image>
+      <Image>Textures\PlayerTraits\Gameplay\Trait_Reflexes_Policiers.png</Image>
+      <Image>Textures\PlayerTraits\Gameplay\Trait_Seduisant.png</Image>
+      <Image>Textures\PlayerTraits\Gameplay\Trait_Sobre.png</Image>
+      <Image>Textures\PlayerTraits\Gameplay\Trait_Soigneur.png</Image>
+      <Image>Textures\PlayerTraits\Gameplay\Trait_Subtil.png</Image>
+      <Image>Textures\PlayerTraits\Gameplay\Trait_Talentueux.png</Image>
+      <Image>Textures\PlayerTraits\Gameplay\Trait_ToucheATout.png</Image>
+      <Image>Textures\PlayerTraits\Gameplay\Trait_Veloce.png</Image>
+      <Image>Textures\PlayerTraits\Gameplay\Trait_Veteran.png</Image>
+      <Image>Textures\PlayerTraits\Gameplay\Trait_Vif.png</Image>
+    </ImageSet>
+    <ImageSet name="PlayerTraitsNarratif" file="Imagesets\PlayerTraitsNarratif.imageset" built="true" width="2048" height="2048" compressed="1" tga="1">
+      <Image>Textures\PlayerTraits\Narratif\Trait_Amateur.png</Image>
+      <Image>Textures\PlayerTraits\Narratif\Trait_Boxeur.png</Image>
+      <Image>Textures\PlayerTraits\Narratif\Trait_Candid.png</Image>
+      <Image>Textures\PlayerTraits\Narratif\Trait_Confiant.png</Image>
+      <Image>Textures\PlayerTraits\Narratif\Trait_Curieux.png</Image>
+      <Image>Textures\PlayerTraits\Narratif\Trait_Detective.png</Image>
+      <Image>Textures\PlayerTraits\Narratif\Trait_Determine.png</Image>
+      <Image>Textures\PlayerTraits\Narratif\Trait_Diplomate.png</Image>
+      <Image>Textures\PlayerTraits\Narratif\Trait_Douteux.png</Image>
+      <Image>Textures\PlayerTraits\Narratif\Trait_Fiable.png</Image>
+      <Image>Textures\PlayerTraits\Narratif\Trait_Fidele.png</Image>
+      <Image>Textures\PlayerTraits\Narratif\Trait_Gentilhomme.png</Image>
+      <Image>Textures\PlayerTraits\Narratif\Trait_Illlegit.png</Image>
+      <Image>Textures\PlayerTraits\Narratif\Trait_Immoral.png</Image>
+      <Image>Textures\PlayerTraits\Narratif\Trait_Intemperant.png</Image>
+      <Image>Textures\PlayerTraits\Narratif\Trait_Irreflechi.png</Image>
+      <Image>Textures\PlayerTraits\Narratif\Trait_Legit.png</Image>
+      <Image>Textures\PlayerTraits\Narratif\Trait_Libertin.png</Image>
+      <Image>Textures\PlayerTraits\Narratif\Trait_Limier.png</Image>
+      <Image>Textures\PlayerTraits\Narratif\Trait_Malin.png</Image>
+      <Image>Textures\PlayerTraits\Narratif\Trait_Confident.png</Image>
+      <Image>Textures\PlayerTraits\Narratif\Trait_Occultist.png</Image>
+      <Image>Textures\PlayerTraits\Narratif\Trait_Ordre.png</Image>
+      <Image>Textures\PlayerTraits\Narratif\Trait_Quest.png</Image>
+      <Image>Textures\PlayerTraits\Narratif\Trait_Serviable.png</Image>
+      <Image>Textures\PlayerTraits\Narratif\Trait_Sincere.png</Image>
+      <Image>Textures\PlayerTraits\Narratif\Trait_Temperant.png</Image>
+      <Image>Textures\PlayerTraits\Narratif\Trait_Spy.png</Image>
+      <Image>Textures\PlayerTraits\Narratif\Trait_Stitches.png</Image>
+      <Image>Textures\PlayerTraits\Narratif\Trait_Vindic.png</Image>
+      <Image>Textures\PlayerTraits\Narratif\Trait_Voyeur.png</Image>
+      <Image>Textures\PlayerTraits\Narratif\Trait_Louche.png</Image>
+      <Image>Textures\PlayerTraits\Narratif\Trait_PresenceCharismatique.png</Image>
+      <Image>Textures\PlayerTraits\Narratif\Trait_Snooper.png</Image>
+      <Image>Textures\PlayerTraits\Narratif\Trait_HotHeaded.png</Image>
+      <Image>Textures\PlayerTraits\Narratif\Trait_Thoughtful.png</Image>
+      <Image>Textures\PlayerTraits\Narratif\Trait_Interrogator.png</Image>
+      <Image>Textures\PlayerTraits\Narratif\Trait_Hellenist.png</Image>
+      <Image>Textures\PlayerTraits\Narratif\Trait_Protecteur.png</Image>
+      <Image>Textures\PlayerTraits\Narratif\Trait_Ambassadeur2.png</Image>
+      <Image>Textures\PlayerTraits\Narratif\Trait_Briseurdalliances.png</Image>
+      <Image>Textures\PlayerTraits\Narratif\Trait_Belliqueux.png</Image>
+      <Image>Textures\PlayerTraits\Narratif\Trait_Attentiste.png</Image>
+      <Image>Textures\PlayerTraits\Narratif\Trait_IronWill.png</Image>
+      <Image>Textures\PlayerTraits\Narratif\Trait_Girouette.png</Image>
+      <Image>Textures\PlayerTraits\Narratif\Trait_Sauveur.png</Image>
+      <Image>Textures\PlayerTraits\Narratif\Trait_Inconsequent.png</Image>
+      <Image>Textures\PlayerTraits\Narratif\Trait_NouveauSang.png</Image>
+      <Image>Textures\PlayerTraits\Narratif\Trait_Hardskin.png</Image>
+      <Image>Textures\PlayerTraits\Narratif\Trait_Brute.png</Image>
+      <Image>Textures\PlayerTraits\Narratif\Trait_Finesse.png</Image>
+      <Image>Textures\PlayerTraits\Narratif\Trait_Analyste.png</Image>
+      <Image>Textures\PlayerTraits\Narratif\Trait_Profileur.png</Image>
+      <Image>Textures\PlayerTraits\Narratif\Trait_Profileur2.png</Image>
+      <Image>Textures\PlayerTraits\Narratif\Trait_Faussaire.png</Image>
+      <Image>Textures\PlayerTraits\Narratif\Trait_Independant.png</Image>
+      <Image>Textures\PlayerTraits\Narratif\Trait_Arrogant.png</Image>
+      <Image>Textures\PlayerTraits\Narratif\Trait_Chimiste.png</Image>
+      <Image>Textures\PlayerTraits\Narratif\Trait_Empoisonne.png</Image>
+      <Image>Textures\PlayerTraits\Narratif\Trait_40.png</Image>
+      <Image>Textures\PlayerTraits\Narratif\Trait_41.png</Image>
+      <Image>Textures\PlayerTraits\Narratif\Trait_Matricide.png</Image>
+      <Image>Textures\PlayerTraits\Narratif\Trait_Emancipe.png</Image>
+      <Image>Textures\PlayerTraits\Narratif\Trait_Sacrifice.png</Image>
+      <Image>Textures\PlayerTraits\Narratif\Trait_DigneDeConfiance.png</Image>
+      <Image>Textures\PlayerTraits\Narratif\Trait_47.png</Image>
+      <Image>Textures\PlayerTraits\Narratif\Trait_MaitreChanteur.png</Image>
+      <Image>Textures\PlayerTraits\Narratif\Trait_49.png</Image>
+      <Image>Textures\PlayerTraits\Narratif\Trait_50.png</Image>
+      <Image>Textures\PlayerTraits\Narratif\Trait_Insane.png</Image>
+      <Image>Textures\PlayerTraits\Narratif\Trait_53.png</Image>
+      <Image>Textures\PlayerTraits\Narratif\Trait_Vandale.png</Image>
+      <Image>Textures\PlayerTraits\Narratif\Trait_55.png</Image>
+      <Image>Textures\PlayerTraits\Narratif\Trait_56.png</Image>
+      <Image>Textures\PlayerTraits\Narratif\Trait_57.png</Image>
+      <Image>Textures\PlayerTraits\Narratif\Trait_58.png</Image>
+      <Image>Textures\PlayerTraits\Narratif\Trait_Grossetete.png</Image>
+      <Image>Textures\PlayerTraits\Narratif\Trait_Expert.png</Image>
+      <Image>Textures\PlayerTraits\Narratif\Trait_Voleur.png</Image>
+      <Image>Textures\PlayerTraits\Narratif\Trait_Accueillant.png</Image>
+      <Image>Textures\PlayerTraits\Narratif\Trait_AccueillantBis.png</Image>
+      <Image>Textures\PlayerTraits\Narratif\Trait_Bienveilleur.png</Image>
+      <Image>Textures\PlayerTraits\Narratif\Trait_Emissaire.png</Image>
+      <Image>Textures\PlayerTraits\Narratif\Trait_Bonisseur.png</Image>
+      <Image>Textures\PlayerTraits\Narratif\Trait_Manchot.png</Image>
+      <Image>Textures\PlayerTraits\Narratif\Trait_68.png</Image>
+      <Image>Textures\PlayerTraits\Narratif\Trait_69.png</Image>
+      <Image>Textures\PlayerTraits\Narratif\Trait_Enfant de choeur.png</Image>
+      <Image>Textures\PlayerTraits\Narratif\Trait_Disciple.png</Image>
+      <Image>Textures\PlayerTraits\Narratif\Trait_72.png</Image>
+      <Image>Textures\PlayerTraits\Narratif\Trait_73.png</Image>
+      <Image>Textures\PlayerTraits\Narratif\Trait_74.png</Image>
+      <Image>Textures\PlayerTraits\Narratif\Trait_75.png</Image>
+      <Image>Textures\PlayerTraits\Narratif\Trait_76.png</Image>
+      <Image>Textures\PlayerTraits\Narratif\Trait_Rejeton.png</Image>
+      <Image>Textures\PlayerTraits\Narratif\Trait_78.png</Image>
+      <Image>Textures\PlayerTraits\Narratif\Trait_79.png</Image>
+      <Image>Textures\PlayerTraits\Narratif\Trait_Lynx.png</Image>
+      <Image>Textures\PlayerTraits\Narratif\Trait_81.png</Image>
+      <Image>Textures\PlayerTraits\Narratif\Trait_82.png</Image>
+      <Image>Textures\PlayerTraits\Narratif\Trait_83.png</Image>
+      <Image>Textures\PlayerTraits\Narratif\Trait_84.png</Image>
+      <Image>Textures\PlayerTraits\Narratif\Trait_85.png</Image>
+      <Image>Textures\PlayerTraits\Narratif\Trait_Q11_Archeologue.png</Image>
+      <Image>Textures\PlayerTraits\Narratif\Trait_88.png</Image>
+      <Image>Textures\PlayerTraits\Narratif\Trait_89.png</Image>
+      <Image>Textures\PlayerTraits\Narratif\Trait_90.png</Image>
+      <Image>Textures\PlayerTraits\Narratif\Trait_92.png</Image>
+      <Image>Textures\PlayerTraits\Narratif\Trait_93.png</Image>
+      <Image>Textures\PlayerTraits\Narratif\Trait_94.png</Image>
+      <Image>Textures\PlayerTraits\Narratif\Trait_95.png</Image>
+      <Image>Textures\PlayerTraits\Narratif\Trait_96.png</Image>
+      <Image>Textures\PlayerTraits\Narratif\Trait_Presomptueux.png</Image>
+      <Image>Textures\PlayerTraits\Narratif\Trait_98.png</Image>
+      <Image>Textures\PlayerTraits\Narratif\Trait_99.png</Image>
+      <Image>Textures\PlayerTraits\Narratif\Trait_100.png</Image>
+      <Image>Textures\PlayerTraits\Narratif\Trait_Dechu.png</Image>
+      <Image>Textures\PlayerTraits\Narratif\Trait_102.png</Image>
+      <Image>Textures\PlayerTraits\Narratif\Trait_103.png</Image>
+      <Image>Textures\PlayerTraits\Narratif\Trait_104.png</Image>
+      <Image>Textures\PlayerTraits\Narratif\Trait_105.png</Image>
+      <Image>Textures\PlayerTraits\Narratif\Trait_Sicaire.png</Image>
+      <Image>Textures\PlayerTraits\Narratif\Trait_107.png</Image>
+      <Image>Textures\PlayerTraits\Narratif\Trait_FilsIndigne.png</Image>
+      <Image>Textures\PlayerTraits\Narratif\Trait_DocteurFoi.png</Image>
+      <Image>Textures\PlayerTraits\Narratif\Trait_110.png</Image>
+      <Image>Textures\PlayerTraits\Narratif\Trait_111.png</Image>
+      <Image>Textures\PlayerTraits\Narratif\Trait_112.png</Image>
+    </ImageSet>
+    <ImageSet name="Pointer" file="Imagesets\Pointer.imageset" built="true" width="2048" height="2048" compressed="1" tga="1">
+      <Image>Textures\Pointer\Circle.png</Image>
+      <Image>Textures\Pointer\Sans titre-2 copie.png</Image>
+    </ImageSet>
+    <ImageSet name="Press_Start" file="Imagesets\Press_Start.imageset" built="true" width="2048" height="2048" compressed="1" tga="1">
+      <Image>Textures\PressStart\matrice-logo.png</Image>
+      <Image>Textures\PressStart\eu_flag_creative_europe_media_co_funded_en_rgb_ copie.png</Image>
+    </ImageSet>
+    <ImageSet name="Settings" file="Imagesets\Settings.imageset" built="true" width="2048" height="2048" compressed="1" tga="1">
+      <Image>Textures\Settings\pointedstate.png</Image>
+    </ImageSet>
+    <ImageSet name="Skills" file="Imagesets\Skills.imageset" built="true" width="2048" height="2048" compressed="1" tga="1">
+      <Image>Textures\Skills\selectionne.png</Image>
+      <Image>Textures\Skills\Skills\Icon_athletisme_00.png</Image>
+      <Image>Textures\Skills\Skills\Icon_conviction_00.png</Image>
+      <Image>Textures\Skills\Skills\Icon_diversion_00.png</Image>
+      <Image>Textures\Skills\Skills\Icon_erudition_00.png</Image>
+      <Image>Textures\Skills\Skills\Icon_etiquette_00.png</Image>
+      <Image>Textures\Skills\Skills\Icon_interrogatoire_00.png</Image>
+      <Image>Textures\Skills\Skills\Icon_linguistique_00.png</Image>
+      <Image>Textures\Skills\Skills\Icon_manipulation_00.png</Image>
+      <Image>Textures\Skills\Skills\Icon_occultisme_00.png</Image>
+      <Image>Textures\Skills\Skills\Icon_politique_00.png</Image>
+      <Image>Textures\Skills\Skills\Icon_psychologie_00.png</Image>
+      <Image>Textures\Skills\Skills\Icon_rhetorique_00.png</Image>
+      <Image>Textures\Skills\Skills\Icon_sciences_00.png</Image>
+      <Image>Textures\Skills\Skills\Icon_subterfuges_00.png</Image>
+      <Image>Textures\Skills\Skills\Icon_vigilance_00.png</Image>
+      <Image>Textures\Skills\tag.png</Image>
+    </ImageSet>
+    <ImageSet name="Tuto" file="Imagesets\Tuto.imageset" built="true" width="2048" height="2048" compressed="1" tga="1">
+      <Image>Textures\Tuto\tuto_fond2.png</Image>
+      <Image>Textures\Tuto\fond.png</Image>
+      <Image>Textures\Tuto\fleche.png</Image>
+    </ImageSet>
+    <ImageSet name="Uni" file="Imagesets\Uni.imageset" built="true" width="256" height="256" compressed="1" tga="1">
+      <Image>Textures\Black.png</Image>
+      <Image>Textures\White.png</Image>
+      <Image>Textures\white_40.png</Image>
+    </ImageSet>
+    <ImageSet name="alteration" file="Imagesets\alteration.imageset" built="true" width="2048" height="2048" compressed="1" tga="1">
+      <Image>Textures\alteration\ALteration_1.png</Image>
+      <Image>Textures\alteration\ALteration_2.png</Image>
+      <Image>Textures\alteration\ALteration_3.png</Image>
+      <Image>Textures\alteration\ALteration_4.png</Image>
+      <Image>Textures\alteration\ALteration_5.png</Image>
+      <Image>Textures\alteration\ALteration_6.png</Image>
+      <Image>Textures\alteration\immu.png</Image>
+      <Image>Textures\alteration\vulne.png</Image>
+      <Image>Textures\alteration\epuise.png</Image>
+      <Image>Textures\alteration\moin1.png</Image>
+      <Image>Textures\alteration\plus1.png</Image>
+      <Image>Textures\alteration\temps_negatif.png</Image>
+      <Image>Textures\alteration\timer_good.png</Image>
+      <Image>Textures\alteration\alteration_take_off.png</Image>
+    </ImageSet>
+    <ImageSet name="ambre" file="Imagesets\ambre.imageset" built="true" width="2048" height="2048" compressed="1" tga="1">
+      <Image>Textures\Ambre\ambre.png</Image>
+      <Image>Textures\Ambre\ambre_pickup.png</Image>
+      <Image>Textures\Ambre\ambre_win.png</Image>
+    </ImageSet>
+    <ImageSet name="autosave_last" file="Imagesets\autosave_last.imageset" built="true" width="2048" height="2048" compressed="1" tga="1">
+      <Image>Textures\autosave_last\image_ 4.png</Image>
+      <Image>Textures\autosave_last\image_1.png</Image>
+      <Image>Textures\autosave_last\image_2.png</Image>
+      <Image>Textures\autosave_last\image_3.png</Image>
+      <Image>Textures\autosave_last\image_5.png</Image>
+      <Image>Textures\autosave_last\image_6.png</Image>
+      <Image>Textures\autosave_last\image_7.png</Image>
+      <Image>Textures\autosave_last\image_8.png</Image>
+      <Image>Textures\autosave_last\image_9.png</Image>
+      <Image>Textures\autosave_last\image_10.png</Image>
+      <Image>Textures\autosave_last\image_11.png</Image>
+      <Image>Textures\autosave_last\image_12.png</Image>
+      <Image>Textures\autosave_last\image_13.png</Image>
+      <Image>Textures\autosave_last\image_14.png</Image>
+      <Image>Textures\autosave_last\image_15.png</Image>
+      <Image>Textures\autosave_last\image_16.png</Image>
+      <Image>Textures\autosave_last\image_17.png</Image>
+      <Image>Textures\autosave_last\image_18.png</Image>
+      <Image>Textures\autosave_last\image_19.png</Image>
+      <Image>Textures\autosave_last\image_20.png</Image>
+      <Image>Textures\autosave_last\image_21.png</Image>
+      <Image>Textures\autosave_last\image_22.png</Image>
+      <Image>Textures\autosave_last\image_23.png</Image>
+      <Image>Textures\autosave_last\image_24.png</Image>
+      <Image>Textures\autosave_last\image_25.png</Image>
+      <Image>Textures\autosave_last\image_26.png</Image>
+      <Image>Textures\autosave_last\image_27.png</Image>
+      <Image>Textures\autosave_last\image_28.png</Image>
+      <Image>Textures\autosave_last\image_29.png</Image>
+      <Image>Textures\autosave_last\image_30.png</Image>
+      <Image>Textures\autosave_last\image_31.png</Image>
+      <Image>Textures\autosave_last\image_32.png</Image>
+      <Image>Textures\autosave_last\image_33.png</Image>
+      <Image>Textures\autosave_last\image_34.png</Image>
+      <Image>Textures\autosave_last\image_35.png</Image>
+      <Image>Textures\autosave_last\image_36.png</Image>
+      <Image>Textures\autosave_last\image_37.png</Image>
+      <Image>Textures\autosave_last\image_38.png</Image>
+      <Image>Textures\autosave_last\image_39.png</Image>
+      <Image>Textures\autosave_last\image_40.png</Image>
+      <Image>Textures\autosave_last\image_41.png</Image>
+      <Image>Textures\autosave_last\image_42.png</Image>
+      <Image>Textures\autosave_last\image_43.png</Image>
+      <Image>Textures\autosave_last\image_44.png</Image>
+      <Image>Textures\autosave_last\image_45.png</Image>
+      <Image>Textures\autosave_last\image_46.png</Image>
+      <Image>Textures\autosave_last\image_47.png</Image>
+      <Image>Textures\autosave_last\image_48.png</Image>
+      <Image>Textures\autosave_last\image_49.png</Image>
+      <Image>Textures\autosave_last\image_50.png</Image>
+      <Image>Textures\autosave_last\image_51.png</Image>
+      <Image>Textures\autosave_last\image_52.png</Image>
+      <Image>Textures\autosave_last\image_53.png</Image>
+      <Image>Textures\autosave_last\image_54.png</Image>
+      <Image>Textures\autosave_last\image_55.png</Image>
+      <Image>Textures\autosave_last\image_56.png</Image>
+      <Image>Textures\autosave_last\image_57.png</Image>
+      <Image>Textures\autosave_last\image_58.png</Image>
+      <Image>Textures\autosave_last\image_59.png</Image>
+      <Image>Textures\autosave_last\image_4.png</Image>
+    </ImageSet>
+    <ImageSet name="background" file="Imagesets\background.imageset" built="true" width="2048" height="2048" compressed="1" tga="1">
+      <Image>Textures\background\Pointed_State.png</Image>
+      <Image>Textures\PlayerTraits\selection_talent.png</Image>
+    </ImageSet>
+    <ImageSet name="background_class_choice" file="Imagesets\background_class_choice.imageset" built="true" width="2048" height="2048" compressed="1" tga="1">
+      <Image>Textures\background\background_class_choice.png</Image>
+    </ImageSet>
+    <ImageSet name="consommables" file="Imagesets\consommables.imageset" built="true" width="2048" height="2048" compressed="1" tga="1">
+      <Image>Textures\consommables\croix_malte.png</Image>
+      <Image>Textures\consommables\eau_melisse.png</Image>
+      <Image>Textures\consommables\rond_conso.png</Image>
+      <Image>Textures\consommables\carre_consommables.png</Image>
+      <Image>Textures\consommables\gelee_royal.png</Image>
+      <Image>Textures\consommables\goutte_dor.png</Image>
+      <Image>Textures\consommables\carre_consommables_blanc.png</Image>
+      <Image>Textures\consommables\croix_malte_notif.png</Image>
+      <Image>Textures\consommables\eau_melisse_notif.png</Image>
+      <Image>Textures\consommables\gelee_royal_notif.png</Image>
+      <Image>Textures\consommables\goutte_dor_notif.png</Image>
+      <Image>Textures\consommables\rond_conso_blanc.png</Image>
+    </ImageSet>
+    <ImageSet name="fond_before_start" file="Imagesets\fond_before_start.imageset" built="true" width="2048" height="2048" compressed="1" tga="1">
+      <Image>Textures\BEFORE_START\fond_before_start.png</Image>
+    </ImageSet>
+    <ImageSet name="interaction" file="Imagesets\interaction.imageset" built="true" width="2048" height="2048" compressed="1" tga="1">
+      <Image>Textures\Interaction\door.png</Image>
+      <Image>Textures\Interaction\prendre.png</Image>
+      <Image>Textures\Interaction\choix.png</Image>
+      <Image>Textures\Interaction\focus.png</Image>
+      <Image>Textures\Interaction\sens_interdit.png</Image>
+      <Image>Textures\Interaction\simple.png</Image>
+      <Image>Textures\Interaction\speak.png</Image>
+      <Image>Textures\Interaction\voir.png</Image>
+      <Image>Textures\Interaction\viewpoint.png</Image>
+      <Image>Textures\Interaction\stair.png</Image>
+      <Image>Textures\Interaction\manipulate.png</Image>
+    </ImageSet>
+    <ImageSet name="letter" file="Imagesets\letter.imageset" built="true" width="2048" height="2048" compressed="1" tga="1">
+      <Image>Textures\Letter\bas_letter.png</Image>
+      <Image>Textures\Letter\haut_letter.png</Image>
+    </ImageSet>
+    <ImageSet name="level_Last" file="Imagesets\level_Last.imageset" built="true" width="2048" height="2048" compressed="1" tga="1">
+      <Image>Textures\level\Level\2.png</Image>
+      <Image>Textures\level\Level\3.png</Image>
+      <Image>Textures\level\Level\4.png</Image>
+      <Image>Textures\level\Level\5.png</Image>
+      <Image>Textures\level\Level\6.png</Image>
+      <Image>Textures\level\Level\7.png</Image>
+      <Image>Textures\level\Level\8.png</Image>
+      <Image>Textures\level\Level\9.png</Image>
+      <Image>Textures\level\Level\10.png</Image>
+      <Image>Textures\level\Level\1.png</Image>
+      <Image>Textures\level\Level\level0.png</Image>
+      <Image>Textures\level\Level\level1.png</Image>
+      <Image>Textures\level\Level\level2.png</Image>
+      <Image>Textures\level\Level\level3.png</Image>
+      <Image>Textures\level\Level\selection.png</Image>
+      <Image>Textures\level\Level\20.png</Image>
+      <Image>Textures\level\Level\MC_Vulne.png</Image>
+    </ImageSet>
+    <ImageSet name="notification" file="Imagesets\notification.imageset" built="true" width="2048" height="2048" compressed="1" tga="1">
+      <Image>Textures\Notification\fond_immunite.png</Image>
+      <Image>Textures\Notification\fond_notif_2.png</Image>
+      <Image>Textures\Notification\fond_immunite2.png</Image>
+      <Image>Textures\Notification\fond_text_notif.png</Image>
+      <Image>Textures\Notification\rond_notif.png</Image>
+    </ImageSet>
+    <ImageSet name="objectif" file="Imagesets\objectif.imageset" built="true" width="2048" height="2048" compressed="1" tga="1">
+      <Image>Textures\Objectif\rond_objectif.png</Image>
+    </ImageSet>
+    <ImageSet name="objet_narratif" file="Imagesets\objet_narratif.imageset" built="true" width="2048" height="2048" compressed="1" tga="1">
+      <Image>Textures\Objet_Narratif\botte.png</Image>
+      <Image>Textures\Objet_Narratif\Mortimer_Key - Copie.png</Image>
+      <Image>Textures\Objet_Narratif\pointedstate.png</Image>
+      <Image>Textures\Objet_Narratif\Explo_Key1_1.png</Image>
+      <Image>Textures\Objet_Narratif\Explo_Key1_2.png</Image>
+      <Image>Textures\Objet_Narratif\Explo_Key1_3.png</Image>
+      <Image>Textures\Objet_Narratif\Explo_Key1_4.png</Image>
+      <Image>Textures\Objet_Narratif\Explo_Key1_5.png</Image>
+      <Image>Textures\Objet_Narratif\Explo_Key1_6.png</Image>
+      <Image>Textures\Objet_Narratif\Explo_Key1_7.png</Image>
+      <Image>Textures\Objet_Narratif\Explo_Key2_1.png</Image>
+      <Image>Textures\Objet_Narratif\Explo_Key2_1bis.png</Image>
+      <Image>Textures\Objet_Narratif\Explo_Key2_2.png</Image>
+      <Image>Textures\Objet_Narratif\Explo_Key2_2bis.png</Image>
+      <Image>Textures\Objet_Narratif\Explo_Key2_3.png</Image>
+      <Image>Textures\Objet_Narratif\Explo_Key2_3bis.png</Image>
+      <Image>Textures\Objet_Narratif\Explo_Key2_4.png</Image>
+      <Image>Textures\Objet_Narratif\Explo_Key2_4bis.png</Image>
+      <Image>Textures\Objet_Narratif\Chapitre1\Adams_Talisman.png</Image>
+      <Image>Textures\Objet_Narratif\Chapitre1\HB_Key.png</Image>
+      <Image>Textures\Objet_Narratif\Chapitre1\HB_Tissue.png</Image>
+      <Image>Textures\Objet_Narratif\Chapitre1\Letter_Mauras_Invitation.png</Image>
+      <Image>Textures\Objet_Narratif\Chapitre1\Piaggi_Letter.png</Image>
+      <Image>Textures\Objet_Narratif\Chapitre1\Piaggi_Letter_Closed.png</Image>
+      <Image>Textures\Objet_Narratif\Chapitre1\Piaggi_Letter_Open.png</Image>
+      <Image>Textures\Objet_Narratif\Chapitre1\Q1_DR_Bag.png</Image>
+      <Image>Textures\Objet_Narratif\Chapitre1\Q1_DR_Letter.png</Image>
+      <Image>Textures\Objet_Narratif\Chapitre1\Q1_IronBar.png</Image>
+      <Image>Textures\Objet_Narratif\Chapitre1\Q1_Pier_Key.png</Image>
+      <Image>Textures\Objet_Narratif\Chapitre1\Q2_HB_Jewel.png</Image>
+      <Image>Textures\Objet_Narratif\Chapitre1\Q3_Ashes.png</Image>
+      <Image>Textures\Objet_Narratif\Chapitre1\Q3_Candle.png</Image>
+      <Image>Textures\Objet_Narratif\Chapitre1\Q3_Ink.png</Image>
+      <Image>Textures\Objet_Narratif\Chapitre1\Q3_Lemon.png</Image>
+      <Image>Textures\Objet_Narratif\Chapitre1\Q3_PageClean.png</Image>
+      <Image>Textures\Objet_Narratif\Chapitre1\Q3_PageDirt.png</Image>
+      <Image>Textures\Objet_Narratif\Chapitre1\DR_Handkerchief.png</Image>
+      <Image>Textures\Objet_Narratif\Episode3\Q10_Bible.png</Image>
+      <Image>Textures\Objet_Narratif\Episode3\Q10_Clous.png</Image>
+      <Image>Textures\Objet_Narratif\Episode3\Q10_Croix.png</Image>
+      <Image>Textures\Objet_Narratif\Episode3\Q10_Exegese.png</Image>
+      <Image>Textures\Objet_Narratif\Episode3\Q10_Sphere.png</Image>
+      <Image>Textures\Objet_Narratif\Episode4\Chap4_Buvard.png</Image>
+      <Image>Textures\Objet_Narratif\Episode4\Q11_Lance.png</Image>
+      <Image>Textures\Objet_Narratif\Episode4\Q11_LanceFake.png</Image>
+      <Image>Textures\Objet_Narratif\Generic_Key.png</Image>
+      <Image>Textures\Objet_Narratif\Generic_Letter.png</Image>
+      <Image>Textures\Objet_Narratif\Episode3\Q10_NoteArchi.png</Image>
+      <Image>Textures\Objet_Narratif\Episode2\BerryRed.png</Image>
+      <Image>Textures\Objet_Narratif\Episode2\Chocolate.png</Image>
+      <Image>Textures\Objet_Narratif\Episode2\Magnet.png</Image>
+      <Image>Textures\Objet_Narratif\Episode2\MotherLetter.png</Image>
+      <Image>Textures\Objet_Narratif\Episode2\SarahNote.png</Image>
+      <Image>Textures\Objet_Narratif\Episode2\StoneSword.png</Image>
+      <Image>Textures\Objet_Narratif\Episode4\Q13_FakeLetter.png</Image>
+      <Image>Textures\Objet_Narratif\Episode3\Q9_NapoSaber.png</Image>
+      <Image>Textures\Objet_Narratif\Episode3\Q9_WorldMap.png</Image>
+      <Image>Textures\Objet_Narratif\Episode3\Q10_Clou.png</Image>
+      <Image>Textures\Objet_Narratif\Icon_Alazif.png</Image>
+    </ImageSet>
+    <ImageSet name="ps4" file="Imagesets\ps4.imageset" built="true" width="2048" height="2048" compressed="1" tga="1">
+      <Image>Textures\Element\ps4_manette.png</Image>
+    </ImageSet>
+    <ImageSet name="pt_effort" file="Imagesets\pt_effort.imageset" built="true" width="2048" height="2048" compressed="1" tga="1">
+      <Image>Textures\effort\pt_effort_full.png</Image>
+      <Image>Textures\effort\pt_effort_lock.png</Image>
+      <Image>Textures\effort\pt_effort_vide.png</Image>
+      <Image>Textures\effort\wrong.png</Image>
+    </ImageSet>
+    <ImageSet name="rdc" file="Imagesets\rdc.imageset" built="true" width="2048" height="2048" compressed="1" tga="1">
+      <Image>Textures\Map\RDC\big_hall.png</Image>
+      <Image>Textures\Map\RDC\dinning_room.png</Image>
+      <Image>Textures\Map\RDC\library.png</Image>
+      <Image>Textures\Map\RDC\parvis.png</Image>
+      <Image>Textures\Map\RDC\portrait_gallery.png</Image>
+      <Image>Textures\Map\RDC\secret_piece.png</Image>
+      <Image>Textures\Map\RDC\Colloquium1.png</Image>
+      <Image>Textures\Map\RDC\Colloquium2.png</Image>
+      <Image>Textures\Map\RDC\Colloquium3.png</Image>
+      <Image>Textures\Map\RDC\inside\big_hall_inside.png</Image>
+      <Image>Textures\Map\RDC\inside\Colloquium1_inside.png</Image>
+      <Image>Textures\Map\RDC\inside\Colloquium2_inside.png</Image>
+      <Image>Textures\Map\RDC\inside\Colloquium3_inside.png</Image>
+      <Image>Textures\Map\RDC\inside\dinning_room_inside.png</Image>
+      <Image>Textures\Map\RDC\inside\garden_inside.png</Image>
+      <Image>Textures\Map\RDC\inside\library_inside.png</Image>
+      <Image>Textures\Map\RDC\inside\portrait_gallery_inside.png</Image>
+      <Image>Textures\Map\RDC\inside\parvis_inside.png</Image>
+      <Image>Textures\Map\RDC\inside\secret_piece_inside.png</Image>
+      <Image>Textures\Map\RDC\inside\parvis_selection.png</Image>
+      <Image>Textures\Map\RDC\inside\big_hall_selection.png</Image>
+      <Image>Textures\Map\RDC\inside\Colloquium1_selection.png</Image>
+      <Image>Textures\Map\RDC\inside\Colloquium2_selection.png</Image>
+      <Image>Textures\Map\RDC\inside\Colloquium3_selection.png</Image>
+      <Image>Textures\Map\RDC\inside\dinning_room_selection.png</Image>
+      <Image>Textures\Map\RDC\inside\garden_selection.png</Image>
+      <Image>Textures\Map\RDC\inside\library_selection.png</Image>
+      <Image>Textures\Map\RDC\inside\portrait_gallery_selection.png</Image>
+      <Image>Textures\Map\RDC\inside\secret_piece_selection.png</Image>
+      <Image>Textures\Map\RDC\fond_map_rdc.png</Image>
+      <Image>Textures\Map\RDC\garden.png</Image>
+      <Image>Textures\Map\RDC\rdc_contour.png</Image>
+      <Image>Textures\Map\RDC\inside\FrontSquareToPier.png</Image>
+      <Image>Textures\Map\RDC\inside\BigHallToCorridor1.png</Image>
+      <Image>Textures\Map\RDC\inside\BigHallToCorridor2.png</Image>
+      <Image>Textures\Map\RDC\inside\BackStairsToCorridor.png</Image>
+      <Image>Textures\Map\RDC\inside\GenericDoor.png</Image>
+    </ImageSet>
+    <ImageSet name="xbox" file="Imagesets\xbox.imageset" built="true" width="2048" height="2048" compressed="1" tga="1">
+      <Image>Textures\Element\xbox_manette.png</Image>
+    </ImageSet>
+  </Images>
+  <Look path="Looknfeel\Murder.look" />
+  <Pages>
+    <Page name="Loading" file="Layouts\Loading.layout" />
+    <Page name="Tag" file="Layouts\Tag.layout" />
+    <Page name="GenericBlackBackground" file="Layouts\GenericBlackBackground.layout" />
+    <Page name="Option" file="Layouts\Option.layout" />
+    <Page name="Subtitle" file="Layouts\Subtitle.layout" />
+    <Page name="Subtitles-CutsceneEditor" file="Layouts\Subtitles-CutsceneEditor.layout" />
+    <Page name="BlackBackground" file="Layouts\BlackBackground.layout" />
+    <Page name="Choicecritical" file="Layouts\Choicecritical.layout" />
+    <Page name="Tuto" file="Layouts\Tuto.layout" />
+    <Page name="QTE_REACTION" file="Layouts\QTE_REACTION.layout" />
+    <Page name="Setting_restart" file="Layouts\Setting_restart.layout" />
+    <Page name="SettingsAudio" file="Layouts\SettingsAudio.layout" />
+    <Page name="SettingsControl" file="Layouts\SettingsControl.layout" />
+    <Page name="Text_Ingame" file="Layouts\Text_Ingame.layout" />
+    <Page name="story" file="Layouts\story.layout" />
+    <Page name="epilepsie" file="Layouts\epilepsie.layout" />
+    <Page name="editeur" file="Layouts\editeur.layout" />
+    <Page name="savewarning" file="Layouts\savewarning.layout" />
+    <Page name="studio" file="Layouts\studio.layout" />
+    <Page name="EndQuest_New" file="Layouts\EndQuest_New.layout" />
+    <Page name="EndQueteXp_New" file="Layouts\EndQueteXp_New.layout" />
+    <Page name="InGame_New" file="Layouts\InGame_New.layout" />
+    <Page name="Letter" file="Layouts\Letter.layout" />
+    <Page name="Menu_1" file="Layouts\Menu_1.layout" />
+    <Page name="Menu_2" file="Layouts\Menu_2.layout" />
+    <Page name="Codex_LAST" file="Layouts\Codex_LAST.layout" />
+    <Page name="PressStart_LAST" file="Layouts\PressStart_LAST.layout" />
+    <Page name="Inventory_LAST" file="Layouts\Inventory_LAST.layout" />
+    <Page name="Panel_Setting_LAST" file="Layouts\Panel_Setting_LAST.layout" />
+    <Page name="InGameMenu_LAST" file="Layouts\InGameMenu_LAST.layout" />
+    <Page name="equip_manuscrit_LAST" file="Layouts\equip_manuscrit_LAST.layout" />
+    <Page name="LevelUp_LAST" file="Layouts\LevelUp_LAST.layout" />
+    <Page name="NarrativeTraits_LAST" file="Layouts\NarrativeTraits_LAST.layout" />
+    <Page name="PlayerTraits_LAST" file="Layouts\PlayerTraits_LAST.layout" />
+    <Page name="Map_LAST" file="Layouts\Map_LAST.layout" />
+    <Page name="Video_Settings" file="Layouts\Video_Settings.layout" />
+    <Page name="Classchoice_1_LAST" file="Layouts\Classchoice_1_LAST.layout" />
+    <Page name="ClassChoice_2_LAST" file="Layouts\ClassChoice_2_LAST.layout" />
+    <Page name="credits" file="Layouts\credits.layout" />
+    <Page name="SettingsVideo" file="Layouts\SettingsVideo.layout" />
+    <Page name="Choose_Episode_LAST" file="Layouts\Choose_Episode_LAST.layout" />
+    <Page name="CharacterSheet_FINAL" file="Layouts\CharacterSheet_FINAL.layout" />
+    <Page name="Title_Ingame" file="Layouts\Title_Ingame.layout" />
+    <Page name="studio_Ingam" file="Layouts\studio_Ingam.layout" />
+    <Page name="Jeu_Ingam" file="Layouts\Jeu_Ingam.layout" />
+    <Page name="Empty" file="Layouts\Empty.layout" />
+    <Page name="Q10Nails" file="Layouts\Q10Nails.layout" />
+    <Page name="focus" file="Layouts\focus.layout" />
+    <Page name="Q15Puzzle" file="Layouts\Q15Puzzle.layout" />
+    <Page name="EndGame" file="Layouts\EndGame.layout" />
+  </Pages>
+  <Fonts path="Fonts">
+    <Font path="cambria_22.fnt" />
+    <Font path="Montserat_110.fnt" />
+    <Font path="montserat_110_bold.fnt" />
+    <Font path="montserat_170.fnt" />
+    <Font path="montserat_18.fnt" />
+    <Font path="montserat_20.fnt" />
+    <Font path="montserat_22.fnt" />
+    <Font path="montserat_22_contour_3.fnt" />
+    <Font path="montserat_25.fnt" />
+    <Font path="montserat_30.fnt" />
+    <Font path="montserat_35.fnt" />
+    <Font path="montserat_50.fnt" />
+    <Font path="montserat_60.fnt" />
+  </Fonts>
+</Workspace>

@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Layout>
+    <Child name="background" proto="Image">
+        <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+        <Size scale_x="-1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+        <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+        <Image set="Background_GUI" image="Background_GUI" />
+    </Child>
+    <Child name="marge" proto="Dummy">
+        <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+        <Size scale_x="0.000000" offset_x="1728.000000" scale_y="0.000000" offset_y="972.000000" />
+        <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+        <Child name="margin" proto="Dummy">
+            <Stack value="1" />
+            <StackDirection value="VERTICAL" />
+            <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+            <Size scale_x="1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+            <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+            <Child name="Chapter" proto="Label">
+                <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+                <Size scale_x="1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+                <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+                <Text value="|GetCurrentChapter()" />
+                <Font value="montserat_35" />
+                <Color r="239" g="223" b="212" a="255" />
+                <HorizontalAlignment value="CENTER" />
+            </Child>
+            <Child name="Quest" proto="Label">
+                <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="48.000000" />
+                <Size scale_x="1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+                <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+                <InheritState value="1" />
+                <Text value="|GetQuestTitle()" />
+                <Font value="Montserat_110" />
+                <Color r="239" g="223" b="212" a="255" />
+                <HorizontalAlignment value="CENTER" />
+            </Child>
+        </Child>
+        <Child name="Content" proto="Dummy">
+            <Stack value="1" />
+            <StackDirection value="VERTICAL" />
+            <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+            <Size scale_x="0.000000" offset_x="700.000000" scale_y="-1.000000" offset_y="0.000000" />
+            <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+            <InheritAlpha value="0" />
+        </Child>
+        <Child name="Stack" proto="Dummy">
+            <Stack value="1" />
+            <StackDirection value="VERTICAL" />
+            <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.320000" offset_y="0.000000" />
+            <Size scale_x="1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+            <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+            <Child name="title" proto="Dummy">
+                <Stack value="1" />
+                <Size scale_x="1.000000" offset_x="0.000000" scale_y="0.000000" offset_y="125.000000" />
+                <Child name="good_title" proto="Label">
+                    <Position scale_x="0.000000" offset_x="0.000000" scale_y="0.000000" offset_y="68.000000" />
+                    <Size scale_x="0.000000" offset_x="555.000000" scale_y="-1.000000" offset_y="0.000000" />
+                    <Anchor scale_x="0.000000" offset_x="0.000000" scale_y="1.000000" offset_y="0.000000" />
+                    <Text value="GUI.translationtable:ENDQUEST_GOOD" />
+                    <Font value="montserat_50" />
+                    <Color r="255" g="193" b="6" a="255" />
+                    <HorizontalAlignment value="CENTER" />
+                    <Child name="Image" proto="Image">
+                        <Position scale_x="0.500000" offset_x="0.000000" scale_y="1.000000" offset_y="17.000000" />
+                        <Size scale_x="-1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+                        <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+                        <Image set="EndQuest" image="Success_line" />
+                    </Child>
+                </Child>
+                <Child name="marge_1" proto="Dummy">
+                    <Position scale_x="0.000000" offset_x="555.000000" scale_y="0.000000" offset_y="0.000000" />
+                    <Size scale_x="0.000000" offset_x="25.000000" scale_y="-1.000000" offset_y="0.000000" />
+                    <Anchor scale_x="0.000000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                </Child>
+                <Child name="missed_title" proto="Label">
+                    <Position scale_x="0.000000" offset_x="580.000000" scale_y="0.000000" offset_y="68.000000" />
+                    <Size scale_x="0.000000" offset_x="545.000000" scale_y="-1.000000" offset_y="0.000000" />
+                    <Anchor scale_x="0.000000" offset_x="0.000000" scale_y="1.000000" offset_y="0.000000" />
+                    <Text value="GUI.translationtable:ENDQUEST_MISSED" />
+                    <Font value="montserat_50" />
+                    <Color r="225" g="83" b="83" a="255" />
+                    <HorizontalAlignment value="CENTER" />
+                    <Child name="Image" proto="Image">
+                        <Position scale_x="0.500000" offset_x="0.000000" scale_y="1.000000" offset_y="17.000000" />
+                        <Size scale_x="-1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+                        <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+                        <Image set="EndQuest" image="Fail_line" />
+                    </Child>
+                </Child>
+                <Child name="marge_0_0" proto="Dummy">
+                    <Position scale_x="0.000000" offset_x="1125.000000" scale_y="0.000000" offset_y="0.000000" />
+                    <Size scale_x="0.000000" offset_x="20.000000" scale_y="-1.000000" offset_y="0.000000" />
+                    <Anchor scale_x="0.000000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                </Child>
+                <Child name="could_title" proto="Label">
+                    <Position scale_x="0.000000" offset_x="1145.000000" scale_y="0.000000" offset_y="68.000000" />
+                    <Size scale_x="0.000000" offset_x="570.000000" scale_y="-1.000000" offset_y="0.000000" />
+                    <Anchor scale_x="0.000000" offset_x="0.000000" scale_y="1.000000" offset_y="0.000000" />
+                    <Text value="GUI.translationtable:ENDQUEST_COULD" />
+                    <Font value="montserat_50" />
+                    <Color r="202" g="202" b="202" a="255" />
+                    <HorizontalAlignment value="CENTER" />
+                    <Child name="Image" proto="Image">
+                        <Position scale_x="0.500000" offset_x="0.000000" scale_y="1.000000" offset_y="17.000000" />
+                        <Size scale_x="-1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+                        <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+                        <Image set="EndQuest" image="altPath_line" />
+                    </Child>
+                </Child>
+            </Child>
+            <Child name="fond" proto="Dummy">
+                <Stack value="1" />
+                <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="125.000000" />
+                <Size scale_x="1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+                <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+                <Child name="good" proto="Dummy">
+                    <Stack value="1" />
+                    <StackDirection value="VERTICAL" />
+                    <Size scale_x="0.000000" offset_x="555.000000" scale_y="-1.000000" offset_y="0.000000" />
+                    <Child name="margin_0" proto="Dummy">
+                        <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+                        <Size scale_x="1.000000" offset_x="0.000000" scale_y="0.000000" offset_y="10.000000" />
+                        <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+                    </Child>
+                </Child>
+                <Child name="marge" proto="Dummy">
+                    <Position scale_x="0.000000" offset_x="555.000000" scale_y="0.500000" offset_y="0.000000" />
+                    <Size scale_x="0.000000" offset_x="25.000000" scale_y="-1.000000" offset_y="0.000000" />
+                    <Anchor scale_x="0.000000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                </Child>
+                <Child name="wrong" proto="Dummy">
+                    <Stack value="1" />
+                    <StackDirection value="VERTICAL" />
+                    <Position scale_x="0.000000" offset_x="580.000000" scale_y="0.000000" offset_y="0.000000" />
+                    <Size scale_x="0.000000" offset_x="545.000000" scale_y="-1.000000" offset_y="0.000000" />
+                    <Child name="margin_0" proto="Dummy">
+                        <Position scale_x="0.000000" offset_x="1725.000000" scale_y="0.000000" offset_y="0.000000" />
+                        <Size scale_x="1.000000" offset_x="0.000000" scale_y="0.000000" offset_y="10.000000" />
+                    </Child>
+                </Child>
+                <Child name="marge_0" proto="Dummy">
+                    <Position scale_x="0.000000" offset_x="1125.000000" scale_y="0.500000" offset_y="0.000000" />
+                    <Size scale_x="0.000000" offset_x="20.000000" scale_y="-1.000000" offset_y="0.000000" />
+                    <Anchor scale_x="0.000000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                </Child>
+                <Child name="could" proto="Dummy">
+                    <Stack value="1" />
+                    <StackDirection value="VERTICAL" />
+                    <Position scale_x="0.000000" offset_x="1145.000000" scale_y="0.000000" offset_y="0.000000" />
+                    <Size scale_x="0.000000" offset_x="570.000000" scale_y="-1.000000" offset_y="0.000000" />
+                    <Child name="margin_0" proto="Dummy">
+                        <Position scale_x="0.000000" offset_x="1725.000000" scale_y="0.000000" offset_y="0.000000" />
+                        <Size scale_x="1.000000" offset_x="0.000000" scale_y="0.000000" offset_y="10.000000" />
+                    </Child>
+                </Child>
+            </Child>
+        </Child>
+    </Child>
+    <Child name="Input_Contener" proto="Input_Contener">
+        <Position scale_x="1.000000" offset_x="-96.000000" scale_y="1.000000" offset_y="-54.000000" />
+    </Child>
+</Layout>

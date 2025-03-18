@@ -1,0 +1,13 @@
+<Imageset name="interaction" texture="interaction.tga">
+	<Image name="choix" left="1" top="1" right="64" bottom="65" />
+	<Image name="door" left="1" top="69" right="64" bottom="133" />
+	<Image name="viewpoint" left="1" top="137" right="64" bottom="201" />
+	<Image name="manipulate" left="69" top="1" right="132" bottom="65" />
+	<Image name="prendre" left="69" top="69" right="132" bottom="133" />
+	<Image name="sens_interdit" left="69" top="137" right="132" bottom="201" />
+	<Image name="simple" left="137" top="1" right="200" bottom="65" />
+	<Image name="speak" left="137" top="69" right="200" bottom="133" />
+	<Image name="stair" left="137" top="137" right="200" bottom="201" />
+	<Image name="voir" left="205" top="1" right="268" bottom="65" />
+	<Image name="focus" left="1" top="205" right="44" bottom="248" />
+</Imageset>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Layout>
+    <Child name="Subtitle1">
+        <Visible value="0" />
+        <Position scale_x="0.200000" offset_x="0.000000" scale_y="0.700000" offset_y="0.000000" />
+        <Size scale_x="0.600000" offset_x="0.000000" scale_y="0.100000" offset_y="0.000000" />
+    </Child>
+    <Child name="Subtitle2">
+        <Visible value="0" />
+        <Position scale_x="0.200000" offset_x="0.000000" scale_y="0.800000" offset_y="0.000000" />
+        <Size scale_x="0.600000" offset_x="0.000000" scale_y="0.100000" offset_y="0.000000" />
+        <Child name="Label" proto="Label">
+            <HorizontalAlignment value="CENTER" />
+            <VerticalAlignment value="CENTER" />
+        </Child>
+    </Child>
+    <Child name="Subtitle3">
+        <Visible value="0" />
+        <Position scale_x="0.200000" offset_x="0.000000" scale_y="0.900000" offset_y="0.000000" />
+        <Size scale_x="0.600000" offset_x="0.000000" scale_y="0.100000" offset_y="0.000000" />
+        <Child name="Label" proto="Label">
+            <HorizontalAlignment value="CENTER" />
+            <VerticalAlignment value="CENTER" />
+        </Child>
+    </Child>
+    <Child name="Comment">
+        <Position scale_x="0.200000" offset_x="0.000000" scale_y="0.200000" offset_y="0.000000" />
+        <Size scale_x="0.600000" offset_x="0.000000" scale_y="0.100000" offset_y="0.000000" />
+        <Child name="Label" proto="Label">
+            <HorizontalAlignment value="CENTER" />
+            <VerticalAlignment value="CENTER" />
+        </Child>
+    </Child>
+</Layout>

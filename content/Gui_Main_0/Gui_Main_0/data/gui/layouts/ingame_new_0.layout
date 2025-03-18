@@ -1,0 +1,937 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Layout>
+    <Child name="Dummy" proto="Dummy">
+        <Position scale_x="0.050730" offset_x="0.000000" scale_y="0.051793" offset_y="0.000000" />
+        <Size scale_x="0.000000" offset_x="1728.000000" scale_y="0.000000" offset_y="972.000000" />
+        <Child name="Step" proto="Label">
+            <Visible value="0" />
+            <Position scale_x="0.499053" offset_x="0.000000" scale_y="0.000000" offset_y="55.000000" />
+            <Size scale_x="-1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+            <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+            <Text value="STEP 1" />
+            <Font value="montserat_60" />
+            <HorizontalAlignment value="CENTER" />
+            <State name="hidden">
+                <Visible value="0" />
+            </State>
+            <State name="step1">
+                <Visible value="1" />
+                <Text value="DIALFIGHT_STEP_1" />
+            </State>
+            <State name="step2">
+                <Visible value="1" />
+                <Text value="DIALFIGHT_STEP_2" />
+            </State>
+            <State name="step3">
+                <Visible value="1" />
+                <Text value="DIALFIGHT_STEP_3" />
+            </State>
+            <State name="step4">
+                <Visible value="1" />
+                <Text value="DIALFIGHT_STEP_4" />
+            </State>
+            <State name="step5">
+                <Visible value="1" />
+                <Text value="DIALFIGHT_STEP_5" />
+            </State>
+            <State name="step6">
+                <Visible value="1" />
+                <Text value="DIALFIGHT_STEP_6" />
+            </State>
+            <State name="step_good">
+                <Visible value="1" />
+                <Text value="GUI.translationtable:STEP_GOOD" />
+                <Color r="21" g="204" b="176" a="255" />
+            </State>
+            <State name="step_wrong">
+                <Visible value="1" />
+                <Text value="GUI.translationtable:STEP_WRONG" />
+                <Color r="255" g="60" b="60" a="255" />
+            </State>
+        </Child>
+        <Child name="notif" proto="Label">
+            <Visible value="0" />
+            <Position scale_x="0.001929" offset_x="0.000000" scale_y="0.969822" offset_y="0.000000" />
+            <Size scale_x="-1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+            <Litteral value="1" />
+            <Text value="un objet s&apos;est ajouté à votre inventaire" />
+            <Font value="montserat_22" />
+        </Child>
+        <Child name="dialfight" proto="Dummy">
+            <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+            <Size scale_x="-1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="10.000000" />
+            <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+            <InheritState value="1" />
+            <Child name="Dial_Fight" proto="Dial_Fight">
+                <Size scale_x="-1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="10.000000" />
+                <InheritState value="1" />
+            </Child>
+            <Child name="bouclier" proto="chance">
+                <Position scale_x="0.500000" offset_x="0.000000" scale_y="1.000000" offset_y="0.000000" />
+                <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="1.000000" offset_y="0.000000" />
+                <Child name="nmb_chance">
+                    <Child name="chiffre">
+                        <Font value="montserat_30" />
+                    </Child>
+                    <Child name="margin">
+                        <Position scale_x="0.000000" offset_x="17.000000" scale_y="-0.053704" offset_y="0.000000" />
+                    </Child>
+                    <Child name="texte">
+                        <Position scale_x="0.000000" offset_x="22.000000" scale_y="0.500000" offset_y="0.000000" />
+                        <Text value="GUI.translationtable:DIALFIGHT_STEP_LEFT" />
+                        <Color r="239" g="223" b="212" a="255" />
+                    </Child>
+                </Child>
+            </Child>
+        </Child>
+        <Child name="Notif_Left" proto="Dummy">
+            <Position scale_x="0.000000" offset_x="-96.000000" scale_y="0.450000" offset_y="0.000000" />
+            <Size scale_x="-1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+            <Child name="AnimNotif_LAST" proto="AnimNotif_LAST">
+                <Child name="fond_global">
+                    <Child name="Global">
+                        <Child name="stack">
+                            <Child name="stack2">
+                                <Child name="margin">
+                                    <Position scale_x="0.000000" offset_x="159.000000" scale_y="0.500000" offset_y="0.000000" />
+                                </Child>
+                                <Child name="text">
+                                    <Position scale_x="0.000000" offset_x="164.000000" scale_y="0.500000" offset_y="0.000000" />
+                                </Child>
+                            </Child>
+                            <Child name="stack3">
+                                <Position scale_x="0.000000" offset_x="0.000000" scale_y="0.000000" offset_y="28.000000" />
+                            </Child>
+                        </Child>
+                        <Child name="marge_1">
+                            <Position scale_x="0.000000" offset_x="494.000000" scale_y="0.500000" offset_y="0.000000" />
+                        </Child>
+                    </Child>
+                </Child>
+            </Child>
+        </Child>
+        <Child name="Notif_Right" proto="Dummy">
+            <Position scale_x="1.000000" offset_x="96.000000" scale_y="0.450000" offset_y="0.000000" />
+            <Size scale_x="-1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+            <Anchor scale_x="1.000000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+            <InheritState value="1" />
+            <Child name="Found_Character_LAST" proto="Found_Character_LAST">
+                <Position scale_x="1.000000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+                <InheritState value="1" />
+                <State name="metcharacter">
+                    <Visible value="1" />
+                </State>
+            </Child>
+            <Child name="Trait_Unlock_LAST" proto="Trait_Unlock_LAST">
+                <Position scale_x="1.000000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+                <InheritState value="1" />
+            </Child>
+            <Child name="FoundTraitNotif_LAST" proto="FoundTraitNotif_LAST">
+                <Position scale_x="1.000000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+            </Child>
+            <Child name="Notif_Skill" proto="Notif_Skill">
+                <Anchor scale_x="1.000000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+            </Child>
+            <Child name="Notif_Opportunite">
+                <Visible value="0" />
+                <Position scale_x="1.000000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                <Size scale_x="-1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+                <Anchor scale_x="1.000000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                <InheritAlpha value="0" />
+                <InheritState value="1" />
+                <State name="miss_opportunite">
+                    <Visible value="1" />
+                </State>
+                <State name="notif_opportunite">
+                    <Visible value="1" />
+                </State>
+                <Child name="Global" proto="Dummy">
+                    <Alpha value="0.000000" />
+                    <Position scale_x="2.000000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                    <Size scale_x="-1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+                    <Anchor scale_x="1.000000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                    <InheritState value="1" />
+                    <State name="notfifanim_0">
+                        <Alpha value="0.000000" />
+                        <Position scale_x="2.000000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                    </State>
+                    <State name="notfifanim_1">
+                        <Alpha value="1.000000" />
+                        <Position scale_x="2.000000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                    </State>
+                    <State name="notfifanim_20">
+                        <Alpha value="1.000000" />
+                        <Position scale_x="1.000000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                    </State>
+                    <State name="notfifanim_90">
+                        <Alpha value="1.000000" />
+                        <Position scale_x="1.000000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                    </State>
+                    <State name="notfifanim_100">
+                        <Alpha value="0.000000" />
+                        <Position scale_x="1.000000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                    </State>
+                    <Child name="fond" proto="Image">
+                        <Stack value="1" />
+                        <Position scale_x="1.000000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                        <Size scale_x="-1.000000" offset_x="0.000000" scale_y="0.000000" offset_y="90.000000" />
+                        <Anchor scale_x="1.000000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                        <InheritState value="1" />
+                        <Image set="Uni" image="white_40" />
+                        <Color r="0" g="0" b="0" a="255" />
+                        <Child name="margin_0" proto="Dummy">
+                            <Position scale_x="0.000000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                            <Size scale_x="0.000000" offset_x="15.000000" scale_y="1.000000" offset_y="0.000000" />
+                            <Anchor scale_x="0.000000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                        </Child>
+                        <Child name="stack" proto="Dummy">
+                            <Stack value="1" />
+                            <Position scale_x="0.000000" offset_x="15.000000" scale_y="0.500000" offset_y="0.000000" />
+                            <Size scale_x="-1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+                            <Anchor scale_x="0.000000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                            <InheritState value="1" />
+                            <Child name="info_texte" proto="Image">
+                                <Stack value="1" />
+                                <StackDirection value="VERTICAL" />
+                                <Position scale_x="0.000000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                                <Size scale_x="-1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+                                <Anchor scale_x="0.000000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                                <InheritState value="1" />
+                                <Child name="Trait" proto="Label">
+                                    <Position scale_x="1.000000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+                                    <Size scale_x="-1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+                                    <Anchor scale_x="1.000000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+                                    <InheritState value="1" />
+                                    <Text value="GUI.translationtable:REACTION_MISSED" />
+                                    <Font value="montserat_25" />
+                                    <Color r="255" g="193" b="6" a="255" />
+                                    <HorizontalAlignment value="RIGHT" />
+                                    <State name="notif_opportunite">
+                                        <Text value="GUI.translationtable:REACTION_START" />
+                                    </State>
+                                </Child>
+                                <Child name="opportunite_skill" proto="Label">
+                                    <Position scale_x="1.000000" offset_x="0.000000" scale_y="0.000000" offset_y="33.000000" />
+                                    <Size scale_x="-1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+                                    <Anchor scale_x="1.000000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+                                    <InheritState value="1" />
+                                    <Text value="Etiquette niveau 2" />
+                                    <Font value="montserat_20" />
+                                    <HorizontalAlignment value="RIGHT" />
+                                </Child>
+                                <Child name="legend_content" proto="Dummy">
+                                    <Stack value="1" />
+                                    <Position scale_x="1.000000" offset_x="0.000000" scale_y="0.000000" offset_y="59.000000" />
+                                    <Size scale_x="-1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+                                    <Anchor scale_x="1.000000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+                                </Child>
+                            </Child>
+                            <Child name="marge_0" proto="Dummy">
+                                <Position scale_x="0.000000" offset_x="499.000000" scale_y="0.500000" offset_y="0.000000" />
+                                <Size scale_x="0.000000" offset_x="10.000000" scale_y="0.000000" offset_y="0.000000" />
+                            </Child>
+                            <Child name="separation" proto="Image">
+                                <Position scale_x="0.000000" offset_x="509.000000" scale_y="0.500000" offset_y="0.000000" />
+                                <Size scale_x="0.000000" offset_x="2.000000" scale_y="0.000000" offset_y="75.000000" />
+                                <Anchor scale_x="0.000000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                                <Image set="Uni" image="White" />
+                            </Child>
+                            <Child name="marge_0_0" proto="Dummy">
+                                <Position scale_x="0.000000" offset_x="511.000000" scale_y="0.500000" offset_y="0.000000" />
+                                <Size scale_x="0.000000" offset_x="10.000000" scale_y="0.000000" offset_y="0.000000" />
+                            </Child>
+                            <Child name="skill" proto="Dummy">
+                                <Position scale_x="0.000000" offset_x="521.000000" scale_y="0.500000" offset_y="0.000000" />
+                                <Size scale_x="-1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="40.000000" />
+                                <Anchor scale_x="0.000000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                                <InheritState value="1" />
+                                <Child name="skill_fond" proto="Image">
+                                    <Alpha value="0.100000" />
+                                    <Rotation value="45.000000" />
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                                    <Size scale_x="0.000000" offset_x="50.000000" scale_y="0.000000" offset_y="50.000000" />
+                                    <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                                    <Image set="Uni" image="White" />
+                                </Child>
+                                <Child name="opportunite_icon" proto="Image">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                                    <Size scale_x="-1.000000" offset_x="-10.000000" scale_y="-1.000000" offset_y="-10.000000" />
+                                    <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                                    <InheritState value="1" />
+                                    <Image set="Skills" image="Icon_etiquette_00" />
+                                </Child>
+                            </Child>
+                        </Child>
+                        <Child name="margin" proto="Dummy">
+                            <Position scale_x="0.000000" offset_x="591.000000" scale_y="0.500000" offset_y="0.000000" />
+                            <Size scale_x="0.000000" offset_x="96.000000" scale_y="1.000000" offset_y="0.000000" />
+                            <Anchor scale_x="0.000000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                        </Child>
+                    </Child>
+                </Child>
+            </Child>
+        </Child>
+        <Child name="objectif_all" proto="Objectif_New">
+            <Position scale_x="1.000000" offset_x="40.000000" scale_y="0.000000" offset_y="0.000000" />
+            <Child name="Objectif">
+                <Size scale_x="0.000000" offset_x="350.000000" scale_y="-1.000000" offset_y="0.000000" />
+            </Child>
+            <Child name="marge">
+                <Position scale_x="0.000000" offset_x="350.000000" scale_y="0.500000" offset_y="0.000000" />
+            </Child>
+            <Child name="fond">
+                <Position scale_x="0.000000" offset_x="360.000000" scale_y="0.500000" offset_y="4.000000" />
+            </Child>
+        </Child>
+        <Child name="Alterations" proto="Alterations" />
+        <Child name="SubObjectives" proto="Dummy">
+            <Stack value="1" />
+            <StackDirection value="VERTICAL" />
+            <Position scale_x="1.000000" offset_x="40.000000" scale_y="0.115741" offset_y="0.000000" />
+            <Size scale_x="-1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+            <Anchor scale_x="1.000000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+        </Child>
+        <Child name="Input_Contener" proto="Input_Contener">
+            <Position scale_x="1.000000" offset_x="0.000000" scale_y="1.000000" offset_y="0.000000" />
+            <Child name="SkipCutscene" proto="Input_Content">
+                <Visible value="0" />
+                <Position scale_x="1.000000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+                <Anchor scale_x="1.000000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+                <Child name="Content">
+                    <Child name="stack">
+                        <Child name="desc_pad">
+                            <Text value="GUI.translationtable:PAD_A_SKIP" />
+                        </Child>
+                    </Child>
+                    <Child name="margin">
+                        <Position scale_x="0.000000" offset_x="341.000000" scale_y="-0.242593" offset_y="0.000000" />
+                    </Child>
+                    <Child name="Button">
+                        <Position scale_x="0.000000" offset_x="346.000000" scale_y="0.500000" offset_y="0.000000" />
+                        <Binding value="SkipCutscene" />
+                    </Child>
+                </Child>
+            </Child>
+        </Child>
+        <Child name="BottomLeft" proto="Dummy">
+            <Stack value="1" />
+            <StackDirection value="VERTICAL" />
+            <Position scale_x="0.000000" offset_x="0.000000" scale_y="1.000000" offset_y="0.000000" />
+            <Size scale_x="-1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+            <Anchor scale_x="0.000000" offset_x="0.000000" scale_y="1.000000" offset_y="0.000000" />
+            <Child name="consommable" proto="conso_anim">
+                <Position scale_x="-0.009838" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+                <Size scale_x="0.000000" offset_x="500.000000" scale_y="0.000000" offset_y="200.000000" />
+                <Child name="Remontant">
+                    <Child name="dummy">
+                        <Child name="fond">
+                            <Position scale_x="0.000000" offset_x="115.000000" scale_y="0.000000" offset_y="-40.000000" />
+                            <InheritPosition value="1" />
+                            <State name="Keyboard">
+                                <Position scale_x="0.000000" offset_x="152.000000" scale_y="0.000000" offset_y="-2.000000" />
+                            </State>
+                        </Child>
+                    </Child>
+                </Child>
+                <Child name="Cathartique">
+                    <Child name="dummy">
+                        <Child name="fond">
+                            <Position scale_x="0.000000" offset_x="152.000000" scale_y="0.000000" offset_y="-2.000000" />
+                            <InheritPosition value="1" />
+                            <State name="Keyboard">
+                                <Position scale_x="0.000000" offset_x="114.000000" scale_y="0.000000" offset_y="-40.000000" />
+                            </State>
+                        </Child>
+                    </Child>
+                </Child>
+                <Child name="Stimulant">
+                    <Child name="dummy">
+                        <Child name="fond">
+                            <Position scale_x="0.000000" offset_x="77.000000" scale_y="0.000000" offset_y="-16.000000" />
+                            <InheritPosition value="1" />
+                            <State name="Keyboard">
+                                <Position scale_x="0.000000" offset_x="77.000000" scale_y="0.000000" offset_y="-16.000000" />
+                            </State>
+                        </Child>
+                    </Child>
+                </Child>
+                <Child name="Tonique">
+                    <Child name="dummy">
+                        <Child name="fond">
+                            <Position scale_x="0.000000" offset_x="115.000000" scale_y="0.000000" offset_y="36.000000" />
+                            <InheritPosition value="1" />
+                            <State name="Keyboard">
+                                <Position scale_x="0.000000" offset_x="40.000000" scale_y="0.000000" offset_y="-40.000000" />
+                            </State>
+                        </Child>
+                    </Child>
+                </Child>
+            </Child>
+            <Child name="IchorBar" proto="IchorBar">
+                <Visible value="0" />
+                <Position scale_x="0.000000" offset_x="0.000000" scale_y="0.000000" offset_y="200.000000" />
+                <Anchor scale_x="0.000000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+            </Child>
+            <Child name="dummy" proto="Dummy">
+                <Stack value="1" />
+                <Position scale_x="-0.000579" offset_x="0.000000" scale_y="0.000000" offset_y="200.000000" />
+                <Size scale_x="-1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+                <Child name="EffortPoints" proto="Dummy">
+                    <Position scale_x="0.000000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                    <Size scale_x="-1.000000" offset_x="0.000000" scale_y="0.000000" offset_y="40.000000" />
+                    <Anchor scale_x="0.000000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                    <InteractEnabled value="1" />
+                    <Child name="gauge_effort" proto="EffortGauge2">
+                        <Position scale_x="0.000000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+                        <Child name="Line">
+                            <Child name="point2">
+                                <Position scale_x="0.000000" offset_x="37.000000" scale_y="0.500000" offset_y="0.000000" />
+                            </Child>
+                            <Child name="point3">
+                                <Position scale_x="0.000000" offset_x="74.000000" scale_y="0.500000" offset_y="0.000000" />
+                            </Child>
+                            <Child name="point4">
+                                <Position scale_x="0.000000" offset_x="111.000000" scale_y="0.500000" offset_y="0.000000" />
+                            </Child>
+                            <Child name="point5">
+                                <Position scale_x="0.000000" offset_x="148.000000" scale_y="0.500000" offset_y="0.000000" />
+                            </Child>
+                            <Child name="point6">
+                                <Position scale_x="0.000000" offset_x="185.000000" scale_y="0.500000" offset_y="0.000000" />
+                            </Child>
+                            <Child name="point7">
+                                <Position scale_x="0.000000" offset_x="222.000000" scale_y="0.500000" offset_y="0.000000" />
+                            </Child>
+                            <Child name="point8">
+                                <Position scale_x="0.000000" offset_x="259.000000" scale_y="0.500000" offset_y="0.000000" />
+                            </Child>
+                            <Child name="point9">
+                                <Position scale_x="0.000000" offset_x="296.000000" scale_y="0.500000" offset_y="0.000000" />
+                            </Child>
+                            <Child name="point10">
+                                <Position scale_x="0.000000" offset_x="333.000000" scale_y="0.500000" offset_y="0.000000" />
+                            </Child>
+                        </Child>
+                        <Child name="Line2">
+                            <Child name="point12">
+                                <Position scale_x="0.000000" offset_x="37.000000" scale_y="0.500000" offset_y="0.000000" />
+                            </Child>
+                            <Child name="point13">
+                                <Position scale_x="0.000000" offset_x="74.000000" scale_y="0.500000" offset_y="0.000000" />
+                            </Child>
+                            <Child name="point14">
+                                <Position scale_x="0.000000" offset_x="111.000000" scale_y="0.500000" offset_y="0.000000" />
+                            </Child>
+                            <Child name="point15">
+                                <Position scale_x="0.000000" offset_x="148.000000" scale_y="0.500000" offset_y="0.000000" />
+                            </Child>
+                            <Child name="point16">
+                                <Position scale_x="0.000000" offset_x="185.000000" scale_y="0.500000" offset_y="0.000000" />
+                            </Child>
+                            <Child name="point17">
+                                <Position scale_x="0.000000" offset_x="222.000000" scale_y="0.500000" offset_y="0.000000" />
+                            </Child>
+                            <Child name="point18">
+                                <Position scale_x="0.000000" offset_x="259.000000" scale_y="0.500000" offset_y="0.000000" />
+                            </Child>
+                            <Child name="point19">
+                                <Position scale_x="0.000000" offset_x="296.000000" scale_y="0.500000" offset_y="0.000000" />
+                            </Child>
+                            <Child name="point20">
+                                <Position scale_x="0.000000" offset_x="333.000000" scale_y="0.500000" offset_y="0.000000" />
+                            </Child>
+                        </Child>
+                    </Child>
+                </Child>
+                <Child name="margin_4" proto="Dummy">
+                    <Position scale_x="0.000000" offset_x="370.000000" scale_y="0.000000" offset_y="0.000000" />
+                    <Size scale_x="0.000000" offset_x="10.000000" scale_y="0.000000" offset_y="1.000000" />
+                </Child>
+                <Child name="Amber" proto="Ambre">
+                    <Position scale_x="0.000000" offset_x="380.000000" scale_y="0.700000" offset_y="0.000000" />
+                    <Anchor scale_x="0.000000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                    <InteractEnabled value="1" />
+                    <Child name="Tooltip">
+                        <Child name="TitleBackground">
+                            <Child name="Title" />
+                        </Child>
+                        <Child name="TooltipBackground">
+                            <Child name="text">
+                                <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="25.500000" />
+                            </Child>
+                            <Child name="margin_0">
+                                <Position scale_x="0.000000" offset_x="0.000000" scale_y="0.000000" offset_y="41.000000" />
+                            </Child>
+                        </Child>
+                        <Child name="TooltipBottom">
+                            <Position scale_x="0.000000" offset_x="0.000000" scale_y="0.000000" offset_y="341.000000" />
+                        </Child>
+                    </Child>
+                </Child>
+            </Child>
+        </Child>
+    </Child>
+    <Child name="Interaction" proto="Dummy">
+        <Child name="roue" proto="Image">
+            <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.775937" offset_y="0.000000" />
+            <Size scale_x="-1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+            <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+            <InheritState value="1" />
+            <Image set="Composant" image="newroue" />
+            <State name="hidden">
+                <Visible value="1" />
+            </State>
+            <Child name="diffi" proto="diffi_Last">
+                <Position scale_x="0.496078" offset_x="-0.500000" scale_y="0.432823" offset_y="-1.000000" />
+                <Size scale_x="-1.000000" offset_x="1.000000" scale_y="-1.000000" offset_y="0.000000" />
+                <Child name="Image">
+                    <Position scale_x="0.000000" offset_x="0.250000" scale_y="0.000000" offset_y="3.500000" />
+                    <Size scale_x="-1.000000" offset_x="-34.000000" scale_y="-1.000000" offset_y="-34.000000" />
+                    <Child name="rond">
+                        <Visible value="0" />
+                        <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="-1.000000" />
+                        <InheritOrientation value="1" />
+                        <InheritPosition value="1" />
+                    </Child>
+                </Child>
+            </Child>
+            <Child name="selection1" proto="Image">
+                <Visible value="0" />
+                <Rotation value="90.000000" />
+                <Position scale_x="0.000000" offset_x="-5.000000" scale_y="0.000000" offset_y="15.000000" />
+                <Size scale_x="-1.000000" offset_x="3.000000" scale_y="-1.000000" offset_y="3.000000" />
+                <InheritState value="1" />
+                <Image set="Composant" image="cursor_choix2" />
+                <State name="selection1">
+                    <Visible value="1" />
+                </State>
+            </Child>
+            <Child name="selection2" proto="Image">
+                <Visible value="0" />
+                <Position scale_x="0.750000" offset_x="-2.000000" scale_y="0.000000" offset_y="-5.000000" />
+                <Size scale_x="-1.000000" offset_x="3.000000" scale_y="-1.000000" offset_y="3.000000" />
+                <InheritState value="1" />
+                <Image set="Composant" image="cursor_choix2" />
+                <State name="selection2">
+                    <Visible value="1" />
+                </State>
+            </Child>
+            <Child name="selection3" proto="Image">
+                <Visible value="0" />
+                <Rotation value="133.000000" />
+                <Position scale_x="0.000000" offset_x="-3.000000" scale_y="0.500000" offset_y="14.000000" />
+                <Size scale_x="-1.000000" offset_x="3.000000" scale_y="-1.000000" offset_y="3.000000" />
+                <InheritState value="1" />
+                <Image set="Composant" image="cursor_choix2" />
+                <State name="selection3">
+                    <Visible value="1" />
+                </State>
+                <State name="3choix">
+                    <Rotation value="180.000000" />
+                    <Position scale_x="0.000000" offset_x="15.000000" scale_y="1.000000" offset_y="2.000000" />
+                </State>
+                <State name="4choix">
+                    <Rotation value="180.000000" />
+                    <Position scale_x="0.000000" offset_x="15.000000" scale_y="1.000000" offset_y="2.000000" />
+                </State>
+            </Child>
+            <Child name="selection4" proto="Image">
+                <Visible value="0" />
+                <Rotation value="313.000000" />
+                <Position scale_x="1.000000" offset_x="2.000000" scale_y="0.500000" offset_y="-14.000000" />
+                <Size scale_x="-1.000000" offset_x="3.000000" scale_y="-1.000000" offset_y="3.000000" />
+                <InheritState value="1" />
+                <Image set="Composant" image="cursor_choix2" />
+                <State name="selection4">
+                    <Visible value="1" />
+                </State>
+                <State name="4choix">
+                    <Rotation value="270.000000" />
+                    <Position scale_x="1.000000" offset_x="1.000000" scale_y="1.000000" offset_y="-15.000000" />
+                </State>
+            </Child>
+            <Child name="selection5" proto="Image">
+                <Visible value="0" />
+                <Rotation value="180.000000" />
+                <Position scale_x="0.000000" offset_x="15.000000" scale_y="1.000000" offset_y="5.000000" />
+                <Size scale_x="-1.000000" offset_x="3.000000" scale_y="-1.000000" offset_y="3.000000" />
+                <InheritState value="1" />
+                <Image set="Composant" image="cursor_choix2" />
+                <State name="selection5">
+                    <Visible value="1" />
+                </State>
+            </Child>
+            <Child name="selection6" proto="Image">
+                <Visible value="0" />
+                <Rotation value="270.000000" />
+                <Position scale_x="1.000000" offset_x="5.200000" scale_y="1.000000" offset_y="-15.000000" />
+                <Size scale_x="-1.000000" offset_x="3.000000" scale_y="-1.000000" offset_y="3.000000" />
+                <InheritState value="1" />
+                <Image set="Composant" image="cursor_choix2" />
+                <State name="selection6">
+                    <Visible value="1" />
+                </State>
+            </Child>
+            <Child name="selectionMindread" proto="Image">
+                <Visible value="0" />
+                <Rotation value="45.000000" />
+                <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+                <Size scale_x="-1.000000" offset_x="3.000000" scale_y="-1.000000" offset_y="3.000000" />
+                <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                <InheritState value="1" />
+                <Image set="Composant" image="cursor_choix2" />
+                <State name="selectionMindread">
+                    <Visible value="1" />
+                </State>
+            </Child>
+        </Child>
+        <Child name="question_content" proto="Dummy">
+            <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.650000" offset_y="-30.000000" />
+            <Size scale_x="0.000000" offset_x="1000.000000" scale_y="-1.000000" offset_y="0.000000" />
+            <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="1.000000" offset_y="0.000000" />
+            <Child name="content" proto="Dummy">
+                <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                <Size scale_x="-1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+                <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                <InheritState value="1" />
+                <Child name="questionbackground" proto="Image">
+                    <Alpha value="0.700000" />
+                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="1.000000" offset_y="0.000000" />
+                    <Size scale_x="-1.000000" offset_x="50.000000" scale_y="-1.000000" offset_y="5.000000" />
+                    <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="1.000000" offset_y="0.000000" />
+                    <Image set="Composant" image="fond_subtitle" />
+                    <Color r="16" g="16" b="16" a="255" />
+                    <Child name="question_center" proto="Dummy">
+                        <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                        <Size scale_x="-1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+                        <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                        <Child name="question" proto="Label">
+                            <Position scale_x="0.500000" offset_x="0.000000" scale_y="1.000000" offset_y="0.000000" />
+                            <Size scale_x="-1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+                            <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="1.000000" offset_y="0.000000" />
+                            <InheritAlpha value="0" />
+                            <Litteral value="1" />
+                            <Text value="Et hop un petit texte rapide" />
+                            <Font value="montserat_25" />
+                            <HorizontalAlignment value="CENTER" />
+                            <VerticalAlignment value="CENTER" />
+                        </Child>
+                    </Child>
+                </Child>
+            </Child>
+        </Child>
+        <Child name="timer_back" proto="timer_back">
+            <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.900000" offset_y="30.000000" />
+            <State name="Intoxique_0">
+                <Alpha value="0.700000" />
+            </State>
+            <State name="Intoxique_50">
+                <Alpha value="0.700000" />
+            </State>
+            <State name="Intoxique_100">
+                <Alpha value="0.700000" />
+            </State>
+            <Child name="progress">
+                <InheritState value="1" />
+                <State name="Intoxique_0">
+                    <Visible value="1" />
+                    <Alpha value="0.000000" />
+                    <Color r="192" g="192" b="192" a="255" />
+                </State>
+                <State name="Intoxique_100">
+                    <Visible value="1" />
+                    <Alpha value="0.000000" />
+                    <Color r="192" g="192" b="192" a="255" />
+                </State>
+            </Child>
+        </Child>
+        <Child name="Choices" proto="Dummy">
+            <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+            <Size scale_x="0.000000" offset_x="550.000000" scale_y="1.000000" offset_y="0.000000" />
+            <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+            <InheritState value="1" />
+            <Child name="choix1" proto="LeftChoice">
+                <Position scale_x="0.500000" offset_x="-35.000000" scale_y="0.710000" offset_y="6.000000" />
+                <Child name="Tag">
+                    <Position scale_x="0.000000" offset_x="287.000000" scale_y="0.000000" offset_y="15.000000" />
+                </Child>
+            </Child>
+            <Child name="choix3" proto="LeftChoice">
+                <Position scale_x="0.500000" offset_x="-70.000000" scale_y="0.780000" offset_y="11.000000" />
+                <State name="1choix">
+                    <Visible value="0" />
+                </State>
+                <State name="2choix">
+                    <Visible value="0" />
+                </State>
+                <State name="3choix">
+                    <Position scale_x="0.500000" offset_x="-35.000000" scale_y="0.850000" offset_y="0.000000" />
+                </State>
+                <State name="4choix">
+                    <Position scale_x="0.500000" offset_x="-35.000000" scale_y="0.850000" offset_y="0.000000" />
+                </State>
+            </Child>
+            <Child name="choix5" proto="LeftChoice">
+                <Position scale_x="0.500000" offset_x="-35.000000" scale_y="0.850000" offset_y="14.000000" />
+                <State name="1choix">
+                    <Visible value="0" />
+                </State>
+                <State name="2choix">
+                    <Visible value="0" />
+                </State>
+                <State name="3choix">
+                    <Visible value="0" />
+                </State>
+                <State name="4choix">
+                    <Visible value="0" />
+                </State>
+            </Child>
+            <Child name="choix4" proto="RightChoice">
+                <Position scale_x="0.500000" offset_x="70.000000" scale_y="0.780000" offset_y="11.000000" />
+                <State name="1choix">
+                    <Visible value="0" />
+                </State>
+                <State name="2choix">
+                    <Visible value="0" />
+                </State>
+                <State name="3choix">
+                    <Visible value="0" />
+                </State>
+                <State name="4choix">
+                    <Position scale_x="0.500000" offset_x="35.000000" scale_y="0.850000" offset_y="0.000000" />
+                </State>
+            </Child>
+            <Child name="choix6" proto="RightChoice">
+                <Position scale_x="0.500000" offset_x="35.000000" scale_y="0.850000" offset_y="14.000000" />
+                <State name="1choix">
+                    <Visible value="0" />
+                </State>
+                <State name="2choix">
+                    <Visible value="0" />
+                </State>
+                <State name="3choix">
+                    <Visible value="0" />
+                </State>
+                <State name="4choix">
+                    <Visible value="0" />
+                </State>
+                <State name="5choix">
+                    <Visible value="0" />
+                </State>
+            </Child>
+            <Child name="choix2" proto="RightChoice">
+                <Position scale_x="0.500000" offset_x="35.000000" scale_y="0.710000" offset_y="6.000000" />
+                <State name="1choix">
+                    <Visible value="0" />
+                </State>
+            </Child>
+            <Child name="MindRead" proto="MindRead" />
+        </Child>
+    </Child>
+    <Child name="content_subtitle" proto="Dummy">
+        <Position scale_x="0.500000" offset_x="0.000000" scale_y="1.000000" offset_y="-56.000000" />
+        <Size scale_x="0.000000" offset_x="1000.000000" scale_y="-1.000000" offset_y="0.000000" />
+        <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="1.000000" offset_y="0.000000" />
+        <Child name="fond_subtitle" proto="Image">
+            <Alpha value="0.700000" />
+            <Stackable value="0" />
+            <Position scale_x="0.500000" offset_x="0.000000" scale_y="1.000000" offset_y="0.000000" />
+            <Size scale_x="-1.000000" offset_x="50.000000" scale_y="-1.000000" offset_y="5.000000" />
+            <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="1.000000" offset_y="0.000000" />
+            <InheritState value="1" />
+            <Image set="Composant" image="fond_subtitle" />
+            <Child name="subtitles" proto="Label">
+                <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                <Size scale_x="-1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+                <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                <InheritAlpha value="0" />
+                <InheritState value="1" />
+                <Litteral value="1" />
+                <Text value="Arrete ton jeu !" />
+                <Font value="montserat_25" />
+                <HorizontalAlignment value="CENTER" />
+                <VerticalAlignment value="CENTER" />
+            </Child>
+        </Child>
+    </Child>
+    <Child name="interaction1" proto="Interaction2">
+        <Position scale_x="0.348958" offset_x="0.000000" scale_y="0.392593" offset_y="0.000000" />
+    </Child>
+    <Child name="interaction2" proto="Interaction2">
+        <Position scale_x="0.348958" offset_x="0.000000" scale_y="0.392593" offset_y="0.000000" />
+    </Child>
+    <Child name="interaction3" proto="Interaction2">
+        <Position scale_x="0.348958" offset_x="0.000000" scale_y="0.392593" offset_y="0.000000" />
+    </Child>
+    <Child name="interaction4" proto="Interaction2">
+        <Position scale_x="0.348958" offset_x="0.000000" scale_y="0.392593" offset_y="0.000000" />
+    </Child>
+    <Child name="interaction5" proto="Interaction2">
+        <Position scale_x="0.348958" offset_x="0.000000" scale_y="0.392593" offset_y="0.000000" />
+    </Child>
+    <Child name="interaction6" proto="Interaction2">
+        <Position scale_x="0.348958" offset_x="0.000000" scale_y="0.392593" offset_y="0.000000" />
+    </Child>
+    <Child name="interaction7" proto="Interaction2">
+        <Position scale_x="0.348958" offset_x="0.000000" scale_y="0.392593" offset_y="0.000000" />
+    </Child>
+    <Child name="interaction8" proto="Interaction2">
+        <Position scale_x="0.348958" offset_x="0.000000" scale_y="0.392593" offset_y="0.000000" />
+    </Child>
+    <Child name="interaction9" proto="Interaction2">
+        <Position scale_x="0.348958" offset_x="0.000000" scale_y="0.392593" offset_y="0.000000" />
+    </Child>
+    <Child name="interaction10" proto="Interaction2">
+        <Position scale_x="0.348958" offset_x="0.000000" scale_y="0.392593" offset_y="0.000000" />
+    </Child>
+    <Child name="DialFight" proto="Label">
+        <Alpha value="0.000000" />
+        <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.170000" offset_y="0.000000" />
+        <Size scale_x="-1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+        <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+        <Text value="GUI.translationtable:DIALFIGHT_START" />
+        <Font value="Montserat_110" />
+        <Color r="239" g="223" b="212" a="255" />
+        <HorizontalAlignment value="CENTER" />
+        <State name="animation_startdl_0">
+            <Alpha value="0.000000" />
+        </State>
+        <State name="animation_startdl_1">
+            <Alpha value="0.000000" />
+        </State>
+        <State name="animation_startdl_20">
+            <Alpha value="1.000000" />
+        </State>
+        <State name="animation_startdl_80">
+            <Alpha value="1.000000" />
+        </State>
+        <State name="animation_startdl_100">
+            <Alpha value="0.000000" />
+        </State>
+    </Child>
+    <Child name="Successful" proto="Label">
+        <Alpha value="0.000000" />
+        <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.170000" offset_y="0.000000" />
+        <Size scale_x="-1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+        <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+        <Text value="GUI.translationtable:DIALFIGHT_GOODOUTCOME" />
+        <Font value="Montserat_110" />
+        <Color r="23" g="153" b="5" a="255" />
+        <HorizontalAlignment value="CENTER" />
+        <State name="animation_succdl_0">
+            <Alpha value="0.000000" />
+        </State>
+        <State name="animation_succdl_1">
+            <Alpha value="0.000000" />
+        </State>
+        <State name="animation_succdl_20">
+            <Alpha value="1.000000" />
+        </State>
+        <State name="animation_succdl_80">
+            <Alpha value="1.000000" />
+        </State>
+        <State name="animation_succdl_100">
+            <Alpha value="0.000000" />
+        </State>
+    </Child>
+    <Child name="Fail" proto="Label">
+        <Alpha value="0.000000" />
+        <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.170000" offset_y="0.000000" />
+        <Size scale_x="-1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+        <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+        <Text value="GUI.translationtable:DIALFIGHT_BADOUTCOME" />
+        <Font value="Montserat_110" />
+        <Color r="212" g="41" b="41" a="255" />
+        <HorizontalAlignment value="CENTER" />
+        <State name="animation_faildl_0">
+            <Alpha value="0.000000" />
+        </State>
+        <State name="animation_faildl_1">
+            <Alpha value="0.000000" />
+        </State>
+        <State name="animation_faildl_20">
+            <Alpha value="1.000000" />
+        </State>
+        <State name="animation_faildl_80">
+            <Alpha value="1.000000" />
+        </State>
+        <State name="animation_faildl_100">
+            <Alpha value="0.000000" />
+        </State>
+    </Child>
+    <Child name="Loop" proto="Label">
+        <Alpha value="0.000000" />
+        <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.150000" offset_y="0.000000" />
+        <Size scale_x="-1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+        <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+        <Text value="GUI.translationtable:DIALFIGHT_STEPLOOP" />
+        <Font value="montserat_60" />
+        <Color r="239" g="223" b="212" a="255" />
+        <HorizontalAlignment value="CENTER" />
+        <State name="animation_loopdl_0">
+            <Alpha value="0.000000" />
+        </State>
+        <State name="animation_loopdl_1">
+            <Alpha value="0.000000" />
+        </State>
+        <State name="animation_loopdl_20">
+            <Alpha value="1.000000" />
+        </State>
+        <State name="animation_loopdl_80">
+            <Alpha value="1.000000" />
+        </State>
+        <State name="animation_loopdl_100">
+            <Alpha value="0.000000" />
+        </State>
+    </Child>
+    <Child name="Opportunity" proto="Label">
+        <Alpha value="0.000000" />
+        <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.170000" offset_y="0.000000" />
+        <Size scale_x="-1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+        <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+        <Text value="GUI.translationtable:OPPORTUNITY_GOODOUTCOME" />
+        <Font value="Montserat_110" />
+        <Color r="23" g="153" b="5" a="255" />
+        <HorizontalAlignment value="CENTER" />
+        <State name="animation_succdl_0">
+            <Alpha value="0.000000" />
+        </State>
+        <State name="animation_succdl_1">
+            <Alpha value="0.000000" />
+        </State>
+        <State name="animation_succdl_20">
+            <Alpha value="1.000000" />
+        </State>
+        <State name="animation_succdl_80">
+            <Alpha value="1.000000" />
+        </State>
+        <State name="animation_succdl_100">
+            <Alpha value="0.000000" />
+        </State>
+    </Child>
+    <Child name="OpportunityFail" proto="Label">
+        <Alpha value="0.000000" />
+        <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.170000" offset_y="0.000000" />
+        <Size scale_x="-1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+        <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+        <Text value="GUI.translationtable:OPPORTUNITY_BADOUTCOME" />
+        <Font value="Montserat_110" />
+        <Color r="212" g="41" b="41" a="255" />
+        <HorizontalAlignment value="CENTER" />
+        <State name="animation_faildl_0">
+            <Alpha value="0.000000" />
+        </State>
+        <State name="animation_faildl_1">
+            <Alpha value="0.000000" />
+        </State>
+        <State name="animation_faildl_20">
+            <Alpha value="1.000000" />
+        </State>
+        <State name="animation_faildl_80">
+            <Alpha value="1.000000" />
+        </State>
+        <State name="animation_faildl_100">
+            <Alpha value="0.000000" />
+        </State>
+    </Child>
+</Layout>

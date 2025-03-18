@@ -1,0 +1,8 @@
+<Imageset name="Class_Choice" texture="Class_Choice.tga">
+	<Image name="logo_diplomate" left="1" top="1" right="147" bottom="147" />
+	<Image name="Logo_Detective" left="149" top="1" right="295" bottom="147" />
+	<Image name="logo_occultiste" left="297" top="1" right="443" bottom="147" />
+	<Image name="logo_cut_occultiste" left="1" top="149" right="111" bottom="208" />
+	<Image name="logo_cut_diplomate" left="149" top="149" right="259" bottom="208" />
+	<Image name="logo_cut_detective" left="297" top="149" right="407" bottom="208" />
+</Imageset>

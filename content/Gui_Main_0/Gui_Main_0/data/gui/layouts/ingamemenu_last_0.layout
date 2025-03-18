@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Layout>
+    <Child name="Background" proto="Image">
+        <Alpha value="0.850000" />
+        <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+        <Size scale_x="50.000000" offset_x="0.000000" scale_y="50.000000" offset_y="0.000000" />
+        <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+        <Image set="Uni" image="White" />
+        <Color r="0" g="0" b="0" a="255" />
+    </Child>
+    <Child name="Input_Contener" proto="Input_Contener">
+        <Position scale_x="1.000000" offset_x="-96.000000" scale_y="1.000000" offset_y="-54.000000" />
+        <Size scale_x="-1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+    </Child>
+    <Child name="marge" proto="Dummy">
+        <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+        <Size scale_x="0.900000" offset_x="0.000000" scale_y="0.900000" offset_y="0.000000" />
+        <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+        <InheritState value="1" />
+        <Child name="objectif_all" proto="Objectif">
+            <InheritState value="1" />
+            <Child name="wrong">
+                <Position scale_x="0.000000" offset_x="33.000000" scale_y="0.049118" offset_y="0.000000" />
+            </Child>
+            <Child name="Objectif">
+                <Position scale_x="0.000000" offset_x="66.000000" scale_y="0.000000" offset_y="0.000000" />
+                <Anchor scale_x="0.000000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+                <Font value="montserat_20" />
+            </Child>
+        </Child>
+        <Child name="dummy" proto="Dummy">
+            <Stack value="1" />
+            <Position scale_x="0.000000" offset_x="0.000000" scale_y="1.000000" offset_y="0.000000" />
+            <Size scale_x="-1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+            <Anchor scale_x="0.000000" offset_x="0.000000" scale_y="1.000000" offset_y="0.000000" />
+            <Child name="EffortPoints" proto="Dummy">
+                <Position scale_x="0.000000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                <Size scale_x="-1.000000" offset_x="0.000000" scale_y="0.000000" offset_y="40.000000" />
+                <Anchor scale_x="0.000000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                <Child name="gauge_effort" proto="EffortGauge2">
+                    <Position scale_x="0.000000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+                    <Child name="Line">
+                        <Child name="point2">
+                            <Position scale_x="0.000000" offset_x="37.000000" scale_y="0.500000" offset_y="0.000000" />
+                        </Child>
+                        <Child name="point3">
+                            <Position scale_x="0.000000" offset_x="74.000000" scale_y="0.500000" offset_y="0.000000" />
+                        </Child>
+                        <Child name="point4">
+                            <Position scale_x="0.000000" offset_x="111.000000" scale_y="0.500000" offset_y="0.000000" />
+                        </Child>
+                        <Child name="point5">
+                            <Position scale_x="0.000000" offset_x="148.000000" scale_y="0.500000" offset_y="0.000000" />
+                        </Child>
+                        <Child name="point6">
+                            <Position scale_x="0.000000" offset_x="185.000000" scale_y="0.500000" offset_y="0.000000" />
+                        </Child>
+                        <Child name="point7">
+                            <Position scale_x="0.000000" offset_x="222.000000" scale_y="0.500000" offset_y="0.000000" />
+                        </Child>
+                        <Child name="point8">
+                            <Position scale_x="0.000000" offset_x="259.000000" scale_y="0.500000" offset_y="0.000000" />
+                        </Child>
+                        <Child name="point9">
+                            <Position scale_x="0.000000" offset_x="296.000000" scale_y="0.500000" offset_y="0.000000" />
+                        </Child>
+                        <Child name="point10">
+                            <Position scale_x="0.000000" offset_x="333.000000" scale_y="0.500000" offset_y="0.000000" />
+                        </Child>
+                    </Child>
+                    <Child name="Line2">
+                        <Child name="point12">
+                            <Position scale_x="0.000000" offset_x="37.000000" scale_y="0.500000" offset_y="0.000000" />
+                        </Child>
+                        <Child name="point13">
+                            <Position scale_x="0.000000" offset_x="74.000000" scale_y="0.500000" offset_y="0.000000" />
+                        </Child>
+                        <Child name="point14">
+                            <Position scale_x="0.000000" offset_x="111.000000" scale_y="0.500000" offset_y="0.000000" />
+                        </Child>
+                        <Child name="point15">
+                            <Position scale_x="0.000000" offset_x="148.000000" scale_y="0.500000" offset_y="0.000000" />
+                        </Child>
+                        <Child name="point16">
+                            <Position scale_x="0.000000" offset_x="185.000000" scale_y="0.500000" offset_y="0.000000" />
+                        </Child>
+                        <Child name="point17">
+                            <Position scale_x="0.000000" offset_x="222.000000" scale_y="0.500000" offset_y="0.000000" />
+                        </Child>
+                        <Child name="point18">
+                            <Position scale_x="0.000000" offset_x="259.000000" scale_y="0.500000" offset_y="0.000000" />
+                        </Child>
+                        <Child name="point19">
+                            <Position scale_x="0.000000" offset_x="296.000000" scale_y="0.500000" offset_y="0.000000" />
+                        </Child>
+                        <Child name="point20">
+                            <Position scale_x="0.000000" offset_x="333.000000" scale_y="0.500000" offset_y="0.000000" />
+                        </Child>
+                    </Child>
+                </Child>
+            </Child>
+            <Child name="margin_4" proto="Dummy">
+                <Position scale_x="0.000000" offset_x="370.000000" scale_y="0.000000" offset_y="0.000000" />
+                <Size scale_x="0.000000" offset_x="10.000000" scale_y="0.000000" offset_y="1.000000" />
+            </Child>
+            <Child name="Amber" proto="Ambre">
+                <Position scale_x="0.000000" offset_x="380.000000" scale_y="0.769017" offset_y="0.000000" />
+                <Anchor scale_x="0.000000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                <Child name="Tooltip">
+                    <Child name="TitleBackground">
+                        <Child name="Title" />
+                    </Child>
+                    <Child name="TooltipBackground">
+                        <Child name="text">
+                            <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="25.500000" />
+                        </Child>
+                        <Child name="margin_0">
+                            <Position scale_x="0.000000" offset_x="0.000000" scale_y="0.000000" offset_y="41.000000" />
+                        </Child>
+                    </Child>
+                    <Child name="TooltipBottom">
+                        <Position scale_x="0.000000" offset_x="0.000000" scale_y="0.000000" offset_y="341.000000" />
+                    </Child>
+                </Child>
+            </Child>
+        </Child>
+        <Child name="consommable" proto="conso_anim">
+            <Position scale_x="0.000000" offset_x="0.000000" scale_y="0.740000" offset_y="0.000000" />
+        </Child>
+        <Child name="Alterations" proto="Alterations" />
+        <Child name="SubObjectives" proto="Dummy">
+            <Stack value="1" />
+            <StackDirection value="VERTICAL" />
+            <Position scale_x="1.000000" offset_x="0.000000" scale_y="0.060000" offset_y="0.000000" />
+            <Size scale_x="-1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+            <Anchor scale_x="1.000000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+        </Child>
+    </Child>
+    <Child name="ParallaxRoot" proto="Dummy">
+        <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+        <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+        <Child name="Resume" proto="Dummy">
+            <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.440000" offset_y="0.000000" />
+            <Size scale_x="-1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+            <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+            <InteractEnabled value="1" />
+            <InheritState value="1" />
+            <State name="missed">
+                <Visible value="0" />
+            </State>
+            <Child name="slot1" proto="Dummy">
+                <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                <Size scale_x="-1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+                <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                <InheritState value="1" />
+                <Child name="info" proto="Label">
+                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                    <Size scale_x="-1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+                    <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                    <InheritAlpha value="0" />
+                    <InheritState value="1" />
+                    <Text value="GUI.translationtable:RESUME" />
+                    <Font value="montserat_170" />
+                    <Color r="239" g="223" b="212" a="255" />
+                    <HorizontalAlignment value="CENTER" />
+                    <State name="PointedState">
+                        <Color r="255" g="193" b="6" a="255" />
+                    </State>
+                </Child>
+            </Child>
+            <Child name="Tooltip" proto="Tooltip_Base_MENU">
+                <Child name="top">
+                    <Child name="title">
+                        <Litteral value="0" />
+                        <Text value="GUI.translationtable:RESUME" />
+                    </Child>
+                </Child>
+                <Child name="content">
+                    <Child name="text">
+                        <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="28.000000" />
+                        <Litteral value="0" />
+                        <Text value="GUI.translationtable:RESUME_TOOLTIP" />
+                    </Child>
+                </Child>
+                <Child name="Input">
+                    <Position scale_x="0.000000" offset_x="0.000000" scale_y="0.000000" offset_y="113.500000" />
+                </Child>
+            </Child>
+        </Child>
+        <Child name="dummy" proto="Dummy">
+            <Stack value="1" />
+            <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.560000" offset_y="0.000000" />
+            <Size scale_x="-1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+            <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+            <Child name="Return" proto="Dummy">
+                <Position scale_x="0.000000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                <Size scale_x="-1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+                <Anchor scale_x="0.000000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                <InteractEnabled value="1" />
+                <Child name="slot2" proto="Dummy">
+                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                    <Size scale_x="-1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+                    <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                    <InheritState value="1" />
+                    <Child name="info" proto="Label">
+                        <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                        <Size scale_x="-1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+                        <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                        <InheritAlpha value="0" />
+                        <InheritState value="1" />
+                        <Text value="GUI.translationtable:RETURN_MENU" />
+                        <Font value="montserat_50" />
+                        <Color r="239" g="233" b="212" a="255" />
+                        <HorizontalAlignment value="CENTER" />
+                        <State name="PointedState">
+                            <Color r="255" g="193" b="6" a="255" />
+                        </State>
+                    </Child>
+                </Child>
+                <Child name="Tooltip" proto="Tooltip_Base_MENU">
+                    <Child name="top">
+                        <Child name="title">
+                            <Litteral value="0" />
+                            <Text value="GUI.translationtable:RETURN_MENU" />
+                        </Child>
+                    </Child>
+                    <Child name="content">
+                        <Child name="text">
+                            <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="28.000000" />
+                            <Litteral value="0" />
+                            <Text value="GUI.translationtable:RETURN_MENU_TOOLTIP" />
+                        </Child>
+                    </Child>
+                    <Child name="Input">
+                        <Position scale_x="0.000000" offset_x="0.000000" scale_y="0.000000" offset_y="113.500000" />
+                    </Child>
+                </Child>
+            </Child>
+            <Child name="margin_0" proto="Dummy">
+                <Position scale_x="0.000000" offset_x="930.000000" scale_y="-21.862068" offset_y="0.000000" />
+                <Size scale_x="0.000000" offset_x="30.000000" scale_y="0.000000" offset_y="0.000000" />
+            </Child>
+            <Child name="separation" proto="Image">
+                <Position scale_x="0.000000" offset_x="960.000000" scale_y="0.500000" offset_y="0.000000" />
+                <Size scale_x="0.000000" offset_x="4.000000" scale_y="0.000000" offset_y="40.000000" />
+                <Anchor scale_x="0.000000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                <Image set="Uni" image="White" />
+                <Color r="239" g="223" b="212" a="255" />
+            </Child>
+            <Child name="margin_0_0" proto="Dummy">
+                <Position scale_x="0.000000" offset_x="964.000000" scale_y="-15.700000" offset_y="0.000000" />
+                <Size scale_x="0.000000" offset_x="30.000000" scale_y="0.000000" offset_y="0.000000" />
+            </Child>
+            <Child name="Option" proto="Dummy">
+                <Position scale_x="0.000000" offset_x="994.000000" scale_y="0.500000" offset_y="0.000000" />
+                <Size scale_x="-1.000000" offset_x="-0.000000" scale_y="-1.000000" offset_y="0.000000" />
+                <Anchor scale_x="0.000000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                <InteractEnabled value="1" />
+                <Child name="slot3" proto="Dummy">
+                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                    <Size scale_x="-1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+                    <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                    <InheritState value="1" />
+                    <Child name="info" proto="Label">
+                        <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                        <Size scale_x="-1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+                        <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                        <InheritAlpha value="0" />
+                        <InheritState value="1" />
+                        <Text value="GUI.translationtable:OPTION" />
+                        <Font value="montserat_50" />
+                        <Color r="239" g="223" b="212" a="255" />
+                        <HorizontalAlignment value="CENTER" />
+                        <State name="PointedState">
+                            <Color r="255" g="193" b="6" a="255" />
+                        </State>
+                    </Child>
+                </Child>
+                <Child name="Tooltip" proto="Tooltip_Base_MENU">
+                    <Child name="top">
+                        <Child name="title">
+                            <Litteral value="0" />
+                            <Text value="GUI.translationtable:OPTION" />
+                        </Child>
+                    </Child>
+                    <Child name="content">
+                        <Child name="text">
+                            <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="28.000000" />
+                            <Litteral value="0" />
+                            <Text value="GUI.translationtable:SETTING_TOOLTIP" />
+                        </Child>
+                    </Child>
+                    <Child name="Input">
+                        <Position scale_x="0.000000" offset_x="0.000000" scale_y="0.000000" offset_y="113.500000" />
+                    </Child>
+                </Child>
+            </Child>
+            <Child name="margin_0_0_0" proto="Dummy">
+                <Position scale_x="0.000000" offset_x="1726.000000" scale_y="-15.700000" offset_y="0.000000" />
+                <Size scale_x="0.000000" offset_x="30.000000" scale_y="0.000000" offset_y="0.000000" />
+            </Child>
+            <Child name="separation_0" proto="Image">
+                <Position scale_x="0.000000" offset_x="1756.000000" scale_y="0.500000" offset_y="0.000000" />
+                <Size scale_x="0.000000" offset_x="4.000000" scale_y="0.000000" offset_y="40.000000" />
+                <Anchor scale_x="0.000000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                <Image set="Uni" image="White" />
+                <Color r="239" g="223" b="212" a="255" />
+            </Child>
+            <Child name="margin_0_1" proto="Dummy">
+                <Position scale_x="0.000000" offset_x="1760.000000" scale_y="-21.862068" offset_y="0.000000" />
+                <Size scale_x="0.000000" offset_x="30.000000" scale_y="0.000000" offset_y="0.000000" />
+            </Child>
+            <Child name="Exit" proto="Dummy">
+                <Position scale_x="0.000000" offset_x="1790.000000" scale_y="0.500000" offset_y="0.000000" />
+                <Size scale_x="-1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+                <Anchor scale_x="0.000000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                <InteractEnabled value="1" />
+                <InheritState value="1" />
+                <State name="missed">
+                    <Visible value="1" />
+                </State>
+                <Child name="slot4" proto="Dummy">
+                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                    <Size scale_x="-1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+                    <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                    <InheritState value="1" />
+                    <Child name="info" proto="Label">
+                        <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                        <Size scale_x="-1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+                        <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                        <InheritAlpha value="0" />
+                        <InheritState value="1" />
+                        <Text value="GUI.translationtable:EXIT_GAME" />
+                        <Font value="montserat_50" />
+                        <Color r="239" g="223" b="212" a="255" />
+                        <HorizontalAlignment value="CENTER" />
+                        <State name="PointedState">
+                            <Color r="255" g="193" b="6" a="255" />
+                        </State>
+                    </Child>
+                </Child>
+                <Child name="Tooltip" proto="Tooltip_Base_MENU">
+                    <Child name="top">
+                        <Visible value="0" />
+                        <Child name="title">
+                            <Text value="GUI.translationtable:EXIT_GAME" />
+                        </Child>
+                    </Child>
+                    <Child name="content">
+                        <Child name="text">
+                            <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="28.000000" />
+                            <Litteral value="0" />
+                            <Text value="GUI.translationtable:EXIT_GAME_TOOLTIP" />
+                        </Child>
+                    </Child>
+                    <Child name="Input">
+                        <Position scale_x="0.000000" offset_x="0.000000" scale_y="0.000000" offset_y="113.500000" />
+                    </Child>
+                </Child>
+            </Child>
+        </Child>
+    </Child>
+</Layout>

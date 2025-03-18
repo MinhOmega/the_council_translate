@@ -1,0 +1,10 @@
+<Imageset name="Composant" texture="Composant.tga">
+	<Image name="diffi" left="1" top="1" right="82" bottom="82" />
+	<Image name="newroue" left="85" top="1" right="148" bottom="62" />
+	<Image name="info_01" left="153" top="1" right="205" bottom="53" />
+	<Image name="fond_subtitle" left="1" top="85" right="56" bottom="130" />
+	<Image name="interaction" left="1" top="133" right="50" bottom="182" />
+	<Image name="Fleche_01" left="153" top="57" right="172" bottom="78" />
+	<Image name="cursor_choix2" left="85" top="65" right="102" bottom="81" />
+	<Image name="rond" left="105" top="65" right="114" bottom="74" />
+</Imageset>

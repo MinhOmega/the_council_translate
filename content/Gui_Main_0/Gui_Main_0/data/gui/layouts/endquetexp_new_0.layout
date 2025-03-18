@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Layout>
+    <Child name="fond" proto="Image">
+        <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+        <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+        <Image set="Background_GUI" image="Background_GUI" />
+    </Child>
+    <Child name="Input_Contener" proto="Input_Contener">
+        <Position scale_x="1.000000" offset_x="-96.000000" scale_y="1.000000" offset_y="-54.000000" />
+    </Child>
+    <Child name="marge" proto="Dummy">
+        <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+        <Size scale_x="0.000000" offset_x="1728.000000" scale_y="0.000000" offset_y="972.000000" />
+        <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+        <Child name="stack" proto="Dummy">
+            <Stack value="1" />
+            <StackDirection value="VERTICAL" />
+            <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.400000" offset_y="0.000000" />
+            <Size scale_x="-1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+            <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+            <Child name="Quest" proto="Black">
+                <Alpha value="0.200000" />
+                <Stack value="1" />
+                <StackDirection value="VERTICAL" />
+                <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+                <Size scale_x="0.000000" offset_x="830.000000" scale_y="-1.000000" offset_y="-0.000000" />
+                <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+                <Image set="Uni" image="White" />
+                <Color r="255" g="255" b="255" a="255" />
+                <Child name="Content" proto="Dummy">
+                    <Stack value="1" />
+                    <StackDirection value="VERTICAL" />
+                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+                    <Size scale_x="0.900000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+                    <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+                    <InheritAlpha value="0" />
+                    <Child name="Dummy_0" proto="Dummy">
+                        <Size scale_x="1.000000" offset_x="0.000000" scale_y="0.000000" offset_y="20.000000" />
+                        <InheritState value="1" />
+                        <State name="fadeanimation_0">
+                            <Visible value="0" />
+                        </State>
+                        <State name="fadeanimation_1">
+                            <Visible value="1" />
+                        </State>
+                        <State name="fadeanimation_100">
+                            <Visible value="1" />
+                        </State>
+                    </Child>
+                    <Child name="Objectives" proto="EndQuestLine2">
+                        <Position scale_x="0.000000" offset_x="0.000000" scale_y="0.000000" offset_y="20.000000" />
+                        <Size scale_x="1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="10.000000" />
+                        <Anchor scale_x="0.000000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+                        <Child name="XPTitle">
+                            <Text value="GUI_EXPERIENCE_QUEST_OBJECTIVES" />
+                        </Child>
+                    </Child>
+                    <Child name="NarrativeItems" proto="EndQuestLine2">
+                        <Position scale_x="0.000000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+                        <Size scale_x="1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="10.000000" />
+                        <Anchor scale_x="0.000000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+                        <Child name="XPTitle">
+                            <Text value="GUI_EXPERIENCE_BONUS_NARRATIVEITEMS" />
+                        </Child>
+                    </Child>
+                    <Child name="NewTraits" proto="EndQuestLine2">
+                        <Position scale_x="0.000000" offset_x="0.000000" scale_y="0.000000" offset_y="36.000000" />
+                        <Size scale_x="1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="10.000000" />
+                        <Anchor scale_x="0.000000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+                        <Child name="XPTitle">
+                            <Text value="GUI_EXPERIENCE_BONUS_PLAYERTRAITS" />
+                        </Child>
+                    </Child>
+                    <Child name="NewNPCTraits" proto="EndQuestLine2">
+                        <Position scale_x="0.000000" offset_x="0.000000" scale_y="0.000000" offset_y="72.000000" />
+                        <Size scale_x="1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="10.000000" />
+                        <Anchor scale_x="0.000000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+                        <Child name="XPTitle">
+                            <Text value="GUI_EXPERIENCE_QUEST_CHARACTERTRAITS" />
+                        </Child>
+                    </Child>
+                    <Child name="NewLocations" proto="EndQuestLine2">
+                        <Position scale_x="0.000000" offset_x="0.000000" scale_y="0.000000" offset_y="108.000000" />
+                        <Size scale_x="1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="10.000000" />
+                        <Anchor scale_x="0.000000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+                        <Child name="XPTitle">
+                            <Text value="GUI_EXPERIENCE_BONUS_LOCATION" />
+                        </Child>
+                    </Child>
+                    <Child name="NewNPCs" proto="EndQuestLine2">
+                        <Position scale_x="0.000000" offset_x="0.000000" scale_y="0.000000" offset_y="144.000000" />
+                        <Size scale_x="1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="10.000000" />
+                        <Anchor scale_x="0.000000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+                        <Child name="XPTitle">
+                            <Text value="GUI_EXPERIENCE_BONUS_CHARACTER" />
+                        </Child>
+                    </Child>
+                    <Child name="Vulnerabilities" proto="EndQuestLine2">
+                        <Position scale_x="0.000000" offset_x="0.000000" scale_y="0.000000" offset_y="180.000000" />
+                        <Size scale_x="1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="10.000000" />
+                        <Anchor scale_x="0.000000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+                        <Child name="XPTitle">
+                            <Text value="GUI_EXPERIENCE_QUEST_VULNERABILITY" />
+                        </Child>
+                    </Child>
+                    <Child name="Immunities" proto="EndQuestLine2">
+                        <Position scale_x="0.000000" offset_x="0.000000" scale_y="0.000000" offset_y="216.000000" />
+                        <Size scale_x="1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="10.000000" />
+                        <Anchor scale_x="0.000000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+                        <Child name="XPTitle">
+                            <Text value="GUI_EXPERIENCE_QUEST_IMMUNITY" />
+                        </Child>
+                    </Child>
+                    <Child name="ItemsPickedup" proto="EndQuestLine2">
+                        <Position scale_x="0.000000" offset_x="0.000000" scale_y="0.000000" offset_y="252.000000" />
+                        <Size scale_x="1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="10.000000" />
+                        <Anchor scale_x="0.000000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+                        <Child name="XPTitle">
+                            <Text value="GUI_EXPERIENCE_QUEST_ITEMS" />
+                        </Child>
+                    </Child>
+                    <Child name="AwardedXp" proto="EndQuestLine2">
+                        <Position scale_x="0.000000" offset_x="0.000000" scale_y="0.000000" offset_y="288.000000" />
+                        <Size scale_x="1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="10.000000" />
+                        <Anchor scale_x="0.000000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+                        <Child name="XPTitle">
+                            <Text value="GUI_ENDQUEST_XP" />
+                            <Color r="255" g="193" b="6" a="255" />
+                        </Child>
+                        <Child name="XPValue">
+                            <Color r="255" g="193" b="6" a="255" />
+                        </Child>
+                    </Child>
+                    <Child name="Dummy" proto="Dummy">
+                        <Position scale_x="0.000000" offset_x="0.000000" scale_y="0.000000" offset_y="20.000000" />
+                        <Size scale_x="1.000000" offset_x="0.000000" scale_y="0.000000" offset_y="20.000000" />
+                        <InheritState value="1" />
+                        <State name="fadeanimation_0">
+                            <Visible value="0" />
+                        </State>
+                        <State name="fadeanimation_1">
+                            <Visible value="1" />
+                        </State>
+                        <State name="fadeanimation_100">
+                            <Visible value="1" />
+                        </State>
+                    </Child>
+                </Child>
+                <Child name="separation" proto="Image">
+                    <Stackable value="0" />
+                    <Position scale_x="0.800000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                    <Size scale_x="0.000000" offset_x="3.000000" scale_y="0.800000" offset_y="0.000000" />
+                    <Anchor scale_x="0.000000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                    <InheritAlpha value="0" />
+                    <InheritState value="1" />
+                    <Image set="Uni" image="White" />
+                </Child>
+            </Child>
+            <Child name="Total" proto="Image">
+                <Alpha value="0.000000" />
+                <Stack value="1" />
+                <StackDirection value="VERTICAL" />
+                <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="41.000000" />
+                <Size scale_x="0.000000" offset_x="830.000000" scale_y="-1.000000" offset_y="10.000000" />
+                <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+                <Image set="Uni" image="White" />
+                <Color r="255" g="193" b="6" a="255" />
+                <State name="fadeanimation_0">
+                    <Alpha value="0.000000" />
+                </State>
+                <State name="fadeanimation_100">
+                    <Alpha value="0.900000" />
+                </State>
+                <Child name="Dummy" proto="Dummy">
+                    <Size scale_x="1.000000" offset_x="0.000000" scale_y="0.000000" offset_y="20.000000" />
+                    <State name="fadeanimation_0">
+                        <Visible value="0" />
+                    </State>
+                    <State name="fadeanimation_1">
+                        <Visible value="1" />
+                    </State>
+                    <State name="fadeanimation_100">
+                        <Visible value="1" />
+                    </State>
+                </Child>
+                <Child name="AwardedXp" proto="EndQuestLine2">
+                    <Stack value="1" />
+                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="20.000000" />
+                    <Size scale_x="-1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="5.000000" />
+                    <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+                    <Child name="XPTitle">
+                        <Text value="GUI_ENDQUEST_XP" />
+                        <Font value="montserat_25" />
+                        <Color r="0" g="0" b="0" a="255" />
+                    </Child>
+                    <Child name="XPValue">
+                        <Position scale_x="0.000000" offset_x="303.000000" scale_y="0.500000" offset_y="0.000000" />
+                        <Anchor scale_x="0.000000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                        <Font value="montserat_35" />
+                        <Color r="0" g="0" b="0" a="255" />
+                    </Child>
+                    <Child name="marge_0" proto="Dummy">
+                        <Position scale_x="0.000000" offset_x="293.000000" scale_y="0.000000" offset_y="0.000000" />
+                        <Size scale_x="0.000000" offset_x="10.000000" scale_y="0.000000" offset_y="0.000000" />
+                    </Child>
+                </Child>
+                <Child name="Dummy_0" proto="Dummy">
+                    <Position scale_x="0.000000" offset_x="0.000000" scale_y="0.000000" offset_y="20.000000" />
+                    <Size scale_x="1.000000" offset_x="0.000000" scale_y="0.000000" offset_y="10.000000" />
+                    <State name="fadeanimation_0">
+                        <Visible value="0" />
+                    </State>
+                    <State name="fadeanimation_1">
+                        <Visible value="1" />
+                    </State>
+                    <State name="fadeanimation_100">
+                        <Visible value="1" />
+                    </State>
+                </Child>
+            </Child>
+        </Child>
+        <Child name="margin" proto="Dummy">
+            <Stack value="1" />
+            <StackDirection value="VERTICAL" />
+            <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+            <Size scale_x="1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+            <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+            <Child name="Chapter" proto="Label">
+                <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+                <Size scale_x="1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+                <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+                <Text value="|GetCurrentChapter()" />
+                <Font value="montserat_35" />
+                <Color r="239" g="223" b="212" a="255" />
+                <HorizontalAlignment value="CENTER" />
+            </Child>
+            <Child name="Quest" proto="Label">
+                <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="46.000000" />
+                <Size scale_x="1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+                <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+                <InheritState value="1" />
+                <Text value="|GetQuestTitle()" />
+                <Font value="Montserat_110" />
+                <Color r="239" g="223" b="212" a="255" />
+                <HorizontalAlignment value="CENTER" />
+            </Child>
+        </Child>
+        <Child name="Niveau_Info" proto="Dummy">
+            <Position scale_x="0.000000" offset_x="0.000000" scale_y="0.280000" offset_y="0.000000" />
+            <Size scale_x="-1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+            <Child name="Level_Xp" proto="Level_Xp">
+                <Position scale_x="0.000000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+            </Child>
+        </Child>
+    </Child>
+    <Child name="Anim_LevelUp" proto="Anim_LevelUp">
+        <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+        <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+    </Child>
+</Layout>

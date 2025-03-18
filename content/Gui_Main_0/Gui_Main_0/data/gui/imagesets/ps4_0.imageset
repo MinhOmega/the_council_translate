@@ -1,0 +1,3 @@
+<Imageset name="ps4" texture="ps4.tga">
+	<Image name="ps4_manette" left="1" top="1" right="1102" bottom="549" />
+</Imageset>

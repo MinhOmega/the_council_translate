@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Layout>
+    <Child name="Content" proto="Dummy">
+        <Stack value="1" />
+        <StackDirection value="VERTICAL" />
+        <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+        <Size scale_x="0.000000" offset_x="1000.000000" scale_y="-1.000000" offset_y="0.000000" />
+        <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+        <Child name="haut" proto="Image">
+            <Alpha value="0.800000" />
+            <Stack value="1" />
+            <StackDirection value="VERTICAL" />
+            <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+            <Size scale_x="1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+            <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+            <InheritState value="1" />
+            <Image set="letter" image="haut_letter" />
+            <Color r="0" g="0" b="0" a="255" />
+        </Child>
+        <Child name="content" proto="Image">
+            <Alpha value="0.800000" />
+            <StackDirection value="VERTICAL" />
+            <Position scale_x="0.000000" offset_x="0.000000" scale_y="0.000000" offset_y="117.000000" />
+            <Size scale_x="1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="30.000000" />
+            <InheritState value="1" />
+            <Image set="Uni" image="White" />
+            <Color r="0" g="0" b="0" a="255" />
+            <Child name="Content_Letter" proto="Dummy">
+                <Stack value="1" />
+                <StackDirection value="VERTICAL" />
+                <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                <Size scale_x="0.900000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+                <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                <InheritAlpha value="0" />
+            </Child>
+        </Child>
+        <Child name="bas" proto="Image">
+            <Alpha value="0.800000" />
+            <StackDirection value="VERTICAL" />
+            <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="148.000000" />
+            <Size scale_x="1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+            <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+            <InheritState value="1" />
+            <Image set="letter" image="bas_letter" />
+            <Color r="0" g="0" b="0" a="255" />
+            <Child name="Input_Contener" proto="Input_Contener">
+                <Position scale_x="1.000000" offset_x="-20.000000" scale_y="0.500000" offset_y="0.000000" />
+                <Size scale_x="-1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+                <Anchor scale_x="1.000000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+            </Child>
+        </Child>
+    </Child>
+</Layout>

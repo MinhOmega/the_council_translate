@@ -1,0 +1,6 @@
+<Imageset name="Menu" texture="Menu.tga">
+	<Image name="missed" left="1" top="1" right="48" bottom="46" />
+	<Image name="NAILS_Normal" left="53" top="1" right="85" bottom="33" />
+	<Image name="NAILS_Rollover" left="89" top="1" right="121" bottom="33" />
+	<Image name="NAILS_Nails" left="125" top="1" right="157" bottom="33" />
+</Imageset>

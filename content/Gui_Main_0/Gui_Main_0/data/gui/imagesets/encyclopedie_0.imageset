@@ -1,0 +1,3 @@
+<Imageset name="Encyclopedie" texture="Encyclopedie.tga">
+	<Image name="rond_manuscrit_unlock_NEW" left="1" top="1" right="99" bottom="124" />
+</Imageset>

@@ -1,0 +1,462 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Layout>
+    <Child name="Dummy" proto="Dummy">
+        <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+        <Size scale_x="0.000000" offset_x="1728.000000" scale_y="0.000000" offset_y="972.000000" />
+        <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+        <Child name="choix1" proto="Dummy">
+            <Position scale_x="0.250000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+            <Size scale_x="0.500000" offset_x="0.000000" scale_y="1.000000" offset_y="0.000000" />
+            <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+            <InheritState value="1" />
+            <State name="0choix">
+                <Visible value="0" />
+            </State>
+            <State name="1choix">
+                <Visible value="1" />
+            </State>
+            <State name="2choix">
+                <Visible value="1" />
+            </State>
+            <State name="3choix">
+                <Visible value="1" />
+                <Position scale_x="0.250000" offset_x="0.000000" scale_y="0.400000" offset_y="0.000000" />
+                <Size scale_x="0.400000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+            </State>
+            <State name="4choix">
+                <Visible value="1" />
+                <Position scale_x="0.250000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                <Size scale_x="0.500000" offset_x="0.000000" scale_y="1.000000" offset_y="0.000000" />
+            </State>
+            <State name="5choix">
+                <Visible value="1" />
+                <Position scale_x="0.250000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                <Size scale_x="0.500000" offset_x="0.000000" scale_y="1.000000" offset_y="0.000000" />
+            </State>
+            <State name="6choix">
+                <Visible value="1" />
+                <Position scale_x="0.250000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                <Size scale_x="0.500000" offset_x="0.000000" scale_y="1.000000" offset_y="0.000000" />
+            </State>
+            <Child name="texte" proto="Label">
+                <Alpha value="0.000000" />
+                <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                <Size scale_x="0.800000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+                <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                <InheritState value="1" />
+                <Text value="Aider Georges Washington à espionner la jeune fille" />
+                <Font value="montserat_50" />
+                <HorizontalAlignment value="CENTER" />
+                <VerticalAlignment value="CENTER" />
+                <State name="Choice_animation_0">
+                    <Alpha value="0.000000" />
+                </State>
+                <State name="Choice_animation_100">
+                    <Alpha value="0.500000" />
+                </State>
+                <State name="selection">
+                    <Alpha value="1.000000" />
+                </State>
+            </Child>
+            <Child name="fleche" proto="Image">
+                <Visible value="0" />
+                <Rotation value="135.000000" />
+                <Position scale_x="0.500000" offset_x="-25.000000" scale_y="0.500000" offset_y="0.000000" />
+                <Size scale_x="-1.000000" offset_x="5.000000" scale_y="-1.000000" offset_y="5.000000" />
+                <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                <InheritOrientation value="0" />
+                <InheritPosition value="0" />
+                <InheritState value="1" />
+                <Image set="Composant" image="cursor_choix2" />
+                <State name="selection">
+                    <Visible value="1" />
+                </State>
+                <State name="3choix">
+                    <Rotation value="110.000000" />
+                    <Position scale_x="0.500000" offset_x="-22.000000" scale_y="0.500000" offset_y="-10.000000" />
+                </State>
+            </Child>
+        </Child>
+        <Child name="choix2" proto="Dummy">
+            <Position scale_x="0.750000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+            <Size scale_x="0.500000" offset_x="0.000000" scale_y="1.000000" offset_y="0.000000" />
+            <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+            <InheritState value="1" />
+            <State name="0choix">
+                <Visible value="0" />
+            </State>
+            <State name="1choix">
+                <Visible value="0" />
+            </State>
+            <State name="2choix">
+                <Visible value="1" />
+            </State>
+            <State name="3choix">
+                <Visible value="1" />
+                <Position scale_x="0.750000" offset_x="0.000000" scale_y="0.400000" offset_y="0.000000" />
+                <Size scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+            </State>
+            <State name="4choix">
+                <Visible value="1" />
+                <Position scale_x="0.750000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                <Size scale_x="0.500000" offset_x="0.000000" scale_y="1.000000" offset_y="0.000000" />
+            </State>
+            <State name="5choix">
+                <Visible value="1" />
+                <Position scale_x="0.750000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                <Size scale_x="0.500000" offset_x="0.000000" scale_y="1.000000" offset_y="0.000000" />
+            </State>
+            <State name="6choix">
+                <Visible value="1" />
+                <Position scale_x="0.750000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                <Size scale_x="0.500000" offset_x="0.000000" scale_y="1.000000" offset_y="0.000000" />
+            </State>
+            <Child name="texte" proto="Label">
+                <Alpha value="0.000000" />
+                <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                <Size scale_x="0.800000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+                <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                <InheritState value="1" />
+                <Text value="Choix 2" />
+                <Font value="montserat_50" />
+                <HorizontalAlignment value="CENTER" />
+                <VerticalAlignment value="CENTER" />
+                <State name="Choice_animation_0">
+                    <Alpha value="0.000000" />
+                </State>
+                <State name="Choice_animation_100">
+                    <Alpha value="0.500000" />
+                </State>
+                <State name="selection">
+                    <Alpha value="1.000000" />
+                </State>
+            </Child>
+            <Child name="fleche" proto="Image">
+                <Visible value="0" />
+                <Rotation value="315.000000" />
+                <Position scale_x="0.500000" offset_x="25.000000" scale_y="0.500000" offset_y="0.000000" />
+                <Size scale_x="-1.000000" offset_x="5.000000" scale_y="-1.000000" offset_y="5.000000" />
+                <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                <InheritOrientation value="0" />
+                <InheritPosition value="0" />
+                <InheritState value="1" />
+                <Image set="Composant" image="cursor_choix2" />
+                <State name="selection">
+                    <Visible value="1" />
+                </State>
+                <State name="3choix">
+                    <Rotation value="-20.000000" />
+                    <Position scale_x="0.500000" offset_x="22.000000" scale_y="0.500000" offset_y="-10.000000" />
+                </State>
+            </Child>
+        </Child>
+        <Child name="choix3" proto="Dummy">
+            <Position scale_x="0.750000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+            <Size scale_x="0.400000" offset_x="0.000000" scale_y="1.000000" offset_y="0.000000" />
+            <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+            <InheritState value="1" />
+            <State name="0choix">
+                <Visible value="0" />
+            </State>
+            <State name="1choix">
+                <Visible value="0" />
+            </State>
+            <State name="2choix">
+                <Visible value="0" />
+            </State>
+            <State name="3choix">
+                <Visible value="1" />
+                <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.700000" offset_y="0.000000" />
+                <Size scale_x="0.400000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+            </State>
+            <State name="4choix">
+                <Visible value="0" />
+                <Position scale_x="0.750000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                <Size scale_x="0.500000" offset_x="0.000000" scale_y="1.000000" offset_y="0.000000" />
+            </State>
+            <State name="5choix">
+                <Visible value="0" />
+                <Position scale_x="0.750000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                <Size scale_x="0.500000" offset_x="0.000000" scale_y="1.000000" offset_y="0.000000" />
+            </State>
+            <State name="6choix">
+                <Visible value="0" />
+                <Position scale_x="0.750000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                <Size scale_x="0.500000" offset_x="0.000000" scale_y="1.000000" offset_y="0.000000" />
+            </State>
+            <Child name="texte" proto="Label">
+                <Alpha value="0.000000" />
+                <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                <Size scale_x="0.800000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+                <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                <InheritState value="1" />
+                <Text value="Choix 3" />
+                <Font value="montserat_50" />
+                <HorizontalAlignment value="CENTER" />
+                <VerticalAlignment value="CENTER" />
+                <State name="Choice_animation_0">
+                    <Alpha value="0.000000" />
+                </State>
+                <State name="Choice_animation_100">
+                    <Alpha value="0.500000" />
+                </State>
+                <State name="selection">
+                    <Alpha value="1.000000" />
+                </State>
+            </Child>
+            <Child name="fleche" proto="Image">
+                <Visible value="0" />
+                <Rotation value="315.000000" />
+                <Position scale_x="0.500000" offset_x="25.000000" scale_y="0.500000" offset_y="0.000000" />
+                <Size scale_x="-1.000000" offset_x="5.000000" scale_y="-1.000000" offset_y="5.000000" />
+                <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                <InheritOrientation value="0" />
+                <InheritPosition value="0" />
+                <InheritState value="1" />
+                <Image set="Composant" image="cursor_choix2" />
+                <State name="selection">
+                    <Visible value="1" />
+                </State>
+                <State name="3choix">
+                    <Rotation value="225.000000" />
+                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="25.000000" />
+                </State>
+            </Child>
+        </Child>
+        <Child name="choix4" proto="Dummy">
+            <Position scale_x="0.750000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+            <Size scale_x="0.500000" offset_x="0.000000" scale_y="1.000000" offset_y="0.000000" />
+            <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+            <InheritState value="1" />
+            <State name="0choix">
+                <Visible value="0" />
+            </State>
+            <State name="1choix">
+                <Visible value="0" />
+            </State>
+            <State name="2choix">
+                <Visible value="0" />
+            </State>
+            <State name="3choix">
+                <Visible value="0" />
+                <Position scale_x="0.750000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                <Size scale_x="0.500000" offset_x="0.000000" scale_y="1.000000" offset_y="0.000000" />
+            </State>
+            <State name="4choix">
+                <Visible value="0" />
+                <Position scale_x="0.750000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                <Size scale_x="0.500000" offset_x="0.000000" scale_y="1.000000" offset_y="0.000000" />
+            </State>
+            <State name="5choix">
+                <Visible value="0" />
+                <Position scale_x="0.750000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                <Size scale_x="0.500000" offset_x="0.000000" scale_y="1.000000" offset_y="0.000000" />
+            </State>
+            <State name="6choix">
+                <Visible value="0" />
+                <Position scale_x="0.750000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                <Size scale_x="0.500000" offset_x="0.000000" scale_y="1.000000" offset_y="0.000000" />
+            </State>
+            <Child name="texte" proto="Label">
+                <Alpha value="0.000000" />
+                <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                <Size scale_x="0.800000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+                <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                <InheritState value="1" />
+                <Text value="GUI.translationtable:CRTICIAL_CHOICE_2" />
+                <Font value="montserat_50" />
+                <HorizontalAlignment value="CENTER" />
+                <VerticalAlignment value="CENTER" />
+                <State name="Choice_animation_0">
+                    <Alpha value="0.000000" />
+                </State>
+                <State name="Choice_animation_100">
+                    <Alpha value="0.500000" />
+                </State>
+                <State name="selection">
+                    <Alpha value="1.000000" />
+                </State>
+            </Child>
+            <Child name="fleche" proto="Image">
+                <Visible value="0" />
+                <Rotation value="315.000000" />
+                <Position scale_x="0.500000" offset_x="25.000000" scale_y="0.500000" offset_y="0.000000" />
+                <Size scale_x="-1.000000" offset_x="5.000000" scale_y="-1.000000" offset_y="5.000000" />
+                <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                <InheritOrientation value="0" />
+                <InheritPosition value="0" />
+                <InheritState value="1" />
+                <Image set="Composant" image="cursor_choix2" />
+                <State name="selection">
+                    <Visible value="1" />
+                </State>
+            </Child>
+        </Child>
+        <Child name="choix5" proto="Dummy">
+            <Position scale_x="0.750000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+            <Size scale_x="0.500000" offset_x="0.000000" scale_y="1.000000" offset_y="0.000000" />
+            <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+            <InheritState value="1" />
+            <State name="0choix">
+                <Visible value="0" />
+            </State>
+            <State name="1choix">
+                <Visible value="0" />
+            </State>
+            <State name="2choix">
+                <Visible value="0" />
+            </State>
+            <State name="3choix">
+                <Visible value="0" />
+                <Position scale_x="0.750000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                <Size scale_x="0.500000" offset_x="0.000000" scale_y="1.000000" offset_y="0.000000" />
+            </State>
+            <State name="4choix">
+                <Visible value="0" />
+                <Position scale_x="0.750000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                <Size scale_x="0.500000" offset_x="0.000000" scale_y="1.000000" offset_y="0.000000" />
+            </State>
+            <State name="5choix">
+                <Visible value="0" />
+                <Position scale_x="0.750000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                <Size scale_x="0.500000" offset_x="0.000000" scale_y="1.000000" offset_y="0.000000" />
+            </State>
+            <State name="6choix">
+                <Visible value="0" />
+                <Position scale_x="0.750000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                <Size scale_x="0.500000" offset_x="0.000000" scale_y="1.000000" offset_y="0.000000" />
+            </State>
+            <Child name="texte" proto="Label">
+                <Alpha value="0.000000" />
+                <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                <Size scale_x="0.800000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+                <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                <InheritState value="1" />
+                <Text value="GUI.translationtable:CRTICIAL_CHOICE_2" />
+                <Font value="montserat_50" />
+                <HorizontalAlignment value="CENTER" />
+                <VerticalAlignment value="CENTER" />
+                <State name="Choice_animation_0">
+                    <Alpha value="0.000000" />
+                </State>
+                <State name="Choice_animation_100">
+                    <Alpha value="0.500000" />
+                </State>
+                <State name="selection">
+                    <Alpha value="1.000000" />
+                </State>
+            </Child>
+            <Child name="fleche" proto="Image">
+                <Visible value="0" />
+                <Rotation value="315.000000" />
+                <Position scale_x="0.500000" offset_x="25.000000" scale_y="0.500000" offset_y="0.000000" />
+                <Size scale_x="-1.000000" offset_x="5.000000" scale_y="-1.000000" offset_y="5.000000" />
+                <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                <InheritOrientation value="0" />
+                <InheritPosition value="0" />
+                <InheritState value="1" />
+                <Image set="Composant" image="cursor_choix2" />
+                <State name="selection">
+                    <Visible value="1" />
+                </State>
+            </Child>
+        </Child>
+        <Child name="choix6" proto="Dummy">
+            <Position scale_x="0.750000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+            <Size scale_x="0.500000" offset_x="0.000000" scale_y="1.000000" offset_y="0.000000" />
+            <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+            <InheritState value="1" />
+            <State name="0choix">
+                <Visible value="0" />
+            </State>
+            <State name="1choix">
+                <Visible value="0" />
+            </State>
+            <State name="2choix">
+                <Visible value="0" />
+            </State>
+            <State name="3choix">
+                <Visible value="0" />
+                <Position scale_x="0.750000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                <Size scale_x="0.500000" offset_x="0.000000" scale_y="1.000000" offset_y="0.000000" />
+            </State>
+            <State name="4choix">
+                <Visible value="0" />
+                <Position scale_x="0.750000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                <Size scale_x="0.500000" offset_x="0.000000" scale_y="1.000000" offset_y="0.000000" />
+            </State>
+            <State name="5choix">
+                <Visible value="0" />
+                <Position scale_x="0.750000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                <Size scale_x="0.500000" offset_x="0.000000" scale_y="1.000000" offset_y="0.000000" />
+            </State>
+            <State name="6choix">
+                <Visible value="0" />
+                <Position scale_x="0.750000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                <Size scale_x="0.500000" offset_x="0.000000" scale_y="1.000000" offset_y="0.000000" />
+            </State>
+            <Child name="texte" proto="Label">
+                <Alpha value="0.000000" />
+                <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                <Size scale_x="0.800000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+                <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                <InheritState value="1" />
+                <Text value="GUI.translationtable:CRTICIAL_CHOICE_2" />
+                <Font value="montserat_50" />
+                <HorizontalAlignment value="CENTER" />
+                <VerticalAlignment value="CENTER" />
+                <State name="Choice_animation_0">
+                    <Alpha value="0.000000" />
+                </State>
+                <State name="Choice_animation_100">
+                    <Alpha value="0.500000" />
+                </State>
+                <State name="selection">
+                    <Alpha value="1.000000" />
+                </State>
+            </Child>
+            <Child name="fleche" proto="Image">
+                <Visible value="0" />
+                <Rotation value="315.000000" />
+                <Position scale_x="0.500000" offset_x="25.000000" scale_y="0.500000" offset_y="0.000000" />
+                <Size scale_x="-1.000000" offset_x="5.000000" scale_y="-1.000000" offset_y="5.000000" />
+                <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                <InheritOrientation value="0" />
+                <InheritPosition value="0" />
+                <InheritState value="1" />
+                <Image set="Composant" image="cursor_choix2" />
+                <State name="selection">
+                    <Visible value="1" />
+                </State>
+            </Child>
+        </Child>
+        <Child name="roue" proto="Dummy">
+            <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+            <Size scale_x="-1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+            <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+            <InheritState value="1" />
+            <Child name="rond" proto="Image">
+                <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                <Size scale_x="-1.000000" offset_x="-10.000000" scale_y="-1.000000" offset_y="-10.000000" />
+                <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                <InheritState value="1" />
+                <Image set="Composant" image="newroue" />
+                <State name="hidden">
+                    <Visible value="0" />
+                </State>
+            </Child>
+        </Child>
+    </Child>
+    <Child name="subtitles" proto="Label">
+        <Position scale_x="0.500000" offset_x="0.000000" scale_y="1.000000" offset_y="-63.000000" />
+        <Size scale_x="-1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+        <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="1.000000" offset_y="0.000000" />
+        <InheritAlpha value="0" />
+        <InheritState value="1" />
+        <Litteral value="1" />
+        <Text value="Arrete ton jeu" />
+        <Font value="montserat_25" />
+        <HorizontalAlignment value="CENTER" />
+        <VerticalAlignment value="CENTER" />
+    </Child>
+</Layout>

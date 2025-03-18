@@ -1,0 +1,17 @@
+<Imageset name="2eme_etage" texture="2eme_etage.tga">
+	<Image name="2eme_etage" left="1" top="1" right="729" bottom="504" />
+	<Image name="mortimer_selection" left="733" top="1" right="1231" bottom="366" />
+	<Image name="mortimer_know" left="1" top="509" right="499" bottom="874" />
+	<Image name="mortimer_inside" left="1" top="877" right="499" bottom="1242" />
+	<Image name="secret_mortimer_know" left="501" top="509" right="855" bottom="763" />
+	<Image name="secret_mortimer_inside" left="857" top="509" right="1211" bottom="763" />
+	<Image name="secret_mortimer_selection" left="501" top="765" right="855" bottom="1019" />
+	<Image name="confrotation_selection" left="733" top="369" right="998" bottom="502" />
+	<Image name="confrotation_know" left="1001" top="369" right="1266" bottom="502" />
+	<Image name="confrotation_inside" left="501" top="1021" right="766" bottom="1154" />
+	<Image name="oeideverre_know" left="857" top="765" right="1030" bottom="951" />
+	<Image name="holm_selection" left="501" top="1157" right="640" bottom="1258" />
+	<Image name="holm_know" left="645" top="1157" right="784" bottom="1258" />
+	<Image name="holm_inside" left="1033" top="765" right="1172" bottom="866" />
+	<Image name="MortiToCorridor" left="1033" top="869" right="1124" bottom="912" />
+</Imageset>

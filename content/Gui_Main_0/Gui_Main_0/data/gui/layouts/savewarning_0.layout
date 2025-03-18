@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Layout>
+    <Child name="fond" proto="Image">
+        <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+        <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+        <Image set="Uni" image="White" />
+        <Color r="0" g="0" b="0" a="255" />
+    </Child>
+    <Child name="autosave" proto="autosave_LAST">
+        <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.510000" offset_y="0.000000" />
+        <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+    </Child>
+    <Child name="autosave_0" proto="Label">
+        <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.460000" offset_y="0.000000" />
+        <Size scale_x="0.800000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+        <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+        <Text value="MENU_AUTOSAVE" />
+        <Font value="montserat_50" />
+        <HorizontalAlignment value="CENTER" />
+    </Child>
+    <Child name="info" proto="Dummy">
+        <Stack value="1" />
+        <Position scale_x="0.500000" offset_x="0.000000" scale_y="1.000000" offset_y="0.000000" />
+        <Size scale_x="-1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+        <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="1.000000" offset_y="56.000000" />
+        <Child name="logo1" proto="Image">
+            <Size scale_x="0.000000" offset_x="148.000000" scale_y="0.000000" offset_y="45.000000" />
+            <Image set="Press_Start" image="matrice-logo" />
+        </Child>
+        <Child name="margin" proto="Dummy">
+            <Position scale_x="0.000000" offset_x="148.000000" scale_y="0.000000" offset_y="0.000000" />
+            <Size scale_x="0.000000" offset_x="20.000000" scale_y="0.000000" offset_y="0.000000" />
+        </Child>
+        <Child name="logo2" proto="Image">
+            <Position scale_x="0.000000" offset_x="168.000000" scale_y="0.000000" offset_y="0.000000" />
+            <Size scale_x="0.000000" offset_x="172.000000" scale_y="0.000000" offset_y="45.000000" />
+            <Image set="Press_Start" image="eu_flag_creative_europe_media_co_funded_en_rgb_ copie" />
+        </Child>
+    </Child>
+    <Child name="text" proto="Label">
+        <Position scale_x="0.500000" offset_x="0.000000" scale_y="1.000000" offset_y="-140.000000" />
+        <Size scale_x="-1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+        <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+        <Text value="GUI.translationtable:TXT_PARTICIPATION" />
+        <Font value="montserat_20" />
+        <HorizontalAlignment value="CENTER" />
+    </Child>
+</Layout>

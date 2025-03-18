@@ -1,0 +1,5 @@
+<Imageset name="Tuto" texture="Tuto.tga">
+	<Image name="tuto_fond2" left="1" top="1" right="638" bottom="1081" />
+	<Image name="fond" left="1" top="1085" right="92" bottom="1177" />
+	<Image name="fleche" left="1" top="1181" right="32" bottom="1195" />
+</Imageset>

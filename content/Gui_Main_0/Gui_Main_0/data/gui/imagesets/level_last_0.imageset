@@ -1,0 +1,19 @@
+<Imageset name="level_Last" texture="level_Last.tga">
+	<Image name="selection" left="1" top="1" right="160" bottom="159" />
+	<Image name="level3" left="1" top="161" right="143" bottom="303" />
+	<Image name="level2" left="1" top="305" right="143" bottom="447" />
+	<Image name="level1" left="165" top="1" right="307" bottom="143" />
+	<Image name="level0" left="165" top="145" right="307" bottom="287" />
+	<Image name="MC_Vulne" left="165" top="289" right="307" bottom="431" />
+	<Image name="5" left="309" top="1" right="389" bottom="81" />
+	<Image name="6" left="393" top="1" right="473" bottom="81" />
+	<Image name="4" left="477" top="1" right="557" bottom="81" />
+	<Image name="8" left="561" top="1" right="641" bottom="81" />
+	<Image name="9" left="645" top="1" right="725" bottom="81" />
+	<Image name="3" left="309" top="85" right="389" bottom="165" />
+	<Image name="20" left="309" top="169" right="389" bottom="249" />
+	<Image name="2" left="309" top="253" right="389" bottom="333" />
+	<Image name="10" left="309" top="337" right="389" bottom="417" />
+	<Image name="7" left="309" top="421" right="389" bottom="501" />
+	<Image name="1" left="393" top="85" right="473" bottom="165" />
+</Imageset>

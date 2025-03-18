@@ -1,0 +1,3 @@
+<Imageset name="CharacterSheet" texture="CharacterSheet.tga">
+	<Image name="Icon_Book" left="1" top="1" right="64" bottom="64" />
+</Imageset>

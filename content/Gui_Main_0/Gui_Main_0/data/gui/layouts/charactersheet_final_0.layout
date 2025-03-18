@@ -1,0 +1,903 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Layout>
+    <Child name="fond" proto="Image">
+        <Visible value="0" />
+        <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+        <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+        <Image set="Background_GUI" image="Background_GUI" />
+    </Child>
+    <Child name="Content" proto="Dummy">
+        <Position scale_x="0.000000" offset_x="96.000000" scale_y="0.000000" offset_y="54.000000" />
+        <Size scale_x="0.000000" offset_x="1728.000000" scale_y="0.000000" offset_y="972.000000" />
+        <Child name="ParallaxRoot" proto="Dummy">
+            <Position scale_x="0.900000" offset_x="0.000000" scale_y="-0.020000" offset_y="0.000000" />
+            <Size scale_x="0.000000" offset_x="910.000000" scale_y="0.000000" offset_y="900.000000" />
+            <Anchor scale_x="1.000000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+            <Child name="Niveau_Info" proto="Dummy">
+                <Position scale_x="0.500000" offset_x="10.000000" scale_y="0.240000" offset_y="0.000000" />
+                <Size scale_x="-1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+                <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+                <Child name="Level_Xp" proto="Level_Xp">
+                    <Position scale_x="0.000000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+                    <Child name="margin">
+                        <Position scale_x="0.000000" offset_x="436.000000" scale_y="0.000000" offset_y="0.000000" />
+                    </Child>
+                    <Child name="no_stack">
+                        <Position scale_x="0.000000" offset_x="441.000000" scale_y="0.500000" offset_y="5.000000" />
+                    </Child>
+                </Child>
+            </Child>
+            <Child name="InfoClass" proto="Label">
+                <Position scale_x="0.500000" offset_x="10.000000" scale_y="0.300000" offset_y="0.000000" />
+                <Size scale_x="-1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+                <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+                <InheritAlpha value="0" />
+                <InheritState value="1" />
+                <Text value="|GetPlayerClassLoca()" />
+                <Font value="montserat_30" />
+                <Color r="255" g="193" b="6" a="255" />
+            </Child>
+            <Child name="Skill" proto="Skill_FINAL">
+                <Position scale_x="0.483333" offset_x="0.000000" scale_y="0.511111" offset_y="0.000000" />
+                <Child name="Spy">
+                    <Child name="Diversion">
+                        <Child name="Tooltip_Fake_Skill">
+                            <Child name="TooltipBackground">
+                                <Child name="margin_2">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="99.000000" />
+                                </Child>
+                                <Child name="separation_0">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="104.000000" />
+                                </Child>
+                                <Child name="margin_1">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="106.000000" />
+                                </Child>
+                                <Child name="Niveau">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="111.000000" />
+                                </Child>
+                                <Child name="margin_1_0">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="180.000000" />
+                                </Child>
+                                <Child name="text_0">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="185.000000" />
+                                </Child>
+                                <Child name="margin_1_0_0">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="190.000000" />
+                                </Child>
+                                <Child name="separation_0_0">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="210.000000" />
+                                </Child>
+                                <Child name="margin_1_0_1_0">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="212.000000" />
+                                </Child>
+                                <Child name="PointsLeft">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="222.000000" />
+                                </Child>
+                                <Child name="margin_1_0_1">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="250.000000" />
+                                </Child>
+                                <Child name="next">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="260.000000" />
+                                </Child>
+                                <Child name="margin_1_0_0_0">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="288.000000" />
+                                </Child>
+                            </Child>
+                            <Child name="Tooltipbottom">
+                                <Position scale_x="0.000000" offset_x="0.000000" scale_y="0.000000" offset_y="364.000000" />
+                            </Child>
+                        </Child>
+                    </Child>
+                    <Child name="Linguistique">
+                        <Child name="Tooltip_Fake_Skill">
+                            <Child name="TooltipBackground">
+                                <Child name="margin_2">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="99.000000" />
+                                </Child>
+                                <Child name="separation_0">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="104.000000" />
+                                </Child>
+                                <Child name="margin_1">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="106.000000" />
+                                </Child>
+                                <Child name="Niveau">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="111.000000" />
+                                </Child>
+                                <Child name="margin_1_0">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="180.000000" />
+                                </Child>
+                                <Child name="text_0">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="185.000000" />
+                                </Child>
+                                <Child name="margin_1_0_0">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="190.000000" />
+                                </Child>
+                                <Child name="separation_0_0">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="210.000000" />
+                                </Child>
+                                <Child name="margin_1_0_1_0">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="212.000000" />
+                                </Child>
+                                <Child name="PointsLeft">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="222.000000" />
+                                </Child>
+                                <Child name="margin_1_0_1">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="250.000000" />
+                                </Child>
+                                <Child name="next">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="260.000000" />
+                                </Child>
+                                <Child name="margin_1_0_0_0">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="288.000000" />
+                                </Child>
+                            </Child>
+                            <Child name="Tooltipbottom">
+                                <Position scale_x="0.000000" offset_x="0.000000" scale_y="0.000000" offset_y="364.000000" />
+                            </Child>
+                        </Child>
+                    </Child>
+                    <Child name="Politique">
+                        <Child name="Tooltip_Fake_Skill">
+                            <Child name="TooltipBackground">
+                                <Child name="margin_2">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="99.000000" />
+                                </Child>
+                                <Child name="separation_0">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="104.000000" />
+                                </Child>
+                                <Child name="margin_1">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="106.000000" />
+                                </Child>
+                                <Child name="Niveau">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="111.000000" />
+                                </Child>
+                                <Child name="margin_1_0">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="180.000000" />
+                                </Child>
+                                <Child name="text_0">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="185.000000" />
+                                </Child>
+                                <Child name="margin_1_0_0">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="190.000000" />
+                                </Child>
+                                <Child name="separation_0_0">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="210.000000" />
+                                </Child>
+                                <Child name="margin_1_0_1_0">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="212.000000" />
+                                </Child>
+                                <Child name="PointsLeft">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="222.000000" />
+                                </Child>
+                                <Child name="margin_1_0_1">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="250.000000" />
+                                </Child>
+                                <Child name="next">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="260.000000" />
+                                </Child>
+                                <Child name="margin_1_0_0_0">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="288.000000" />
+                                </Child>
+                            </Child>
+                            <Child name="Tooltipbottom">
+                                <Position scale_x="0.000000" offset_x="0.000000" scale_y="0.000000" offset_y="364.000000" />
+                            </Child>
+                        </Child>
+                    </Child>
+                    <Child name="Etiquette">
+                        <Child name="Tooltip_Fake_Skill">
+                            <Child name="TooltipBackground">
+                                <Child name="margin_2">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="99.000000" />
+                                </Child>
+                                <Child name="separation_0">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="104.000000" />
+                                </Child>
+                                <Child name="margin_1">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="106.000000" />
+                                </Child>
+                                <Child name="Niveau">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="111.000000" />
+                                </Child>
+                                <Child name="margin_1_0">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="180.000000" />
+                                </Child>
+                                <Child name="text_0">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="185.000000" />
+                                </Child>
+                                <Child name="margin_1_0_0">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="190.000000" />
+                                </Child>
+                                <Child name="separation_0_0">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="210.000000" />
+                                </Child>
+                                <Child name="margin_1_0_1_0">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="212.000000" />
+                                </Child>
+                                <Child name="PointsLeft">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="222.000000" />
+                                </Child>
+                                <Child name="margin_1_0_1">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="250.000000" />
+                                </Child>
+                                <Child name="next">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="260.000000" />
+                                </Child>
+                                <Child name="margin_1_0_0_0">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="288.000000" />
+                                </Child>
+                            </Child>
+                            <Child name="Tooltipbottom">
+                                <Position scale_x="0.000000" offset_x="0.000000" scale_y="0.000000" offset_y="364.000000" />
+                            </Child>
+                        </Child>
+                        <Child name="Tooltip">
+                            <Child name="TooltipBackground">
+                                <Child name="margin_0">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="67.000000" />
+                                </Child>
+                                <Child name="text_0">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="319.000000" />
+                                </Child>
+                                <Child name="margin_2">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+                                </Child>
+                                <Child name="next">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="345.000000" />
+                                </Child>
+                                <Child name="separation_0">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="77.000000" />
+                                </Child>
+                                <Child name="margin_1">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="79.000000" />
+                                </Child>
+                                <Child name="text">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="10.000000" />
+                                </Child>
+                                <Child name="margin_2_0">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="371.000000" />
+                                </Child>
+                                <Child name="margin_11">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="267.000000" />
+                                </Child>
+                                <Child name="separation">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="307.000000" />
+                                </Child>
+                                <Child name="margin_2_0_0">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="309.000000" />
+                                </Child>
+                            </Child>
+                        </Child>
+                    </Child>
+                    <Child name="Conviction">
+                        <Child name="Tooltip_Fake_Skill">
+                            <Child name="TooltipBackground">
+                                <Child name="margin_2">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="99.000000" />
+                                </Child>
+                                <Child name="separation_0">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="104.000000" />
+                                </Child>
+                                <Child name="margin_1">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="106.000000" />
+                                </Child>
+                                <Child name="Niveau">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="111.000000" />
+                                </Child>
+                                <Child name="margin_1_0">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="180.000000" />
+                                </Child>
+                                <Child name="text_0">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="185.000000" />
+                                </Child>
+                                <Child name="margin_1_0_0">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="190.000000" />
+                                </Child>
+                                <Child name="separation_0_0">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="210.000000" />
+                                </Child>
+                                <Child name="margin_1_0_1_0">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="212.000000" />
+                                </Child>
+                                <Child name="PointsLeft">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="222.000000" />
+                                </Child>
+                                <Child name="margin_1_0_1">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="250.000000" />
+                                </Child>
+                                <Child name="next">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="260.000000" />
+                                </Child>
+                                <Child name="margin_1_0_0_0">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="288.000000" />
+                                </Child>
+                            </Child>
+                            <Child name="Tooltipbottom">
+                                <Position scale_x="0.000000" offset_x="0.000000" scale_y="0.000000" offset_y="364.000000" />
+                            </Child>
+                        </Child>
+                    </Child>
+                </Child>
+                <Child name="Occultist">
+                    <Child name="Manipulation">
+                        <Child name="Tooltip_Fake_Skill">
+                            <Child name="TooltipBackground">
+                                <Child name="margin_2">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="99.000000" />
+                                </Child>
+                                <Child name="separation_0">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="104.000000" />
+                                </Child>
+                                <Child name="margin_1">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="106.000000" />
+                                </Child>
+                                <Child name="Niveau">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="111.000000" />
+                                </Child>
+                                <Child name="margin_1_0">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="180.000000" />
+                                </Child>
+                                <Child name="text_0">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="185.000000" />
+                                </Child>
+                                <Child name="margin_1_0_0">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="190.000000" />
+                                </Child>
+                                <Child name="separation_0_0">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="210.000000" />
+                                </Child>
+                                <Child name="margin_1_0_1_0">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="212.000000" />
+                                </Child>
+                                <Child name="PointsLeft">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="222.000000" />
+                                </Child>
+                                <Child name="margin_1_0_1">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="250.000000" />
+                                </Child>
+                                <Child name="next">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="260.000000" />
+                                </Child>
+                                <Child name="margin_1_0_0_0">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="288.000000" />
+                                </Child>
+                            </Child>
+                            <Child name="Tooltipbottom">
+                                <Position scale_x="0.000000" offset_x="0.000000" scale_y="0.000000" offset_y="364.000000" />
+                            </Child>
+                        </Child>
+                    </Child>
+                    <Child name="Occultisme">
+                        <Child name="Tooltip_Fake_Skill">
+                            <Child name="TooltipBackground">
+                                <Child name="margin_2">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="99.000000" />
+                                </Child>
+                                <Child name="separation_0">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="104.000000" />
+                                </Child>
+                                <Child name="margin_1">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="106.000000" />
+                                </Child>
+                                <Child name="Niveau">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="111.000000" />
+                                </Child>
+                                <Child name="margin_1_0">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="180.000000" />
+                                </Child>
+                                <Child name="text_0">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="185.000000" />
+                                </Child>
+                                <Child name="margin_1_0_0">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="190.000000" />
+                                </Child>
+                                <Child name="separation_0_0">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="210.000000" />
+                                </Child>
+                                <Child name="margin_1_0_1_0">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="212.000000" />
+                                </Child>
+                                <Child name="PointsLeft">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="222.000000" />
+                                </Child>
+                                <Child name="margin_1_0_1">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="250.000000" />
+                                </Child>
+                                <Child name="next">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="260.000000" />
+                                </Child>
+                                <Child name="margin_1_0_0_0">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="288.000000" />
+                                </Child>
+                            </Child>
+                            <Child name="Tooltipbottom">
+                                <Position scale_x="0.000000" offset_x="0.000000" scale_y="0.000000" offset_y="364.000000" />
+                            </Child>
+                        </Child>
+                    </Child>
+                    <Child name="Sciences">
+                        <Child name="Tooltip_Fake_Skill">
+                            <Child name="TooltipBackground">
+                                <Child name="margin_2">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="99.000000" />
+                                </Child>
+                                <Child name="separation_0">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="104.000000" />
+                                </Child>
+                                <Child name="margin_1">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="106.000000" />
+                                </Child>
+                                <Child name="Niveau">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="111.000000" />
+                                </Child>
+                                <Child name="margin_1_0">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="180.000000" />
+                                </Child>
+                                <Child name="text_0">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="185.000000" />
+                                </Child>
+                                <Child name="margin_1_0_0">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="190.000000" />
+                                </Child>
+                                <Child name="separation_0_0">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="210.000000" />
+                                </Child>
+                                <Child name="margin_1_0_1_0">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="212.000000" />
+                                </Child>
+                                <Child name="PointsLeft">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="222.000000" />
+                                </Child>
+                                <Child name="margin_1_0_1">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="250.000000" />
+                                </Child>
+                                <Child name="next">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="260.000000" />
+                                </Child>
+                                <Child name="margin_1_0_0_0">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="288.000000" />
+                                </Child>
+                            </Child>
+                            <Child name="Tooltipbottom">
+                                <Position scale_x="0.000000" offset_x="0.000000" scale_y="0.000000" offset_y="364.000000" />
+                            </Child>
+                        </Child>
+                    </Child>
+                    <Child name="Erudition">
+                        <Child name="Tooltip_Fake_Skill">
+                            <Child name="TooltipBackground">
+                                <Child name="margin_2">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="99.000000" />
+                                </Child>
+                                <Child name="separation_0">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="104.000000" />
+                                </Child>
+                                <Child name="margin_1">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="106.000000" />
+                                </Child>
+                                <Child name="Niveau">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="111.000000" />
+                                </Child>
+                                <Child name="margin_1_0">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="180.000000" />
+                                </Child>
+                                <Child name="text_0">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="185.000000" />
+                                </Child>
+                                <Child name="margin_1_0_0">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="190.000000" />
+                                </Child>
+                                <Child name="separation_0_0">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="210.000000" />
+                                </Child>
+                                <Child name="margin_1_0_1_0">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="212.000000" />
+                                </Child>
+                                <Child name="PointsLeft">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="222.000000" />
+                                </Child>
+                                <Child name="margin_1_0_1">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="250.000000" />
+                                </Child>
+                                <Child name="next">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="260.000000" />
+                                </Child>
+                                <Child name="margin_1_0_0_0">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="288.000000" />
+                                </Child>
+                            </Child>
+                            <Child name="Tooltipbottom">
+                                <Position scale_x="0.000000" offset_x="0.000000" scale_y="0.000000" offset_y="364.000000" />
+                            </Child>
+                        </Child>
+                    </Child>
+                    <Child name="Subterfuges">
+                        <Child name="Tooltip_Fake_Skill">
+                            <Child name="TooltipBackground">
+                                <Child name="margin_2">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="99.000000" />
+                                </Child>
+                                <Child name="separation_0">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="104.000000" />
+                                </Child>
+                                <Child name="margin_1">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="106.000000" />
+                                </Child>
+                                <Child name="Niveau">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="111.000000" />
+                                </Child>
+                                <Child name="margin_1_0">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="180.000000" />
+                                </Child>
+                                <Child name="text_0">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="185.000000" />
+                                </Child>
+                                <Child name="margin_1_0_0">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="190.000000" />
+                                </Child>
+                                <Child name="separation_0_0">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="210.000000" />
+                                </Child>
+                                <Child name="margin_1_0_1_0">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="212.000000" />
+                                </Child>
+                                <Child name="PointsLeft">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="222.000000" />
+                                </Child>
+                                <Child name="margin_1_0_1">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="250.000000" />
+                                </Child>
+                                <Child name="next">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="260.000000" />
+                                </Child>
+                                <Child name="margin_1_0_0_0">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="288.000000" />
+                                </Child>
+                            </Child>
+                            <Child name="Tooltipbottom">
+                                <Position scale_x="0.000000" offset_x="0.000000" scale_y="0.000000" offset_y="364.000000" />
+                            </Child>
+                        </Child>
+                    </Child>
+                </Child>
+                <Child name="Detective">
+                    <Child name="Vigilance">
+                        <Child name="Tooltip_Fake_Skill">
+                            <Child name="TooltipBackground">
+                                <Child name="margin_2">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="99.000000" />
+                                </Child>
+                                <Child name="separation_0">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="104.000000" />
+                                </Child>
+                                <Child name="margin_1">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="106.000000" />
+                                </Child>
+                                <Child name="Niveau">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="111.000000" />
+                                </Child>
+                                <Child name="margin_1_0">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="180.000000" />
+                                </Child>
+                                <Child name="text_0">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="185.000000" />
+                                </Child>
+                                <Child name="margin_1_0_0">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="190.000000" />
+                                </Child>
+                                <Child name="separation_0_0">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="210.000000" />
+                                </Child>
+                                <Child name="margin_1_0_1_0">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="212.000000" />
+                                </Child>
+                                <Child name="PointsLeft">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="222.000000" />
+                                </Child>
+                                <Child name="margin_1_0_1">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="250.000000" />
+                                </Child>
+                                <Child name="next">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="260.000000" />
+                                </Child>
+                                <Child name="margin_1_0_0_0">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="288.000000" />
+                                </Child>
+                            </Child>
+                            <Child name="Tooltipbottom">
+                                <Position scale_x="0.000000" offset_x="0.000000" scale_y="0.000000" offset_y="364.000000" />
+                            </Child>
+                        </Child>
+                    </Child>
+                    <Child name="Psychologie">
+                        <Child name="Tooltip_Fake_Skill">
+                            <Child name="TooltipBackground">
+                                <Child name="margin_2">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="99.000000" />
+                                </Child>
+                                <Child name="separation_0">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="104.000000" />
+                                </Child>
+                                <Child name="margin_1">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="106.000000" />
+                                </Child>
+                                <Child name="Niveau">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="111.000000" />
+                                </Child>
+                                <Child name="margin_1_0">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="180.000000" />
+                                </Child>
+                                <Child name="text_0">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="185.000000" />
+                                </Child>
+                                <Child name="margin_1_0_0">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="190.000000" />
+                                </Child>
+                                <Child name="separation_0_0">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="210.000000" />
+                                </Child>
+                                <Child name="margin_1_0_1_0">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="212.000000" />
+                                </Child>
+                                <Child name="PointsLeft">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="222.000000" />
+                                </Child>
+                                <Child name="margin_1_0_1">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="250.000000" />
+                                </Child>
+                                <Child name="next">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="260.000000" />
+                                </Child>
+                                <Child name="margin_1_0_0_0">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="288.000000" />
+                                </Child>
+                            </Child>
+                            <Child name="Tooltipbottom">
+                                <Position scale_x="0.000000" offset_x="0.000000" scale_y="0.000000" offset_y="364.000000" />
+                            </Child>
+                        </Child>
+                    </Child>
+                    <Child name="Athletisme">
+                        <Child name="Tooltip_Fake_Skill">
+                            <Child name="TooltipBackground">
+                                <Child name="margin_2">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="99.000000" />
+                                </Child>
+                                <Child name="separation_0">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="104.000000" />
+                                </Child>
+                                <Child name="margin_1">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="106.000000" />
+                                </Child>
+                                <Child name="Niveau">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="111.000000" />
+                                </Child>
+                                <Child name="margin_1_0">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="180.000000" />
+                                </Child>
+                                <Child name="text_0">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="185.000000" />
+                                </Child>
+                                <Child name="margin_1_0_0">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="190.000000" />
+                                </Child>
+                                <Child name="separation_0_0">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="210.000000" />
+                                </Child>
+                                <Child name="margin_1_0_1_0">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="212.000000" />
+                                </Child>
+                                <Child name="PointsLeft">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="222.000000" />
+                                </Child>
+                                <Child name="margin_1_0_1">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="250.000000" />
+                                </Child>
+                                <Child name="next">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="260.000000" />
+                                </Child>
+                                <Child name="margin_1_0_0_0">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="288.000000" />
+                                </Child>
+                            </Child>
+                            <Child name="Tooltipbottom">
+                                <Position scale_x="0.000000" offset_x="0.000000" scale_y="0.000000" offset_y="364.000000" />
+                            </Child>
+                        </Child>
+                    </Child>
+                    <Child name="Rhetorique">
+                        <Child name="Tooltip_Fake_Skill">
+                            <Child name="TooltipBackground">
+                                <Child name="margin_2">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="99.000000" />
+                                </Child>
+                                <Child name="separation_0">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="104.000000" />
+                                </Child>
+                                <Child name="margin_1">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="106.000000" />
+                                </Child>
+                                <Child name="Niveau">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="111.000000" />
+                                </Child>
+                                <Child name="margin_1_0">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="180.000000" />
+                                </Child>
+                                <Child name="text_0">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="185.000000" />
+                                </Child>
+                                <Child name="margin_1_0_0">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="190.000000" />
+                                </Child>
+                                <Child name="separation_0_0">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="210.000000" />
+                                </Child>
+                                <Child name="margin_1_0_1_0">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="212.000000" />
+                                </Child>
+                                <Child name="PointsLeft">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="222.000000" />
+                                </Child>
+                                <Child name="margin_1_0_1">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="250.000000" />
+                                </Child>
+                                <Child name="next">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="260.000000" />
+                                </Child>
+                                <Child name="margin_1_0_0_0">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="288.000000" />
+                                </Child>
+                            </Child>
+                            <Child name="Tooltipbottom">
+                                <Position scale_x="0.000000" offset_x="0.000000" scale_y="0.000000" offset_y="364.000000" />
+                            </Child>
+                        </Child>
+                    </Child>
+                    <Child name="Interrogatoire">
+                        <Child name="Tooltip_Fake_Skill">
+                            <Child name="TooltipBackground">
+                                <Child name="margin_2">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="99.000000" />
+                                </Child>
+                                <Child name="separation_0">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="104.000000" />
+                                </Child>
+                                <Child name="margin_1">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="106.000000" />
+                                </Child>
+                                <Child name="Niveau">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="111.000000" />
+                                </Child>
+                                <Child name="margin_1_0">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="180.000000" />
+                                </Child>
+                                <Child name="text_0">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="185.000000" />
+                                </Child>
+                                <Child name="margin_1_0_0">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="190.000000" />
+                                </Child>
+                                <Child name="separation_0_0">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="210.000000" />
+                                </Child>
+                                <Child name="margin_1_0_1_0">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="212.000000" />
+                                </Child>
+                                <Child name="PointsLeft">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="222.000000" />
+                                </Child>
+                                <Child name="margin_1_0_1">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="250.000000" />
+                                </Child>
+                                <Child name="next">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="260.000000" />
+                                </Child>
+                                <Child name="margin_1_0_0_0">
+                                    <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="288.000000" />
+                                </Child>
+                            </Child>
+                            <Child name="Tooltipbottom">
+                                <Position scale_x="0.000000" offset_x="0.000000" scale_y="0.000000" offset_y="364.000000" />
+                            </Child>
+                        </Child>
+                    </Child>
+                </Child>
+            </Child>
+        </Child>
+    </Child>
+    <Child name="dummy" proto="Dummy">
+        <Visible value="0" />
+        <Stack value="1" />
+        <Position scale_x="0.050000" offset_x="0.000000" scale_y="1.000000" offset_y="-56.000000" />
+        <Size scale_x="-1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+        <Anchor scale_x="0.000000" offset_x="0.000000" scale_y="1.000000" offset_y="0.000000" />
+        <Child name="EffortPoints" proto="Dummy">
+            <Position scale_x="0.000000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+            <Size scale_x="-1.000000" offset_x="0.000000" scale_y="0.000000" offset_y="40.000000" />
+            <Anchor scale_x="0.000000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+            <InteractEnabled value="1" />
+            <Child name="title" proto="Label">
+                <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="7.000000" />
+                <Size scale_x="-1.000000" offset_x="0.000000" scale_y="-1.000000" offset_y="0.000000" />
+                <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+                <HorizontalAlignment value="CENTER" />
+            </Child>
+            <Child name="gauge_effort" proto="EffortGauge2">
+                <Position scale_x="0.000000" offset_x="0.000000" scale_y="0.000000" offset_y="0.000000" />
+            </Child>
+            <Child name="Tooltip" proto="TooltipBase">
+                <Child name="TitleBackground">
+                    <Child name="Title">
+                        <Text value="GUI_TOOLTIP_STAMINA_POINTS_TITLE" />
+                    </Child>
+                </Child>
+                <Child name="TooltipBackground">
+                    <Child name="text">
+                        <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="30.500000" />
+                        <Text value="GUI_TOOLTIP_STAMINA_POINTS_DESC" />
+                    </Child>
+                    <Child name="margin_0">
+                        <Position scale_x="0.000000" offset_x="0.000000" scale_y="0.000000" offset_y="46.000000" />
+                    </Child>
+                    <Child name="Footer" proto="Label">
+                        <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="73.500000" />
+                        <Size scale_x="0.900000" offset_x="0.000000" scale_y="-1.000000" offset_y="25.000000" />
+                        <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+                        <Text value="GUI_TOOLTIP_STAMINA_POINTS_JAUGE|GetCurrentEffortPoints()|GetMaxEffortPoints()" />
+                        <Color r="27" g="103" b="95" a="255" />
+                    </Child>
+                </Child>
+                <Child name="TooltipBottom">
+                    <Position scale_x="0.000000" offset_x="0.000000" scale_y="0.000000" offset_y="218.000000" />
+                </Child>
+            </Child>
+        </Child>
+        <Child name="margin_4" proto="Dummy">
+            <Position scale_x="0.000000" offset_x="330.000000" scale_y="0.000000" offset_y="0.000000" />
+            <Size scale_x="0.000000" offset_x="10.000000" scale_y="0.000000" offset_y="1.000000" />
+        </Child>
+        <Child name="Amber" proto="Ambre">
+            <Position scale_x="0.000000" offset_x="340.000000" scale_y="0.769017" offset_y="0.000000" />
+            <Anchor scale_x="0.000000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+            <InteractEnabled value="1" />
+            <Child name="Tooltip">
+                <Child name="TitleBackground">
+                    <Child name="Title" />
+                </Child>
+                <Child name="TooltipBackground">
+                    <Child name="text">
+                        <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.000000" offset_y="25.500000" />
+                    </Child>
+                    <Child name="margin_0">
+                        <Position scale_x="0.000000" offset_x="0.000000" scale_y="0.000000" offset_y="41.000000" />
+                    </Child>
+                </Child>
+                <Child name="TooltipBottom">
+                    <Position scale_x="0.000000" offset_x="0.000000" scale_y="0.000000" offset_y="341.000000" />
+                </Child>
+            </Child>
+        </Child>
+    </Child>
+    <Child name="Alterations" proto="Alterations">
+        <Position scale_x="0.000000" offset_x="86.000000" scale_y="0.158333" offset_y="0.000000" />
+    </Child>
+    <Child name="IngameNav" proto="Nav_LAST">
+        <Child name="InfoLabel">
+            <Litteral value="0" />
+            <Text value="GUI_TABS_SLOT_CHARACTERSHEET" />
+        </Child>
+        <Child name="stack">
+            <Child name="RB">
+                <Position scale_x="0.000000" offset_x="2294.000000" scale_y="0.500000" offset_y="0.000000" />
+            </Child>
+        </Child>
+    </Child>
+    <Child name="margin_1" proto="Dummy">
+        <Position scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+        <Size scale_x="0.000000" offset_x="1728.000000" scale_y="0.000000" offset_y="972.000000" />
+        <Anchor scale_x="0.500000" offset_x="0.000000" scale_y="0.500000" offset_y="0.000000" />
+        <Child name="Input_Contener" proto="Input_Contener">
+            <Position scale_x="1.000000" offset_x="0.000000" scale_y="1.000000" offset_y="0.000000" />
+        </Child>
+    </Child>
+</Layout>

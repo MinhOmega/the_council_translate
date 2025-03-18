@@ -1,58 +1,66 @@
 # File Translation Workflow
 
-This repository contains scripts to help with translating large text files while maintaining the same line count.
+This repository contains tools and scripts for translating game text files while maintaining file structure and formatting.
 
-## Scripts Overview
+## Tools Overview
 
-- `split_file.py`: Splits a file into manageable chunks for translation
+### 1. File Splitting and Combining Scripts
+Located in `/scripts/`:
+- `split_file.py`: Splits large text files into manageable chunks
 - `combine_files.py`: Combines translated chunks back into a single file
 
-## Steps to Translate
+### 2. The Council CPK Tool
+Located in `/fonts_and_textures/tools/The_Council_CPK_Tool_By_Delutto/`:
+- Tool for extracting and importing game text files from CPK archives
+- Created by Delutto (Tribo Gamer Brasil 2018)
 
-1. **Split the file into chunks**:
-   ```
-   python split_file.py <file_path> [chunk_size]
-   ```
-   For example:
-   ```
-   python split_file.py document.txt 100
-   ```
-   This will:
-   - Create a directory named after the file (without extension): `document`
-   - Split the file into chunks of 100 lines each in that directory
-   - Create a `translated_document` directory for the translated chunks
+## Translation Workflow
 
-2. **Translate each chunk**:
-   - Translate each file in the chunks directory
-   - Save the translated files with the same filenames in the translated directory
-   - Make sure to maintain the same number of lines in each translated file
+### 1. Extract Game Files
+```bash
+The_Council_CPK_Tool.exe -e Loca_en_Main_0.cpk Loca_en_Main_0_Files
+```
 
-3. **Combine the translated chunks**:
-   ```
-   python combine_files.py <folder_name> [--force]
-   ```
-   For example:
-   ```
-   python combine_files.py translated_document --force
-   ```
-   This will:
-   - Combine all translated chunks from the specified folder into a single file
-   - Remove empty lines from the combined content
-   - Verify the line count using both Python and `wc -l`
-   - Create a combined file named `<folder_name>_combined.txt`
-   - Use the `--force` flag to override an existing output file if needed
+### 2. Split Files for Translation
+```bash
+python scripts/split_file.py <file_path> [chunk_size]
+```
+Example:
+```bash
+python scripts/split_file.py document.txt 100
+```
 
-## Important Notes
+### 3. Translate Chunks
+- Translate files in the generated chunks directory
+- Save translations in the `translated_[filename]` directory
+- Maintain the same line count and formatting
 
-- **Maintain line count**: Each translated chunk must have the same number of lines as the original chunk
-- **Preserve line breaks**: Do not add or remove line breaks during translation
-- **File encoding**: All files use UTF-8 encoding
-- **Dynamic folders**: The scripts create folders based on the filename without extension
-- **Chunk size**: You can specify a custom chunk size (default is 100 lines)
+### 4. Combine Translated Chunks
+```bash
+python scripts/combine_files.py <folder_name> [--force]
+```
+Example:
+```bash
+python scripts/combine_files.py translated_document --force
+```
+
+### 5. Import Back to Game
+```bash
+The_Council_CPK_Tool.exe -i Loca_en_Main_0.cpk Loca_en_Main_0_Files
+```
+- Creates a new file: `Loca_en_Main_0.cpk.NEW`
+
+## Important Guidelines
+
+1. **Line Count**: Maintain the same number of lines between original and translated files
+2. **Formatting**: Preserve all line breaks and special formatting
+3. **File Encoding**: Use UTF-8 for all text files
+4. **Chunk Management**: Default chunk size is 100 lines, but can be customized
+5. **CPK Import**: Only modified files need to be in the folder for importing
 
 ## Troubleshooting
 
-- If a file is not found, check that the path is correct
-- If the line count doesn't match after translation, review the translated chunks
-- Use the `--force` flag with `combine_files.py` to override an existing output file
-- Ensure chunk files follow the naming convention `chunk_*.txt` for the combine script to work properly 
+- Verify file paths when files are not found
+- Check line counts if combining fails
+- Use `--force` flag to override existing combined files
+- Ensure chunk files follow the naming pattern: `chunk_*.txt`

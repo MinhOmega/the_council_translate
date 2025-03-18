@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Layout>
+    <Child name="Black" proto="Black">
+        <Position scale_x="-0.000095" offset_x="0.000000" scale_y="0.001515" offset_y="0.000000" />
+        <Color r="11" g="11" b="11" a="255" />
+    </Child>
+    <Child name="Warning" proto="Label">
+        <Position scale_x="0.212121" offset_x="0.000000" scale_y="0.307912" offset_y="0.000000" />
+        <Size scale_x="0.570513" offset_x="0.000000" scale_y="0.071011" offset_y="10.000000" />
+        <Text value="You are Louis Mauras. You have been invited to his island by a certain Lord Mortimer." />
+        <HorizontalAlignment value="CENTER" />
+        <VerticalAlignment value="CENTER" />
+    </Child>
+    <Child name="Type_a_name" proto="Label">
+        <Position scale_x="0.283996" offset_x="0.000000" scale_y="0.244949" offset_y="0.000000" />
+        <Size scale_x="0.471875" offset_x="0.000000" scale_y="0.051852" offset_y="0.000000" />
+        <Text value="January 1793, off the coast of Britain." />
+        <HorizontalAlignment value="CENTER" />
+        <VerticalAlignment value="CENTER" />
+    </Child>
+    <Child name="Disclaimer_0_0" proto="Label">
+        <Position scale_x="0.236269" offset_x="0.000000" scale_y="0.396044" offset_y="0.000000" />
+        <Size scale_x="0.542377" offset_x="0.000000" scale_y="0.059764" offset_y="0.000000" />
+        <Text value="Since your arrival, occult events and suspicious deaths have been mounting." />
+        <HorizontalAlignment value="CENTER" />
+        <VerticalAlignment value="CENTER" />
+    </Child>
+    <Child name="Disclaimer_0_0_0" proto="Label">
+        <Position scale_x="0.210511" offset_x="0.000000" scale_y="0.458165" offset_y="0.000000" />
+        <Size scale_x="0.599006" offset_x="0.000000" scale_y="0.070286" offset_y="0.000000" />
+        <Text value="Now, the head of the Spanish government, Duke Manuel Godoy, is about to leave the island." />
+        <HorizontalAlignment value="CENTER" />
+        <VerticalAlignment value="CENTER" />
+    </Child>
+    <Child name="Disclaimer_0_0_0_0" proto="Label">
+        <Position scale_x="0.211458" offset_x="0.000000" scale_y="0.542340" offset_y="0.000000" />
+        <Size scale_x="0.599006" offset_x="0.000000" scale_y="0.070286" offset_y="0.000000" />
+        <Text value="Before he leaves, Lord Mortimer has asked you to convince him of the importance of selling Louisiana, currently Spanish territory, to France." />
+        <HorizontalAlignment value="CENTER" />
+        <VerticalAlignment value="CENTER" />
+    </Child>
+    <Child name="Disclaimer_0_0_0_0_0" proto="Label">
+        <Position scale_x="0.212405" offset_x="0.000000" scale_y="0.623148" offset_y="0.000000" />
+        <Size scale_x="0.599006" offset_x="0.000000" scale_y="0.070286" offset_y="0.000000" />
+        <Text value="So you are now searching for Duke Manuel, upstairs in the guest quarters." />
+        <HorizontalAlignment value="CENTER" />
+        <VerticalAlignment value="CENTER" />
+    </Child>
+    <Child name="Input_Contener" proto="Input_Contener">
+        <Position scale_x="1.000000" offset_x="-96.000000" scale_y="1.000000" offset_y="-54.000000" />
+    </Child>
+</Layout>
